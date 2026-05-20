@@ -1,0 +1,13 @@
+{{Opmaak
+| Titel = Visualisatie
+| Object = Boek
+| Bron = P_Psychology2.png
+| Definitie = {{Wp|Visualisatie|Visualisatie}} is een mentale voorstelling (beeld, maar ook geluid, tast en geur) van een bepaalde situatie maken.
+| Beschrijving = '''Kennisvisualisatie''' is een techniek om [[Onbewust leren|bewust onbewust te leren]].<br>Tijdens het visualiseren, oriënteert men zich ook in het hoofd op een gewenste resultaat en het proces daartoe.<br>Ook al laat men het daarbij, dan zal toch het onbewuste op de achtergrond aan het werk gaan en het voorgestelde leerproces uitvoeren.<br>'''Informatievisualisatie''' is een techniek om gegevens visueel te presenteren.
+| Formaat = html
+| Voortgang = 50
+| Support = Signaleer
+| Referentie = wikipedia
+| Collectie = Zelftherapie
+| Onderdeel = Concept, Methode, Toepassing
+}}

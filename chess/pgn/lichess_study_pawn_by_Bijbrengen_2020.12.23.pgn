@@ -1,0 +1,569 @@
+[Event "Pawn: Default breakthrough"]
+[Date "2020.12.25"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Pawn"]
+[ChapterName "Default breakthrough"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/cxnUC086"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[FEN "8/ppp5/8/PPP5/6k1/8/6K1/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.12.25"]
+[UTCTime "17:04:07"]
+
+1. b6 (1. c6 bxc6 2. bxc6 Kf5 3. Kf3 Ke6 4. Ke4 Kd6 $19) 1... cxb6 (1... axb6 2. c6 bxc6 3. a6 $18) 2. a6 bxa6 (2... bxc5 3. axb7 $18) 3. c6 $18 *
+
+
+[Event "Pawn: Glasgow Weekly Citizen - 1895 - Van Saveedra"]
+[Date "2020.12.23"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Pawn"]
+[ChapterName "Glasgow Weekly Citizen - 1895 - Van Saveedra"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/NbaujBcw"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[FEN "8/8/1KP5/3r4/8/8/8/k7 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.12.23"]
+[UTCTime "21:42:46"]
+
+1. c7 Rd6+ 2. Kb5 (2. Kb7 Rd7 3. Kb6 Rxc7 4. Kxc7 $10) (2. Kc5 Rd1 3. Kc6 Kb2 4. c8=Q Rc1+ 5. Kb7 Rxc8 6. Kxc8) 2... Rd5+ 3. Kb4 Rd4+ 4. Kb3 Rd3+ 5. Kc2 Rd4 6. c8=R (6. c8=Q Rc4+ 7. Qxc4 $10) 6... Ra4 7. Kb3 *
+
+
+[Event "Pawn: Theorie und Praxis der Endspiele - 1890 - J. Berger"]
+[Date "2020.12.24"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Pawn"]
+[ChapterName "Theorie und Praxis der Endspiele - 1890 - J. Berger"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/PyQSpmhZ"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[FEN "1k6/8/p5p1/6p1/6P1/5P1P/6PK/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.12.24"]
+[UTCTime "10:16:34"]
+
+1. f4 Kc7 (1... a5 2. f5 gxf5 3. h4 a4 4. hxg5 a3 5. g6 a2 6. g7 a1=Q 7. g8=Q+ Kc7 8. gxf5 Qf6 9. Qc4+) (1... gxf4 2. h4 a5 3. h5 a4 4. hxg6 a3 5. g7 a2 6. g8=Q+ Kc7 7. Qxa2) 2. fxg5 a5 3. Kg3 a4 4. Kh4 a3 5. g3 a2 *
+
+
+[Event "Pawn: Birnov 2008 - Y. Afek"]
+[Date "2020.12.25"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Pawn"]
+[ChapterName "Birnov 2008 - Y. Afek"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/WePhOUqt"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[FEN "4K1n1/8/3p3P/8/8/6kP/P7/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.12.25"]
+[UTCTime "17:30:00"]
+
+1. h7 (1. Kd7 Nxh6 2. Kxd6 Nf7+ 3. Kc5 Nd8 4. Kb6 Nf7 5. Kc6 Ne5+ 6. Kb5 Nf3 7. Kc5 Nd2 8. Kb4 Nf3 9. Kb5 Kh4 10. Kc5 Nd2 11. Kb4 Nf3 12. Kc5 Nd2 13. Kb4 Nf3 $10) (1. a4 d5 2. a5 d4 3. a6 d3 4. h7 Nf6+ 5. Ke7 Nxh7 6. a7 d2 7. a8=Q d1=Q 8. Qg8+ Kxh3 9. Qxh7+ $10) 1... Nf6+ 2. Ke7 Nxh7 3. Kxd6 Ng5 4. h4 (4. a4 Nf3 5. Kd5 Nh4 6. a5 Nf5 7. Kc6 Nd4+ 8. Kb6 Nf5 9. Kc7 Nd4 10. Kb6 Nf5 11. a6 Nd6 12. Kc6 Nc8 13. Kb7 Nd6+ 14. Kc7 Nb5+ 15. Kc6 Na7+ 16. Kb7 Nb5 17. Kc6 Na7+ 18. Kb7 Nb5 19. Kb6 Nd6 20. Kc6 Nc8 21. h4 Kxh4 22. Kb7 Nd6+ 23. Kc7 Nb5+) 4... Kxh4 5. a4 Ne4+ 6. Kc6 Nf2 7. a5 Nd3 8. Kb5 Kg5 9. a6 Kf6 10. a7 Ke5 11. a8=Q *
+
+
+[Event "Pawn: Molodost Gruzzi, 1970 - David Goergenidze"]
+[Date "2020.12.27"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Pawn"]
+[ChapterName "Molodost Gruzzi, 1970 - David Goergenidze"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/Gp0IzF6u"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[FEN "1k2b3/4p1rP/1P1pK1P1/1Pp2P2/Rp2P3/p2P4/2P5/b7 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.12.27"]
+[UTCTime "12:29:26"]
+
+1. Ra8+ (1. Ra7 Rxg6+ 2. fxg6 Bxg6 3. Kxe7 Be5 4. Ke6 Bh5 5. Kf5 Bh8 6. Ke6 Be5 7. Kd7 Bg6 8. h8=R+ Bxh8 9. Kxd6 Bd4 10. e5 Be8 11. Ke6 Bxb5 12. Kd5 Be3 13. e6 Be8 14. Re7 Bb5 15. Rf7 Bd4 16. Ra7 Be8 17. e7 Bf7+ 18. Kc6 Be8+ 19. Kd5 Bf2 20. Kc4 Bf7+ 21. Kb5 Be8+ 22. Kc4 Bf7+ 23. Kb5 Be3 24. Ka6 a2 25. Rb7+ Ka8 26. Ra7+ Kb8 27. Rb7+ Kc8 28. Rc7+ Kb8 29. Rb7+ Ka8 30. Ra7+ Kb8 31. Rb7+ Kc8 32. Rc7+ Kb8) (1. h8=Q Rxg6+ 2. fxg6 (2. f6 Rxf6+ 3. Kxe7) 2... Bxh8 3. Kxe7 Bxg6) 1... Kb7 (1... Kxa8 2. h8=Q Rxg6+ 3. f6 Rxf6+ 4. Kd5 Rf5+ 5. e5 Kb7 (5... Rxe5+ 6. Kc4 Re4+ 7. d4 Rxd4+ 8. Kb3 Rd3+ 9. c3 Rxc3+ 10. Ka4 Rc4 11. Qxe8+)) 2. Rb8+ Kxb8 3. h8=Q Rxg6+ 4. f6 Rxf6+ 5. Kd5 Rf5+ 6. e5 Rxe5+ 7. Kc4 Re4+ 8. d4 Rxd4+ 9. Kb3 Rd3+ 10. c3 Rxc3+ 11. Ka4 Kb7 (11... Re3 12. Qxe8+) *
+
+
+[Event "Pawn: Combat, 1954 - Van Vitaly Halberstadt"]
+[Date "2020.12.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Pawn"]
+[ChapterName "Combat, 1954 - Van Vitaly Halberstadt"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/piePamnv"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[FEN "5RBB/6P1/2q5/8/8/2k5/8/2K5 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.12.28"]
+[UTCTime "07:01:49"]
+
+1. Rc8 (1. Bd5 Qh6+) 1... Qxc8 (1... Kd4+ 2. Rxc6 Kd3) 2. Be6 Qxe6 3. g8=B+ (3. g8=Q+ Kd3 4. Qxe6) *
+
+
+[Event "Pawn: Nagy-Bologh, Boedapest 1948"]
+[Date "2020.12.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Pawn"]
+[ChapterName "Nagy-Bologh, Boedapest 1948"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/FDGceqzH"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[FEN "r1b1kb1r/pp1p1ppp/2n3n1/q2QP3/1p2P3/5NB1/P1P2PPP/RN2KB1R b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.12.28"]
+[UTCTime "07:42:51"]
+
+1... b3+ 2. Qxa5 (2. Nbd2 Qc3 3. Rc1 Ba3 4. Qxb3) 2... b2 3. Qc3 Bb4 4. Qxb4 Nxb4 *
+
+
+[Event "Pawn: Skakbladet, 1916 - Van Niels Hoeg"]
+[Date "2021.01.09"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Pawn"]
+[ChapterName "Skakbladet, 1916 - Van Niels Hoeg"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/HaxNZpZA"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[FEN "8/3Kp3/5k2/8/3P4/8/8/B7 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.01.09"]
+[UTCTime "20:08:20"]
+
+1. d5+ e5 2. dxe6+ *
+
+
+[Event "Pawn: Chess review, 1922 - T.R. Dawson"]
+[Date "2021.01.10"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Pawn"]
+[ChapterName "Chess review, 1922 - T.R. Dawson"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/vTnaLNvh"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[FEN "K1k5/P1Pp4/1p1P4/8/p7/P2P4/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.01.10"]
+[UTCTime "07:04:10"]
+
+1. d4 b5 2. d5 b4 3. axb4 a3 4. b5 a2 5. b6 a1=Q 6. b7# *
+
+
+[Event "Pawn: Gligoric - Sanchez, Stockholm 1952"]
+[Date "2021.01.10"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Pawn"]
+[ChapterName "Gligoric - Sanchez, Stockholm 1952"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/JbXN2CP3"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[FEN "3k4/1r4p1/1p3p2/p1pPrP1p/P1P1PK2/7P/4R3/1R6 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.01.10"]
+[UTCTime "10:21:00"]
+
+1. d6 Kd7 2. Reb2 Kxd6 3. Rxb6+ Rxb6 4. Rxb6+ Kc7 5. Ra6 Kb7 6. Rxa5 *
+
+
+[Event "Pawn: Shakhmaty v SSSR, 1955 - Vitold Yakimchik"]
+[Date "2021.01.15"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Pawn"]
+[ChapterName "Shakhmaty v SSSR, 1955 - Vitold Yakimchik"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/5oXKBKaO"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[FEN "8/8/8/P3P3/1n6/8/3P4/K1n3k1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.01.15"]
+[UTCTime "06:48:08"]
+
+1. e6 (1. Kb2 Nc6 2. Kxc1 Nxa5 3. e6 Nc6 4. d4 Ne7 5. Kc2 Kf2 6. Kd3 Kf3 7. Kc4 Ke4 8. Kc5 Nd5 $10) 1... Nc6 2. a6 Nd3 (2... Nb3+ 3. Ka2 Nxd2 (3... Nc5 4. a7 Nxa7 5. e7 Nd3 6. e8=Q Nc6 7. Qe3+ Kg2 8. Kb3 Nde5 9. Kc3 Nf3 10. Kd3 Kg3 11. Ke4 Nd4 12. Qxd4 Nxd4 13. Kxd4 Kf4 14. Kd5 Kf5 15. d4 Kf6 16. Kd6 Kf7 17. d5 Ke8 18. Kc7 Ke7 19. d6+ Ke6 20. d7 Kf5 21. d8=Q $18) 4. a7 Nxa7 5. e7 Nb5 6. e8=Q Ne4 7. Kb2) 3. e7 (3. a7 Nxa7 4. e7 Nc6 5. e8=Q Ncb4 6. Qf7 Kg2 7. Qf5 Kg3 8. Qf1 Kg4 9. Qf8 Kg3 10. Qf5 Kg2 $10) 3... Nxe7 4. a7 Nd5 5. a8=Q N5b4 6. Qf3 Kh2 7. Qg4 Kh1 8. Qg3 *
+
+
+[Event "Pawn: The Problemist, 2007 - Van Gady Costeff"]
+[Date "2021.01.17"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Pawn"]
+[ChapterName "The Problemist, 2007 - Van Gady Costeff"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/64iuUARl"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[FEN "8/7p/7P/3p3p/4P2P/8/p3PPp1/R3K2k w Q - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.01.17"]
+[UTCTime "16:04:32"]
+
+1. O-O-O+ g1=Q 2. Rxg1+ Kxg1 3. Kb2 dxe4 4. f4 exf3 5. exf3 Kg2 6. f4 Kg3 7. f5 Kg4 8. f6 Kf5 9. f7 Kf6 10. f8=Q+ (10. f8=R+ Kg6) 10... Ke5 11. Qf7 Kd4 12. Qxh7 a1=Q+ 13. Kxa1 Ke5 14. Qf7 Ke4 15. h7 Ke3 16. h8=Q Ke4 *
+
+
+[Event "Pawn: Parallele 50, 1948 - Van Walter Jörgensen"]
+[Date "2021.01.19"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Pawn"]
+[ChapterName "Parallele 50, 1948 - Van Walter Jörgensen"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/MrqIRBVH"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[FEN "4N3/3Bpp1Q/6N1/4P1k1/8/2K2b1p/5PPP/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.01.19"]
+[UTCTime "21:10:04"]
+
+1. Be6 fxe6 (1... fxg6 2. g3 Bh5 3. f4#) (1... f6 2. g4 Bxg4 3. f4#) (1... f5 2. gxh3 f4 3. h4#) 2. gxf3 Kf5 3. Qh5# *
+
+
+[Event "Pawn: Andersson - Velimirovic, Bar 1197"]
+[Date "2021.02.07"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C15"]
+[Opening "French Defense: Winawer Variation, Alekhine-Maróczy Gambit"]
+[StudyName "Pawn"]
+[ChapterName "Andersson - Velimirovic, Bar 1197"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/iAKv2arq"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.07"]
+[UTCTime "10:13:17"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Be7 6. Nxe4 Nc6 7. g3 Nf6 8. Bg2 e5 9. Nxf6+ Bxf6 10. d5 Ne7 11. Nc3 Bf5? 12. g4 Bg6 13. g5 *
+
+
+[Event "Pawn: Shuster-Karls, Bremen 1914"]
+[Date "2021.02.07"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Main Line"]
+[StudyName "Pawn"]
+[ChapterName "Shuster-Karls, Bremen 1914"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/UTrsSXuS"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.07"]
+[UTCTime "11:45:29"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 h5 6. Bg5 h4 7. Bxf6 hxg3 8. Be5 Rxh2 9. Rxh2 Qa5+ 10. c3 Qxe5+ 11. dxe5 gxh2 *
+
+
+[Event "Pawn: Rosentreter-Hofer, Berlijn 1899"]
+[Date "2021.02.07"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C54"]
+[Opening "Italian Game: Giuoco Piano, Rosentreter Variation"]
+[StudyName "Pawn"]
+[ChapterName "Rosentreter-Hofer, Berlijn 1899"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/uzEG1o03"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.07"]
+[UTCTime "11:50:05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d4 Bxd4 6. Nxd4 Nxd4 7. Bg5 h6 8. Bh4 g5 9. f4 gxf4 10. Rxf4 exf4 11. Qxd4 O-O 12. Bxf6 Qe8 13. Bh8 Qe5 14. Qxe5 f3 15. Qg7# *
+
+
+[Event "Pawn: Weinberger-Litterman, Montpellier 1967"]
+[Date "2021.02.07"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C52"]
+[Opening "Italian Game: Evans Gambit, Slow Variation"]
+[StudyName "Pawn"]
+[ChapterName "Weinberger-Litterman, Montpellier 1967"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/rYRt3tZr"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.07"]
+[UTCTime "11:55:23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. O-O Nf6 7. d4 d6 8. Qa4 Bd7 9. d5 Nd4 10. Qxa5 Nc2 11. Bg5 a6 12. Bxf6 gxf6 13. Bd3 b6 *
+
+
+[Event "Pawn: Andersen-Langa, Breslau 1859"]
+[Date "2021.02.07"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C61"]
+[Opening "Ruy Lopez: Bird Variation"]
+[StudyName "Pawn"]
+[ChapterName "Andersen-Langa, Breslau 1859"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/lWAuYlZo"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.07"]
+[UTCTime "12:02:12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. Bc4 Nf6 6. e5 d5 7. Bb3 Bg4 8. f3 Ne4 9. O-O d3 10. fxg4 Bc5+ 11. Kh1 Ng3+ 12. hxg3 Qg5 13. Rf5 h5 *
+
+
+[Event "Pawn: Torre - Edward Lasker, Chicago 1926"]
+[Date "2021.02.07"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A09"]
+[Opening "Réti Opening: Réti Accepted"]
+[StudyName "Pawn"]
+[ChapterName "Torre - Edward Lasker, Chicago 1926"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/k1spoGOU"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.07"]
+[UTCTime "12:17:15"]
+
+1. Nf3 d5 2. c4 dxc4 3. Na3 e5 4. Nxe5 Bxa3 5. Qa4+ b5 6. Qxa3 Nf6 7. b3 Qd6 8. Bb2?? c3 *
+
+
+[Event "Pawn: Schlechter-Perlis, Karlsbad 1911"]
+[Date "2021.02.07"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "D11"]
+[Opening "Slav Defense: Modern Line"]
+[StudyName "Pawn"]
+[ChapterName "Schlechter-Perlis, Karlsbad 1911"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/dGd7m9TC"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.07"]
+[UTCTime "12:20:50"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Bf5 4. Qb3 Qb6 5. cxd5 Qxb3 6. axb3 Bxb1 7. dxc6 Be4 8. Rxa7 Rxa7 9. c7 Nc6 10. c8=Q+ Nd8 *
+
+
+[Event "Pawn: Gual Pascual - Garbarino, Spanje 1992"]
+[Date "2021.02.07"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Pawn"]
+[ChapterName "Gual Pascual - Garbarino, Spanje 1992"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/NKcWWP3X"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[FEN "4rrk1/pN1p2pp/np6/b1pP4/2P2p1q/P7/1P1BBPPn/1R1QKN1R w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.02.07"]
+[UTCTime "13:02:40"]
+
+ *
+
+
+[Event "Import"]
+[Site "https://lichess.org/B2jS6vFI"]
+[Date "2021.02.07"]
+[White "Gual Pascual, Antonio (2330)"]
+[Black "Garbarino, Rodolfo (2365)"]
+[Result "0-1"]
+[TimeControl "-"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "E44"]
+[Opening "Nimzo-Indian Defense: St. Petersburg Variation, Romanishin–Psakhis Variation"]
+[StudyName "Pawn"]
+[ChapterName "Gual Pascual, Antonio (2330) - Garbarino, Rodolfo (2365)"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/OrrCa42w"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 c5 6. a3 Ba5 7. Rb1 Na6 8. Bd2 O-O 9. d5 Bb7 10. e4 exd5 11. exd5 Ng4 12. Ng3 Qh4 13. Be2 Rae8 14. Nce4 Nxh2 15. Nd6 f5 16. Nxb7 f4 17. Nf1 f3 (17... Nf3+ 18. gxf3 Bxd2+ 19. Kxd2 Qxh1) 18. Rxh2 (18. gxf3 Nxf3#) (18. Nxh2 fxe2 19. Qc2 Qxf2#) 18... Qxh2 19. Nxh2 fxg2 20. Bxa5 g1=Q+ { 0-1 White resigns. } 0-1
+
+
+[Event "Pawn: Ostapenko - Koerkin, Rusland 1970"]
+[Date "2021.02.07"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Pawn"]
+[ChapterName "Ostapenko - Koerkin, Rusland 1970"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/e0Y9QiLX"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[FEN "r1r3k1/p3bppp/2bp3Q/q2pP1P1/1p1BP3/8/PPP1B2P/2KR2R1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.02.07"]
+[UTCTime "13:51:25"]
+
+1. e6 gxh6 (1... Bf8 2. exf7+ Kxf7 3. Rdf1+ Ke7 4. Bxg7) 2. gxh6+ Kf8 3. Rdf1 Bg5+ (3... f6 4. Rg7 Be8 5. Bxf6 Rxc2+ 6. Kxc2 Bf7 7. Rxf7+ Ke8 8. Rxe7+ Kd8 9. Rxh7+) 4. Rxg5 Rc7 5. Bg7+ Ke8 6. exf7+ Kd7 7. Bg4+ Ke7 8. Bf6+ Kf8 9. Rg8+ Kxf7 10. Rg7+ *
+
+
+[Event "Pawn: Fuentes - Hernandez Carsillias, Havana 2002"]
+[Date "2021.02.07"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Pawn"]
+[ChapterName "Fuentes - Hernandez Carsillias, Havana 2002"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/926077rJ"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[FEN "1r5r/5qk1/4p1p1/1p2RpRp/p1pP1P1Q/P1PbB2P/1P4PK/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.02.07"]
+[UTCTime "14:00:25"]
+
+1. d5 exd5 (1... Rhe8 2. Bd4 Kh7 3. g4 fxg4 4. Rxh5+ gxh5 5. Rxh5+ Qxh5 (5... Kg8 6. Rh8#) 6. Qxh5+) 2. Bd4 Kg8 3. Re7 Qxe7 4. Rxg6+ Kf8 5. Bc5 Qxc5 6. Qf6+ Ke8 7. Rg7 *
+
+
+[Event "Pawn: Jan Knoppel, Scandinavisch kampioenschap 1967"]
+[Date "2021.02.07"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Pawn"]
+[ChapterName "Jan Knoppel, Scandinavisch kampioenschap 1967"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/7Ph6UZbz"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[FEN "8/8/4k3/2p3p1/4K3/2P3P1/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.02.07"]
+[UTCTime "19:30:16"]
+
+1. c4 Kf6 2. Kd5 Kf5 3. Kxc5 Kg4 4. Kd4 Kxg3 5. c5 g4 6. c6 Kf2 7. c7 g3 8. c8=Q g2 9. Qf5+ *
+
+
+[Event "Belgrade Investbank"]
+[Site "Belgrade SRB"]
+[Date "1997.11.16"]
+[Round "5"]
+[White "Boris Gelfand"]
+[Black "Joel Lautier"]
+[Result "1-0"]
+[WhiteElo "2695"]
+[BlackElo "2660"]
+[Variant "Standard"]
+[ECO "D27"]
+[Opening "Queen's Gambit Accepted: Classical Defense, Russian Gambit"]
+[StudyName "Pawn"]
+[ChapterName "Boris Gelfand - Joel Lautier"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/2QABO4gx"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. d4 d5 2. Nf3 e6 3. c4 dxc4 4. e3 Nf6 5. Bxc4 c5 6. O-O a6 7. e4 Nxe4 8. d5 Be7 9. Re1 exd5 10. Qxd5 Nd6 11. Bd3 O-O 12. Bf4 Nf5 13. Nc3 Bf6 14. Bxf5 Qxd5 15. Bxh7+ Kxh7 16. Nxd5 Nd7 17. Bd6 Rd8 18. Nxf6+ Nxf6 19. Bxc5 Bg4 20. Be7 Rd7 21. Ng5+ Kg6 22. Bxf6 Kxf6 23. Ne4+ Kg6 24. f3 Bf5 25. Rad1 Rad8 26. Rxd7 Rxd7 27. Kf2 b6 28. Re2 Rd3 29. Re3 Rd4 30. Rb3 b5 31. Ke3 Rc4 32. Rc3 Rb4 33. b3 Be6 34. g4 a5 35. f4 Bd5 36. Nd2 a4 37. a3 Rxb3 38. Nxb3 axb3 39. Rc5 Bc4 { Wrong move. black does not see he can win by promotion and playing b4 } (39... b4 40. axb4 b2 $19) 40. Kd2 { 1-0 Black resigns. } 1-0
+
+
+[Event "Lake Sevan"]
+[Site "Martuni ARM"]
+[Date "2008.07.12"]
+[Round "2"]
+[White "Arman Pashikian"]
+[Black "Georg Meier"]
+[Result "1-0"]
+[WhiteElo "2564"]
+[BlackElo "2556"]
+[Variant "Standard"]
+[ECO "E04"]
+[Opening "Catalan Opening: Open Defense"]
+[StudyName "Pawn"]
+[ChapterName "Arman Pashikian - Georg Meier"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/bLPTw8xK"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. g3 dxc4 5. Bg2 c6 6. a4 c5 7. O-O Nc6 8. dxc5 Bxc5 9. Nbd2 c3 10. bxc3 e5 11. a5 O-O 12. Qa4 Qc7 13. Ng5 Bd7 14. Nde4 Be7 15. Nxf6+ Bxf6 16. a6 b6 17. Rd1 Rac8 18. Rxd7 Qxd7 19. Bh3 Qd5 20. Bxc8 Rxc8 21. Ne4 Be7 22. Ba3 Bxa3 { Wrong move when played b5 black gets a winning position. } (22... b5 23. Qc2 Bxa3 24. Rxa3 f5 25. Ng5 Nd4! 26. Qb2 b4 27. Qxb4 Nxe2+ 28. Kf1 Qd1+ 29. Kg2 Qg1+) 23. Nf6+ gxf6 24. Qg4+ Kf8 25. Qxc8+ Ke7 26. Rxa3 Qd1+ 27. Kg2 Qd5+ 28. f3 Qc4 29. Kf1 h5 30. Ra1 { 1-0 Black resigns. } 1-0
+
+
+[Event "Lone Pine"]
+[Site "Lone Pine, CA USA"]
+[Date "1977.03.23"]
+[Round "4"]
+[White "Norman Weinstein"]
+[Black "Michael Rohde"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "C09"]
+[Opening "French Defense: Tarrasch Variation, Open System, Main Line"]
+[StudyName "Pawn"]
+[ChapterName "Norman Weinstein - Michael Rohde"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/crhPmeZF"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Bb5 Bd6 7. dxc5 Bxc5 8. O-O Ne7 9. Nb3 Bd6 10. Bg5 O-O 11. c3 Qc7 12. Bh4 Nf5 13. Bg3 Nxg3 14. hxg3 Qb6 15. Bd3 g6 16. Qd2 Ne5 17. Nxe5 Bxe5 18. Qg5 Qf6 19. Qxf6 Bxf6 20. Be2 Bf5 21. Bf3 Rad8 22. Rfd1 Rfe8 23. Kf1 Be4 24. Bxe4 dxe4 25. Rxd8 Bxd8 26. Rd1 Bg5 27. Rd7 Re7 28. Rxe7 Bxe7 29. Na5 b5 30. Nc6 Bc5 31. b4 Bb6 32. Ne7+ Kf8 33. Nc8 f5 34. Ke2 h5 35. Nxb6 axb6 36. Ke3 Ke7 37. Kd4 Kd6 38. c4 bxc4 39. a4 g5 40. Kxc4 h4 (40... f4 41. gxf4 (41. a5 bxa5 42. bxa5 h4 43. gxh4 gxh4 44. Kd4 f3) 41... gxf4 42. Kd4 e3 43. fxe3 f3 44. gxf3 h4) 41. gxh4 gxh4 42. Kd4 Ke6 43. a5 bxa5 44. bxa5 Kd6 45. a6 Kc6 46. Ke5 Kb6 47. Kxf5 Kxa6 48. Kxe4 { 1-0 Black resigns. } 1-0
+
+
+[Event "Essent Tournament"]
+[Site "Hoogeveen NED"]
+[Date "2006.10.28"]
+[Round "6"]
+[White "Shakhriyar Mamedyarov"]
+[Black "Ivan Sokolov"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "D10"]
+[Opening "Slav Defense"]
+[StudyName "Pawn"]
+[ChapterName "Shakhriyar Mamedyarov - Ivan Sokolov"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/YsVYac68"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. d4 d5 2. c4 c6 3. e3 Bf5 4. Nc3 e6 5. Nf3 Nd7 6. Bd3 Bxd3 7. Qxd3 Ngf6 8. O-O Be7 9. e4 O-O 10. cxd5 exd5 11. exd5 cxd5 12. Ne5 Bd6 13. Re1 Re8 14. Bf4 Bb4 15. Re2 Qa5 16. Nd1 Nf8 17. Ne3 Ng6 18. Nxg6 hxg6 19. a3 Rac8 20. Be5 Nd7 21. Qb3 Qa6 22. Rc2 Rxc2 23. Nxc2 Bf8 24. Bg3 Qb6 25. Qc3 Nf6 26. f3 Re6 27. Ne3 Rc6 28. Qd2 Qb3 29. Rc1 Rxc1+ 30. Qxc1 Qd3 31. Be5 Nd7 32. Qc3 Nxe5 33. dxe5 Qxc3 34. bxc3 Bc5 35. Kf2 d4 36. cxd4 Bxd4 37. f4 b5 38. Ke2 Bc5 39. Nc2 Kf8 40. Kd3 a5 41. Ke4 Bg1 42. h3 Ke7 43. Kd5 Kd7 44. g4 Bf2 45. Nd4 Bxd4 46. Kxd4 Kc6 47. h4 b4 48. axb4 axb4 49. Kc4? (49. f5 gxf5 50. gxf5 b3 51. Kc3 Kd5 52. e6 fxe6 53. f6 gxf6 54. h5) 49... b3 50. Kxb3 Kd5 51. g5 Ke6 52. Kc4 Ke7 53. Kb5 f6? (53... Ke6 54. Kc4 Ke7 55. Kd5 Kd7 56. Ke4 Ke6 57. Kf3 Ke7 58. Kg4 Ke6 59. h5 gxh5+ 60. Kxh5 Kf5 61. Kh4 g6 62. Kg3 Ke4 63. Kg4 Kd5 64. Kh3 Kd4) 54. gxf6+ gxf6 55. Kc5 Ke6 56. Kd4 Kd7 57. Kd5 Ke7 58. e6 Kd8 59. Kd6 Ke8 60. e7 { 1-0 Black resigns. } 1-0
+
+
+[Event "Bazna Tournament"]
+[Site "Bazna ROM"]
+[Date "2009.06.24"]
+[Round "9"]
+[White "Boris Gelfand"]
+[Black "Alexey Shirov"]
+[Result "1/2-1/2"]
+[WhiteElo "2733"]
+[BlackElo "2745"]
+[Variant "Standard"]
+[ECO "A16"]
+[Opening "English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation"]
+[StudyName "Pawn"]
+[ChapterName "Boris Gelfand - Alexey Shirov"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/QDRR0YMf"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. g3 Bg7 6. Bg2 O-O 7. O-O c5 8. Nxd5 Qxd5 9. d4 cxd4 10. Be3 Rd8 11. Nxd4 Qh5 12. Qc2 Bxd4 13. Bxd4 Nc6 14. Bc3 Bh3 15. Bxc6 bxc6 16. Rfd1 Qf5 17. Qxf5 Bxf5 18. Bb4 Kf8 19. Rdc1 a5 20. Ba3 Rd2 21. Kf1 Rc2 22. f3 Rxc1+ 23. Rxc1 Ra6 24. Bc5 Be6 25. a3 Ke8 26. g4 Ra8 27. Bd4 Rd8 28. Bb6 Rb8 29. Bxa5 Rxb2 30. Rxc6 Bd7 31. Rc3 Bb5 32. Re3 Kd7 33. Bb4 e6 34. g5 Kc6 35. Re5 Rc2 36. Kf2 Ba6 37. Be7 Bb5 38. Bf8 Kb6 39. Bb4 Kc6 40. h4 Ba6 41. Bf8 Bb5 42. Be7 Kb6 43. Re4 Rc4 44. Rxc4 Bxc4 45. e4 Bb3 46. Ke3 Bd1 47. f4 Bc2 48. Kd4 Kc6 49. Ke5 Kd7 50. Kf6 Ke8 51. e5 Bb3 52. Bb4 Bc2 53. Kg7 Ba4 54. Kxh7 Bc2 55. Kg7 Bb3 56. Kf6 Bc2 57. Bd6 Bb3 58. a4? (58. f5 exf5 59. e6 Bxe6 60. h5 gxh5 61. g6 fxg6 62. Kxe6 Kd8 63. Kd5 Kc8 64. Kc6 g5 65. a4 f4 66. a5 f3 67. a6 f2 68. a7 f1=Q 69. a8=Q#) 58... Bxa4 59. f5 Bc2 60. fxe6 fxe6 61. Kxe6 Bb3+ 62. Kf6 Bc2 63. e6 Bd3 64. Bg3 Bc2 65. h5 gxh5 66. g6 Bd3 67. Bh4 Kf8 68. e7+ Ke8 69. Kg7 Bc2 70. Kh6 Bb3 71. Kxh5 { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "Linares"]
+[Site "Linares ESP"]
+[Date "1990.02.23"]
+[Round "5"]
+[White "Artur Yusupov"]
+[Black "Garry Kasparov"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "E69"]
+[Opening "King's Indian Defense: Fianchetto Variation, Classical Main Line"]
+[StudyName "Pawn"]
+[ChapterName "Artur Yusupov - Garry Kasparov"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/oln8dVd5"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. d4 d6 6. O-O Nbd7 7. Nc3 e5 8. h3 c6 9. e4 Qb6 10. c5 dxc5 11. dxe5 Ne8 12. Na4 Qa6 13. Bf4 Nc7 14. Qc2 Ne6 15. Rfd1 Re8 16. Rd6 Qa5 17. Rad1 Nb6 18. Nxb6 axb6 19. a3 Qa4 20. Qe2 b5 21. Qe3 b4 22. axb4 Qxb4 23. R6d2 Ra2 24. Rb1 c4 25. Rc2 b5 26. Bh6 Qc5 27. Qc1 Nd4 28. Bxg7 Kxg7 29. Nxd4 Qxd4 30. b3 Rxc2 31. Qxc2 c3 32. Rd1 Qc5 33. b4 Qxb4 34. Rd3 c5 35. Rxc3 c4 36. f4 Qc5+ 37. Kh2 Qd4 38. Rf3 b4 39. Qa4 c3 40. Rxc3 Bd7 41. Rc4 Bxa4 42. Rxd4 Rb8 43. Bf1 Bc2 44. Bc4 b3 45. Bxb3 Rxb3 46. g4 Re3 47. f5 gxf5 48. exf5 Rxe5 49. Rd2 Ba4 50. Kg3 Re3+ 51. Kh4 Bb5 52. Rd5 Bd3 53. Rc5 h6 54. Rc3 Rf3 55. Rb3 Be2 56. Rb2 Bf1 57. Rh2 Kf6 58. Rh1 Ke5 59. Rh2 f6 60. Rh1 Ke4 61. Rh2 Kf4 62. Rh1 Bg2 63. Rh2 Rg3 { 0-1 White resigns. } 0-1
+
+
+[Event "Petrosian - Spassky World Championship Match"]
+[Site "Moscow URS"]
+[Date "1969.06.04"]
+[Round "19"]
+[White "Boris Spassky"]
+[Black "Tigran Vartanovich Petrosian"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B94"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[StudyName "Pawn"]
+[ChapterName "Boris Spassky - Tigran Vartanovich Petrosian"]
+[ChapterURL "https://lichess.org/study/FcqUh0k4/tXQyTXAI"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Qa5 8. Qd2 h6 9. Bxf6 Nxf6 10. O-O-O e6 11. Rhe1 Be7 12. f4 O-O 13. Bb3 Re8 14. Kb1 Bf8 15. g4 Nxg4 16. Qg2 Nf6 17. Rg1 Bd7 18. f5 Kh8 19. Rdf1 Qd8 20. fxe6 fxe6 21. e5 dxe5 22. Ne4 Nh5 23. Qg6 exd4 24. Ng5 { 1-0 Black resigns. } 1-0
+
+

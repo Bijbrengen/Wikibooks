@@ -1,0 +1,104 @@
+{
+    "source":  "https://nl.wikibooks.org/wiki/",
+    "api":  "https://nl.wikibooks.org/w/api.php",
+    "list":  "D:\\repos\\Leerpret\\wikibooks\\scratch\\failed_templates.txt",
+    "fetched_at_utc":  "2026-04-27T09:01:21.0303467Z",
+    "requested_count":  7,
+    "fetched_count":  6,
+    "missing_count":  1,
+    "pages":  [
+                  {
+                      "title":  "Sjabloon:Bronnen",
+                      "file":  "Sjabloon_Bronnen/_index.wiki",
+                      "root":  "Sjabloon:Bronnen",
+                      "pageid":  2888,
+                      "contentmodel":  "wikitext",
+                      "revid":  402867,
+                      "parentid":  396116,
+                      "timestamp":  "2025-08-30T00:40:11Z",
+                      "user":  "Erik Baas",
+                      "comment":  "margin",
+                      "sha1":  "ba5078e26a49c1b030cf2078a004ac770ca8e1f1",
+                      "bytes":  228
+                  },
+                  {
+                      "title":  "Sjabloon:Fase",
+                      "file":  "Sjabloon_Fase/_index.wiki",
+                      "root":  "Sjabloon:Fase",
+                      "pageid":  13561,
+                      "contentmodel":  "wikitext",
+                      "revid":  414086,
+                      "parentid":  405783,
+                      "timestamp":  "2025-12-05T20:35:21Z",
+                      "user":  "Erik Baas",
+                      "comment":  "",
+                      "sha1":  "6a56a2502bb92bf0bf0d42b1918bc3ade02a3d59",
+                      "bytes":  832
+                  },
+                  {
+                      "title":  "Sjabloon:Onderwijsprofessional/Lemma",
+                      "file":  "Sjabloon_Onderwijsprofessional/Lemma.wiki",
+                      "root":  "Sjabloon:Onderwijsprofessional",
+                      "pageid":  27889,
+                      "contentmodel":  "wikitext",
+                      "revid":  375174,
+                      "parentid":  233578,
+                      "timestamp":  "2023-04-16T08:15:23Z",
+                      "user":  "Minorax",
+                      "comment":  "vva",
+                      "sha1":  "a31555eb1d6eca9d5d1c16adecb1e68724a37798",
+                      "bytes":  71
+                  },
+                  {
+                      "title":  "Sjabloon:Onderwijsprofessional/Artikel",
+                      "file":  "Sjabloon_Onderwijsprofessional/Artikel.wiki",
+                      "root":  "Sjabloon:Onderwijsprofessional",
+                      "pageid":  28788,
+                      "contentmodel":  "wikitext",
+                      "revid":  234291,
+                      "parentid":  234290,
+                      "timestamp":  "2011-11-04T15:10:33Z",
+                      "user":  "BeeBringer",
+                      "comment":  "",
+                      "sha1":  "82cf0b77559604a3e6fb68556b7186accfefa825",
+                      "bytes":  71
+                  },
+                  {
+                      "title":  "Sjabloon:Ondernemend leren/Bron",
+                      "file":  "Sjabloon_Ondernemend leren/Bron.wiki",
+                      "root":  "Sjabloon:Ondernemend leren",
+                      "pageid":  39770,
+                      "contentmodel":  "wikitext",
+                      "revid":  341937,
+                      "parentid":  341936,
+                      "timestamp":  "2020-04-16T08:02:54Z",
+                      "user":  "BeeBringer",
+                      "comment":  "",
+                      "sha1":  "da2195bb1440e01fcb5624282d529470e1dc2922",
+                      "bytes":  119
+                  },
+                  {
+                      "title":  "Sjabloon:Links",
+                      "file":  "Sjabloon_Links/_index.wiki",
+                      "root":  "Sjabloon:Links",
+                      "pageid":  46256,
+                      "contentmodel":  "wikitext",
+                      "revid":  424147,
+                      "parentid":  424101,
+                      "timestamp":  "2026-04-25T22:06:59Z",
+                      "user":  "Erik Baas",
+                      "comment":  "-check; klaar",
+                      "sha1":  "5bac317daf3e7b7b7a4b581ec1c7dc32376f3497",
+                      "bytes":  2457
+                  }
+              ],
+    "missing":  [
+                    {
+                        "title":  "Sjabloon:Verdieping/Bron",
+                        "pageid":  null
+                    }
+                ],
+    "redirects":  [
+
+                  ]
+}

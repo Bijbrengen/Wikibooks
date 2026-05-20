@@ -1,0 +1,14 @@
+{{Opmaak}}
+== Digiborden ==
+
+Het digitale schoolbord is het centrale punt van interactiviteit in het moderne klaslokaal.
+
+=== Functionaliteit ===
+Een digibord combineert de kracht van een computer met een groot aanraakscherm. Hierdoor kan digitale content direct worden gemanipuleerd, geannoteerd en opgeslagen.
+
+=== Meerwaarde voor de les ===
+* **Interactiviteit**: Leerlingen kunnen fysiek interageren met de leerstof.
+* **Multimediale integratie**: Naadloze overgang tussen presentaties, video's en internetbronnen.
+* **Archivering**: Lessen kunnen worden opgenomen of als PDF worden gedeeld met leerlingen die afwezig waren, wat bijdraagt aan een continue leerlijn.
+
+{{Opmaak | Voettekst}}

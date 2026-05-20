@@ -1,0 +1,154 @@
+{{Opmaak}}
+== Profiel ==
+[[Bestand:Alexey Sokolsky (circa 1950).jpg|thumb|Aleksej Sokolski]]
+{{Wp|Alexey_Sokolsky|Alexey Pavlovich Sokolsky}} (Kangoesj (Gouvernement Penza), 5 november 1908 – Minsk, 27 december 1969) is de bedenker van de gelijknamige opening ook wel {{Wp|Sokolsky|Poolse opening}} of Orang Oetan genoemd. Sokolsky was geen pool maar een Oekraïner en Wit-Rus. Hij bereikte een FIDE score van 2639.
+
+=== Carrière ===
+Sokolski werd geboren in een lerarenfamilie. Zijn eerste successen boekte hij als tiener. In 1926 won hij het kampioenschap van Penza, in 1928 won hij het kampioenschap van de Central Volga Region. Nadat hij zijn school had afgerond, ging hij studeren in Leningrad hij het Pedagogisch Instituut. In Leningrad ontmoette hij sterkere schakers en ontwikkelde hij een hoog vaardigheidsniveau. Zijn professionele schaakcarrière begon in de jaren dertig. In 1935 kwalificeerde hij zich voor de USSR Championship door als tweede te eindigen in het RSFSR kampioenschap. In 1938 ontving hij de titel ''Master of Sports of the USSR''. Hij won tweemaal het Oekraïens kampioenschap (1947 en 1948). Hij was de eerste Sovjetkampioen correspondentieschaak (1948-1951)
+
+=== Werken ===
+* ''The Modern Openings in Theory and Practice'' (1962)
+* ''Debyut 1b2-b4'' (1963) over de Sokolski-opening.
+* ''Lehrbuch der Schacheröffnungen'', Sportverlag, Berlin 1965
+* ''Ihr erster Zug'', Franckh, Stuttgart 1988
+
+== Pools ==
+De Poolse verdediging of Orang Oetan '''1. b4 ...''' is nogal riskant en moet met zorg worden gespeeld. Het is beter om ... '''b4''' uit te stellen tot de 2e zet. De sterkste combinatie van zetten door beide partijen is '''1. b4 e6 2. Bb2 Nf6 3. a3 b6 4. e3 c5 5. b5 d5'''.
+
+Met de zet b4 laat wit het centrum voor wat het is en wil een diagonaal openen voor de zwarte loper van '''b1''' tot '''h8'''. De Poolse opening lijkt een variatie van de Nimzovich-Larsen aanval met het verschil dat de b4 pion meer centrale velden bestrijkt. De reden om niet naar b3 te gaan is om eventueel het zwarte paard als die komt op Nb8 aan te vallen. 
+
+De beste verdediging door zwart op de Orang Oetan is het aangaan van een ruil door '''1. b4 e5 2. Bb2 Bxe4 3. Bxe4 Nf6'''.  Hoewel wit een centrale pion heeft geruild voor een flank pion, is de ontwikkeling van zwart verder en zeker na rokade en '''d4''' en '''c4''' en het opjagen van de witte loper.
+
+=== 1. b4 c5 ===
+{{Opmaak
+| Object = Schaak
+| Definitie = Birminghamgambiet
+| Beschrijving = Het Birminghamgambiet (1. b4 c5)
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|  |pd|pd|pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |pd|  |  |  |  |  |
+4 |  |pl|  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|  |pl|pl|pl|pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+Dit is het {{Wp|Birminghamgambiet|Birminghamgambiet}}.
+
+=== 1. b4 d5 ===
+{{Opmaak
+| Object = Schaak
+| Definitie = Sokolsky Opening: 1. b4 d5
+| Beschrijving = De Sokolsky opening met het antwoord 1... d5
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|  |pd|pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |pd|  |  |  |  |
+4 |  |pl|  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|  |pl|pl|pl|pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+In deze lijn (1. b4 d5 2. Bb2) is de zet '''2. ... Qd6''' zeer interessant voor zwart. Het valt direct b4 aan en verdedigt e5. Wit moet oppassen: '''3. b5?''' is een fout omdat zwart met '''3... Qb4''' een vork creëert op de pion en de loper op b2. Een betere reactie voor wit is '''3. a3 e5''', waarna zwart het centrum bezit maar wit ruimte op de damevleugel behoudt.
+
+=== 1. b4 e5 ===
+{{Opmaak
+| Object = Schaak
+| Definitie = Sokolsky Opening: 1. b4 e5
+| Beschrijving = De Sokolsky opening met het antwoord 1... e5
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|pd|  |pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |pd|  |  |  |
+4 |  |pl|  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|  |pl|pl|pl|pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+De normale reactie is '''e5''' zodat de zwarte loper op '''Bf8''' meteen de pion op '''b4''' aanvalt. Maar dat kan ook met '''e6''' zonder het gevaar op een tegenaanval op '''e5''' door '''Bb2'''. Vaak wordt deze pion geofferd of beter gezegd tracht men die te ruilen voor de '''e5''' pion door '''Bb2'''. 
+
+==== 2. Bb2 Nc6====
+Hoewel het een "aantrekkelijke" zet lijkt - het paard valt zowel de zwarte pion aan als dat de eigen pion wordt verdedigd - is '''Nc6''' geen verstandige respons. Immers na '''b5''' gaat uiteindelijk door het opjagen van het paard '''e5''' alsnog verloren.
+
+==== 2. Bb2 Nf6 ====
+De beste reactie van zwart is '''Nf6'''. Als de pionnen worden uitgeruild is zwart positioneel in het voordeel. 
+
+{{Opmaak
+| Object = Schaak
+| Definitie = Sokolsky: 1. b4 e5 2. Bb2 Nf6
+| Beschrijving = De beste reactie voor zwart op de Sokolsky opening
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|  |rd|
+7 |pd|pd|pd|pd|  |pd|pd|pd|
+6 |  |  |  |  |  |nd|  |  |
+5 |  |  |  |  |pd|  |  |  |
+4 |  |pl|  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|bl|pl|pl|pl|pl|pl|pl|
+1 |rl|nl|  |ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+
+Als men in plaats van '''Nf6''' de andere normale zet '''f6''' zet dan laat deze [https://www.chessgames.com/perl/chessgame?gid=1255134 wedstrijd] van {{Wp|Bobby_Fischer|Bobby Fischer}} zien hoe wit de winst kan behalen via de Tartakower gambiet. In de partij Fischer-Gloger (1964) speelde wit '''3. e4 Bxb4 4. Bc4''', waarna zwart in een verstikkende aanval terechtkwam op de koningsvleugel. De evaluatie na 4. Bc4 is +1.1 voor wit, ondanks de verloren pion.
+
+==== 2. Bb2 d6 ====
+Als zwart reageert met '''d6''' dan spreken we van de Tsjechische verdediging. Wit kan dan het beste met '''e3''' vervolgen om zijn witte loper vrij baan te geven en zo eventueel de opmars van zijn pion op '''b4''' te ondersteunen en de basis te leggen voor een pionnenstructuur die loopt van '''f2''' naar '''c5'''. Een andere gebruikelijke reactie van wit is '''c4''' en daarna '''e3''' met dezelfde ideeën. 
+
+=== 1. b4 e6 ===
+{{Opmaak
+| Object = Schaak
+| Definitie = Sokolsky Opening: 1. b4 e6
+| Beschrijving = De Sokolsky opening met het antwoord 1... e6
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|pd|  |pd|pd|pd|
+6 |  |  |  |  |pd|  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |pl|  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|  |pl|pl|pl|pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+De beste reactie is '''e6''' zodat de zwarte loper op '''Bf8''' meteen de pion op '''b4''' aanvalt zonder het gevaar op een tegenaanval op '''e5''' door '''Bb2'''. 
+
+==== 2. Bb2 Nf6 ====
+Het is beter voor zwart om het offer niet te nemen om vanwege een minder belangrijke pion de ontwikkeling van de stukken te vertragen. De beste reactie is daarom '''Nf6'''. Wit dient nu zijn offer terug te trekken en te beschermen met '''a3'''. Zwart kan de intenties van wit om een pionnenstructuur te bouwen over de zwarte vlakken van '''f2''' tot '''c5''' beter onderbreken door '''b6''' te spelen. Wit vervolgt met '''e3''' en opent zo de diagonaal voor zijn loper en bouwt zijn pionnenstructuur op. Zwart wil die aanvallen door c5 te spelen. Wit ontloopt deze aanval door '''b5'''. Zwart reageert met '''d5''' en heeft zijn verdedigingslinie geformeerd.
+
+=== 1. b4 f5 ===
+{{Opmaak
+| Object = Schaak
+| Definitie = Pools-Hollandse Verdediging
+| Beschrijving = De Hollandse verdediging als reactie op de Poolse opening (1. b4 f5)
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|pd|pd|  |pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |pd|  |  |
+4 |  |pl|  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|  |pl|pl|pl|pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+Dit is de Pools-Hollandse verdediging. De [[Schaken_door_meesters/Stein#Hollands|Hollandse verdediging]] als reactie op de [[Schaken_door_meesters/Sokolsky#Pools|Poolse opening]].
+
+== Evaluatie van Combinaties ==
+Op basis van de PGN-studies trekken we de volgende tactische lessen:
+* '''1. b4 e5 2. Bb2 Bxb4 3. Bxe5''': Een dynamische ruil. Wit wint een pion terug, maar zwart ontwikkelt sneller. De beste voortzetting voor zwart is '''3... Nf6''' om de druk op g7 te neutraliseren.
+* '''De Rooks Swap Line (1. b4 e6 2. Bb2 Nf6 3. b5 a6 4. a4 axb5 5. axb5 Rxa1 6. Bxa1)''': Zoals te zien in Tkachiev-Karpov (2016). Hoewel wit de torens heeft geruild, behoudt zwart uitstekende kansen door een stevig centrum (d5, c5).
+* '''1. b4 e6 2. d4?!''': Een gedurfd gambiet van wit (zoals gezien in de Bijbrengen-studies). Wit offert b4 om met e4-e5 het centrum te claimen. Hoewel de computer zwart een licht voordeel geeft (-0.6), krijgt wit een zeer gevaarlijke aanval (Bg5, Bd3) als zwart niet nauwkeurig verdedigt.
+
+{{Opmaak | Voettekst}}

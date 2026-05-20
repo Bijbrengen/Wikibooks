@@ -1,0 +1,86 @@
+{{Opmaak}}
+== Leerstrategie ==
+Onderzoek toont aan dat mensen floreren als een studie aansluit bij hun aangeboren talenten en voorkeuren. Welke leeractiviteiten een lerende zal kiezen hangt niet alleen af van deze voorkeuren (zijn of haar [[w:Leerstijl|leerstijl]]) of talenten, maar ook van de context en de [[Leren leren/Doel|leerdoelen]]. Leer je bijvoorbeeld individueel of samen met anderen? Gaat het om een concrete situatie (praktijk) of is die abstract (theorie)? Wordt er nieuwe informatie toegevoegd (cumulatie) of verbonden aan al bekend element (assimilatie) of wordt het bestaande wereldbeeld aangetast (acommodatie) of leidit het tot persoonlijke verandering (transformatie).<ref>Illeris, K. (2007). How we learn: Learning and non-learning in school and beyond. Routledge.</ref> Leerdoelen doen een specifiek beroep op bepaalde hersenvaardigheden en hoe beter men het in bereiken daarbij aansluit bij iemands cognitieve profiel dus te succesvoller zal het leerproces zijn. De leercontext en leerdoelen dus samen met de leerstijl zal bepalen welke leeractiviteiten een lerende zal, maar ook het beste zou kunnen kiezen; de persoonlijke leerstrategie.  
+
+In de tabel over leermethodes wordt geïllustreerd dat een bepaalde leerstrategie niet bij elke voorkeur van leren (leerstijl) even goed past. De [[w:Leerstijl#Toepassing|indeling]] die hier is gekozen is eenvoudig toe te passen in de praktijk. Maar elke indeling van leerstijlen doet altijd de werkelijkheid te kort omdat er net zoveel leerstijlen zijn als er mensen op aarde rondlopen. Met deze beperking van elk leerstijl model in het achterhoofd dient met eender welke indeling slechts als een hulpmiddel bij het verkennen van de eigen leervoorkeuren te zien.
+
+Deze verkenning zou eigen een integraal onderdeel dienen te zijn van het onderwijsprogramma want in de discussie over onderwijs voor de toekomst ligt de focus naast kennisoverdracht op persoonlijke ontwikkeling. Dit begint al op de basisschool in het leergebied Oriëntatie op jezelf en de wereld". Een manier om dit te bereiken is door [[onderzoekend leren]] want dit stimuleert een nieuwsgierige, onderzoekende en probleemoplossende houding bij kinderen de basis voor  21st century skills als creativiteit, ondernemingszin, kritisch denken en kunnen samenwerken.
+
+== Leercontext ==
+Men eenvoudig een leerstijl vaststellen door te kijken welke leeractiviteiten iemand prefereert en kiest (leerstrategie) in een bepaalde leercontext. 
+
+{| class="wikitable"
+|+ Reproductieve leerstijl
+|-
+! Leercontext !! ''Concreet'' !! ''Abstract''
+|-
+| '''''Individueel''''' || '''Waarnemen''' || '''Stampen'''
+|- 
+| '''''Sociaal'''''|| '''Volgen''' || '''Luisteren''' 
+|}
+
+Men kan dus een leerstijl vaststellen door een voorliefde voor bepaalde leeractiviteiten uit te vragen. Let wel; zulk een indeling is puur bedoeld als hulpmiddel bij het ontdekken van eigen voorkeuren voor leren, men kan leerstijlen niet in hokjes plaatsen.
+* Luistert men graag  of gebruikt men veel "stampen" als leerstrategie, dan duidt dit op een reproductieve leerstijl. 
+* Heeft men een voorkeur voor stages of practica, dan kan dit een indicatie zijn voor een toepassingsgerichte leerstijl. 
+* Filosofeert of bedenkt men graag nieuwe dingen, dan zal een betekenisgerichte leerstijl mogelijk aanwezig zijn. 
+* Legt men graag aan anderen eigen verworven inzichten uit of creëert men graag innovaties, dan is er waarschijnlijk sprake van een productieve leerstijl
+
+Een andere krachtige manier om de leerstijl vast te stellen is door [[Speels leren|gamification]]. Wanneer we iemands keuzes en handigheid monitoren tijdens een strategisch spel, dan zouden we via datamodellen en expertregels iets kunnen zeggen over zijn natuurlijke of aangeleerde voorkeuren.
+
+== Leerstijl ==
+We gebruiken leerstijlen niet omdat er een wetenschappelijk onderbouwde theorie over bestaat. Uit grote meta-studies worden deze gangbare indelingen zoals die van Kolb niet onderbouwd. Echter het door het indelen van voorkeuren voor leren kan men zichzelf verkennen zodat men deze zelfinzichten kan inzetten bij het kiezen van een passende leerstrategie of -methode. In het kader van uit je comfort zone komen, of “overcoming barriers” of “desired difficulties” kan men het leren stimuleren door een stijl van leren uit te proberen die niet de voorkeur geniet. Ondernemend leren heeft daarbij de voorkeur omdat deze leerstijl het meest uitdaagt en de voordelen van de andere leerstijlen in zich heeft. 
+
+=== Indeling ===
+De gekozen indeling is gebaseerd op de eenvoudig te onderscheiden voorkeur tot onthouden (reproductieve leerstijl) versus verzinnen (productieve leerstijl) en tussen toepassen (toepassingsgerichte leerstijl) versus doorgronden (betekenisgerichte leerstijl). Deze indeling (onderscheiden in leervoorkeuren) is in de praktijk eenvoudig waar te nemen, hoewel geen enkele persoon geheel in een categorie te vangen is. Vandaar dat we bij het leren van het leren, waarin je het meewegen van je eigen voorkeuren bij het kiezen van de beste leerstrategie cruciaal is, voor dit eenvoudig en praktisch model kiezen. 
+
+Dit model geeft ook aan waarom de verschillende vormen van leren die zorgen voor een hoge kwaliteit niet voor elke leerstijl even geschikt is. Als we [[vrij leren]] nastreven dan kan men via [[speels leren]] als enkelvoudige kapstok meerdere leervormvarianten invulling geven. Zo kan speels leren voor een reproductief lerende resulteren in [[model leren]] waarbij hij door inspirerende voorbeelden onbewust en praktisch (de leervoorkeuren) wordt geprikkeld om meer zelfsturing en daarmee een hogere leerkwaliteit te bereiken. De toepassingsgerichte lerende wil deze wens liever in en uit de praktijk ervaren en vandaar dat [[ontwerpend leren]] hier beter geschikt voor is. De betekenisgerichte lerende kan worden uitgedaagd via [[onderzoekend leren]] om daadwerkelijk zijn persoonlijke betekenis concreet te maken en toe te passen. De productieve lerende, een leerstijl die qua aanleg al past bij een hoge kwaliteit van leren (zelfsturing en vertalen naar de praktijk), kan goed worden gefaciliteerd door [[ondernemend leren]] mogelijk te maken. 
+
+Een andere manier om je leerstijl mee te nemen terwijl je bijvoorbeeld [[ondernemend leren]] als uitgangspunt voor alle leerlingen neemt, is door gradaties in de leerstrategie op te nemen. Ondernemend leren is eigenlijk een optelsom van [[speels leren]], [[onderzoekend leren]] en [[ontwerpend leren]]. Je zou bij een leerling met een reproductieve leerstijl het modelleren van een ondernemend persoon of een ondernemende filosofie voorop kunnen stellen, een toepassingsgerichte leerling een idee laten omzetten in een ontwerp en op betekenisgerichte leerling het onderzoeken de hoofdactiviteit te laten zijn. Dit kan men goed organiseren wanneer de lerende samenwerkt in teams, waarin ieder teamlid een rol vervult die past bij de eigen talenten en passies, terwijl men als geheel toch komt tot een innovatie.
+.
+
+=== Unificatie ===
+[[File:4Ooflearning.png|thumb|4 O's of free learning]]
+{| class="wikitable"
+|-
+! Leerstijl !! ''Passief''<br>[[Onbewust leren]]!! ''Actief''<br>[[Leren leren]]
+|- 
+| '''''Theorie'''''<br> Hoofd|| '''Reproductief'''<br> '''''Dromer'''''<br>[[Opvolgend leren]]|| '''Betekenisgericht'''<br> '''''Denker'''''<br>[[Onderzoekend leren]]
+|-
+| '''''Praktijk'''''<br> Handen|| '''Toepassingsgericht'''<br> '''''Beslisser'''''<br>[[Ontwerpend leren]]|| '''Productief'''<br> '''''Doener'''''<br>[[Ondernemend leren]]
+|}
+''Toelichting'':
+* '''Theorie''' betekent dat de lerende bij voorkeur het leren in het hoofd laat plaatsvinden zonder te doen (handen), graag bewust leert dus graag [[Leren_leren|leert leren]].
+* '''Praktijk''' geeft de voorkeur voor leren door te doen, te handelen en graag [[Leren/Onbewust leren|onbewust leert]].
+* '''Passief''' is de voorkeur om je aan te sluiten bij de opvattingen van anderen of anders gezegd conformisme.
+* '''Actief''' is de neiging om je eigen mening te vormen ongeacht die van anderen of anders gezegd non-conformisme.
+* '''Productief''' betekent dat de lerende bij voorkeur zelf nieuwe kennis creëert of aan bestaande kennis graag een eigen betekenis geeft en deze graag omzet in concrete toepassing (innovatie). 
+* '''Reproductief''' betekent dat de lerende zich graag met hetgeen men aangeleverd krijgt identificeert, uitgebreid (vanuit verschillende perspectieven) waarneemt en wil herhalen.
+* '''Betekenisgericht''' betekent dat de lerende zelf een eigen betekenis wil geven aan nieuwe informatie.
+* '''Toepassingsgericht''' betekent dat de lerende graag het geleerde nuttig in de praktijk wil uitvoeren.
+* De tabel laat zien dat de [[w:Leerstijl#Toepassing|modellen]] van [[w:David_Kolb|Kolb]] en [[w:Jan_Vermunt|Vermunt]] goed te verenigen zijn en praktisch eenvoudig toe te passen als men er een dubbele of 2-dimensionale [[w:Dichotomie|dichotomie]] (opdeling in twee tegengestelde begrippen) van maakt; passief versus actief en conformisme versus non-conformisme.
+* De typeringen van Kolb sluiten niet altijd naadloos aan bij wat men in het dagelijks spraakgebruik onder dromer, doener, denker en beslisser verstaat.
+
+=== Adaptief ===
+Op grond van de kwaliteitskenmerk flexibiliteit zou je het leren willen aanpassen aan de leerstijl van de lerende. Echter dat kan frictie opleveren met de kwaliteitskenmerken effectiviteit en efficiëntie. Immers onze aangeboren of aangeleerde voorkeuren voor een bepaalde leeractiviteit in een bepaalde leercontext (de persoonlijk leerstrategie) is niet altijd  doelgericht of doelmatig. Het verkennen van de eigen leerstijl en het reflecteren op de kwaliteit van bepaalde leeractiviteiten in een bepaalde leercontext, kan ons helpen om bewust onze onbewuste voorkeuren te overrulen. Dat zal zelden tot een volledige omslag leiden, maar vaak slechts een kleine verschuiving betekenen (zone van naaste ontwikkeling). Echter veel kleine verschuivingen zullen op termijn de leerstijl wezenlijk kunnen veranderen. Men noemt de idelae student, ook wel studax genoemd, iemand die in elke situatie de kwalitatief hoogste leeractiviteiten automatisch zal ontplooien en/of zich heel bewust is van het leren leren.
+
+=== Productief ===
+De productieve leerstijl geeft de lerende een groot voordeel als het gaat om een hoge kwaliteit van leren. Immers het impliceert actieve leerprocessen door te doen. Creativiteit en flexibiliteit in het leren is gegarandeerd. De uitdaging bij deze leerstijl is de effectiviteit en de efficiëntie hoog te krijgen. Die worden immers bij de reproductieve leerstijl door de onderwijsgevende of het rolmodel geleverd. Een lerende die productief mag leren zal zelf een expert moeten worden in het leren leren om te concurreren met [[onderwijs]] die men braaf volgt. Lerende met een productieve leerstijl zullen dus het meeste baat hebben bij het [[leren leren]].
+
+=== Meting ===
+Er zijn verschillende soorten enquêtes die gericht zijn op het meten en monitoren van leer- en denkstijlen, evenals de effectiviteit van online leeromgevingen. Elk van deze enquêtes dient een specifiek doel:
+* '''Attitudes to Thinking and Learning Survey (ATTLS)''': Deze enquête is bedoeld om te meten of een persoon een 'connected knower' of een 'separate knower' is. De resultaten kunnen nuttig zijn om te begrijpen hoe iemand het beste leert en interacteert met anderen in een leeromgeving.
+* '''Critical Incidents Survey''': Dit lijkt meer een methode te zijn om specifieke gebeurtenissen of situaties te identificeren die een significante impact hebben gehad op het leren. Dit kan zowel positief als negatief zijn.
+* '''Constructivist On-line Learning Environment Survey (COLLES)''': Deze is specifiek gericht op online leren en bedoeld om te meten hoe effectief een online leeromgeving is in het bevorderen van constructivistische leermethoden.
+
+Als men deze enquêtes wil gebruiken voor onderzoeksdoeleinden, pedagogische verbeteringen of andere toepassingen, zijn de stappen die men kan volgen aangepast aan de specifieke behoeften en beperkingen van het project:
+# '''Doel bepalen''': Bepaal wat het doel is van het gebruik van deze enquêtes. Wil je de leeromgeving verbeteren, studenten beter begrijpen, of iets anders?
+# '''Deelnemers selecteren''': Kies een geschikte groep deelnemers. Dit kunnen studenten zijn, docenten, of anderen die relevant zijn voor je onderzoek.
+# '''Enquêtes afleggen''': Verspreid de enquêtes onder de deelnemers en verzamel de resultaten.
+# '''Data analyseren''': Analyseer de verzamelde gegevens om inzichten te verkrijgen. Dit kan kwalitatieve of kwantitatieve analyse zijn, afhankelijk van je doel.
+# '''Conclusies trekken en acties ondernemen''': Op basis van de analyse, trek conclusies en bepaal welke stappen moeten worden ondernomen voor verbetering.
+# '''Rapportage en reflectie''': Maak een gedetailleerd rapport van je bevindingen en overweeg of en hoe het onderzoek in de toekomst kan worden herhaald of uitgebreid.
+
+==Referenties==
+<references />
+
+{{Opmaak | Voettekst}}

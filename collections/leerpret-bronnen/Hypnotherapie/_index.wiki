@@ -1,0 +1,13 @@
+{{Opmaak
+| Titel = Hypnotherapie
+| Object = Boek
+| Bron = Hypnotherapy represented by a deer from which the brain grows.png
+| Definitie = {{Wp|Hypnotherapie|Hypnotherapie}} is een behandelwijze die gebruik maakt van een toestand van diepe ontspanning om contact te maken met het onbewuste.<br>Hypnotherapie is effectief bij klachten van psychische, sociale, lichamelijke en psychosomatische aard.
+| Beschrijving = Dit boek is bedoeld om misvattingen die er heersen over hypnose of hypnotherapie weg te nemen. Het toont de lezer dat de moderne hypnotherapie een gedegen behandelmethode is gebaseerd op wetenschappelijk onderzoek en gebruik maakt van bewezen psychoanalytische theorieën en cognitieve leertheorieën. Een hypnotherapeut is – mits hij wordt erkend bij een beroepsvereniging – iemand met een gedegen en veelomvattende opleiding op post-HBO niveau. De effectiviteit wordt op steeds meer domeinen door onderzoek ondersteund en zodoende ook vergoed door zorgverzekeraars en als medische doorverwijzing ingezet door artsen of psychiaters.
+| Formaat = html
+| Voortgang = 100
+| Support = Signaleer
+| Referentie = wikipedia
+| Collectie = Zelftherapie
+| Onderdeel = Hypnose, Zelfhypnose, Therapie, Theorie, Toepassing
+}}

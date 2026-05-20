@@ -1,0 +1,13 @@
+{{Opmaak
+| Titel = Onderwijsprofessional
+| Object = Boek
+| Bron = 
+| Definitie = Een {{Wp|Onderwijsprofessional|onderwijsprofessional}} is iemand die zich beroepsmatig met de overdracht van kennis of vaardigheden bezighoudt.
+| Beschrijving = Dit boek gaat over een beschrijving van de verschillende hoedanigheden van onderwijsprofessionals. In afzonderlijke boeken wordt dieper in gegaan op die van [[onderwijsarchitect]] en [[onderwijstechnoloog]].
+| Formaat = html
+| Voortgang = 50
+| Support = Signaleer
+| Referentie = wikipedia
+| Collectie = Onderwijs
+| Onderdeel = Algemeen, Waarde, Onderwijzer, Onderwijsmanager, Onderwijs&shy;entrepreneur, Intrapreneur, Onderwijs&shy;ontwikkelaar
+}}

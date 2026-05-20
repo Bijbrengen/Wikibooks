@@ -1,0 +1,31 @@
+{{Infobox generiek
+| kop      = Wetsartikel {{{naam|{{PAGENAME}}}}}
+| image    = {{{afbeelding|}}}
+| caption  = {{{onderschrift|}}}
+| head1_1  = Land                | item1_1 = {{{land|}}}
+| head1_2  = Wet                 | item1_2 = {{{wet|}}}
+| head1_3  = Hoofdstuk           | item1_3 = {{{hoofdstuk|}}}
+| head1_4  = Artikel             | item1_4 = {{{artikel|}}}
+| head1_5  = Lid                 | item1_5 = {{{lid|}}}
+| head1_6  = Citaat              | item1_6 = {{{citaat|}}}
+| head1_7  = Datum               | item1_7 = {{{datum|}}}
+}}<noinclude>{{Sjablooninfo|1=
+== Gebruik == 
+De infobox beroep is te gebruiken voor (citaten uit) een wetsartikel
+<pre>{{Infobox wetsartikel
+| naam = 
+| afbeelding = 
+| onderschrift = 
+| land = 
+| wet = 
+| hoofdstuk = 
+| artikel =
+| lid = 
+| citaat = 
+| datum = 
+}}</pre>
+}}
+
+[[Categorie:Sjablonen juridisch|Wetsartikel]]
+[[Categorie:Sjablonen infobox|Wetsartikel]]
+</noinclude>

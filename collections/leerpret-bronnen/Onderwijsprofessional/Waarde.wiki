@@ -1,0 +1,157 @@
+{{Opmaak}}
+== Focus ==
+Een onderwijsprofessional kent vele hoedanigheden. In dit boek lichten we drie eruit die van de [[onderwijstechnoloog]], de [[onderwijsarchitect]] en de [[Onderwijsprofessional/Onderwijsentrepreneur|onderwijsentrepreneur]]. Deze worden verder uitgediept in de gelijknamige boeken. Er is ook een boek over de [[onderwijsontwikkelaar]].
+
+== Carrière ==
+''Ik ben al mijn hele leven bezig met mijn levenswerk. Pas aan het eind wist ik waaraan.''
+
+Een veel gehoorde wens in het onderwijs is dat er meer carrièreperspectieven zijn. In deze boekenserie worden enkele onderwijsberoepen beschreven die een ambitieuze onderwijsprofessional in staat kan stellen voor zichzelf een carrière uit te stippelen. De start van de carrière begint in dit boek met het beroep van [[onderwijzer]]. Dit kan ook de start van de lezer zijn. Daarmee is niet gezegd dat bijvoorbeeld een onderwijsassistent niet een mogelijke start zou kunnen zijn, of dat de in deze serie genoemde onderwijsberoepen allesomvattend zijn.
+
+In deze serie is vooral een keuze gemaakt voor onderwijsberoepen die kunnen leiden tot zelfstandig ondernemerschap; het worden van een [[Onderwijsprofessional/Onderwijsentrepreneur|onderwijsentrepreneur]]. Daarom wordt na {{Wp|onderwijzer}} beschreven hoe men onderwijsentrepreneur kan zijn en wat dit inhoudt. Er wordt aangetoond dat er een verschil is tussen ondernemerschap en ondernemendheid. Dit boek legt voor de lezer een basis waarop vanuit de daaropvolgende boeken wordt teruggegrepen. Als men ondernemend gedrag binnen een organisatie toont dan spreekt men van een {{Wp|intrapreneur|intrapreneur}}, de eerste op stap naar een carrière als ondernemende ondernemer; de entrepreneur. In het ondernemend onderwijs wordt vaak van de begeleiders van leerling geëist dat ze als rolmodel kunnen fungeren, dat ze dus minimaal als onderwijsintrapreneur opereren.
+
+In de rol van onderwijsintrapreneur kan de aandacht liggen op de persoonlijke ontwikkeling van de ondernemende leerling of de andere begeleiders, het organiseren van ondernemend onderwijs of het bouwen en ontwerpen daarvan. Als men zich als onderwijsintrapreneur ontwikkeld in de begeleiding dan kan men achtereenvolgens onderwijsmentor (operationeel niveau), [[onderwijscoach]] (tactisch niveau) en [[onderwijssupervisor]] (strategisch niveau) worden. Een zelfde indeling ziet men op het gebied van organisatie namelijk [[onderwijscoördinator]], [[onderwijsmanager]] en [[onderwijsdirecteur]]. En bij de bouw van het (ondernemend) onderwijs kan men groeien van [[onderwijsontwikkelaar]], [[onderwijsontwerper]] naar [[onderwijsarchitect]]. De boeken die horen bij deze loopbanen zijn zo geschreven dat een afzonderlijke loopbaan apart kan worden gelezen. Bijzondere zijtakken in deze loopbanen zijn de [[onderwijsfilmer]], de [[onderwijstechnoloog]] en [[onderwijsdeskundige]]. 
+
+Als elk van deze beroepen leiden tot het vermarkten van een uniek eigen recept middels een eigen bedrijf dat verder reikt dan een eenmanszaak, dan wordt men [[Onderwijsprofessional/Onderwijsentrepreneur|onderwijsentrepreneur]]; een maatschappelijk ondernemende ondernemer. 
+
+''Er is een moment om een punt te maken en een moment om deze te staken''
+
+In de hoofdstukken van dit hoofdboek staan alle zaken die algemeen gelden voor onderwijsprofessionals. Voor alle specifieke beroepsinformatie wordt verwezen naar het betreffende boek uit de serie. Verder kent de serie een hoofdstuk over alle gehanteerde begrippen en wikipedia artikelen die uit de serie zijn voortgekomen.
+
+== Doel ==
+''Ik neem mijzelf serieus maar niet heus''
+
+Het doel van de serie over de onderwijsprofessional is een aantal boeken te publiceren die de beroepen en carrièremogelijkheden binnen het ondernemend onderwijsveld schetsen.  Deze schetsen zijn weer op hun beurt geschreven om bij te dragen aan een zo hoog mogelijke kwaliteit van het betreffende onderwijsberoep. Een ondernemende wijze van benaderen leidt tot een no-nonsense benadering van wie stelt moet bewijzen. Doel is daarom eveneens al het gestelde met bronnen te onderbouwen. Een doel dat daarbij aansluit is het aanreiken van suggesties hoe een onderwijsprofessional aan zijn opdrachtgever kan tonen dat deze zeker kan zijn over een goed resultaat wat betreft de opdracht.
+
+== Artikelen ==
+{|align=center style="margin:0 auto; padding:1em 0; text-align:center; letter-spacing:5px; border:3px solid orange; color: black; background-color:white; color:#92278F; font:bold larger 'Helvetica Neue', Helvetica, Arial, sans-serif"
+|-
+|Vanuit de serie Onderwijsprofessional zijn de volgende Wikipedia-artikelen gestart (<span style="color: #000000;">'''N'''</span>) of aangepast
+|}
+{|align=center style="margin:0 auto; padding:1em 0; text-align:center; letter-spacing:5px; border:3px solid orange; color: black; background-color:orange; color:#92278F; font-size: 10px; font-weight: bold; font: 'Helvetica Neue', Helvetica, Arial, sans-serif"
+|-
+! colspan="3" style="color: black; background-color:#F26522;width:33%;" | <span style="color: #ffffff;">A t/m N</span>
+! colspan="3" style="color: black; background-color:#92278F;width:34%;" | <span style="color: #ffffff;">O t/m P</span>
+! colspan="3" style="color: black; background-color:#F26522;width:33%;" | <span style="color: #ffffff;">Q t/m Z</span>
+|-
+|width=1%| {{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijsontwerper/Gereedschappen#Romiszowski}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp|Alexander_Romiszowski|Alexander Romiszowski}}
+|style="color: black; background-color:#F26522;width:1%;"|
+|width=1%| {{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijsondernemer/Resultaten#Ondernemend_onderwijs}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp|Ondernemend leren|Ondernemend leren}}
+|style="color: black; background-color:#92278F;width:1%;"|
+|width=1%|{{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijsmanager/Gereedschappen#Schoolgids}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp|Schoolgids|Schoolgids}}
+|style="color: black; background-color:#F26522;width:1%;"|
+|-
+|width=1%| {{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijsondernemer/Profiel#BIK}}
+|style="color: black; background-color:#FFFFFF;"| {{Wp|Beroepskunstenaars In de Klas (BIK)|Beroepskunstenaars In de Klas (BIK)}}
+|style="color: black; background-color:#F26522;width:1%;"|
+|width=1%| {{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijsondernemer/Profiel#Ondernemend_Management}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp|Ondernemend management|Ondernemend management}}
+|style="color: black; background-color:#92278F;width:1%;"|
+|width=1%|{{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijsmanager/Gereedschappen#Schoolplan}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp|Schoolplan|Schoolplan}}
+|style="color: black; background-color:#F26522;width:1%;"|
+|-
+|width=1%| {{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijsontwerper/Resultaten#Constructivistisch_onderwijs}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp|Constructivistisch_onderwijs|Constructivistisch onderwijs}}
+|style="color: black; background-color:#F26522;width:1%;"|
+|width=1%| {{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijsfilmer/Doel}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp|Onderwijsfilm|Onderwijsfilm}}
+|style="color: black; background-color:#92278F;width:1%;"|
+|width=1%|{{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijsontwerper/Gereedschappen#Seminar}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp|Seminar|Seminar}}
+|style="color: black; background-color:#F26522;width:1%;"|
+|-
+|width=1%| {{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijsprofessional/Visie#Leeractiviteit}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp| Leeractiviteit|Leeractiviteit}}
+|style="color: black; background-color:#F26522;width:1%;"|
+|width=1%| {{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijsondernemer}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp|Onderwijsondernemer|Onderwijsondernemer}}
+|style="color: black; background-color:#92278F;width:1%;"|
+|width=1%|{{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijstechnoloog/Gereedschappen#Serious_Game}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp|Serious_game|Serious Game}}
+|style="color: black; background-color:#F26522;width:1%;"|
+|-
+|width=1%| {{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijzer/Doel#Leerdoel}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> [[Leren leren/Doel|leerdoel]]
+|style="color: black; background-color:#F26522;width:1%;"|
+|width=1%| {{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijstechnoloog}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp|Onderwijstechnoloog|Onderwijstechnoloog}}
+|style="color: black; background-color:#92278F;width:1%;"|
+|width=1%|{{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijzer/Doel#Studax}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp|Studax|Studax}}
+|style="color: black; background-color:#F26522;width:1%;"|
+|-
+|width=1%| {{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijsontwerper/Gereedschappen#Leerobject}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp|Leerobject|Leerobject}}
+|style="color: black; background-color:#F26522;width:1%;"|
+|width=1%| {{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijsmanager/Doel#Onderwijstijd}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp|Onderwijstijd|Onderwijstijd}}
+|style="color: black; background-color:#92278F;width:1%;"|
+|width=1%|{{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijsondernemer/Resultaten#USP}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp|Unique Selling Proposition|Unique Selling Proposition}}
+|style="color: black; background-color:#F26522;width:1%;"|
+|-
+|width=1%| {{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijzer/Gereedschappen#Leerstof}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp|Leerstof|Leerstof}}
+|style="color: black; background-color:#F26522;width:1%;"|
+|width=1%| {{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijsontwerper/Doel#Onderwijsvorm}}
+|style="color: black; background-color:#FFFFFF;"| {{Wp|Onderwijsvorm|Onderwijsvorm}}
+|style="color: black; background-color:#92278F;width:1%;"|
+|width=1%|{{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijsarchitect/Anekdotes}}
+|style="color: black; background-color:#FFFFFF;"| {{Wp|Verhaal|Verhaal}}
+|style="color: black; background-color:#F26522;width:1%;"|
+|-
+|width=1%| {{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijsontwerper/Doel#Leeromgeving}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp|Leeromgeving|Leeromgeving}}
+|style="color: black; background-color:#F26522;width:1%;"|
+|width=1%| {{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijsmanager/Gereedschappen#Ouderbijdrage}}
+|style="color: black; background-color:#FFFFFF;"| {{Wp|Ouderbijdrage|Ouderbijdrage}}
+|style="color: black; background-color:#92278F;width:1%;"|
+|width=1%|{{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijstechnoloog/Werkwijze#Virtual_Action_Learning}}
+|style="color: black; background-color:#FFFFFF;"| {{Wp|Virtual_Action_Learning|Virtual Action Learning}}
+|style="color: black; background-color:#F26522;width:1%;"|
+|-
+|width=1%| {{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijsmanager/Gereedschappen#Lumpsum}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp|Lumpsum|Lumpsum}}
+|style="color: black; background-color:#F26522;width:1%;"|
+|width=1%|{{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijsontwerper/Resultaten#Projectonderwijs}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp|Projectonderwijs|Projectonderwijs}}
+|style="color: black; background-color:#92278F;width:1%;"|
+|width=1%|{{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijsprofessional/Profiel#BIO}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp|Wet_BIO|Wet BIO}}
+|style="color: black; background-color:#F26522;width:1%;"|
+|-
+|width=1%| {{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijstechnoloog/Gereedschappen#MUVE}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp|MUVE|MUVE}}
+|style="color: black; background-color:#F26522;width:1%;"|
+|width=1%|{{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijsondernemer/Gereedschappen#Projectplan}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp|Projectplan|Projectplan}}
+|style="color: black; background-color:#92278F;width:1%;"|
+|width=1%|
+|style="color: black; background-color:orange"|
+|style="color: black; background-color:orange;width:1%;"|
+|-
+|width=1%| {{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijsontwerper/Resultaten#Het_nieuwe_leren}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp|Het_nieuwe_leren|Nieuwe leren}}
+|style="color: black; background-color:#F26522;width:1%;"|
+|width=1%|
+|style="color: black; background-color:orange"|
+|style="color: black; background-color:orange;width:1%;"|
+|width=1%|
+|style="color: black; background-color:orange"|
+|style="color: black; background-color:orange;width:1%;"|
+|-
+|width=1%| {{Klik|Afbeelding=Wikibooks-logo.svg|Grootte=20px|Link=Onderwijsontwerper/Gereedschappen#AT&T Development-Model}}
+|style="color: black; background-color:#FFFFFF;"| <span style="color: #000000;">'''N'''</span> {{Wp|AT&T Development-Model|AT&T Development-Model}}
+|style="color: black; background-color:#F26522;width:1%;"|
+|width=1%|
+|style="color: black; background-color:orange"|
+|style="color: black; background-color:orange;width:1%;"|
+|width=1%|
+|style="color: black; background-color:orange"|
+|style="color: black; background-color:orange;width:1%;"|
+|}
+
+{{Opmaak | Voettekst}}

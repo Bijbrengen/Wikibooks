@@ -1,0 +1,1 @@
+{{:Speciaal:VerwijzingenNaarHier/{{#if:{{{title|}}}|{{{title|}}}|{{FULLPAGENAME}}}}}}

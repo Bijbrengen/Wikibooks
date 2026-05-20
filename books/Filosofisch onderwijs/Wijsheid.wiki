@@ -1,0 +1,43 @@
+{{Opmaak}}
+== Inhoud ==
+Filosofisch onderwijs hanteert de {{Wp|Filosofie|filosofie}} zowel als uitgangspunt voor haar {{Wp|Filosofie_van_de_opvoeding|pedagogische (filosofie van de opvoeding)}} en onderwijsmethoden ({{Wp|en:Philosophy_of_education|onderwijsfilosofie}}) als wel als voor de inhoud van haar {{Wp|en:Philosophy education|curriculum}}.
+
+Filosofisch onderwijs behandelt de volgende vragen:
+* Hoe behoudt en versterkt men de aangeboren liefde voor leren?
+* Hoe kunnen de ervaringen van wijze mensen ons navigeren naar wijsheid? 
+* Hoe kan wijsheid leiden naar geluk?
+* Hoe werkt denken?
+* Hoe kunnen we ons brein zo vormen dat het leven de moeite waard is?
+* Hoe heeft zich onze wijsheid in de geschiedenis ontwikkeld?
+* Hoe kan men door filosofen te bestuderen allerlei vakken ({{Wp|Natuurkunde|natuurkunde}} via {{Wp|Isaac_Newton|Newton}} en {{Wp|Albert_Einstein|Einstein}} bijvoorbeeld) uit het reguliere onderwijs een aantrekkelijke invulling geven?
+* Hoe kan men [[leren leren]] door filosofie te studeren?
+* Wat is de diepere essentie van wie je bent en hoe hou je daar in je leven en leren rekening mee?
+* Hoe kan men een realistischer mensbeeld kweken dat onze natuurlijke neiging om vooral te focussen op het kwade objectiveert?
+** Denk aan geschiedenislessen die vooral gaan oorlogen en macht.
+** Denk aan het niet-wetenschappelijk onderbouwde beeld van de {{Wp|Homo oeconomicus|Homo Economicus}} als de basis voor economische theorieën en modellen die we op school leren.
+
+== Vakken ==
+In het onderstaand overzicht wordt een mogelijke filosofische invulling van bestaande vakken gegeven;
+{|
+|-
+|| '''Biologie''' || '''''Milieufilosofie'''''
+|-
+|| '''Geschiedenis''' || '''''Geschiedfilosofie'''''
+|-
+|| '''Godsdienst''' || '''''Godsdienstfilosofie'''''
+|-
+|| '''Gym''' || '''''Yoga'''''
+|-
+|| '''Natuurwetenschappen''' || '''''Metafysica en natuurfilosofie'''''
+|-
+|| '''Wetenschap en technologie'''  || '''''Wetenschapsfilosofie'''''
+|-
+|| '''Taal''' || '''''Taalfilosofie'''''
+|-
+|| '''Wiskunde''' || '''''Logica'''''
+|}
+
+===Zie ook===
+Een boeiend boek over de filosofie dat veel in het voortgezet onderwijs wordt gebruikt is "{{Wp|De_wereld_van_Sofie|De wereld van Sofie}}".
+
+{{Opmaak | Voettekst}}

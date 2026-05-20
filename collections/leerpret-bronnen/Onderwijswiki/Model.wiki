@@ -1,0 +1,32 @@
+{{Opmaak}}
+
+In een complexe module zoals [[Module:Layout]] is het essentieel om gegevens te scheiden van de logica en de weergave.
+Dit noemen we het '''Model'''.
+
+== Het Call-model ==
+Het hart van de Layout-module is het `Call`-model.
+Dit model fungeert als een "reiskoffer" die alle informatie verzamelt die nodig is om een pagina te renderen.
+
+Wanneer een aanroep binnenkomt, wordt er een nieuw `Call`-object geïnitialiseerd:
+
+<pre>
+local call = CFG.INCLUDE( environment, "call" ).init( CFG, environment );
+</pre>
+
+=== Waarom een Model? ===
+Door een specifiek model te gebruiken, voorkomen we dat we losse variabelen overal doorheen moeten sturen.
+Alle relevante data zit in één object:
+* De parameters van de gebruiker.
+* De instellingen van de omgeving.
+* De status van de validatie (bijv. `call.pass`).
+
+== Andere Modellen ==
+Naast de `Call` zijn er gespecialiseerde modellen in de Layout-module:
+* '''Inventory''': Beheert de beschikbare onderdelen en hun eigenschappen.
+* '''Convert''': Zorgt voor de omzetting van ruwe data naar bruikbare types.
+* '''Response''': Verzamelt de resultaten van verschillende render-stappen tot één eindresultaat.
+
+Door deze scheiding blijft de code overzichtelijk en testbaar.
+Als we iets willen veranderen aan hoe gegevens worden opgeslagen, hoeven we alleen het Model aan te passen, zonder dat de View of de Content hiervan last hebben.
+
+{{Opmaak | Voettekst}}

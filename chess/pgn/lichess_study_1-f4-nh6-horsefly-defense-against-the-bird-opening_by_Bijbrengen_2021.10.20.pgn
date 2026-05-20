@@ -1,0 +1,86 @@
+[Event "1. f4 Nh6: Horsefly Defense against the  Bird Opening: Nh6...d5...e6...dxe4"]
+[Date "2021.10.25"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A02"]
+[Opening "Bird Opening: Horsefly Defense"]
+[StudyName "1. f4 Nh6: Horsefly Defense against the  Bird Opening"]
+[ChapterName "Nh6...d5...e6...dxe4"]
+[ChapterURL "https://lichess.org/study/Rmz2tVUc/spGZTqKX"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.10.25"]
+[UTCTime "06:17:59"]
+[ChapterMode "gamebook"]
+
+1. f4 Nh6 2. Nf3 d5 3. Nc3 e6 4. e4 dxe4 5. Nxe4 *
+
+
+[Event "1. f4 Nh6: Horsefly Defense against the  Bird Opening: Nh6...d5...Bg4...Nc6"]
+[Date "2021.10.24"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A02"]
+[Opening "Bird Opening: Horsefly Defense"]
+[StudyName "1. f4 Nh6: Horsefly Defense against the  Bird Opening"]
+[ChapterName "Nh6...d5...Bg4...Nc6"]
+[ChapterURL "https://lichess.org/study/Rmz2tVUc/4jV1wbOn"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.10.24"]
+[UTCTime "09:46:33"]
+[ChapterMode "gamebook"]
+
+1. f4 Nh6 2. Nf3 d5 3. Nc3 Bg4 4. e3 Nc6 5. h3 Bxf3 *
+
+
+[Event "1. f4 Nh6: Horsefly Defense against the  Bird Opening: Nh6...e6...d5...Be7"]
+[Date "2021.10.20"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A02"]
+[Opening "Bird Opening: Horsefly Defense"]
+[StudyName "1. f4 Nh6: Horsefly Defense against the  Bird Opening"]
+[ChapterName "Nh6...e6...d5...Be7"]
+[ChapterURL "https://lichess.org/study/Rmz2tVUc/PJTFZYNw"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.10.20"]
+[UTCTime "16:56:07"]
+[ChapterMode "gamebook"]
+
+{ Open with the Bird! To drill more variations on the Bird opening https://lichess.org/study/qfz5RN62 or for other creative openings https://lichess.org/study/fj7xMIag. }
+1. f4 Nh6 2. Nf3 e6 3. e4 d5 4. Nc3 Be7 5. d4 *
+
+
+[Event "1. f4 Nh6: Horsefly Defense against the  Bird Opening: Nh6...g6...d5"]
+[Date "2021.10.25"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A02"]
+[Opening "Bird Opening: Horsefly Defense"]
+[StudyName "1. f4 Nh6: Horsefly Defense against the  Bird Opening"]
+[ChapterName "Nh6...g6...d5"]
+[ChapterURL "https://lichess.org/study/Rmz2tVUc/YcntlNcH"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.10.25"]
+[UTCTime "09:05:57"]
+[ChapterMode "gamebook"]
+
+1. f4 Nh6 2. Nf3 g6 3. d3 d5 *
+
+
+[Event "1. f4 Nh6: Horsefly Defense against the  Bird Opening: Nh6...g6...Bg7...d5...dxe4...Qxd1+"]
+[Date "2021.10.24"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A02"]
+[Opening "Bird Opening: Horsefly Defense"]
+[StudyName "1. f4 Nh6: Horsefly Defense against the  Bird Opening"]
+[ChapterName "Nh6...g6...Bg7...d5...dxe4...Qxd1+"]
+[ChapterURL "https://lichess.org/study/Rmz2tVUc/qzTVr8ix"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.10.24"]
+[UTCTime "08:50:21"]
+[ChapterMode "gamebook"]
+
+1. f4 Nh6 2. Nf3 g6 3. d3 Bg7 4. e4 d5 5. Be2 dxe4 6. dxe4 Qxd1+ 7. Bxd1 *
+
+

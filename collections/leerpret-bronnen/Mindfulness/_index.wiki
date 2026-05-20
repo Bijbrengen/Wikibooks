@@ -1,0 +1,13 @@
+{{Opmaak
+| Titel = Mindfulness
+| Object = Boek
+| Bron = Mindfulness & Creativity.png
+| Definitie = {{Wp|Mindfulness|Mindfulness}} is een training in alertheid op alles - zintuigelijke waarnemingen, gedachten of emoties - wat zich voordoet in de eigen geest op het huidig moment.
+| Beschrijving = Mindfulness (स्मृति in Sanskriet, 念 in het Chinees, ネン in het Japans) is je herinneren aan wat er werkelijk is, de geest die in het nu is, zonder een slaaf te zijn van wat er zich voordoet.<br>Dit boek is bedoeld om te onderbouwen dat mindfulness een gedegen behandelmethode is gebaseerd op wetenschappelijk onderzoek.<br>Het boek toont hoe er gebruik kan worden gemaakt van bewezen psychoanalytische theorieën en cognitieve leertheorieën.
+| Formaat = html
+| Voortgang = 75
+| Support = Signaleer
+| Referentie = wikipedia
+| Collectie = Zelftherapie
+| Onderdeel = Concept, Onderwijs, MBSR, Kabat-Zinn, MBCT, Karma, Interzijn, Lucide droom, Schaken
+}}

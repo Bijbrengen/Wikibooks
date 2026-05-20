@@ -1,0 +1,227 @@
+{{Opmaak}}
+De toekomst van het onderwijs ligt in de samensmelting van technologie en pedagogie, een gebied waar toekomstige onderwijstechnologen een cruciale rol zullen spelen. Als onderdeel van een vernieuwende aanpak, is hier een educatief programma gericht op het samenvoegen van de wereld van codering met het rijke domein van het onderwijs. Dit programma is ontworpen om leerlingen uit te dagen zowel op het gebied van ICT als op pedagogisch gebied ethische hacktechnieken toe te passen, met als uiteindelijk doel het verbeteren van het welzijn en geluk in het onderwijs.
+
+== Zelfregulering ==
+[[Bestand:Mate van vrijheid.png|thumb|300px|left|Mate van vrijheid en ondernemendheid in het zelf bepalen van je eigen leerproces als onderwijstechnoloog]]
+Van een onderwijstechnoloog wordt een bepaalde mate van zelfregulering van zijn  eigen leren verwacht. Hij is in meer of mindere mate een onderwijsarchitect van zijn eigen onderwijs in onderwijstechnologie. Een voorbeeld hoe men dat samen met een team kan organiseren is weergegeven in bovenstaande figuur en een inhoud die daaruit voorkomt ziet men in het rest van dit hoofdstuk. Er is daarbij gekozen voor een ondernemende aanpak.
+
+=== Ondernemend leren ===
+Ondernemend leren draait om het nemen van initiatief en het ontwerpen van het eigen leertraject. Het is wellicht niet voor iedereen even makkelijk, maar hier zijn enkele richtlijnen om men op weg te helpen:
+
+==== Samenwerking ====
+Als men het lastig vindt om zelf initiatief te nemen, kan men op zoek gaan naar medesdtudenten die een project starten waarin men geïnteresseerd is en zich hierbij aansluiten. Op deze manier kan men deelnemen aan de initiatieven van ondernemendere studenten, vergelijkbaar met een werknemer die zich aansluit bij een ondernemer.
+
+==== Differentiatie ====
+Er kan gedifferentieerd worden op basis van onderwerp, niveau en eventueel vorm. Als men meer begaafd is, kan men de vrijheid nemen om de leerdoelen op een dieper en zelfstandiger niveau te bereiken. Als men het lastig vindt om de klas te volgen, kan er een andere challenge gekozen worden die beter past bij het eigen kunnen.
+
+==== Creatieve Verkenning ====
+Men wordt aangemoedigd om creatief te zijn en niet slechts de gebaande paden te volgen. Door de gewenste leerweg aantrekkelijk te maken, wordt de intrinsieke motivatie versterkt. Men kan bijvoorbeeld gebruik maken van platforms of een ELO om op een interactieve manier te leren.
+
+==== Actief Leren ====
+Het gaat erom wat men wil onderzoeken of ontwerpen, en dan door vallen en opstaan tot nieuwe inzichten te komen. Men kan elkaar helpen om de leerdoelen te begrijpen en te bereiken. Het is goed als iemand initiatief neemt, zelfs als het een andere richting op gaat dan verwacht. Men moet niet worden geremd om het tempo van de docent te volgen, maar moet juist worden geprikkeld om vooruit te werken.
+
+==== Open Communicatie ====
+Als men iets anders doet dan gepland, is het belangrijk om te begrijpen waarom men deze keuze heeft gemaakt. Men kan worden aangemoedigd om een andere weg te kiezen die leidt tot actief leren naar de leerdoelen, maar het moet wel voelen als een eigen keuze.
+
+==== Observatie en Analyse ====
+Het centrale principe van ondernemend leren is het inspelen op wat men individueel of als groep nodig heeft. Dit vraagt om observatie en analyse. Leren moet een activiteit zijn van de lerende, niet van de docent. Kijk daarom wat er nodig is om te leren en vraag minimale maar effectieve interventies of hulp.
+
+=== Challenge ===
+Binnen het raamwerk van ondernemend leren, wordt er gewerkt met challenges. Idealiter bedenkt men zelf een eigen challenge, alhoewel dit niet voor iedereen even haalbaar is.
+
+==== Zelfbedachte Challenges ====
+Het zelf bedenken van een challenge is een stap die in de praktijk van een kleine groep studenten kan worden verwacht. Er is een overgangsperiode nodig, aangezien men in andere lessen niet gewend is aan deze aanpak. Na enkele challenges, om enige basis te bouwen, stapt men af van vooraf bedachte oplossingen en wordt men aangemoedigd om met iets nieuws te komen. Dit kan bijvoorbeeld door mogelijke antwoorden als voorbeelden te delen (bijvoorbeeld op Github) en te prikkelen om spelenderwijs, verkennend, en onderzoekend te leren.
+
+==== Taak-Gestuurde Challenges ====
+Voor de minder ondernemende studenten kan een duidelijk uitgewerkte challenge wenselijk zijn, al spreken we dan meer van een taak, opdracht of instructie. Dit kan worden opgelost door de uitwerking van een challenge als een voorbeeld te volgen. Op deze manier kan men zien hoe een challenge wordt vertaald in concrete acties en taken.
+
+==== Adaptieve Aanpak ====
+Een grotere groep kan een bestaande voorbeeld challenge kiezen en hier een eigen invulling aan geven, terwijl een andere groep de voorbeeld challenge precies kan nadoen. Het is belangrijk om zichzelf niet te dwingen ondernemend te zijn, maar de aanpak aan te passen aan de eigen stijl van leren. 
+
+==== Uitdagende Elementen ====
+Het is essentieel dat een challenge open en tegelijkertijd uitdagend blijft. Men streeft naar hoge (leer)doelen, maar deze kunnen worden verlaagd als blijkt dat het doel te hoog gegrepen is voor een student.
+
+==== Feedback en Coaching ====
+Regelmatige feedback vragen is cruciaal om de onzekerheid die gepaard kan gaan met hoge doelen te compenseren. Een hoge mate van betrokkenheid kan het gebrek aan gedetailleerde instructies compenseren, waardoor er ter plekke ingespeeld kan worden op de behoeften en wensen van de individuele leerling.
+
+==== Intrinsieke Motivatie ====
+Een goede challenge moet de student intrinsiek motiveren. Het is de uitdaging voor de begeleider om aantrekkelijke challenges te vinden die passen bij de interesses van de student binnen een bepaald ICT-onderwerp. Zoek dus een kundige begeleider is het advies.
+
+==== Samenwerking ====
+Ondernemend leren valt onder coöperatief gepersonaliseerd leren, waarbij men enerzijds op maat leert volgens eigen stijl en wensen, maar dit niet alleen doet. In ondernemend leren wordt de samenwerking geconcretiseerd en inzichtelijk door de rollen en taken die men in de onderneming heeft. Goede challenges stimuleren studenten om samen te werken, niet door simpelweg samenwerking te eisen, maar door de lat zo hoog te leggen dat men ervaart dat deze alleen samen te bereiken is.
+
+=== Eduscrum ===
+[[Bestand:Scrum.png|thumb|Eduscrum]]
+[[Bestand:Nexus Sprint Backlog.jpg|thumb|Sprint Backlog]]
+[[Bestand:From minimum viable product to more complex product.png|thumb|Van een minimum viable product tot een complex product]]
+
+==== Hackathon ====
+Het concept van een hackathon kan worden ingebed in een educatieve setting om het ondernemend leren van ICT te stimuleren. Door het toepassen van Scrum, een agile projectmanagementmethode, kunnen studenten in teams samenwerken aan ICT-gerelateerde uitdagingen binnen een gestructureerde, maar flexibele leeromgeving. Hieronder wordt uiteengezet hoe men Scrummend een hackathon kan invullen en hoe dit bijdraagt aan ondernemend leren:
+
+==== Scrum ====
+{{Wp|Scrum_(projectmanagementmethode)|Scrummen}} is een ondernemend manier om producten te ontwikkelen die in de technologie vrij gangbaar is. Vanuit een educatie perspectief kan men spreken van vaardigheidsontwikkeling wat zich uit een producten die men kan vervaardigen daarmee. In de laatste activiteit van de scrum planning is gekozen voor de {{Wp|Meetup|meetup}} als vorm om de kennis met elkaar en de buitenwereld te delen.
+
+==== Eigen werk ====
+De uitdaging is dus om tot een eigen programma te komen welke zal worden gepresenteerd tijdens een workshop op een meetup en zou kunnen worden beschreven in een artikel in een  encyclopedie zoals wikipedia of wikibooks. Het idee is in korte sprints naar dit doel toe te werken. Een sprint begint altijd met een planning. Hierin bepaal je met wie je wilt samenwerken en wat iedereen kan bijdragen aan het team. Een goed team bestaat niet alleen uit vrienden, maar ook uit mensen die elkaar goed aanvullen. Men kan kiezen om een voorbeeld sprint te volgen, of men kan zelf een challenge bedenken.
+
+==== Sprints ====
+[[Bestand:Sprints en doen.png|thumb|De relatie tussen sprints en meer zelfstandige vormen van doen]]
+Elke keer dat men bij elkaar komt, start men met een mini-vergadering waarin men bespreekt wat men heeft gedaan en wat men de volgende keer zal doen. Dit noemen we een scrum en dat doet men drie keer per sprint. Aan het eind van elke sprint is er een review waarin men laat zien wat men heeft bereikt. Hier leert men van en men bepaalt eveneens wat men de volgende keer beter kan doen.
+
+# '''Start Sprint:''' Deze sprint is bedoeld om zich te verdiepen in het maken van een programma.
+# '''Tussen Sprint:''' In deze sprint verdiept men zich in een zelf gekozen specialisatie zoals Artificial Intelligence, Blockchain of een ander relevant onderwerp.
+# '''Oefen Sprint:''' Tijdens deze sprint voegt men de basis en de specialisatie samen in één challenge.
+# '''Eind Sprint:''' De uitdaging in deze sprint is om te komen tot een zelfbedacht en werkend eindproduct.
+
+== Cursus ==
+
+==== Basisprincipes van Ethisch Hacken in Onderwijs en ICT ====
+In deze module duiken we in de beginselen van ethisch hacken, zowel in de ICT als in het onderwijs. Ook verkennen we hoe deze twee velden kunnen worden samengevoegd om het welzijn en geluk te verbeteren.
+==== Agile Methodologie in Educatieve Technologie Projecten ====
+Hier introduceren we de agile methodologie, inclusief sprints en scrums, als een effectieve aanpak voor projectbeheer in onderwijstechnologie-initiatieven.
+==== Creativiteit en Innovatie in Technologie en Onderwijs ====
+Deze module stimuleert leerlingen om hun nieuwsgierigheid en ondernemerschap te gebruiken om het geleerde op creatieve wijze toe te passen, verder dan oorspronkelijk bedoeld.
+==== Collaboratieve Probleemoplossing en Communicatie ====
+De focus ligt op het ontwikkelen van vaardigheden zoals samenwerken, nadenken, participeren, oplossen, creëren en communiceren, allemaal essentieel voor succes in onderwijstechnologieprojecten.
+==== Specialisatie en Teamwerk ====
+Hoewel elke cursus onafhankelijk kan worden gevolgd, moedigt deze module leerlingen aan om een basiscursus te volgen, gevolgd door een specialisatiecursus, waardoor verschillende expertises in een team kunnen worden gebracht.
+==== Evaluatie van Hacks voor Geluksverbetering en Technische Bekwaamheid ====
+Deze module richt zich op het evalueren van de kwaliteit van ethische hacks op basis van hun potentieel om geluk te verbeteren en technische bekwaamheid, om zo de verworven competenties van de leerlingen vast te stellen.
+
+Dit programma is bedoeld om een solide basis te leggen voor toekomstige onderwijstechnologen, hen uit te rusten met de nodige vaardigheden en kennis om te excelleren in deze opwindende en snel evoluerende discipline.
+
+== Voorbeeld ==
+=== Basis ===
+[[Bestand:Product app.png|thumb|Manier om een basiscursus in onderwijstechnologie vorm te geven]]
+Voordat je begint aan de expert modules voor onderwijstechnologen, is het aan te bevelen de volgende basiseenheden te doorlopen om een solide fundament te leggen voor je verdere studie en praktijk in de discipline van codering en onderwijstechnologie. Om het zo ondernemend mogelijk in te richten wordt denken we in concepten als productontwikkeling, {{Wp|Meetup|meetups}} om van elkaar te leren en artikelen om kennis met anderen te delen. Daarna wordt geadviseerd enkele specialisaties toe te voegen als basis om op verder te bouwen.
+
+==== Game ====
+: '''Doel''': Leer hoe je mensen kunt vermaken door spelletjes te maken met of via de computer.
+: '''Kernpunten''':
+: Ontdek de basisprincipes van gamification en Scratch. Om te weten hoe men het best een game kan bouwen, is het natuurlijk handig dat men zelf games speelt zodat men de principes van wat een game aantrekkelijk maakt, leert. We nemen in dit voorbeeld het spel Astroneer. De uitdaging is een fabriek zo te maken en te runnen dat als iemand grond (soil) in de grondverwerker (Soil Centrifuge) plaatst, deze na extractie van organische grondstoffen (organic), meteen worden omgesmolten in koolstof (Carbon), deze met verbindingen (compound) door het chemische lab worden omgezet in plastic en daarna worden geplaatst op de rover voor transport. In feite is dit bouwen en runnen al een vorm van programmeren!
+: Creëer je eigen game als een praktisch project. Een game kan je spelenderwijs iets leren over jezelf. Wanneer zit je in een echte leven in een survival of een creative mode? Wat heeft je voorkeur en waarom?
+
+==== Website ====
+: '''Doel''': Leer hoe je via een website kunt communiceren met andere mensen.
+: '''Kernpunten''':
+: Ontdek hoe een website is opgebouwd uit verschillende interactieve onderdelen. Hoe kan iemand met een eigen YouTube kanaal ineens heel veel extra abonnees hebben? Hint; het werkt alleen op het aangepast scherm en zolang men de pagina niet ververst. Extra hint; rechtermuisknop -> Inspecteren. Men kan zelfs de interactie met de gebruiker aanpassen door zaken binnen de script tags te veranderen.
+: Creëer je eigen website als een praktisch project. Wat je zou willen doen om met een website de wereld beter te maken? Denk bij "beter" eerder aan gelukkigere mensen dan aan meer comfort voor mensen.
+
+==== App ====
+: '''Doel''': Leer hoe software de mensheid verrijkt.
+: '''Kernpunten''':
+: Ontdek hoe computercode instructies geeft aan een computer op basis van bepaalde invoer.
+: Creëer je eigen programma als een praktisch project. Wat je zou willen doen om met een app de wereld beter te maken?
+
+==== Embedded System ====
+: '''Doel''': Leer hoe elektronische systemen mensen dagelijks op slimme manieren helpen.
+: '''Kernpunten''':
+: Ontdek welke software is ingebed in verschillende hardware-apparaten.
+: Creëer je eigen embedded system als een praktisch project.
+
+==== IT-bedrijf ====
+: '''Doel''': Leer hoe IT-bedrijven hebben bijgedragen aan een betere wereld.
+: '''Kernpunten''':
+: Ontdek hoe je een IT-idee kunt vertalen naar een menslievende innovatie.
+: Start je eigen onderneming als een praktisch project.
+
+Deze basiscursussen zijn ontworpen om je een breed overzicht en praktische vaardigheden te geven in verschillende gebieden van informatietechnologie en codering, die essentieel zijn voor het succes in de verdere modules van Coderende Onderwijstechnologen in Actie.
+
+=== Specialisatie ===
+==== AI ====
+Deze cursus gaat over kunstmatige intelligentie. In deze specialisatiecursus leer je hoe kunstmatige intelligentie (AI) de mensheid het beste kan dienen. Je ontdekt communiceren, denken en leren bij AI en al doende bij jezelf. Je maakt zo software "wijzer". De levels zijn;
+# '''''Logica''''': Uitleg over een Reasoning system oftewel hoe komt een computer tot het maken van conclusies.
+# '''''Expertsysteem''''': Uitleg over hoe een computer het denken van deskundigen nabootst en inzet om bepaalde problemen op te lossen.
+# '''''Optimalisatie'''''
+# '''''Statistiek'''''
+# '''''Neurale Netwerken'''''
+# '''''Machine Learning'''''
+Een AI wordt slim omdat een mens hem dat leert. Wat kunnen de AI leren over gebruik van het internet om te voorkomen dat hij een cyber-pester of -crimineel wordt. Welke fatsoensregels die ook voor mensen gelden zou de AI moeten leren? 
+
+Het brein van een AI kan - net als ons brein - gegevens ontvangen, verwerken en opslaan (data) en daarmee redeneren (logica) op een manier dat slim overkomt (intelligentie). Ervaringen en gevoelens worden opgeslagen in hersens. Hoe de neus van je ouders en grootouders eruit zien is opgeslagen in het DNA van jouw cellen. Een AI zal zich met zijn geheugen identificeren, de opgeslagen data en regels. Hoe kan men als mens weten wie men is ondanks het geheugen? Waarom is het voor mens een een voordeel om te beseffen dat het niet alles weet? Hoe zou dat zijn voor een AI?
+
+==== Blockchain ====
+De cursus heeft als doel dat men leert met Blockchain technologie te werken. De levels waarop men dit kan doen zijn;
+# '''''Cryptografie''''': Maak een eigen geheim schrift door een manier te bedenken om een boodschap te versleutelen. Een handigheid daartoe is bijvoorbeeld een Geheimschrift wiel te maken. Bouw een programma dat een gecodeerd bericht weer ontcijfert. In de Tweede Wereldoorlog gebruikten de Duitsers een bijzondere slimme machine om berichten te versleutelen; de Enigma-machine. Toch werd deze gekraakt omdat de gebruikers enkele fouten maakten in het gebruik ervan. Zo plaatsten de Duitsers de zin 'Heil Hitler' aan het einde van elk versleuteld bericht en schreven ze vaak te lange boodschappen (meer dan 250 karakters). Je hebt ook geheimschrift die je niet meer kunt ontcijferen met een sleutel; dit noemen we een hash. 
+# '''''Netwerken''''': De Blockchain heeft als eigenschap dat het gedeeld wordt. Vergelijk dit met een game op je eigen computer geïnstalleerd, maar waarin je samen speelt door berichten door te geven aan andere spelers. In een Blockchain noemen ze de spelers nodes of knooppunten. Vaak zoeken mensen op Wikipedia voor betrouwbare informatie over een onderwerp. Een blockchain bevat net als Wikipedia inhoud die is gecontroleerd, elders opnieuw kan worden gebruikt en voortdurend wordt uitgebreid. Op Wikipedia checkt een groep ervaren gebruikers de bijdragen van nieuwe of anonieme gebruikers. CryptoZombies is een interactieve codeschool die je leert om slimme contracten in Solidity te schrijven door je eigen spel met crypto-verzamelobjecten te bouwen. De levels zijn;
+# '''''Datastructuren'''''
+# '''''Grootboek'''''
+# '''''Blockchain'''''
+==== Business Intelligence ====
+In deze specialisatiecursus leert men mensen te helpen bij het maken van verstandige beslissingen. Men ontdekt uit digitale informatie hoe iets is gegaan en maakt dat deze data-analyse in projecten automatisch verloopt. Business intelligence (BI) is bedoeld voor ondernemers om door middel van (digitale) gegevens inzicht te krijgen wat slim is om te doen om je onderneming succesvoller te maken. Het wordt gezien als een van de belangrijkste onderdelen van een onderneming. De levels zijn;
+# '''''Search Engine Optimalisatie''''': Bestudeer Google Analytics en hoe men dit kan gebruiken om een onderneming succesvoller te maken. 
+# '''''Google Analytics'''''
+# '''''Spreadsheet'''''
+# '''''Luna''''': Luna is een visuele programmeertaal voor gegevensverwerking.
+# '''''Datamining'''''
+==== Computer-aided design ====
+In deze specialisatiecursus leert men software zo vorm te geven dat mensen er meer van genieten. Men ontdekt ideeën in digitale beelden weer te geven en maakt huisstijlen, plaatjes, animaties en video's. De cursus heeft als doel dat je grafisch ontwerpen leert. Bij Computer Aided Design gaat het erom dat je een idee in je hoofd om leert te zetten in een 2D of 3D beeld. Het is bedoeld om een boodschap aan mensen over te brengen. Dit kan in de vorm van een advertentie/reclame, website, logo, app, etc. De levels zijn;
+# '''''Vormgeving'''''; In moviestarplanet kan men al gamend films maken. Het is dus een mooi voorbeeld voor de koppeling tussen gaming en grafisch ontwerp. Op Leet Hotel kan men een eigen kamer ontwerpen, inrichten en vormgeven. 
+# '''''Beeldverwerking'''''
+# '''''Tekenen met vektoren'''''
+# '''''Videobewerking'''''; Pokemon Go  is een voorbeeld van Augmented Reality. 
+# '''''Computer-aided design'''''
+==== Cybersecurity ====
+In deze specialisatiecursus leert men mensen beschermen tegen cybercriminelen. Men ontdekt door ethisch te hacken mogelijke bedreigingen en maakt beveiligingen tegen virusaanvallen, DDoS-aanvallen en spam. De cursus heeft als doel dat men computers tegen criminelen weet te beschermen. Computerbeveiliging, of cybersecurity of informatietechnologiebeveiliging (IT-beveiliging) is de bescherming van computersystemen. Omdat we steeds afhankelijker worden van deze systemen, denk bijvoorbeeld aan het internet, mobiele telefoons of smart TV's, is dit een heel belangrijke specialisatie. De levels zijn;
+# '''''Hacken''''';  Hoe kun je een hacker in zijn eigen val laten lopen? Geef de Hacker iets lekkers, wat achteraf niet gezond voor hem is. Spoofing is het je voordoen als iemand anders op het internet. Hoe doe je dat met het versturen van een mail? Hoe doe je dat met het inloggen op een apparaat met gezichtsherkenning of vingerafdruk toegang? Hoe kun je doen alsof je vanuit een andere internet adres (ip) contact met een andere computer maakt?
+# '''''Ransomsoftware'''''
+# '''''Social Engineering'''''
+# '''''Denial of service attacks'''''
+# '''''Countermeasures'''''
+==== PHP ====
+In deze specialisatiecursus leert men wat er achter de schermen gebeurt bij mensvriendelijke websites als Wikipedia en Wordpress en ontdekt de programmeertaal PHP. PHP staat voor Hypertext Preprocessor omdat het een scripttaal is om webpagina's te creëren. Men maakt daarmee een webserver applicatie. De levels zijn;
+# '''''Fork'''''
+# '''''Plugin'''''
+# '''''Skin'''''
+# '''''Module'''''
+# '''''Programma'''''
+==== Python ====
+In deze specialisatiecursus leert men dat programmeren niet moeilijk hoeft te zijn. Men ontdekt de veel gebruikte programmeertaal Python voor bijvoorbeeld kunstmatige intelligentie en blockchain en maakt een eigen app. De levels zijn;
+# '''''Fork'''''
+# '''''Plugin'''''
+# '''''Skin'''''
+# '''''Module'''''
+# '''''Programma'''''
+==== Robotica ====
+In deze specialisatiecursus leert men hoe robots kan inzetten om mensen te helpen. Men ontdekt hoe een robot informatie verwerkt en op grond daarvan taken kan uitvoeren en maakt een eigen (ro)bot. De levels zijn;
+# '''''Bots'''''; Maak een account aan op BotStart en bedenk hoe een robot zal reageren op bepaalde vragen en antwoorden. Ontwikkel je eigen chatbot.
+# '''''Robotsturing'''''
+# '''''Sensoring'''''
+# '''''Kinematica'''''
+# '''''Robotarchitectuur'''''
+==== SCSS ====
+In deze specialisatiecursus leert men met vormgeving van het internet mensen verblijden. Men ontdekt hoe men met CSS (Cascading Style Sheets) een webpagina kunt opmaken en maakt een stylesheet voor een website. Cascading Style Sheets (afgekort tot CSS) of Sassy CSS (SCSS) is een manier om het uiterlijk van je website los te koppelen van de inhoud (HTML). Je kunt dit in het HTML document zelf doen, maar de meeste programmeurs zullen bij een complexe website dit in een apart bestand doen. De levels zijn;
+# '''''Syntax'''''
+# '''''Effects'''''
+# '''''Grid'''''
+# '''''Responsive'''''
+# '''''SASS'''''
+
+==== Typescript ====
+In deze specialisatiecursus leert men het internet op mensen te reageren. Men ontdekt Javascript waarmee men interactie kan toevoegen aan een webpagina en maakt een script voor een website. JavaScript zorgt voor interactie met de gebruiker van een webpagina. Het is een basis voor een webpagina, net als HTML en CSS. Javascript wordt namelijk door de browser zelf al begrepen. PHP of Python draaien niet op de compur van de gebruiker, maar van de aanbieder van de pagina (server). De levels zijn;
+# '''''Javascript'''''
+# '''''Functies'''''
+# '''''Objecten'''''
+# '''''Frameworks'''''
+# '''''Typescript'''''
+
+==== Unity ====
+In deze specialisatiecursus leert men plezier beleven in het creëren van software. Men ontdekt programmeren met objecten, acties en gebeurtenissen en maakt interactieve kunstwerken, animaties, muziek en zelfs spelletjes. De bedoeling is dat men leert omgaan met 2D en 3D game engines. De levels zijn;
+# '''''Scratch'''''; Maak een game op Scratch die qua functionaliteit minimaal voldoet aan een combinatie van PAC man en Donkey Kong.
+# '''''Blockly'''''
+# '''''Superpowers'''''
+# '''''GoDot'''''
+# '''''Unity'''''
+
+==== XHTML ====
+In deze specialisatiecursus leert men hoe een browser mensen met elkaar verbindt. Men ontdekt dat een site is geschreven in de HTML taal en maakt de structuur en de teksten van een webpagina. XHTML staat voor eXtensible HyperText Markup Language (XHTML) en is een uitbreiding van HTML (HyperText Markup Language). Met HTML bouw je webpages! De levels zijn;
+# '''''HTML'''''
+# '''''Forms'''''
+# '''''Media'''''
+# '''''Api'''''
+# '''''XHTML'''''
+
+== Zie ook ==
+* [https://web.archive.org/web/20220927232942/https://www.codeniacs.nl/ Codeniacs website]
+
+{{Opmaak | Voettekst}}

@@ -1,0 +1,19 @@
+{|width=300px style="margin: 1em 0 1em 1em;" class="toccolours floatright"
+|
+{{Koptekst/Spel}}
+----
+|-
+|[[File:Schaken.svg|center|100 px]]
+|-
+|style="text-align:center;font-size: 135%;"|[[Schaken voor experts]]
+|-
+|style="font-size: 85%;" align=left|
+
+* [[Schaken_voor_experts/Inleiding|Inleiding]]
+* [[Schaken voor experts/Lesgeven|Studeren]]
+* [[Schaken voor experts/Lesgeven|Lesgeven]]
+* [[Schaken voor experts/Trainen|Trainen]]
+----
+|}<noinclude>
+[[Categorie:Sjablonen voor een bepaald boek]]
+</noinclude>

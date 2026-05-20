@@ -1,0 +1,1 @@
+﻿{{Opmaak|Beschrijving=Dit is de template-bibliotheek van de [[Module:Layout]]. In deze bibliotheek worden bepaalde gegevens van een sjabloon in een wikipagina opgehaald. Daarmee kan een andere pagina informatie ophalen en die verwerken in de eigen pagina.}}

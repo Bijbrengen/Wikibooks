@@ -1,0 +1,13 @@
+{{Opmaak
+| Titel = Acceptance and commitment therapy
+| Object = Boek
+| Bron = Acceptance and commitment therapy.webp
+| Definitie = [[w:Acceptance and commitment therapy|Acceptance and commitment therapy]] is een techniek om op directe wijze gedrag constructief te veranderen.
+| Beschrijving = '''Acceptance and commitment therapy''' (ACT) is een vorm van therapie waarin<br>'''Acceptance''': de cliënt een omarmende houding hanteert tegen hetgeen men niet kan veranderen en<br>'''Commitment''': zich alleen toewijdt op wat rechtstreeks bij te sturen is.<br>De cliënt wordt geholpen om contact te maken met het hier en nu en te accepteren wat er is.<br>De cliënt leert gedachten los te koppelen van gedrag door zich er niet mee te identificeren.<br>De vrijheid die dit oplevert is toegewijd aan het realiseren van eigen dieper gelegen waarden.
+| Formaat = html
+| Voortgang = 40
+| Support = Signaleer
+| Referentie = wikipedia
+| Collectie = Zelftherapie
+| Onderdeel = Concept, Methode, Theorie, Toepassing
+}}

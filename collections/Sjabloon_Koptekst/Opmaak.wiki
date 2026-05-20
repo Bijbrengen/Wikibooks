@@ -1,0 +1,18 @@
+{|align=right Xwidth=300px style="margin: 1em 0 1em 1em;" class="toccolours"
+|
+{{#IfExist: {{ROOTPAGENAME}}/Boekinhoud | {{:{{:{{ROOTPAGENAME}}/Boekinhoud | Boekenreeks }}/Boekenreeks | Koptekst}} | Vul boekenreeks in [[{{ROOTPAGENAME}}/Boekinhoud]] }}
+----
+|-
+|
+{{#IfExist: {{ROOTPAGENAME}}/Boekinhoud |  [[Bestand:{{:{{ROOTPAGENAME}}/Boekinhoud | Logo}}|100px|Logo|center]] | Vul logo in [[{{ROOTPAGENAME}}/Boekinhoud]] }}
+|-
+|style="text-align: center; font-size: larger;"|[[{{ROOTPAGENAME}}]]
+|-
+|style="font-size: smaller;" align=left|
+
+{{#IfExist: {{ROOTPAGENAME}}/Boekinhoud | {{:{{ROOTPAGENAME}}/Boekinhoud | Koptekst}} }}
+----
+|}<noinclude>
+[[Categorie:Sjablonen voor een bepaald boek]]
+
+</noinclude>

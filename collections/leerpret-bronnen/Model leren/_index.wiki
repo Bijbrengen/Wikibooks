@@ -1,0 +1,13 @@
+{{Opmaak
+| Titel = Model leren
+| Object = Boek
+| Bron = Zo moeder zo dochter ladiesrun Rotterdam.jpg
+| Definitie = {{Wp|Model leren|Model(-)leren}} is een vorm van {{Wp|Opvolgend leren|opvolgend leren}} waarin de lerende zichzelf ontwikkelt door anderen na te bootsen.<br>De lerende gaat in zijn leerproces het voorbeeldgedrag van rolmodel bestuderen om zo zich [[leren leren|bewust die eigen te maken]].
+| Beschrijving = Model leren is vooral geschikt voor een lerende met een reproductieve [[leerstijl]] in een bepaalde context die [[Vrij leren|vrij wil leren]].<br>Het wordt in dat geval ervaren als een [[speels leren|speelse vorm van leren]].
+| Formaat = html
+| Voortgang = 25
+| Support = Signaleer
+| Referentie = wikipedia
+| Collectie = Leren
+| Onderdeel = Inleiding, Reproductief, Methode, Vrijheid
+}}

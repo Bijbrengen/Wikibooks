@@ -1,0 +1,3 @@
+- Vergrootglas op voorpagina met zoektermen vanuit de aanroepende pagina zelf al ingevuld
+- Voortgang symbool moet ook aanklikbaar zijn en moet dan naar de fase categorie gaan.
+- Werkt de referentie parameter dat naar Wikipedia zou wijzen wel bij reeksen?

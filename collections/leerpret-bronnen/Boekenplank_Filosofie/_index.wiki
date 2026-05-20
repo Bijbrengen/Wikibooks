@@ -1,0 +1,16 @@
+{{Kolommen automatisch|inhoud=
+*[[Bekende filosofen uit de geschiedenis]]{{25%|Datum=Volgens infobox}}
+*[[Filosofisch onderwijs]]{{100%|Datum=Volgens infobox}}
+*[[Filosofisch woordenboek]]{{25%|Datum=15 februari 2010}} 
+*[[Geschiedenis van de filosofie]]{{75%|Datum=24 augustus 2010}} 
+*[[Heraclitus over de natuur]]{{50%|Datum=15 februari 2010}}
+*[[Inleiding tot de westerse wijsbegeerte]]{{25%|Datum=Volgens infobox}}
+*[[Michel de Montaigne]] {{25%|Datum=Volgens infobox}}
+*[[Plato]] {{100%|Datum=Volgens infobox}}
+*[[Spinoza Ethica]] {{75%|Datum=Volgens infobox}}
+}}
+
+{{Boekenplanken}}
+
+[[Categorie:Filosofie]]
+[[Categorie:Boekenplanken| ]]

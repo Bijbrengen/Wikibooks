@@ -1,0 +1,157 @@
+[[File:Layout template.png|frameless|300px|link=Module:Layout|right]]
+== Algemeen ==
+:Het sjabloon '''Opmaak''', maakt automatisch een wikibooks object op. Objecten kunnen onderdelen van pagina's zijn of de pagina zelf. Ook deze pagina is opgemaakt met '''&#123;&#123;Opmaak|...&#125;&#125;'''. 
+:Los van het gemak en de snelheid zorgt het gebruik maken van het sjabloon dat allerlei objecten zoals hoofdstukken, boeken, boekreeksen, bronnen enzovoort een uniforme opmaak en correcte verwijzingen naar elkaar krijgen. 
+: Suggesties zijn welkom op de [[Overleg_sjabloon:Opmaak|overlegpagina]]. De test resultaten zijn te vinden op de [[Sjabloon:Opmaak/Test|subpagina Test]].
+
+=== Gebruik ===
+Plaats rondom het op te maken ''&lt;object&gt;'' het sjabloon &#123;&#123;Opmaak&#125;&#125;. Het opmaken gebeurt vanzelf. Bijsturen kan aan de hand van parameters. Het sjabloon helpt je als je wilt bij het gebruik en beschermt je tegen fouten. Door de parameter '''Support''' op ''Help'' (meest uitgebreid), ''Debug'' of ''Signaleer'' te zetten, kun je deze hulp inschakelen.
+
+=== Parameters ===
+
+{|class="wikitable"
+!Parameter||Omschrijving||Geldige waarden||Standaardwaarde
+|-
+|'''Object'''||type object||''Beschrijving'', ''Boek'', ''Boekenplank'', ''Categorie'', ''Concept'', ''Definitie'', ''Gebruiker'', ''Gradiënt'', ''Hoofdstuk'', ''Infobox'', ''Inhoudsopgave'', ''Leeftijd'', ''Logo'', ''Module'', ''Overleg'', ''Paragraaf'', ''Persoon'', ''Reeks'', ''Schaak'', ''Schilderij'', ''Sjabloon'', ''Voortgang'', ''Wikijunior'', ''Wikipedia''||De eerste naamloze parameter. Indien niet gedefinieerd  bepaalt de context.
+|-
+|'''Support'''||wijze van support bij het gebruik||
+
+<table class="wikitable">
+    <tr><th></th>                <th colspan="2">Fouten</th>              <th colspan="2">Werking</th>           </tr>
+    <tr>   <th>Waarde</th>       <th>Oplossen</th>      <th>Weergeven</th><th>Beschrijven</th><th>Toelichten</th></tr>
+    <tr><td><i>Help</i></td>     <td>ja</td>            <td>ja</td>       <td>ja</td>         <td>ja</td>        </tr>
+    <tr><td><i>Debug</i></td>    <td>ja</td>            <td>ja</td>       <td>ja</td>         <td>nee</td>       </tr>
+    <tr><td><i>Signaleer</i></td><td>ja</td>            <td>ja</td>       <td>nee</td>        <td>nee</td>       </tr>
+    <tr><td><i>Negeer</i></td>   <td>ja</td>            <td>nee</td>      <td>nee</td>        <td>nee</td>       </tr>
+</table>
+|| ''Negeer'': toon niet de werking en geen fouten, maar los ze wel op.
+|-
+|'''Formaat'''||wijze van weergeven||''Tekst'' voor alleen de waarde en ''HTML'' voor de opgemaakte waarde<br>Bij opmaak hele pagina: ''Koptekst'' of ''Voettekst''|| ''HTML''
+|-
+|'''Orientatie'''||oriëntatie van het object||''Landscape'' of ''Portrait''. Bij schaken ''Wit'' of ''Zwart''||''Portrait'' of ''Wit''
+|-
+|'''Kleur'''||kleurenpalet voor de weergave||<u>Een of meerdere</u> hexadecimale kleurcodes (maximaal drie). Ten aanzien van de default waarden kan men zo achtereenvolgens blauw, oranje en paars door eigen kleuren vervangen|| #846dab, #f26522, #bd1a8d
+|-
+|'''Titel'''||titel van het object||Vrije keuze binnen de wikisyntax voor titels||Bij een pagina de paginatitel
+|-
+|'''Definitie'''||betekenis van het object||Vrije keuze binnen de wikisyntax voor beschrijvingen||Leeg
+|-
+|'''Voortgang'''||progressie van het object||Een geheel getal tussen 0 en 100. Een % mag erachter.||0
+|-
+|'''Bron'''||bronnen waarmee het object wordt gevuld||<u>Een of meerdere</u> geldige wiki- of hyperlinks||Leeg
+|-
+|'''Referentie'''||doorverwijzingen||<u>Een of meerdere</u> verwijzingen||Bij een boek zijn dit de pagina's met de referenties (registers of index)
+|-
+|'''Collectie'''||waar is het object een onderdeel van||<u>Een of meerdere</u> objectverwijzingen||Bij een boek zijn dit de pagina's van de reeksen waar het boek bij hoort.
+|-
+|'''Onderdeel'''||uit welke onderdelen bestaat het object||<u>Een of meerdere</u> objectverwijzingen||Bij een boek zijn dit de pagina's van de hoofdstukken van het boek.
+|}
+Let op!
+* Als er wordt gesproken van <u>een of meerdere</u> waarden, dan dient men die waarden te scheiden door komma's. 
+* In het normale gebruik zal men <b>Object</b><i>=...</i> niet gebruiken, maar gewoon als eerste naamloze parameter het objecttype meegeven of weglaten als het type uit de context blijkt. 
+* Als je een hele pagina wilt opmaken, zorg dan dat alle inhoud in het sjabloon is opgenomen of gebruik de formaat parameter ''Koptekst'' of ''Voettekst''-object respectievelijk bovenin en onderin de pagina als je dat niet wilt.
+* Bij het gebruik van '''Formaat''' = ''Voettekst'' (of simpelweg `{{Opmaak|Voettekst}}`) kun je bronnen toevoegen als onbenoemde parameters. Elke bron volgt een specifieke volgorde, gescheiden door puntkomma's ( ; ):
+*: '''Soort ; Titel ; Link ; Beschrijving ; Bron (optioneel)'''
+*: Voorbeeld: `{{Opmaak | Voettekst | Video ; Introductie ; https://... ; Korte uitleg ; YouTube }}`
+* Bij meerdere sjablonen op dezelfde pagina is het aan te raden bij slechts eentje de '''Support''' parameter te zetten, omdat er anders dubbele meldingen zullen kunnen ontstaan. De gehele aanroepende pagina zelf wordt namelijk ook elke keer gecheckt.
+
+=== Voorbeelden ===
+Op de volgende pagina's vind je voorbeelden van de volgende objecten
+* [[Sjabloon:Opmaak/Test/Book|Boek]]
+* [[Sjabloon:Opmaak/Test/Age|Leeftijd]]
+* [[Sjabloon:Opmaak/Test/Logo|Logo]]
+* [[Sjabloon:Opmaak/Test/Chess|Schaak]]
+* [[Sjabloon:Opmaak/Test/Progress|Voortgang]]
+* [[Sjabloon:Opmaak/Test/Wikijunior|Wikijunior]]
+* [[Sjabloon:Opmaak/Test/Wikipedia|Wikipedia]]
+
+== Objecten ==
+=== Boek ===
+Een boek is de basis van wikibooks en staat normaal in de hoofdnaamruimte. Zijn subpagina's zijn normaliter de hoofdstukken. Met de parameter '''Onderdeel''' kan men deze subpagina's ( ''Hoofdstuk 1, Hoofdstuk 2, ..'' ) in de zelf gekozen volgorde opsommen als volgt <b>&#123;&#123;Opmaak&#124;Object=</b><i>Boek</i><b>&#124;Onderdeel</b><i>= Hoofdstuk 1, Hoofdstuk 2, ..</i><b>&#125;&#125;</b>. Deze opsommingen worden dan als opgemaakte boxen genummerd en zoveel mogelijk van info voorzien. Eventuele spaties in de naam worden gebruikt voor wrapping zodat de boxen niet te breed worden. Men kan deze wrapping uitbreiden door bij lange woorden ''&amp;shy;'' op de plek waar gewrapt mag worden te zetten. Deze code komt niet in de naamgeving van de hoofdstukpagina terug. LET OP: zorg dat ''&amp;shy;'' bij een hoofdstuk als "AAAAAAAAA BBBBBBBBB" de spatie niet weghaalt dus; "AAAAAAAAA &amp;shy;BBBBBBBBB" anders plak het sjabloon de A en B's aan elkaar omdat het niet de intelligentie heeft te weten wat een los woord is!!!
+
+Bij referenties kan men verschillende zaken invullen. Als men daar wikipedia of wikijunior invult, dan zal er een wikilink worden gecreëerd naar respectievelijk wikipedia of wikijunior met dezelfde naam. Wil men een andere naam dan zet men na wikipedia of wikijunior een dubbele punt : en geeft dat de gewenste naam.
+
+=== Hoofdstuk ===
+Subpagina's van een boek zijn meestal bedoeld als hoofdstuk. De kopjes in een hoofdstuk worden gezien als paragrafen. Men kan de niveau 2 paragrafen bij een groter hoofdstuk ook afsplitsen in subpagina's van de hoofdstukpagina. In dat geval dient men de parameter '''Onderdeel''' te gebruiken net als bij een boek om deze te verbinden aan het hoofdstuk, dus bijvoorbeeld <b>&#123;&#123;Opmaak&#124;Object=</b><i>Hoofdstuk</i><b>&#124;Onderdeel</b><i>= Paragraaf 1, Paragraaf 2, ..</i><b>&#125;&#125;</b>, waar ''Paragraaf 1'' de naam is van de subpagina van het hoofdstuk. Ook hier kan men de wrapping uitbreiden door ''&amp;shy;''.
+
+=== Paragraaf ===
+De paragrafen van een hoofdstuk hebben typisch een naamstructuur als ''Boek/Hoofdstuk/Paragraaf 1''. Op dit moment wordt een paragraaf niet verder onderverdeeld dan niveau 2, dus heeft het zetten van de parameter '''Onderdeel''' geen functie voor een paragraaf-object.
+
+=== Reeks ===
+Een reeks is een groep boeken op Wikibooks die een gemeenschappelijk thema delen. Een boek kan als onderdeel van een reeks worden weergegeven door de parameter <b>&#123;&#123;Opmaak&#124;Object=</b><i>Reeks</i><b>&#124;Onderdeel</b><i>= Boek 1, Boek 2, ..</i><b>&#125;&#125;</b> te zetten. Dit gaat net als het definiëren van de hoofdstukken bij een boek. Ook bij een reeks kan men de wrapping bijsturen.
+
+Er zijn echter enkele belangrijke verschillen tussen een boek en een reeks:
+* Een boek vormt een eenheid met de hoofdstukken, waar bepaalde auteurs aan werken, terwijl een reeks niet met de boeken is verbonden en niet door dezelfde auteurs hoeft te worden geschreven.
+* Hoofdstukken zijn subpagina's van een boek en zijn locatiegebonden als één geheel, terwijl een reeks een geheel losstaande pagina is.
+* Een boek kan lid zijn van meerdere reeksen, maar een hoofdstuk hoort bij slechts één boek.
+Daarom is het aan de auteur(s) van een boek zelf of deze wordt gekoppeld aan een of meerdere reeksen door de parameter '''Collectie''' te zetten (<b>&#123;&#123;Opmaak&#124;Object=</b><i>Boek</i><b>&#124;Collectie</b><i>= Reeks 1, Reeks 2, ..</i><b>&#125;&#125;</b>). Pas dan wordt de opmaak van dat boek aangepast met een verwijzing ernaar. Dit voorkomt dat de auteurs van een collectie ongevraagd de opmaak van een boek dat niet door hen is geschreven kunnen aanpassen.
+
+=== Boekenplank ===
+Een boekenplank is een thematische plek voor boeken. De pagina's beginnen met de prefix '''Boekenplank:''' (let op; ze staan gewoon in de hoofdnaamruimte ondanks dat de : anders doet vermoeden). Je maakt ze daarom op met '''&#123;&#123;Opmaak|Object=Boekenplank&#125;&#125;''', dus je moet de '''Boekenplank''' expliciet als '''Object''' noemen, omdat het sjabloon anders ervan uitgaat dat je een voorpagina van een boek aan het opmaken bent. De '''Collectie''' parameter verwijst naar de boekenkast (de boekenplank die hoger in de hiërarchie zit). De boekenplanken worden op de [[Hoofdpagina|hoofdpagina van wikibooks]] vertoond.
+
+=== Inhoudsopgave ===
+Op dit moment zal het sjabloon een "floating" inhoudsopgave laten zien. In HTML wordt de "float" eigenschap gebruikt om de positionering van een element ten opzichte van de omliggende inhoud te regelen. Wanneer een element wordt "gefloat", wordt het verwijderd uit de normale documentenstroom en gepositioneerd aan de linkerkant of rechterkant van het omliggende element, waardoor complexe lay-outs en tekstomloop-effecten mogelijk zijn. 
+
+=== Sjabloon ===
+''Nog niet geïmplementeerd!''
+
+=== Module ===
+''Nog niet geïmplementeerd!''
+
+=== Gebruiker ===
+''Nog niet geïmplementeerd!''
+
+=== Categorie ===
+''Nog niet geïmplementeerd!''
+
+=== Overleg ===
+''Nog niet geïmplementeerd!''
+
+=== Infobox ===
+''Nog niet geïmplementeerd!''
+
+=== Leeftijd ===
+<pre>{{Opmaak|Leeftijd|25-05-2005}}</pre> geeft de leeftijd weer gebaseerd op de datum.
+
+=== Schaakbord ===
+<pre>{{Opmaak
+| Object = Bord
+| Definitie = Barnes Opening
+| Beschrijving = De eerste zet van de Barnes opening is '''f3'''
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|pd|pd|pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |pl|  |  |
+2 |pl|pl|pl|pl|pl|  |pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}</pre> maakt automatisch een schaakbord op.
+
+== Module ==
+Het sjabloon Opmaak gebruikt de LUA scripting in [[Module:Layout]] en al zijn submodules voor de opmaak-functionaliteit. 
+
+=== Architectuur ===
+De architectuur is zo gebouwd dat er niet per ongeluk eindeloze lussen kunnen ontstaan (volg de pijlen om dit te verifiëren). Dat is de bijvoorbeeld de reden dat de '''test'''-modules in geen geval andere modules mogen aanroepen.
+[[File:Opmaak architectuur.png|thumb|600px|Architectuur van het Opmaak sjabloon]]
+* Het '''sjabloon Opmaak''' kan worden aangeroepen vanuit alle <b>wikipagina</b>'s. Dat gaat via een ''sjabloon''-definitie. Het sjabloon Opmaak zal dan ''wikitext'' op de aanroepende plek plaatsen. 
+* Het '''sjabloon Opmaak''' verzorgt een correct aanroep van de '''module Layout''' waarin via de scripting taal LUA een uitgebreidere functionaliteit (eenvoudiger) mogelijk is dan via wikitext en parserfuncties. De aanroep betekent dat de module een ''frame''-object ontvangt waarin de aanroep zelf en wat omgevingsfactoren zit opgeslagen. De module layout geeft een ''Layout'' object terug met alle LUA functies uit de module. In deze architectuur is er voor elke omgeving een aparte functie.
+* De '''module Layout''' dirigeert eerst de aanroep naar de interface waar het frame-object door middel van ''setting''s in de '''configuration''' grondig wordt gecheckt, gecorrigeerd indien nodig en aangevuld, zodat de gegevens altijd correct zijn en daardoor ongeacht de input er altijd een nette output zal komen.
+* De '''interface''' genereert zo een ''call''-object dat het naar de juiste submodule uit het '''systeem''' kan sturen. Zo zal er (zonder dat het systeem vastloopt) ongeacht de aanroep er altijd een ''response'' worden teruggeven.
+* De '''library''' levert functies die zelfstandig functioneren (zonder aanroep van andere functies). Deze functies zijn uitgebreid getest.
+* De '''test''' modules in de module Layout testen de functionaliteit van elk onderdeel van de module Layout. Elke functie in deze onderdelen checkt ook nog zelf de input die het ontvangt.
+
+=== Omgevingen ===
+De module bestaat uit vier omgevingen;
+# De productiesite ('''production''') die je kunt aanroepen via [[Sjabloon:Opmaak]] en de functionaliteit heeft die is geïmplementeerd in het huidig gebruik.
+# De wachtruimte ('''stage''') die je kunt aanroepen via [[Sjabloon:Opmaak/Wachtruimte]] en de functionaliteit heeft die zal worden geïmplementeerd voor toekomstig gebruik.
+# De werkplaats ('''development''') die je kunt aanroepen via [[Sjabloon:Opmaak/Werkplaats]] en waar je nieuwe functionaliteit kunt ontwikkelen.
+# De zandbak ('''sandbox''') die je kunt aanroepen via [[Sjabloon:Opmaak/Zandbak]] en waar je kunt experimenteren zonder perse iets direct te ontwikkelen.
+
+=== Ontwikkelen ===
+Wil je meehelpen de module verder uit te breiden of te verbeteren? Hanteer dan de volgende werkwijze;
+* Alleen bij bugs pas je zaken rechtstreeks op de productiesite aan. Let op dat dit ook in de bijbehorende test moet gebeuren aangezien die blijkbaar de bug niet heeft herkend. Aangezien de bug en je aanpassingen op veel plekken invloed hebben, is het van belang wanneer je de bug op je neemt dat je hem snel en volledig oplost. Volledig betekent dat de aanpassingen alle bestaande tests en verbeterde tests heeft doorstaan.
+* Als je iets wilt toevoegen aan het sjabloon dan begin je (na eventueel wat ge-experimenteer in de zandbak) door op de werkplaats een module aan te maken. Deze kan nieuw zijn of een bestaande submodule (exact dezelfde naam) vervangen. Dan zal in deze omgeving de [[Module:Layout]] deze submodule meenemen als een nieuwe submodule of in de plaats van een bestaande submodule. Als je klaar bent met ontwikkelen (en dat betekent dat je ook een testmodule meelevert aangepast of nieuw) dan plaats je de nieuwe submodules in de wachtruimte. Daar staat het klaar voor anderen om te kijken of de nieuwe functionaliteit gewenst en correct is en in dat geval zal bij de eerst volgende update deze worden meegenomen. Je kunt zelf deze nieuwe of aangepaste functionaliteit al gebruiken via het sjabloon [[Sjabloon:Opmaak/Wachtruimte]]. Maar andere gebruikers van de functionaliteit van het [[Sjabloon:Opmaak]] zullen er nog niets van merken.

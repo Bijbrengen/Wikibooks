@@ -1,0 +1,50 @@
+{{#IfEq:{{PAGENAME}}|{{ROOTPAGENAME}}
+|<!-- ja; doe niets -->
+|<div class="noprint"><br style="clear: left;">
+<br>
+<span style="font-size: larger;">&nbsp;'''&larr;'''</span> [[{{ROOTPAGENAME}}]]<!--
+
+Hogere pagina, indien niet de voorpagina:
+-->{{#IfExist:{{BASEPAGENAME}}<!--
+  -->|{{#IfEq:{{BASEPAGENAME}}|{{#titleparts:{{PAGENAME}}|-1|-2}}<!--
+    -->|<!--
+    -->|&nbsp; <span style="font-size: larger;">'''&uarr;'''</span> [[{{BASEPAGENAME}}|{{#titleparts:{{PAGENAME}}|-1|-2}}]]<!--
+  -->}}<!--
+-->}}<!--
+
+Inleiding:
+-->{{#IfExist:{{ROOTPAGENAME}}/Inleiding|<span style="font-size: larger;">&nbsp; '''&middot;''' </span>[[{{ROOTPAGENAME}}/Inleiding|Inleiding]]}}<!--
+
+Voorwoord:
+-->{{#IfExist:{{ROOTPAGENAME}}/Voorwoord|<span style="font-size: larger;">&nbsp; '''&middot;''' </span>[[{{ROOTPAGENAME}}/Voorwoord|Voorwoord]]}}<!--
+
+Index:
+-->{{#IfExist:{{ROOTPAGENAME}}/Index|<span style="font-size: larger;">&nbsp; '''&middot;''' </span>[[{{ROOTPAGENAME}}/Index|Index]]}}<!--
+
+Inhoud:
+-->{{#IfExist:{{ROOTPAGENAME}}/Inhoud|<span style="font-size: larger;">&nbsp; '''&middot;''' </span>[[{{ROOTPAGENAME}}/Inhoud|Inhoud]]}}<!--
+
+Inhoudsopgave:
+-->{{#IfExist:{{ROOTPAGENAME}}/Inhoudsopgave|<span style="font-size: larger;">&nbsp; '''&middot;''' </span>[[{{ROOTPAGENAME}}/Inhoudsopgave|Inhoudsopgave]]}}<!--
+
+Woordenlijst:
+-->{{#IfExist:{{ROOTPAGENAME}}/Woordenlijst|<span style="font-size: larger;">&nbsp; '''&middot;''' </span>[[{{ROOTPAGENAME}}/Woordenlijst|Woordenlijst]]}}<!--
+
+--></div>}}<noinclude>
+----
+:Geeft links naar:
+:*de voorpagina van een boek,
+:*de eerste hogere pagina (als deze aanwezig is),
+:*de subpagina "(boek)/Inleiding" (als deze aanwezig is),
+:*de subpagina "(boek)/Voorwoord" (als deze aanwezig is),
+:*de subpagina "(boek)/Index" (als deze aanwezig is), 
+:*de subpagina "(boek)/Inhoud" (als deze aanwezig is),
+:*de subpagina "(boek)/Inhoudsopgave" (als deze aanwezig is) en
+:*de subpagina "(boek)/Woordenlijst" (als deze aanwezig is).
+
+:Bedoeld om onderaan de pagina geplaatst te worden op hoofdstukken en delen daarvan, maar boven evt. navigatiesjablonen.
+:Vooral voor boeken die te weinig hoofdstukken bevatten om een index- of navigatiesjabloon te rechtvaardigen.
+:Bijkomend voordeel is dat door het toevoegen van minstens één wikilink op pagina's in de hoofdnaamruimte deze meetelt als ''inhoudelijke pagina'', wat de [[m:Wikibooks/Table/nl|statistieken]] ten goede komt.
+
+[[Categorie:Sjablonen]]<!--voorlopig-->
+</noinclude>

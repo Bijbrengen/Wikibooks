@@ -1,0 +1,35 @@
+{|align=right Xwidth=300px style="margin: 1em 0 1em 1em;" class="toccolours noprint"
+|
+{{Koptekst/Spel}}
+----
+|-
+|[[Bestand:Schaken.svg|center|75px]]
+|-
+|style="text-align: center; font-size: larger;"|[[Schaken door meesters]]
+|-
+|style="font-size: smaller; line-height: 1.3;" align=left|
+* [[Schaken door meesters/Barnes|Barnes]]
+* [[Schaken door meesters/Basman|Basman]]
+* [[Schaken door meesters/Bird|Bird]]
+* [[Schaken door meesters/Breyer|Breyer]]
+* [[Schaken door meesters/Duras|Duras]]
+* [[Schaken door meesters/From|From]]
+* [[Schaken door meesters/Grau|Grau]]
+* [[Schaken door meesters/Grob|Grob]]
+* [[Schaken door meesters/Lisitsyn|Lisitsyn]]
+* [[Schaken door meesters/Mason|Mason]]
+* [[Schaken door meesters/McDonnell|McDonnell]]
+* [[Schaken door meesters/Myers|Myers]]
+* [[Schaken door meesters/Nimzowitsch|Nimzowitsch]]
+* [[Schaken door meesters/Petrov|Petrov]]
+* [[Schaken door meesters/Schlechter|Schlechter]]
+* [[Schaken door meesters/Sokolsky|Sokolsky]]
+* [[Schaken door meesters/Staunton|Staunton]]
+* [[Schaken door meesters/Stein|Stein]]
+* [[Schaken door meesters/Tartakower|Tartakower]]
+* [[Schaken door meesters/Wagner|Wagner]]
+* [[Schaken door meesters/Zukertort|Zukertort]]
+
+|}<noinclude>
+[[Categorie:Sjablonen voor een bepaald boek]]
+</noinclude>

@@ -1,0 +1,13 @@
+{{Opmaak
+| Titel = Passend leren
+| Object = Boek
+| Bron = Passend leren.webp
+| Definitie = [[w:nl:Leren|Passend Leren]] is het [[leren]] waarin de lerende zelf zoveel mogelijk rekening kan houden met zijn of haar persoonlijke kenmerken en voorkeuren.
+| Beschrijving = In dit boek wordt uitgelegd hoe passend leren zich onderscheidt van [[w:Adaptief onderwijs|passend onderwijs]] of [[w:Adaptief onderwijs|adaptief onderwijs]] of [[w:Adaptief onderwijs|onderwijs op maat]].<br>De onderliggende missie is identiek; namelijk rekening houden met verschillen.<br>De visie hoe dat te bereiken verschilt.<br>In het passend leren wordt de lerende geholpen om zijn eigen leren '''zelf''' vorm te geven, in plaats dat voor hem of haar te doen.
+| Formaat = html
+| Voortgang = 30
+| Support = Signaleer
+| Referentie = 
+| Collectie = Leren
+| Onderdeel = Missie, Visie, Strategie
+}}

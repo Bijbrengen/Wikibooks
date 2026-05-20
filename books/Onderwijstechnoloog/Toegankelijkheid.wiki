@@ -1,0 +1,13 @@
+{{Opmaak}}
+== ICT en leerstoornissen ==
+
+ICT speelt een sleutelrol bij het ondersteunen van leerlingen met specifieke onderwijsbehoeften. Door de inzet van technologie kunnen barrières die door leerstoornissen worden opgeworpen, worden verlaagd of weggenomen.
+
+=== Dyslexie en Voorleessoftware ===
+Voor leerlingen met dyslexie is voorleessoftware (zoals Kurzweil of Sprint) onmisbaar. Deze software ondersteunt niet alleen bij het lezen, maar ook bij het spellen en begrijpend lezen door teksten auditief en visueel te markeren.
+
+=== Dyscalculie en ADHD ===
+* **Dyscalculie**: Specifieke rekensoftware helpt bij het visualiseren van getalbegrip en het automatiseren van basisbewerkingen.
+* **ADHD/Autisme**: Structuur-apps en digitale planners helpen leerlingen bij het organiseren van hun dagtaak en het verminderen van prikkels in de digitale leeromgeving.
+
+{{Opmaak | Voettekst}}

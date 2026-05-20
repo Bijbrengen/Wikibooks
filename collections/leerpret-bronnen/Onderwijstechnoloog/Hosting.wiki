@@ -1,0 +1,31 @@
+{{Opmaak}}
+De onderwijstechnoloog is verantwoordelijk voor het fundament van het [[Onderwijsplatform|Onderwijsplatform]]. Dit omvat de hosting, beveiliging en schaalbaarheid van de digitale leeromgeving.
+
+== De Onderwijsserver ==
+Een eigen onderwijsserver biedt de ultieme [[Onderwijstaal/Vrijheid|vrijheid]] om het platform in te richten volgens de specifieke behoeften van de [[Onderwijstaal|Onderwijstaal]].
+
+=== Componenten van de Server ===
+* '''Webserver''': Apache of Nginx vormt de ruggengraat voor de ontsluiting van de [[Onderwijstaal/Leerbox|Leerboxen]].
+* '''Databases''': MariaDB, PostgreSQL of MongoDB voor de opslag van leerdata en resultaten.
+* '''Runtime Environments''': PHP voor webapplicaties, [[Onderwijswiki/Lua|Lua]] voor wiki-modules en Java voor specifieke educatieve tools.
+* '''Versiebeheer''': Gebruik van Git en GitHub om de architectuur van het platform transparant en deelbaar te maken.
+
+== Moderne Technologieën ==
+=== Blockchain in het Onderwijs ===
+Blockchain biedt mogelijkheden voor een gedecentraliseerd onderwijsmodel:
+* '''Certificering''': Veilig en onvervalst vastleggen van diploma's en resultaten (bijv. via Blockcerts).
+* '''Zelf-soevereine Identiteit''': De leerder heeft volledige controle over zijn eigen digitale identiteit en resultaten.
+
+=== Standaarden voor Interoperabiliteit ===
+De server moet standaarden ondersteunen om de uitwisseling van de [[Onderwijstaal/Leerbox|Leerbox]] mogelijk te maken:
+* '''SCORM / cmi5''': Traditionele standaarden voor e-learning content.
+* '''xAPI''': De moderne standaard voor het vastleggen van leerervaringen in een LRS.
+* '''LTI''': Voor de integratie van externe leermiddelen.
+
+== Management van het Platform ==
+Hosting gaat verder dan alleen de techniek; het gaat om het beheer van de gehele architectuur. De technoloog zorgt voor:
+# '''Beveiliging''': Beschermen van persoonsgegevens en de integriteit van de leeromgeving.
+# '''Performance''': Zorgen dat de [[Onderwijswiki/View|View]] snel en soepel laadt voor de leerder.
+# '''Onderhoud''': Updaten van libraries en frameworks om de stabiliteit te garanderen.
+
+{{Opmaak | Voettekst}}

@@ -1,0 +1,63 @@
+{{Opmaak}}
+
+De extensie '''ParserFunctions''' is een onmisbare schakel in de ontwikkeling van een onderwijswiki.
+Het breidt de standaard wikitekst uit met logische functies die we kennen uit programmeertalen.
+Hierdoor kunnen sjablonen intelligent reageren op de invoer van een gebruiker.
+
+== Veelgebruikte Functies ==
+
+=== #if ===
+De meest gebruikte functie is `{{#if:}}`.
+Deze controleert of een waarde leeg is of niet.
+<pre>{{#if: {{{parameter|}}} | Waarde indien gevuld | Waarde indien leeg }}</pre>
+
+=== #ifeq ===
+Vergelijkt twee waarden met elkaar.
+Dit is handig om bijvoorbeeld te controleren welk type object er gevraagd wordt.
+<pre>{{#ifeq: {{{Object|}}} | Boek | Je bekijkt nu een boek | Dit is geen boek }}</pre>
+
+=== #switch ===
+Wanneer je veel verschillende mogelijkheden hebt, is een `{{#switch:}}` overzichtelijker dan veel geneste `if`-functies.
+<pre>
+{{#switch: {{{Kleur|}}}
+ | Rood = #FF0000
+ | Blauw = #0000FF
+ | #000000 (standaardwaarde)
+}}
+</pre>
+
+=== #expr ===
+Wordt gebruikt voor wiskundige berekeningen.
+In een onderwijswiki kan dit bijvoorbeeld gebruikt worden om percentages voor een voortgangsbalk te berekenen.
+<pre>{{#expr: 100 / {{{Totaal}}} * {{{Gedaan}}} }}</pre>
+
+=== #ifexist ===
+Controleert of een bepaalde pagina op de wiki bestaat.
+Dit is cruciaal voor het automatisch genereren van links naar hoofdstukken of bijbehorende oefeningen.
+
+== Sjabloon:Opmaak ==
+Een krachtig voorbeeld van parserfunctions vinden we in de broncode van het [[Sjabloon:Opmaak]].
+Hier worden parserfunctions gebruikt om parameters te "normaliseren".
+Omdat we willen dat het sjabloon zowel Nederlandse als Engelse parameternamen begrijpt, zien we vaak constructies als deze:
+
+<pre>
+| object={{#if:{{{Object|}}}|{{{Object|}}}|{{{object|}}}}}
+| support={{#if:{{{Support|}}}|{{{Support|}}}|{{{support|}}}}}
+| title={{#if:{{{Titel|}}}|{{{Titel|}}}|{{{titel|}}}}}
+</pre>
+
+=== Wat gebeurt hier? ===
+1. De `#if` controleert eerst of de hoofdletter-variant `{{{Object|}}}` is ingevuld.
+2. Zo ja, dan wordt die waarde gebruikt.
+3. Zo nee, dan wordt teruggevallen op de kleine letter-variant `{{{object|}}}`.
+4. Dit zorgt voor een robuust sjabloon dat minder snel fout gaat bij kleine typefouten van de gebruiker.
+
+== Beperkingen ==
+Hoewel parserfunctions erg krachtig zijn, hebben ze ook nadelen:
+* De code kan erg onoverzichtelijk worden ("haakjessoep").
+* Complexe logica is traag voor de MediaWiki-server.
+* Er is geen echte variabele-opslag zoals in een programmeertaal.
+
+Daarom gebruiken we in de [[Onderwijswiki/Inleiding|onderwijswiki]] parserfunctions alleen voor de basiscontrole bij de "voordeur" van het sjabloon, waarna we de rest van het werk overlaten aan de [[Onderwijswiki/Scribunto|Scribunto (Lua)]] extensie.
+
+{{Opmaak | Voettekst}}

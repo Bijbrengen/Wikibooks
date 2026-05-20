@@ -1,0 +1,71 @@
+{{Opmaak}}
+== Profiel ==
+'''Roberto Grau''' (18 maart 1900 – 12 april 1944) was een Argentijnse schaakmeester en een van de belangrijkste schaakfiguren in Zuid-Amerika. Hij vertegenwoordigde Argentinië in zes Schaakolympiades en was een mede-oprichter van de FIDE. Hij is vooral bekend om zijn monumentale vierdelige werk "Tratado General de Ajedrez", dat generaties Spaanstalige schakers heeft opgeleid. De naar hem vernoemde '''Grau verdediging''' (ook wel de Baltische verdediging genoemd) is een uitdagend antwoord op het Damegambiet.
+
+== Grau verdediging ==
+De Grau verdediging ontstaat na de zetten:
+'''1. d4 d5 2. c4 Bf5'''
+{{Opmaak
+| Object = Schaak
+| Definitie = Grau Verdediging
+| Beschrijving = De beginstelling van de Grau verdediging. Zwart activeert de loper direct buiten de pionnenketen.
+| Orientatie = wit
+|
+8 |rd|nd|  |qd|kd|bd|nd|rd|
+7 |pd|pd|pd|  |pd|pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |pd|  |bd|  |  |
+4 |  |  |pl|pl|  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|  |  |pl|pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+
+Zwart spiegelt hiermee het [[Schaken door meesters/London|London Systeem]], maar dan met de zwarte stukken. Het doel is om de loper op c8 direct actief te maken voordat de e-pion wordt gezet.
+
+== Grau Gambiet ==
+De meest kritieke lijn ontstaat wanneer wit de loper op b1 probeert uit te schakelen of het centrum direct aanvalt.
+
+'''3. cxd5 Bxb1'''
+Wit kan nu direct terugslaan, maar de variant met '''4. Qa4+''' is de meest uitdagende test voor zwart.
+
+=== De Qa4+ Valstrik ===
+'''4. Qa4+ c6 5. Rxb1 Qxd5'''
+{{Opmaak
+| Object = Schaak
+| Definitie = Grau Gambiet
+| Beschrijving = De stelling na 5... Qxd5. Wit heeft de loper op b1 geruild, maar zwart heeft een actieve dame.
+| Orientatie = wit
+|
+8 |rd|nd|  |  |kd|bd|nd|rd|
+7 |pd|pd|  |  |pd|pd|pd|pd|
+6 |  |  |pd|  |  |  |  |  |
+5 |  |  |  |qd|  |  |  |  |
+4 |ql|  |  |pl|  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|  |  |pl|pl|pl|pl|
+1 |  |rl|bl|  |kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+Door het tussenschaak op a4 wordt zwart gedwongen ...c6 te spelen, wat het veld c6 blokkeert voor het zwarte paard. Wit hoopt hiervan te profiteren in het middenspel.
+
+=== Het offer op a2 ===
+Een zeer scherpe lijn is:
+'''6. Nf3 b5 7. Qc2 Qxa2 8. e4 e6 9. Bd2'''
+Zwart wint een pion op a2, maar wit krijgt een enorm centrum en een grote ontwikkelingsvoorsprong als compensatie.
+
+== Belangrijke Varianten ==
+* '''3. Nc3''': Wit ontwikkelt en zet druk op d5. Zwart kan antwoorden met '''3... e6''' (overgang naar Slavische structuren) of '''3... Nf6'''.
+* '''3. Nf3 e6 4. Qb3''': Wit valt direct de zwakke pion op b7 aan. Zwart kan dit pareren met '''4... Nc6''' (offert b7 voor een aanval met Nb4) of het degelijke '''4... c6'''.
+
+== Evaluatie van Combinaties ==
+De Grau verdediging is een psychologisch wapen:
+* '''Loperactiviteit''': De loper op f5 is de trots van de zwarte stelling. Wit probeert deze vaak te ruilen (zoals met Nh4 of Bd3), maar zwart kan de loper vaak behouden of de pionnenstructuur van wit beschadigen door te ruilen op g6.
+* '''Dynamiek vs Structuur''': Zwart accepteert vaak een iets mindere pionnenstructuur (bijv. na ...c6) in ruil voor actieve stukken en snelle druk op de witte d-pion.
+* '''Gevaar van de witte dame''': De witte dame op b3 of a4 is een constante bron van zorg voor zwart, maar kan ook een doelwit worden voor zwarte stukken.
+
+== Referenties ==
+* Zie [https://lichess.org/study/71OqWxJH Lichess study "Baltic Defense"] door Bijbrengen voor een uitgebreid overzicht van deze opening.
+
+{{Opmaak | Voettekst}}

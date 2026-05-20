@@ -1,0 +1,31 @@
+{{Opmaak}}
+== Prompting ==
+'''Freell''' is een programmeertaal met een syntaxis die lijkt op een 'prompt'. Dit is een bewuste keuze voor de architectuur van het leren.
+
+=== Waarom Prompt-achtige Syntaxis? ===
+
+==== 1. Eenvoud en Abstractie ====
+'''Freell''' streeft ernaar de taal declaratief te houden, waarbij de meeste complexiteit wordt geabstraheerd.
+Dit zorgt ervoor dat de gebruiker zich alleen hoeft te concentreren op wat hij wil bereiken, en niet op hoe hij dat moet bereiken.
+
+==== 2. Helderheid en Ondubbelzinnigheid ====
+Een van de uitdagingen in onderwijsontwerp is de vaagheid die vaak aanwezig is in onderwijstaal.
+Een goed gedefinieerde, strikte taal elimineert dit probleem, waardoor het gemakkelijker wordt om onderwijsontwerpen te begrijpen en te implementeren zonder misverstanden.
+
+==== 3. AI-vriendelijk ====
+De prompt-achtige syntaxis is niet alleen leesbaar voor mensen, maar ook gemakkelijk interpreteerbaar door AI.
+Dit maakt het eenvoudiger om AI-ondersteuning op te nemen in het ontwerpproces, omdat de AI de ontwerpstatements kan begrijpen, leren en zelfs corrigeren.
+
+==== 4. Gebruikerservaring ====
+De interactie op basis van prompts maakt de gebruikerservaring intuïtief.
+Het is zo ontworpen dat zowel onderwijsexperts als AI het kunnen begrijpen, wat het ontwerpproces efficiënter maakt.
+
+=== Hoe werkt het? ===
+Tijdens de interactie begint '''Freell''' de gebruiker te begeleiden met vragen zoals: "Geef een naam voor de onderwijsarchitectuur."
+Deze aanpak maakt de taal zelfverklarend en leidt de gebruiker door het ontwerpproces.
+
+=== Toekomstige Richting ===
+Het doel is om AI verder te integreren, zodat deze de Freell-taal niet alleen begrijpt, maar ook leert door middel van 'transfer learning'.
+Dit zal de AI in staat stellen proactiever te assisteren bij het ontwerp, wat de efficiëntie en gebruikerservaring verder zal verbeteren.
+
+{{Opmaak | Voettekst}}

@@ -1,0 +1,217 @@
+[Event "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted: e4...exf5...Nf3...d4...g3...Bg5"]
+[Date "2023.03.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted"]
+[ChapterName "e4...exf5...Nf3...d4...g3...Bg5"]
+[ChapterURL "https://lichess.org/study/nKMDUEK7/WftgXmXJ"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.28"]
+[UTCTime "11:03:22"]
+
+1. e4 { [%clk 0:30:00] } 1... f5 { [%clk 0:30:00] } 2. exf5 { [%clk 0:29:58] } 2... Nf6 { [%clk 0:29:58] } 3. Nf3 { [%clk 0:29:53] } 3... d5 { [%clk 0:29:44] } 4. d4 { [%clk 0:29:48] } 4... Bxf5 { [%clk 0:29:35] } 5. g3 { [%clk 0:29:36] } 5... e6 { [%clk 0:29:08] } 6. Bg5 { [%clk 0:29:09] } 6... Be7 *
+
+
+[Event "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted: e4...exf5...Nf3...d4...Bd3"]
+[Date "2023.03.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted"]
+[ChapterName "e4...exf5...Nf3...d4...Bd3"]
+[ChapterURL "https://lichess.org/study/nKMDUEK7/bzGup6Bc"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.28"]
+[UTCTime "11:03:22"]
+[ChapterMode "gamebook"]
+
+1. e4 f5 2. exf5 Nf6 3. Nf3 d5 4. d4 Bxf5 5. Bd3 e6 *
+
+
+[Event "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted: e4...exf5...Nf3...d4...Nc3"]
+[Date "2023.03.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted"]
+[ChapterName "e4...exf5...Nf3...d4...Nc3"]
+[ChapterURL "https://lichess.org/study/nKMDUEK7/ptsja043"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.28"]
+[UTCTime "11:03:22"]
+[ChapterMode "gamebook"]
+
+1. e4 f5 2. exf5 Nf6 3. Nf3 d5 4. d4 Bxf5 5. Nc3 e6 *
+
+
+[Event "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted: e4...exf5...Nf3...d4...Nc3...Bf4"]
+[Date "2023.03.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted"]
+[ChapterName "e4...exf5...Nf3...d4...Nc3...Bf4"]
+[ChapterURL "https://lichess.org/study/nKMDUEK7/EjBd65Mo"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.28"]
+[UTCTime "11:03:22"]
+[ChapterMode "gamebook"]
+
+1. e4 { [%clk 0:30:00] } 1... f5 { [%clk 0:30:00] } 2. exf5 { [%clk 0:29:52] } 2... Nf6 { [%clk 0:29:59] } 3. Nf3 { [%clk 0:29:41] } 3... d5 { [%clk 0:29:45] } 4. d4 { [%clk 0:29:34] } 4... Bxf5 { [%clk 0:29:38] } 5. Nc3 { [%clk 0:29:26] } 5... e6 { [%clk 0:29:25] } 6. Bf4 { [%clk 0:29:16] } 6... Nc6 *
+
+
+[Event "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted: e4...exf5...Nf3...d4...Nc3...Bf4...Nb5"]
+[Date "2023.03.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted"]
+[ChapterName "e4...exf5...Nf3...d4...Nc3...Bf4...Nb5"]
+[ChapterURL "https://lichess.org/study/nKMDUEK7/RGe44ZV8"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.28"]
+[UTCTime "11:03:22"]
+
+1. e4 { [%clk 0:10:00] } 1... f5 { [%clk 0:10:00] } 2. exf5 { [%clk 0:09:58] } 2... Nf6 { [%clk 0:09:49] } 3. Nf3 { [%clk 0:09:46] } 3... d5 { [%clk 0:09:45] } 4. d4 { [%clk 0:09:31] } 4... Bxf5 { [%clk 0:09:32] } 5. Nc3 { [%clk 0:09:19] } 5... e6 { [%clk 0:09:14] } 6. Bf4 { [%clk 0:09:09] } 6... Nc6 { [%clk 0:09:05] } 7. Nb5 { [%clk 0:09:03] } 7... Rc8 *
+
+
+[Event "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted: e4...exf5...Nf3...c4...d4"]
+[Date "2023.03.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted"]
+[ChapterName "e4...exf5...Nf3...c4...d4"]
+[ChapterURL "https://lichess.org/study/nKMDUEK7/TnRAb21g"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.28"]
+[UTCTime "11:03:22"]
+
+1. e4 f5 (1... e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5) 2. exf5 Nf6 3. Nf3 (3. d4 d5 4. Bd3 c5 5. c3 c4 6. Bc2 e6 7. Qe2 Bd6) 3... d5 4. c4 (4. Bd3 Nc6 5. O-O Nb4 6. Qe2 Nxd3 7. Qxd3 Qd7 8. Re1 Qxf5) 4... Bxf5 5. d4 Nc6 *
+
+
+[Event "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted: e4...exf5...Nf3...g4...Bd3"]
+[Date "2023.03.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted"]
+[ChapterName "e4...exf5...Nf3...g4...Bd3"]
+[ChapterURL "https://lichess.org/study/nKMDUEK7/hSEkDuuX"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.28"]
+[UTCTime "11:03:22"]
+[ChapterMode "gamebook"]
+
+1. e4 f5 2. exf5 Nf6 3. Nf3 d5 4. g4 Nxg4 5. Bd3 e5 *
+
+
+[Event "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted: e4...exf5...Nf3...Bd3...Nc3...Bb5+...Ba4"]
+[Date "2023.03.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted"]
+[ChapterName "e4...exf5...Nf3...Bd3...Nc3...Bb5+...Ba4"]
+[ChapterURL "https://lichess.org/study/nKMDUEK7/iFDDlTVP"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.28"]
+[UTCTime "11:03:22"]
+
+1. e4 { [%clk 0:30:00] } 1... f5 { [%clk 0:30:00] } 2. exf5 { [%clk 0:29:40] } 2... Nf6 { [%clk 0:29:54] } 3. Nf3 { [%clk 0:29:37] } 3... d5 { [%clk 0:29:37] } 4. Bd3 { [%clk 0:28:48] } 4... Nc6 { [%clk 0:29:25] } 5. Nc3 { [%clk 0:28:28] } 5... Nb4 { [%clk 0:28:23] } 6. Bb5+ { [%clk 0:28:14] } 6... c6 { [%clk 0:28:21] } 7. Ba4 { [%clk 0:28:11] } 7... Bxf5 *
+
+
+[Event "Dutch puzzle: e4...exf5...Nf3...Bd3....O-O"]
+[Site "https://lichess.org/study/EThZdfgd/9WbzgJvN"]
+[Date "2023.03.28"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted"]
+[ChapterName "e4...exf5...Nf3...Bd3....O-O...Bb5+...Be2...Nd4...c3"]
+[ChapterURL "https://lichess.org/study/nKMDUEK7/ZiRImjUd"]
+[UTCDate "2023.03.28"]
+[UTCTime "11:03:22"]
+[ChapterMode "gamebook"]
+
+1. e4 { Defend with the Dutch } 1... f5 { This is the Duras Gambit } 2. exf5 Nf6 3. Nf3 d5 4. Bd3 Nc6 5. O-O Nb4 6. Bb5+ c6 7. Be2 Bxf5 8. Nd4 Bg6 9. c3 e5 *
+
+
+[Event "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted: e4...exf5...Nf3...Bd3....O-O...Qe2...Qxd3"]
+[Date "2023.03.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted"]
+[ChapterName "e4...exf5...Nf3...Bd3....O-O...Qe2...Qxd3"]
+[ChapterURL "https://lichess.org/study/nKMDUEK7/Jdi6fHVN"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.28"]
+[UTCTime "11:03:22"]
+[ChapterMode "gamebook"]
+
+1. e4 { [%clk 0:10:00] } 1... f5 { [%clk 0:10:00] } 2. exf5 { [%clk 0:09:58] } 2... Nf6 { [%clk 0:10:00] } 3. Nf3 { [%clk 0:09:53] } 3... d5 { [%clk 0:09:47] } 4. Bd3 { [%clk 0:09:37] } 4... Nc6 { [%clk 0:09:20] } 5. O-O { [%clk 0:09:33] } 5... Nb4 { [%clk 0:09:08] } 6. Qe2 { [%clk 0:09:08] } 6... Nxd3 { [%clk 0:08:36] } 7. Qxd3 { [%clk 0:09:07] } 7... e5 *
+
+
+[Event "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted: e4...exf5...Nf3...Nc3...d4...Bd3...Bxf5...O-O...Nb5"]
+[Date "2023.03.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted"]
+[ChapterName "e4...exf5...Nf3...Nc3...d4...Bd3...Bxf5...O-O...Nb5"]
+[ChapterURL "https://lichess.org/study/nKMDUEK7/hj25Lycv"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.28"]
+[UTCTime "11:03:22"]
+
+1. e4 { [%clk 0:30:00] } 1... f5 { [%clk 0:30:00] } 2. exf5 { [%clk 0:29:59] } 2... Nf6 { [%clk 0:29:52] } 3. Nf3 { [%clk 0:29:56] } 3... d5 { [%clk 0:29:41] } 4. Nc3 { [%clk 0:29:53] } 4... Bxf5 { [%clk 0:29:24] } 5. d4 { [%clk 0:29:44] } 5... e6 { [%clk 0:29:13] } 6. Bd3 { [%clk 0:29:41] } 6... Bd6 { [%clk 0:28:21] } 7. Bxf5 { [%clk 0:29:35] } 7... exf5 { [%clk 0:28:20] } 8. O-O { [%clk 0:29:33] } 8... O-O { [%clk 0:28:16] } 9. Nb5 { [%clk 0:29:14] } 9... Qd7 *
+
+
+[Event "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted: e4...exf5...Nf3...Nc3...d4...Ne5...Bd3"]
+[Date "2023.03.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted"]
+[ChapterName "e4...exf5...Nf3...Nc3...d4...Ne5...Bd3"]
+[ChapterURL "https://lichess.org/study/nKMDUEK7/4J41mcso"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.28"]
+[UTCTime "11:03:22"]
+[ChapterMode "gamebook"]
+
+1. e4 f5 2. exf5 Nf6 3. Nf3 d5 4. Nc3 Bxf5 5. d4 e6 6. Ne5 Nbd7 7. Bd3 Bd6 *
+
+
+[Event "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted: e4...exf5...Nf3...Ne5...Bb5+...Bd3"]
+[Date "2023.03.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "1. e4 f5 2. exf5 Nf3: Duras Gambit Accepted"]
+[ChapterName "e4...exf5...Nf3...Ne5...Bb5+...Bd3"]
+[ChapterURL "https://lichess.org/study/nKMDUEK7/B2miDG5P"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.28"]
+[UTCTime "11:03:22"]
+[ChapterMode "gamebook"]
+
+1. e4 f5 2. exf5 Nf6 3. Nf3 d5 4. Ne5 Bxf5 5. Bb5+ c6 6. Bd3 Bxd3 *
+
+

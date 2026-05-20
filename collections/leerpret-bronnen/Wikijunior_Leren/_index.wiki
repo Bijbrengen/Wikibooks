@@ -1,0 +1,424 @@
+__NOTOC__
+<hr>
+<div style="text-align: center; -webkit-border-radius: 0% 0% 100% 100% / 0% 0% 8px 8px; -webkit-box-shadow: rgba(0, 0, 0,.30) 0 2px 3px;"><div style=" margin: 0 auto; margin-top: 50px; height: auto; color: black; background-color:#F2F2F2; border: 1px solid #ccc; box-shadow: 1px 1px 2px #fff inset, -1px -1px 2px #fff inset; border-radius: 3px/6px;"><br>'''[[w:nl:Leren|Leren]] is nieuwe dingen weten of kunnen of wat je al weet of kan aanpassen.<br>Een [[w:leerproces|leerproces]] is de geleidelijke verandering die je daarbij ondergaat.'''<br><br></div></div>
+<br>
+<div style="text-align: center;">''In dit boek wordt uitgelegd hoe leerprocessen precies werken.<br>Een leerproces beschrijft hoe je door bepaalde acties te doen en die juist aan te sturen, bepaalde zaken hebt kunnen leren.<br>In dit boek worden vier manieren uitgelegd die je helpen om succesvol te leren.''</div>
+<br>
+<hr>
+<br>
+<table style=
+"
+	margin:0 auto;
+	text-align: center;
+	zoom: 1;
+">
+	<tr>
+		<td style=
+			"
+				font: 13px 'Lucida Sans', 'trebuchet MS', Arial, Helvetica;
+				color: black; background-color:#fff;
+				border: 2px solid #ddd;
+				color: #333;
+				padding: 20px;
+				width: 180px;
+				float: left;
+				_display: inline;
+				position: relative;
+				margin: 0 5px;
+				-moz-box-shadow: 0 2px 2px -1px rgba(0,0,0,.3);
+				-webkit-box-shadow: 0 2px 2px -1px rgba(0,0,0,.3);
+				box-shadow: 0 2px 2px -1px rgba(0,0,0,.3);
+			">
+
+				<div style=
+				"
+					position: relative;
+					font-size: 20px;
+					font-weight: normal;
+					text-transform: uppercase;
+					padding: 40px;
+					margin: -20px -20px 20px -20px;
+					border-bottom: 8px solid;
+					color: black; background-color:#eee;
+					background-image: -moz-linear-gradient(#fff,#eee);
+					background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#eee));
+					background-image: -webkit-linear-gradient(#fff, #eee);
+					background-image: -o-linear-gradient(#fff, #eee);
+					background-image: -ms-linear-gradient(#fff, #eee);
+					background-image: linear-gradient(#fff, #eee);
+					border-bottom-color: #0B0080;
+				">
+				    Leren<br>leren
+			    </div>
+
+				<div style=
+				"
+					font-size: 13px;
+					margin-bottom: 20px;
+					text-transform: uppercase;
+					color: #999;
+				">
+				    Hoofdstuk
+				</div>
+
+				<div style=
+				"
+					font-size: 45px;
+				">
+				    1
+				</div>
+
+				<ul style=
+				"
+					margin: 20px 0;
+					padding: 0;
+					list-style: none;
+				">
+					<li style=
+					"
+						padding: 10px 0;
+					">
+					    <b>1.</b> ...
+					</li>
+					<li style=
+					"
+						padding: 10px 0;
+					">
+					    <b>2.</b> ...
+					</li>
+					<li style=
+					"
+						padding: 10px 0;
+					">
+					    <b>3.</b> ...
+					</li>
+				</ul>
+
+				<div style=
+				"
+					position: relative;
+					padding: 10px 20px;
+					color: #fff;
+					font: bold 14px Arial, Helvetica;
+					text-transform: uppercase;
+					text-decoration: none;
+					display: inline-block;
+					color: black; background-color:#e7e5ff;
+					-moz-border-radius: 3px;
+					-webkit-border-radius: 3px;
+					border-radius: 3px;
+					text-shadow: 0 -1px 0 rgba(0,0,0,.15);
+					opacity: .9;
+				">
+				    [[Wikijunior:Leren/Leren leren|Lees]]
+			    </div>
+        </td>
+		<td style=
+			"
+				font: 13px 'Lucida Sans', 'trebuchet MS', Arial, Helvetica;
+				color: black; background-color:#fff;
+				border: 2px solid #ddd;
+				color: #333;
+				padding: 20px;
+				width: 180px;
+				float: left;
+				_display: inline;
+				position: relative;
+				margin: 0 5px;
+				-moz-box-shadow: 0 2px 2px -1px rgba(0,0,0,.3);
+				-webkit-box-shadow: 0 2px 2px -1px rgba(0,0,0,.3);
+				box-shadow: 0 2px 2px -1px rgba(0,0,0,.3);
+			">
+
+				<div style=
+				"
+					position: relative;
+					font-size: 20px;
+					font-weight: normal;
+					text-transform: uppercase;
+					padding: 40px;
+					margin: -20px -20px 20px -20px;
+					border-bottom: 8px solid;
+					color: black; background-color:#eee;
+					background-image: -moz-linear-gradient(#fff,#eee);
+					background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#eee));
+					background-image: -webkit-linear-gradient(#fff, #eee);
+					background-image: -o-linear-gradient(#fff, #eee);
+					background-image: -ms-linear-gradient(#fff, #eee);
+					background-image: linear-gradient(#fff, #eee);
+					border-bottom-color: #040034;
+				">
+				    Vrij<br>leren
+			    </div>
+
+				<div style=
+				"
+					font-size: 13px;
+					margin-bottom: 20px;
+					text-transform: uppercase;
+					color: #999;
+				">
+				    Hoofdstuk
+				</div>
+
+				<div style=
+				"
+					font-size: 45px;
+				">
+				    2
+				</div>
+
+				<ul style=
+				"
+					margin: 20px 0;
+					padding: 0;
+					list-style: none;
+				">
+					<li style=
+					"
+						padding: 10px 0;
+					">
+					    <b>1.</b> ...
+					</li>
+					<li style=
+					"
+						padding: 10px 0;
+					">
+					    <b>2.</b> ...
+					</li>
+					<li style=
+					"
+						padding: 10px 0;
+					">
+					    <b>3.</b> ...
+					</li>
+				</ul>
+
+				<div style=
+				"
+					position: relative;
+					padding: 10px 20px;
+					color: #fff;
+					font: bold 14px Arial, Helvetica;
+					text-transform: uppercase;
+					text-decoration: none;
+					display: inline-block;
+					color: black; background-color:#e7e5ff;
+					-moz-border-radius: 3px;
+					-webkit-border-radius: 3px;
+					border-radius: 3px;
+					text-shadow: 0 -1px 0 rgba(0,0,0,.15);
+					opacity: .9;
+				">
+				    [[Wikijunior:Leren/Vrij leren|Lees]]
+			    </div>
+        </td>
+		<td style=
+			"
+				font: 13px 'Lucida Sans', 'trebuchet MS', Arial, Helvetica;
+				color: black; background-color:#fff;
+				border: 2px solid #ddd;
+				color: #333;
+				padding: 20px;
+				width: 180px;
+				float: left;
+				_display: inline;
+				position: relative;
+				margin: 0 5px;
+				-moz-box-shadow: 0 2px 2px -1px rgba(0,0,0,.3);
+				-webkit-box-shadow: 0 2px 2px -1px rgba(0,0,0,.3);
+				box-shadow: 0 2px 2px -1px rgba(0,0,0,.3);
+			">
+
+				<div style=
+				"
+					position: relative;
+					font-size: 20px;
+					font-weight: normal;
+					text-transform: uppercase;
+					padding: 40px;
+					margin: -20px -20px 20px -20px;
+					border-bottom: 8px solid;
+					color: black; background-color:#eee;
+					background-image: -moz-linear-gradient(#fff,#eee);
+					background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#eee));
+					background-image: -webkit-linear-gradient(#fff, #eee);
+					background-image: -o-linear-gradient(#fff, #eee);
+					background-image: -ms-linear-gradient(#fff, #eee);
+					background-image: linear-gradient(#fff, #eee);
+					border-bottom-color: #0B0080;
+				">
+				    Ondernemend<br>leren
+			    </div>
+
+				<div style=
+				"
+					font-size: 13px;
+					margin-bottom: 20px;
+					text-transform: uppercase;
+					color: #999;
+				">
+				    Hoofdstuk
+				</div>
+
+				<div style=
+				"
+					font-size: 45px;
+				">
+				    3
+				</div>
+
+				<ul style=
+				"
+					margin: 20px 0;
+					padding: 0;
+					list-style: none;
+				">
+					<li style=
+					"
+						padding: 10px 0;
+					">
+					    <b>1.</b> ...
+					</li>
+					<li style=
+					"
+						padding: 10px 0;
+					">
+					    <b>2.</b> ...
+					</li>
+					<li style=
+					"
+						padding: 10px 0;
+					">
+					    <b>3.</b> ...
+					</li>
+				</ul>
+
+				<div style=
+				"
+					position: relative;
+					padding: 10px 20px;
+					color: #fff;
+					font: bold 14px Arial, Helvetica;
+					text-transform: uppercase;
+					text-decoration: none;
+					display: inline-block;
+					color: black; background-color:#e7e5ff;
+					-moz-border-radius: 3px;
+					-webkit-border-radius: 3px;
+					border-radius: 3px;
+					text-shadow: 0 -1px 0 rgba(0,0,0,.15);
+					opacity: .9;
+				">
+				    [[Wikijunior:Ondernemend leren|Lees]]
+			    </div>
+
+		</td>
+		<td style=
+			"
+				font: 13px 'Lucida Sans', 'trebuchet MS', Arial, Helvetica;
+				color: black; background-color:#fff;
+				border: 2px solid #ddd;
+				color: #333;
+				padding: 20px;
+				width: 180px;
+				float: left;
+				_display: inline;
+				position: relative;
+				margin: 0 5px;
+				-moz-box-shadow: 0 2px 2px -1px rgba(0,0,0,.3);
+				-webkit-box-shadow: 0 2px 2px -1px rgba(0,0,0,.3);
+				box-shadow: 0 2px 2px -1px rgba(0,0,0,.3);
+			">
+
+				<div style=
+				"
+					position: relative;
+					font-size: 20px;
+					font-weight: normal;
+					text-transform: uppercase;
+					padding: 40px 40px 40px 30px;
+					margin: -20px -20px 20px -20px;
+					border-bottom: 8px solid;
+					color: black; background-color:#eee;
+					background-image: -moz-linear-gradient(#fff,#eee);
+					background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#eee));
+					background-image: -webkit-linear-gradient(#fff, #eee);
+					background-image: -o-linear-gradient(#fff, #eee);
+					background-image: -ms-linear-gradient(#fff, #eee);
+					background-image: linear-gradient(#fff, #eee);
+					border-bottom-color: #040034;
+				">
+				    Speels<br>leren
+			    </div>
+
+				<div style=
+				"
+					font-size: 13px;
+					margin-bottom: 20px;
+					text-transform: uppercase;
+					color: #999;
+				">
+				    Hoofdstuk
+				</div>
+
+				<div style=
+				"
+					font-size: 45px;
+				">
+				    4
+				</div>
+
+				<ul style=
+				"
+					margin: 20px 0;
+					padding: 0;
+					list-style: none;
+				">
+					<li style=
+					"
+						padding: 10px 0;
+					">
+					    <b>1.</b> ...
+					</li>
+					<li style=
+					"
+						padding: 10px 0;
+					">
+					    <b>2.</b> ...
+					</li>
+					<li style=
+					"
+						padding: 10px 0;
+					">
+					    <b>3.</b> ...
+					</li>
+				</ul>
+
+				<div style=
+				"
+					position: relative;
+					padding: 10px 20px;
+					color: #fff;
+					font: bold 14px Arial, Helvetica;
+					text-transform: uppercase;
+					text-decoration: none;
+					display: inline-block;
+					color: black; background-color:#e7e5ff;
+					-moz-border-radius: 3px;
+					-webkit-border-radius: 3px;
+					border-radius: 3px;
+					text-shadow: 0 -1px 0 rgba(0,0,0,.15);
+					opacity: .9;
+				">
+				    [[Wikijunior:Leren/Speels leren|Lees]]
+			    </div>
+
+		</td>
+	</tr>
+</table>
+
+{{Juniorboek}}
+
+<br>
+{{Wikipedia|Pagina=Leren|Naam=Leren}}

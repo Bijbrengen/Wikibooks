@@ -1,0 +1,5 @@
+local LANGUAGE = {};
+
+LANGUAGE.TEMPLATENAME = "Opmaak";
+
+return LANGUAGE;

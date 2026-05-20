@@ -1,0 +1,20 @@
+{|align=right width=300px style="margin: 1em 0 1em 1em;" class=toccolours 
+|
+{{Koptekst/Onderwijs}}
+----
+|-
+|[[File:Use Brain.gif|center|100px]]
+|-
+|style="text-align:center;font-size: 135%;"|[[Leren leren]]
+|-
+|style="font-size: 85%;" align=left|
+
+* [[Leren leren/Bewust|Bewust]]
+* [[Leren leren/Kwaliteit|Kwaliteit]]
+* [[Leren leren/Stijl|Stijl]]
+* [[Leren leren/Doel|Doel]]
+----
+|}<noinclude>
+[[Categorie:Sjablonen voor een bepaald boek]]
+
+</noinclude>

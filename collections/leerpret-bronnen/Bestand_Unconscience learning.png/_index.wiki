@@ -1,0 +1,19 @@
+{{Informatie
+ |Beschrijving   = 
+ |Boek           = Zelf leren
+ |Boek 2         = Onbewust leren
+ |Bron           = 
+ |Datum          = 29 maart 2026
+ |Auteur         = [[Gebruiker:BeeBringer|BeeBringer]]
+ |Toestemming    = PD
+ |andere_versies = 
+ |tools          = 
+}}
+
+== Beschrijving ==
+Kopie van gelijknamige afbeelding op commons die ondanks protesten verwijderd werd, zie [[c:Commons:Deletion requests/File:Unconscience learning.png]].
+
+Gegevens en licentie later in te vullen door de maker van het oorspronkelijke bestand.
+
+== Licentie ==
+{{PD-eigen}}

@@ -1,0 +1,13 @@
+{{Opmaak
+| Titel = Speels leren
+| Object = Boek
+| Bron = Speels leren.png
+| Definitie = [[w:Speels leren|Speels leren]], spelenderwijs leren of lerend spelen betekent dat je spelenderwijs leert leren en daarmee steeds beter je eigen leren kunt vormgeven.<br>Speels leren is voor alle lerenden een fijne manier om [[vrij leren|vrij te leren]].<br>Afhankelijk van de [[leerstijl]] betekent dit voor iemand of [[opvolgend leren]], [[ontwerpend leren]], [[onderzoekend leren]] of [[ondernemend leren]], maar altijd een vorm van [[zelf leren]].
+| Beschrijving = Andere benamingen die hieraan verwant lijken, zijn [[w:Edutainment|"edutainment"]], [[w:en:gamification of learning|"gamificatie van leren"]] of [[w:en:Game_Based_Learning|"game based learning"]],<br>waarbij ook het uitgangspunt is dat spelen waarde toevoegt: "meaningful play" of '''betekenisvol spelen'''.<br>Het gaat bij speels leren niet om de eindbestemming of de reis, maar om het plezier.<br>Het plezier in leren wordt echter groter als we er beter in worden; [[Leren leren|leren leren]]. Speels leren is de leermethode die op een [[leerpretpark]] wordt gehanteerd.
+| Formaat = html
+| Voortgang = 100
+| Support = Signaleer
+| Referentie = wikipedia
+| Collectie = Leren
+| Onderdeel = Inleiding, Wetten, Edupreneurial, Gebruik, Gebruiker, Leergames
+}}

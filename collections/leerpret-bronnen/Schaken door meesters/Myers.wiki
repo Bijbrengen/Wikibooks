@@ -1,0 +1,40 @@
+{{Opmaak}}
+== Profiel ==
+{{Wp|en:Hugh Myers|Hugh Myers}} was een Amerikaanse schaakmeester en auteur van schaakboeken over ongebruikelijke schaakopeningen zoals de {{Wp|Aaron Nimzowitsch|Nimzovich}}-verdediging of {{Wp|Nimzo-Indisch|Nimzo-Indisch}}. In dit hoofdstuk zullen we ons richten op zijn verdediging tegen de [[Schaken door meesters/Bird|Birdopening]].
+
+== Myersverdediging ==
+'''1.f4 b5'''
+
+{{Opmaak
+| Object = Schaak
+| Definitie = Myersverdediging
+| Beschrijving = De Myersverdediging tegen de Bird opening (1. f4 b5)
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|  |pd|pd|pd|pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |pd|  |  |  |  |  |  |
+4 |  |  |  |  |  |pl|  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|pl|pl|  |pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+
+22: De Myersverdediging is als de [[Schaken door meesters/Sokolsky|Poolse verdediging]], maar dan als reactie door zwart op de [[Schaken door meesters/Bird|Birdopening]]. De zet '''1... b5''' is bedoeld om direct de controle over het veld e4 te betwisten en wit uit zijn comfortzone te halen.
+
+De meest gangbare voortzetting is '''2. e4 Bb7 3. Bxb5 Bxe4'''. Hierdoor ontstaat een interessante ruil waarbij zwart een flankpion opgeeft voor de centrale witte e-pion. Wit vervolgt meestal met '''4. Nf3''' om de koningsvleugel te ontwikkelen en de zwarte loper op e4 aan te vallen.
+
+=== Belangrijke varianten ===
+* '''4. Nf3 a6 5. Ba4''': Wit behoudt de loper op een actieve diagonaal.
+* '''4. Nf3 c6 5. Ba4''': Zwart versterkt zijn centrum en bereidt d5 voor.
+* '''4. Nf3 Nc6 5. Nc3''': Beide partijen ontwikkelen hun paarden in een dynamische stelling.
+
+== Evaluatie van Combinaties ==
+De Myersverdediging is een uitstekend wapen voor zwart om de Bird-opening te ontregelen:
+* '''Pionnenstructuur''': Door de e4-pion te elimineren, vermindert zwart de aanvalskansen van wit op de koningsvleugel.
+* '''Loperactiviteit''': De loper op b7 (of e4) is het belangrijkste stuk van zwart in de opening.
+* '''Gelijkwaardigheid''': Volgens moderne analyses is de stelling na 3... Bxe4 volledig in balans (0.0), wat gunstig is voor de zwartspeler die op winst wil spelen in onbekend terrein.
+
+{{Opmaak | Voettekst}}

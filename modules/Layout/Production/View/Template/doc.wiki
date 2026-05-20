@@ -1,0 +1,8 @@
+﻿{{Opmaak}}
+== Inleiding ==
+In deze module wordt een sjabloon opgemaakt zoals in [[Sjabloon:Opmaak]] is gebeurd.
+
+== Subpagina's ==
+{{Speciaal:Prefixindex/Module:Layout/Template}}
+
+== Code ==

@@ -1,0 +1,29 @@
+{{Opmaak}}
+
+De **Interface** is de beveiligde toegangspoort tot de module.
+Het verbindt de aanroep vanuit een sjabloon met de complexe logica binnenin.
+In de [[Module:Layout]] wordt hiervoor een unieke metafoor gebruikt: '''De Reis'''.
+
+== De Reis-metafoor ==
+Een aanroep naar de module wordt behandeld als een vlucht.
+Er is een vaste volgorde van stappen (de pipeline) die elke aanroep moet doorlopen:
+
+# '''Luggage (Bagage)''': De parameters van de gebruiker worden verzameld en in een "koffer" (`Call`-object) gestopt.
+# '''Security (Beveiliging)''': De aanroep wordt gecontroleerd. Is het sjabloon geautoriseerd om deze omgeving te gebruiken?
+# '''Frisk (Fouilleren)''': De individuele parameters worden gecontroleerd. Bevatten ze geldige waarden?
+# '''Flight (De Vlucht)''': Als alles veilig is, stijgt de vlucht op (`takeoff`). De [[Onderwijswiki/Content|Content]] en [[Onderwijswiki/View|View]] gaan nu aan het werk.
+# '''Landed (Geland)''': De resultaten worden verzameld en klaargemaakt voor de gebruiker.
+
+== De Submodules van Interface ==
+De Interface-laag gebruikt gespecialiseerde submodules om deze stappen uit te voeren:
+
+* '''Security''': Controleert de toegang en de integriteit van de aanroep.
+* '''Frisk''': Een diepgaande controle op de waarden van de parameters om fouten in de uitvoering te voorkomen.
+* '''Flight''': Coördineert de uiteindelijke rendering en verzamelt eventuele feedback of foutmeldingen.
+
+== Waarom een Interface? ==
+De Interface fungeert als een "schild".
+Het zorgt ervoor dat foutieve invoer van een gebruiker nooit de kern van de module (de logica of de data) kan laten crashen.
+In plaats van een technische foutmelding, krijgt de gebruiker nette feedback over wat er mis is met de aanroep.
+
+{{Opmaak | Voettekst}}

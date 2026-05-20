@@ -1,0 +1,10 @@
+{{Opmaak | Boek
+| Bron = Schaken.svg
+| Definitie = (Westers) {{Wp|Schaken|schaken}} is een strategisch spel voor twee spelers dat wordt gespeeld op een tevoren gemarkeerd oppervlak.
+| Beschrijving = In dit boek worden slimme leerprocessen besproken om schaken zo snel mogelijk op een hoog niveau onder de knie te krijgen.<br>Daarbij wordt gebruik gemaakt van [[leren leren|bewust leren]] en bewust [[onbewust leren]].<br>Met name het laatste is een effectieve leermethode die vaak onderbelicht is in de traditionele schaakcursussen.<br>Schaken leren kan worden gezien als een praktische vertaling van het boek over [[leren]].<br>'''Aangezien uitleggen een van de meest effectieve manier van leren is, bewijzen de schrijvers van dit boek vooral zichzelf een dienst.'''<br>SCHRIJF MEE!
+| Collectie = Schaken
+| Voortgang = 10%
+| Onderdeel = Inleiding, Visualisatie, Concentratie, Mindfulness, Pion, Paard, Loper, Toren, Koningin, Koning
+}}
+
+[[Categorie:Schaken]]

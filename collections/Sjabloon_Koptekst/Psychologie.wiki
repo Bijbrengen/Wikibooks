@@ -1,0 +1,13 @@
+{|align=right style="text-align:center;font-size: 135%;" class=toccolours width=100%
+|[[Bestand:WikiProject_Psychology_Logo_(Deus_WikiProject).png|center|100 px]]
+|-
+|'''[[Boekenplank:Samenleving|68. Psychologie]]'''
+|-
+|style="font-size: 85%;" align=left|
+
+* [[Hypnotherapie]]{{100%|Datum=Volgens infobox}}
+* [[Mindfulness]]{{75%|Datum=Volgens infobox}}
+* [[Visualisatie]]{{75%|Datum=Volgens infobox}}
+|}
+
+<noinclude>[[Categorie:Sjablonen voor een bepaald boek]]</noinclude>

@@ -1,0 +1,188 @@
+[Event "1. f4 d6: Rat Defense Harmonist: d6...c5...Nc6...Bd7...g6...Bg7...Nf6...O-O"]
+[Date "2021.10.23"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Rat Defense: Harmonist"]
+[StudyName "1. f4 d6: Rat Defense Harmonist"]
+[ChapterName "d6...c5...Nc6...Bd7...g6...Bg7...Nf6...O-O"]
+[ChapterURL "https://lichess.org/study/Dxl64ftl/vLwTf0YU"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.10.23"]
+[UTCTime "18:53:17"]
+[ChapterMode "gamebook"]
+
+1. f4 d6 2. e4 c5 3. Nf3 Nc6 4. Bb5 Bd7 5. Nc3 g6 6. O-O Bg7 7. d3 Nf6 8. a4 O-O 9. h3 *
+
+
+[Event "1. f4 d6: Rat Defense Harmonist: d6...c6...d5...d4...Bg4...Bxe2"]
+[Date "2021.10.23"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Rat Defense: Harmonist"]
+[StudyName "1. f4 d6: Rat Defense Harmonist"]
+[ChapterName "d6...c6...d5...d4...Bg4...Bxe2"]
+[ChapterURL "https://lichess.org/study/Dxl64ftl/L8279U4f"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.10.23"]
+[UTCTime "19:45:30"]
+[ChapterMode "gamebook"]
+
+1. f4 d6 2. e4 c6 3. Nc3 d5 4. d3 d4 5. Nce2 Bg4 6. h3 Bxe2 7. Bxe2 *
+
+
+[Event "1. f4 d6: Rat Defense Harmonist: d6...Nf6...g6"]
+[Date "2022.04.15"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Rat Defense: Harmonist"]
+[StudyName "1. f4 d6: Rat Defense Harmonist"]
+[ChapterName "d6...Nf6...g6"]
+[ChapterURL "https://lichess.org/study/Dxl64ftl/dAKN22UI"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2022.04.15"]
+[UTCTime "18:24:33"]
+[ChapterMode "gamebook"]
+
+1. f4 { [%clk 0:10:00] } 1... d6 { [%clk 0:10:00] } 2. e4 { [%clk 0:09:42] } 2... Nf6 { [%clk 0:09:52] } 3. d3 { [%clk 0:09:31] } 3... g6 { [%clk 0:09:42] } 4. Be2 *
+
+
+[Event "1. f4 d6: Rat Defense Harmonist: d6...d5...Nf6...Nxd5...Nf6...Bg4...e6"]
+[Date "2021.10.23"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Rat Defense: Fuller Gambit"]
+[StudyName "1. f4 d6: Rat Defense Harmonist"]
+[ChapterName "d6...d5...Nf6...Nxd5...Nf6...Bg4...e6"]
+[ChapterURL "https://lichess.org/study/Dxl64ftl/KAk2mLFK"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.10.23"]
+[UTCTime "19:02:47"]
+[ChapterMode "gamebook"]
+
+1. f4 d6 2. e4 d5 3. exd5 Nf6 4. d4 Nxd5 5. c4 Nf6 6. Nc3 Bg4 7. Nge2 e6 8. h3 *
+
+
+[Event "1. f4 d6: Rat Defense Harmonist: d6...e5...exf4...h6"]
+[Date "2022.04.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Rat Defense: Harmonist"]
+[StudyName "1. f4 d6: Rat Defense Harmonist"]
+[ChapterName "d6...e5...exf4...h6"]
+[ChapterURL "https://lichess.org/study/Dxl64ftl/BNQbO3hs"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2022.04.18"]
+[UTCTime "11:08:41"]
+[ChapterMode "gamebook"]
+
+1. f4 { [%clk 0:30:00] } 1... d6 { [%clk 0:30:00] } 2. e4 { [%clk 0:29:32] } 2... e5 { [%clk 0:29:52] } 3. d3 { [%clk 0:29:14] } 3... exf4 { [%clk 0:29:49] } 4. Bxf4 { [%clk 0:29:06] } 4... h6 { [%clk 0:29:47] } 5. Nc3 *
+
+
+[Event "1. f4 d6: Rat Defense Harmonist: d6...e5...exf4...Nc6"]
+[Date "2021.10.20"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Rat Defense: Harmonist"]
+[StudyName "1. f4 d6: Rat Defense Harmonist"]
+[ChapterName "d6...e5...exf4...Nc6"]
+[ChapterURL "https://lichess.org/study/Dxl64ftl/1ixCqFMq"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.10.20"]
+[UTCTime "16:27:15"]
+[ChapterMode "gamebook"]
+
+{ Open with the Bird! To drill more variations on the Bird opening https://lichess.org/study/qfz5RN62 or for other creative openings https://lichess.org/study/fj7xMIag. }
+1. f4 d6 2. e4 e5 3. d3 exf4 4. Bxf4 Nc6 5. Nc3 *
+
+
+[Event "1. f4 d6: Rat Defense Harmonist: d6...e5...exf4...Nf6"]
+[Date "2022.12.05"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Rat Defense: Harmonist"]
+[StudyName "1. f4 d6: Rat Defense Harmonist"]
+[ChapterName "d6...e5...exf4...Nf6"]
+[ChapterURL "https://lichess.org/study/Dxl64ftl/KLhs1STH"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2022.12.05"]
+[UTCTime "15:08:29"]
+
+1. f4 d6 2. e4 e5 3. d3 exf4 4. Bxf4 Nf6 5. Nc3 *
+
+
+[Event "1. f4 d6: Rat Defense Harmonist: d6...e6"]
+[Date "2022.04.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Rat Defense: Harmonist"]
+[StudyName "1. f4 d6: Rat Defense Harmonist"]
+[ChapterName "d6...e6"]
+[ChapterURL "https://lichess.org/study/Dxl64ftl/nOGjgPAH"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2022.04.18"]
+[UTCTime "14:50:39"]
+[ChapterMode "gamebook"]
+
+1. f4 { [%clk 0:30:00] } 1... d6 { [%clk 0:30:00] } 2. e4 { [%clk 0:29:37] } 2... e6 { [%clk 0:29:49] } 3. d4 *
+
+
+[Event "1. f4 d6: Rat Defense Harmonist: d6...g6...Bg7...Nf6...c5...Qa5...Qxc5...O-O...Qa5"]
+[Date "2021.10.23"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B09"]
+[Opening "Pirc Defense: Austrian Attack, Dragon Formation"]
+[StudyName "1. f4 d6: Rat Defense Harmonist"]
+[ChapterName "d6...g6...Bg7...Nf6...c5...Qa5...Qxc5...O-O...Qa5"]
+[ChapterURL "https://lichess.org/study/Dxl64ftl/joLELEx4"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.10.23"]
+[UTCTime "18:29:58"]
+[ChapterMode "gamebook"]
+
+1. f4 d6 2. e4 g6 3. d4 Bg7 4. Nc3 Nf6 5. Nf3 c5 6. dxc5 Qa5 7. Bd3 Qxc5 8. Qe2 O-O 9. Be3 Qa5 10. O-O *
+
+
+[Event "1. f4 d6: Rat Defense Harmonist: d6...Nc6...e5...dxe5...Kxd8"]
+[Date "2021.10.24"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Rat Defense: Harmonist"]
+[StudyName "1. f4 d6: Rat Defense Harmonist"]
+[ChapterName "d6...Nc6...e5...dxe5...Kxd8"]
+[ChapterURL "https://lichess.org/study/Dxl64ftl/QVcmHpt7"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.10.24"]
+[UTCTime "06:01:52"]
+[ChapterMode "gamebook"]
+
+1. f4 d6 2. e4 Nc6 3. d4 e5 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. fxe5 Nxe5 7. Nf3 *
+
+
+[Event "1. f4 d6: Rat Defense Harmonist: d6...Nf6...Nc6...h6"]
+[Date "2021.10.20"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Rat Defense: Harmonist"]
+[StudyName "1. f4 d6: Rat Defense Harmonist"]
+[ChapterName "d6...Nf6...Nc6...h6"]
+[ChapterURL "https://lichess.org/study/Dxl64ftl/VkojS0QY"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.10.20"]
+[UTCTime "16:30:35"]
+[ChapterMode "gamebook"]
+
+{ Open with the Bird! To drill more variations on the Bird opening https://lichess.org/study/qfz5RN62 or for other creative openings https://lichess.org/study/fj7xMIag. }
+1. f4 d6 2. e4 Nf6 3. d3 Nc6 4. Be2 { [%cal Ge2g4,Gd1g4,Rc8g4,Rf6g4] } 4... h6 5. Nf3 *
+
+

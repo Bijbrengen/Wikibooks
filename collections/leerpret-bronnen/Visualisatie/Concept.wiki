@@ -1,0 +1,42 @@
+{{Opmaak}}
+Gekoppeld aan visualisatie zijn concepten als beeldspraak, ruimtelijk inzicht en intuïtie.
+
+== Brein ==
+Alles wat we doen ontstaat eerst in onze geest. We hebben een gedachte die zetten we om in verbeelding en zo weten we waar we naartoe willen. We zien het voor ons, al voordat het daadwerkelijk gebeurt. Onderzoek toont aan dat alleen al het denken aan iets, de bijbehorende hersencellen activeert. Het brein kan dus niet goed datgene wat echt is van fantasie onderscheiden. Dit kun je zelf makkelijk verifiëren door middel van het volgende experiment. Pak een touwtje en laat dit slap hangen. Stel je dan in je hoofd voor dat het touwtje gaat draaien, maar probeer zelf je hand stil te houden. Je zult merken dat het lastig is om het touwtje niet te laten draaien. 
+
+De capaciteit van het brein voor invoer is vele malen groter als er visuele informatie wordt gebruikt, omdat onze hersenen een groot vermogen hebben voor het herkennen van patronen.&nbsp;<ref>G. A. Miller. The magical number seven, plus or minus two: Some limits on our capacity for processing information. In Psychological Review, 63, pp. 81-97. 1956.</ref> Vergeleken met woorden vragen beelden veel minder energie van het brein om op te slaan. Er zijn de volgende vijf voordelen te noemen van visualisatie boven tekst of verbale overdracht:&nbsp;<ref>K. Alesandrini. Survive Information Overload: The 7 best ways to manage your workload by seeing the big picture. Homewood, IL, Business One Irwin. 1992.</ref>
+* '''instantaan''': woorden moet je eerst achter elkaar lezen om een concept te vormen, dus vraagt een proces.
+* '''onthouden''': het brein slaat veel meer visuele informatie op per tijdseenheid.
+* '''automatisch''': het brein doet het analyseren, oplossen en opslaan [[Onbewust leren|onbewust]] en dus vanzelf.
+* '''globaal''': het brein slaat de gegevens geïntegreerd met vele delen van het brein op, zodat bij vele triggers de informatie weer terug komt.
+* '''moeiteloos''': het brein doet dit alles met weinig energie.
+
+== Droogzwemmen ==
+We kunnen deze eigenschap van het brein gebruiken om iets te leren zonder dat we de daadwerkelijk actie hoeven te ondernemen.&nbsp;<ref>Cisek, Paul, and John F. Kalaska. "Neural correlates of mental rehearsal in dorsal premotor cortex." Nature 431.7011 (2004): 993-996.</ref> Denk bijvoorbeeld aan 
+* Visualisaties als ondersteunende techniek bij [[Hypnotherapie|therapie]],
+* [[Schaken_voor_gevorderden/Visualisatie|schaken in je hoofd (visualisatie)]] zonder een bord, 
+* topsporters die dit gebruiken voor hun techniek of om het gevoel van winnen op te roepen of aan
+* medici in opleiding die eerst in hun hoofd een handeling trainen&nbsp;<ref>Ignacio, J., Dolmans, D., Scherpbier, A., Rethans, J. J., Lopez, V., & Liaw, S. Y. (2016). Development, implementation, and evaluation of a mental rehearsal strategy to improve clinical performance and reduce stress: a mixed methods study. Nurse education today, 37, 27-32.</ref> en zo de kans op medische fouten reduceren&nbsp;<ref>Patel, S. R., Gohel, M. S., Hamady, M., Albayati, M. A., Riga, C. V., Cheshire, N. J., & Bicknell, C. D. (2012). Reducing errors in combined open/endovascular arterial procedures: influence of a structured mental rehearsal before the endovascular phase. Journal of Endovascular Therapy, 19(3), 383-389</ref> 
+Het is ook een aanbeveling die veel psychologen geven om je mentaal voor te bereiden op bijvoorbeeld een moeilijk gesprek, een sollicitatie of een presentatie.&nbsp;<ref>Miranda, R., Weierich, M., Khait, V., Jurska, J., & Andersen, S. M. (2017). Induced optimism as mental rehearsal to decrease depressive predictive certainty. Behaviour Research and Therapy, 90, 1-8.</ref>
+
+Het gebruik van visuele beelden is bijzonder effectief voor leren&nbsp;<ref>I. Nonaka. The Knowledge-Creating Company. In Harvard Business Review, 69 (6), pp. 96-104. 1991.</ref> en met name om&nbsp;<ref>M. J. Eppler. Visuelle Wissenskommunikation - Der Einsatz von graphischen Metaphern zur Optimierung des Wissenstransfers. In Wissenskommunikation in Organisationen, R. Reinhardt and Martin J. Eppler, Eds., Springer, 2004.</ref>
+* te motiveren,
+* de aandacht op te eisen,
+* nieuwe perspectieven te presenteren,
+* structuren te communiceren,
+* het onthouden te verbeteren en
+* het leerproces te ondersteunen.
+
+== Achtergrond ==
+Bij het oefenen va visualiseren (zie de [[Schaken_voor_gevorderden/Visualisatie#Leeroefeningen|leeroefeningen]] in het hoofdstuk visualisatie van schaken voor gevorderden) is het belangrijk om te streven naar zo veel mogelijk realisme en detail. Dus meteen schaken en visualiseren zoals de wereldkampioen {{Wp|Magnus_Carlsen|Magnus Carlsen}} zal minder effectief zijn dan te gaan voor {{Wp|Zone_van_de_naaste_ontwikkeling|een gebied net buiten je comfortzone}} – anders wordt het een fantasie in plaats van een visualisatie.
+
+Bij het visualiseren is het aan te raden om naast beelden ook geuren, tastzin en geluiden voor te stellen. Dat versterkt het effect van de visualisatie. Visualisatie middels de verschillende zintuigen  (zien, horen, ruiken, proeven, aanraken) en hun onderlinge relaties werd al in de 19e eeuw wijdverbreid onderzocht. Echter met de opkomst van het behaviorisme in de 20e eeuw kwam daar gedurende de eerste helft van die eeuw de klad in, hoewel dit niet gold voor de  psychotherapie. Door de intrede van het {{Wp|Constructivistisch_onderwijs|constructivisme}} kwam er weer een opleving in het toepassen van visualisatie in het leren. Visualisatiesoftware wordt steeds meer gebruikt om de lerende te helpen bij het leren leren door het leren via visuele weergave van metadata inzichtelijker te maken.&nbsp;<ref>Duval, E. (2011, February). Attention please! Learning analytics for visualization and recommendation. In Proceedings of the 1st international conference on learning analytics and knowledge (pp. 9-17).</ref>
+
+==Zie ook==
+* [[Geo-visualisatie]]
+* [[Schaken voor gevorderden|"Schaken voor gevorderden"]] hoofdstuk [[Schaken voor gevorderden/Visualisatie|"Visualisatie"]]
+
+==Referenties==
+<references />
+
+{{Opmaak | Voettekst}}

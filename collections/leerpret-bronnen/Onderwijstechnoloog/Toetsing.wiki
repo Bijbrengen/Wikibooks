@@ -1,0 +1,14 @@
+{{Opmaak}}
+== Elektronische toetsen ==
+
+Digitale toetsing (e-Assessment) biedt nieuwe mogelijkheden voor het meten van leerresultaten en het geven van feedback.
+
+=== Voordelen van Digitaal Toetsen ===
+* **Efficiëntie**: Automatische nakijkfuncties besparen tijd voor de docent.
+* **Adaptiviteit**: Toetsen kunnen zich aanpassen aan het niveau van de leerling (Computer Adaptive Testing), waardoor een nauwkeuriger beeld van de kennis ontstaat.
+* **Rijke items**: Gebruik van video, simulaties en interactieve bronnen in plaats van alleen tekstvragen.
+
+=== Aandachtspunten ===
+De technoloog moet zorgen voor een veilige toetsomgeving (lockdown browsers) om fraude te voorkomen en de betrouwbaarheid van de verbinding te garanderen tijdens het examenmoment.
+
+{{Opmaak | Voettekst}}

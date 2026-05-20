@@ -1,0 +1,15 @@
+﻿{{Opmaak
+| Titel = Filosofisch onderwijs
+| Object = Boek
+| Bron = 
+| Definitie = In '''filosofisch onderwijs''' staat het houden van en zoeken naar wijsheid ([[filosofie]]) voorop.<br>Er wordt gereflecteerd over de aard, de doelen en de problemen van het onderwijs.
+| Beschrijving = De persoon die zich met filosofisch onderwijs bezig houdt noemen we een onderwijsfilosoof.<br>Filosofisch onderwijs is leuk, leerzaam en liefdevol naar jezelf en de ander.
+| Formaat = html
+| Voortgang = 25
+| Support = Signaleer
+| Referentie = 
+| Collectie = Onderwijs
+| Onderdeel = Wijsheid, Denken, Leren, Socrates, Lao Zi, Yoga, Vrijeschool
+}}
+{{Boek}}
+{{Fase|1}}

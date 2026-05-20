@@ -1,0 +1,35 @@
+{
+    "source":  "https://nl.wikibooks.org/wiki/Sjabloon%3ASub",
+    "api":  "https://nl.wikibooks.org/w/api.php",
+    "title":  "Sjabloon:Sub",
+    "fetched_at_utc":  "2026-04-24T07:35:44.6072643Z",
+    "page_count":  2,
+    "pages":  [
+                  {
+                      "title":  "Sjabloon:Sub",
+                      "file":  "_module.wiki",
+                      "pageid":  13608,
+                      "contentmodel":  "wikitext",
+                      "revid":  421887,
+                      "parentid":  421885,
+                      "timestamp":  "2026-04-08T13:15:06Z",
+                      "user":  "Erik Baas",
+                      "comment":  "zonder safesubst ook :-(",
+                      "sha1":  "207ef07c485308ebc301577ff1c068dd5150b55b",
+                      "bytes":  4176
+                  },
+                  {
+                      "title":  "Sjabloon:Sub/Bronnen",
+                      "file":  "Bronnen.wiki",
+                      "pageid":  40298,
+                      "contentmodel":  "wikitext",
+                      "revid":  374899,
+                      "parentid":  356256,
+                      "timestamp":  "2023-04-12T17:00:11Z",
+                      "user":  "Erik Baas",
+                      "comment":  "cat",
+                      "sha1":  "86f4d853e8b09009327cf692caafab53d76fadb6",
+                      "bytes":  357
+                  }
+              ]
+}

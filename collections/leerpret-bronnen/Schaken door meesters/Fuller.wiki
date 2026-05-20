@@ -1,0 +1,92 @@
+{{Opmaak}}
+== Profiel ==
+[[Afbeelding:Maxwell Fuller 1985.jpg|thumb|right|200px|Maxwell Leonard Fuller]]
+'''Maxwell Leonard Fuller''' (28 januari 1945 – 27 augustus 2013) was een Australische schaakmeester (IM). Hij was een van de sterkste spelers van Australië in de jaren 70 en 80 en vertegenwoordigde zijn land negen keer op de Schaakolympiade. Fuller stond bekend om zijn creatieve en vaak onorthodoxe openingsstijl. Het naar hem vernoemde '''Fuller Gambiet''' is daar een perfect voorbeeld van.
+
+== Fuller Gambiet ==
+Het Fuller Gambiet is een scherpe voortzetting binnen de '''Rat Defense''' (ook wel de Harmonist genoemd). Hoewel de zetvolgorde kan variëren, is de kern het offeren van een pion voor snelle ontwikkeling en aanvalskansen.
+
+'''1. e4 d6 2. f4 d5 3. exd5 Nf6'''
+{{Opmaak
+| Object = Schaak
+| Definitie = Fuller Gambiet
+| Beschrijving = De beginstelling van het Fuller gambiet. Zwart offert de d-pion voor een snelle aanval.
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|  |rd|
+7 |pd|pd|pd|  |pd|pd|pd|pd|
+6 |  |  |  |  |  |nd|  |  |
+5 |  |  |  |pl|  |  |  |  |
+4 |  |  |  |  |  |pl|  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|pl|  |  |pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+
+=== Rat Defense & Harmonist ===
+Het gambiet vindt zijn oorsprong in de bredere context van de '''Rat Defense''' (1. e4 d6) en de '''Harmonist''' (1. f4 d6). Fuller kwam vaak tot deze stelling via de Pirc-achtige opbouw. De kracht van de opening ligt in het feit dat witspelers vaak denken een "gratis" pion te winnen, terwijl ze in werkelijkheid in een diepe tactische valstrik lopen.
+
+== Belangrijke Varianten ==
+Op basis van de studies van Bijbrengen onderscheiden we de volgende varianten:
+
+* '''Fuller Accepted (4. d4 Nxd5 5. c4 Nf6)''': Wit accepteert de pion en probeert het centrum te domineren. Zwart krijgt echter een solide stelling en kan met ...Bg4 direct druk zetten op het witte paard.
+* '''Harmonist Systeem (1. f4 d6 2. e4 c5)''': Een hybride tussen de Bird en de Siciliaanse verdediging.
+* '''Austrian Attack Transformatie''':
+'''1. f4 d6 2. e4 g6 3. d4 Bg7 4. Nc3 Nf6 5. Nf3 c5'''
+Dit leidt tot zeer complexe stellingen die lijken op de Pirc verdediging, maar met de extra zet f4 voor wit.
+
+== Voorbeelden ==
+
+=== Ralph Seberry vs Max Fuller - Adelaide 1987 ===
+Dit is de beroemdste partij waarin het gambiet zijn dodelijke kracht toonde. Wit laat zich verleiden tot een pionnenjacht met de dame, terwijl de koning in het centrum achterblijft.
+
+'''1. e4 d6 2. f4 d5 3. exd5 Nf6 4. Bb5+ Bd7 5. Bc4 Bg4 6. Nf3 Nxd5 7. Nc3 e6 8. Bxd5 exd5 9. Qe2+ Be7 10. Qb5+ c6''' 
+{{Opmaak
+| Object = Schaak
+| Definitie = Dame-Valstrik
+| Beschrijving = De kritieke stelling na 10... c6. Als wit 11. Qxb7 speelt, begint de zwarte aanval.
+| Orientatie = wit
+|
+8 |rd|nd|  |qd|kd|  |  |rd|
+7 |pd|pd|pd|  |bd|pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+4 |  |ql|  |pd|  |  |  |  |
+4 |  |  |  |  |  |pl|bd|  |
+3 |  |  |nl|  |  |nl|  |  |
+2 |pl|pl|pl|pl|  |  |pl|pl|
+1 |rl|  |bl|  |kl|  |  |rl|
+   a  b  c  d  e  f  g  h
+}}
+
+'''11. Qxb7 Bxf3 12. gxf3 Bh4+ 13. Kd1 O-O 14. Qxa8 Qd7 15. h3 d4''' 
+Wit heeft een toren en een loper gewonnen, maar de dame op a8 staat volledig buitenspel. Zwart domineert het centrum en de witte koning is vogelvrij.
+
+'''16. Ne2 d3 17. cxd3 Na6 18. Qxf8+ Kxf8 19. b4 Qxd3 20. Bb2 Nxb4 21. Rc1 Nxa2 22. Rc2 Nb4 23. Rc3 Qb1+ 24. Bc1 Nd3 25. Rf1 Nb2#'''
+{{Opmaak
+| Object = Schaak
+| Definitie = Slotstelling Mat
+| Beschrijving = Een prachtig matbeeld. Het paard op b2 geeft de genadeklap.
+| Orientatie = wit
+|
+8 |  |  |  |  |  |  |kd|  |
+7 |pd|  |  |  |  |pd|pd|pd|
+6 |  |  |pd|  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |pl|  |bd|
+3 |  |  |rl|  |  |pl|  |pl|
+2 |  |nd|  |pl|nl|  |  |  |
+1 |  |qd|bl|kl|  |rl|  |  |
+   a  b  c  d  e  f  g  h
+}}
+
+== Evaluatie van Combinaties ==
+* '''De "Giftige" Pion op b7''': In veel Fuller-varianten is het slaan op b7 door de witte dame de beslissende fout. Het opent lijnen voor zwart en haalt de belangrijkste verdediger (de dame) weg bij de koning.
+* '''Centrumcontrole''': Zwart offert materiaal voor controle over de d-lijn en de e-lijn. Het paard-manoeuvre naar d3 is een terugkerend thema.
+* '''Psychologie''': Omdat de opening zo zeldzaam is, voelen witspelers zich vaak veilig met hun extra materiaal, tot het matnet zich onverbiddelijk sluit.
+
+== Referenties ==
+* Zie [https://lichess.org/study/RIYdv19f Lichess study "Fuller gambit"] door Bijbrengen.
+* Zie [https://lichess.org/study/Dxl64ftl Lichess study "1. f4 d6: Rat Defense Harmonist"] door Bijbrengen.
+
+{{Opmaak | Voettekst}}

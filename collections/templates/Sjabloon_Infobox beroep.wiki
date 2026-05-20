@@ -1,0 +1,30 @@
+{{Infobox generiek
+| kop      = {{{beroep|{{BASEPAGENAME}}}}}
+| image    = {{{afbeelding|}}}
+| caption  = {{{onderschrift|}}}
+| head1_1  = Classificatie      | item1_1 = {{{code|}}}
+| head1_2  = Werksoort          | item1_2 = {{{werksoort|}}}
+| head1_3  = Niveau             | item1_3 = {{{niveau|}}}
+| head1_4  = Klasse             | item1_4 = {{{klasse|}}}
+| head1_5  = Groep              | item1_5 = {{{groep|}}}
+| head1_6  = Aantal             | item1_6 = {{{beoefenaars|}}}
+| head1_7  = Website            | item1_7 = {{{website|}}}
+}}<noinclude>{{Sjablooninfo|1=
+== Gebruik == 
+De infobox beroep is te gebruiken voor CBS classificatie van en gegevens over een beroep
+<pre>{{Infobox beroep
+| beroep = 
+| afbeelding = 
+| onderschrift = 
+| code = 
+| werksoort = 
+| niveau =
+| klasse = 
+| groep =
+| beoefenaars = 
+| website =
+}}</pre>
+}}
+[[Categorie:Sjablonen mens en maatschappij|Beroep]]
+[[Categorie:Sjablonen infobox|Beroep]]
+</noinclude>

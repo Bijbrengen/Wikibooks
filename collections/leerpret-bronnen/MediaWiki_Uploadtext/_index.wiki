@@ -1,0 +1,60 @@
+<div align="right" style="font-size: smaller; margin-bottom: 0.2em;">[[Speciaal:Log/upload|Uploadlogboek]] - [[Speciaal:Newimages|Nieuwe afbeeldingen]] - [[Wikibooks:Beleid voor gebruik van afbeeldingen|Regels voor het gebruik van media]]</div>
+
+<div class="toccolours" style="background-color:#FFDDDD; color:black; font-size:120%; font-weight:bold; margin-bottom:5px;">
+<div style="float:left;margin-right:.5em;">[[Bestand:Warning icon.png]]</div>Via deze pagina kunt u media zoals afbeeldingen, video en audio uploaden. De regels voor afbeeldingen en andere media zijn op Wikibooks strenger dan op veel andere websites. U wordt daarom aangeraden eerst goed de [[Wikibooks:Beleid voor gebruik van afbeeldingen|regels]] te lezen voor u hier iets uploadt.
+<div style="clear:both;"></div>
+</div>
+<div class="toccolours" style="margin-bottom: 5px;">
+{| align=center style="font-size:135%; font-family:verdana,sans-serif;"
+| [[Bestand:Commons-logo-en.svg|50px]]
+| <span class="plainlinks">[//commons.wikimedia.org/wiki/Commons:Upload/nl?uselang=nl &nbsp;'''Klik hier om een bestand naar Wikimedia Commons te uploaden'''&nbsp;]</span>
+| [[Bestand:Bluesphere Arrow-up.svg|50px]]
+|}
+</div>
+<div class="toccolours">
+==Regels voor media in het kort==
+Alle bestanden moeten aan de volgende [[Wikibooks:Beleid voor gebruik van afbeeldingen|regels]] voldoen:
+*De maker moet '''toestemming''' hebben gegeven voor '''verspreiding''', '''wijziging''' en '''commercieel''' gebruik van zijn of haar creatie.
+*Bij alles wat u uploadt moet u een '''bron''' (bijvoorbeeld een webadres), '''maker''' en [[Wikibooks:Sjablonen voor het aangeven van de licentiestatus van media|licentie]] vermelden.
+*Als u aangeeft dat u de auteur bent, maar geen licentie opgeeft dan plaatst u het daarmee automatisch onder de [[Wikibooks:GNU Vrije Documentatie Licentie|GNU-licentie voor vrije documentatie]].
+*Door het uploaden '''vrijwaart''' u Wikibooks van alle aanspraken door derden op deze afbeelding.
+*U bent op de hoogte van de '''[[Wikibooks:Beleid_voor_gebruik_van_afbeeldingen|regels voor het gebruik van media]]'''.
+ 
+'''Veel afbeeldingen die u op het internet 'vindt' (bijvoorbeeld via Google) zijn [[w:Auteursrecht|auteursrechtelijk]] beschermd en mogen niet zonder toestemming worden geüpload! Ook bestanden onder de Engelse [[w:Fair use|fair use]]-regeling zijn niet toegestaan.'''
+
+=== Tips ===
+*Gebruik [[Commons:Commons:Upload/nl|'''Wikimedia Commons''']] zodat ook andere projecten de afbeelding kunnen gebruiken. Let op: niet alle bestanden die op een zusterproject als bruikbaar of illustratief worden beschouwd automatisch geaccepteerd op Commons. In sommige gevallen, bijvoorbeeld bij conceptuele of contextspecifieke illustraties, kan het passender zijn om bestanden lokaal op Wikibooks te uploaden zodat Commons niet de integriteit van het boek overruled. Overweeg daarom per bestand of Commons of lokaal uploaden het meest geschikt is.
+*Gebruik een '''duidelijke''' bestandsnaam als '''Screenshot_Desktop_Debian_Sarge.jpg''', niet de naam die een digitale camera geeft, zoals '''DSC15242.jpg''' of '''IMG12345.jpg'''.
+*Gebruik een zo groot mogelijke versie van de afbeelding, het origineel is meestal de beste optie. In een module kan die verkleind worden tot de gewenste afmeting, maar door op de afbeelding te klikken krijgt men toch de originele, grote versie te zien. Zie onder andere [[Help:Gebruik_van_afbeeldingen#Een_afbeelding_herschalen|een afbeelding herschalen]].
+*Gebruik bij voorkeur [[w:Joint Photographic Experts Group|JPEG]] voor foto's, [[w:Scalable Vector Graphics|SVG]] voor diagrammen, [[w:Graphics Interchange Format|GIF]] voor animaties en [[w:Portable Network Graphic|PNG]] voor andere afbeeldingen. Gebruik [[w:Ogg Vorbis|Ogg Vorbis]] voor geluid en video. Het gebruik van [[w:MPEG-1 Layer 3|MP3]] is niet toegestaan.
+*Het kan voorkomen dat een afbeelding dubbel geüpload wordt. Markeer dan alstublieft de afbeelding die weg kan met het sjabloon {&#123;nuweg}}
+*Geef een gedetailleerde beschrijving met de volgende code die u kunt kopiëren en plakken in het beschrijvingsveld (vul alle variabelen in voorzover mogelijk):
+{|
+|-
+| width="20%" |
+<pre style="max-width: 100vw; font-size: larger;"><nowiki>
+&#123;&#123;Informatie
+ |Beschrijving   =
+ |Boek           =
+ |Bron           =
+ |Datum          =
+ |Auteur         =
+ |Licentie       =
+ |andere_versies =
+ |tools          =
+&#125;&#125;</nowiki></pre>
+| width="80%" |
+* ''Beschrijving'': Beschrijving van de inhoud.
+* ''Boek'': Titel van het boek waar het bestand in geplaatst is of wordt.
+* ''Bron'': Bron; zoals een hyperlink of vermeld iets als "eigen werk".
+* ''Datum'': Datum van waarop de afbeelding gemaakt is (of publicatiedatum als die onbekend is). 
+* ''Auteur'': De auteur(s) van het bestand.
+* ''Licentie'': Toestemming van de auteur (citaat); het is nog steeds noodzakelijk om een toepasselijke  [[Wikibooks:Beleid_voor_gebruik_van_afbeeldingen#Toegelaten|licentie]] in het rolmenu te selecteren of er een in te vullen in het samenvattingsveld.
+* optioneel: ''andere_versies'': andere versies gegeven door een [[Help:Gebruik van links|wikilink]].
+* optioneel: ''tools'': gebruikte apparatuur en/of software, anders dan camera of normaal afbeeldingsbewerkingsprogramma
+|}
+</div>
+
+{| align=center style="border:1px red solid; color:red; font-weight:bold; text-align:center; padding-left:0.5em; padding-right:0.5em; margin-top:1em; margin-bottom:2em;"
+| Let op: Bestanden zonder correcte bronvermelding, maker en licentie<br>worden op de [[Wikibooks:Te verwijderen pagina's|verwijderlijst]] geplaatst en na 1 maand verwijderd!
+|}

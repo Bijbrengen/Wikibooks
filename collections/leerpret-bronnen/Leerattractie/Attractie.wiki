@@ -1,0 +1,40 @@
+{{Opmaak}}
+Werkelijk leren is attractief omdat het voortkomt uit persoonlijke noodzaak en innerlijke beweging. Onderwijs — als gesystematiseerd, gecentraliseerd pad — is zelden attractief, omdat het de spontane vonk mist. Attractief betekent aantrekkend, het trekken aan een touwtje in plaats van het vooruit duwen. Onderwijs kan attractief zijn als het uitnodigend blijft en niet dwingend is. Omdat mensen verschillen kan voor de één een leerattractie prettig zijn (een leerpretattractie) en voor de ander niet.
+
+== Spontaan ==
+Spontaan leren ontstaat uit eigen nieuwsgierigheid, een plotselinge behoefte of interesse, en gebeurt vaak moeiteloos, intuïtief, en betekenisvol. [[Zelf leren]] begint dus bij de eigen verwondering of een zelf ervaren urgentie. Onderwijs daarentegen is georganiseerd, systematisch, en opgelegd; de spontaniteit wordt doorgaans verdrongen door externe structuur en doelmatigheid. Deze tegenstelling raakt aan het hart van veel discussies over leren en opvoeding: echt leren gebeurt wanneer de lerende aangesproken wordt in zijn/haar eigen innerlijke beweging. Onderwijs probeert leren te systematiseren en sturen, waardoor het minder spontaan — en dus minder attractief en diepgaand — kan zijn.
+
+== Passie ==
+Leren gedijt dus beter als het wordt gemotiveerd uit passie (intrinsiek) in plaats van uit angst (extrinsiek). Als leren aantrekkelijk is, blijft namelijk de motivatie hoog, terwijl bij leren onder dwang de druk van buiten op niveau of zelfs door gewenning steeds hoger moet worden om de motivatie in stand te houden. Intrinsieke motivatie zorgt ervoor dat de lerende duurzaam meer energie is in het leren stopt en aangezien leren een activiteit is zullen daardoor kennis en vaardigheden ook op langere termijn beter beklijven, oftewel: attractie leidt tot effectiviteit in het leerproces.
+
+== Typen ==
+Als we leerattracties indelen volgends de dichotomie open-gesloten en actief-passief dan kunnen we komen tot de volgende typen;
+{| class="wikitable"
+|+ Hoofdtypen leerattracties in het leerpretpark
+! Type                    !! Actief/Passief !! Open/Gesloten
+|-
+| Presenterend            || Passief  || Gesloten
+|-
+| Toepassend              || Actief   || Gesloten
+|-
+| Onderzoekend            || Passief  || Open
+|-
+| Creërend                || Actief   || Open
+|}
+dus
+* Een presenterende leerattractie (zoals een inspiratieshow of verhalentocht)
+* Een toepassende leerattractie (zoals een praktijklab of workshop)
+* Een onderzoekende leerattractie (zoals een onderzoekszone of raadselroute)
+* Een creërende leerattractie (zoals een makersruimte of innovatielab)
+Dit matched 1 op 1 met de typen [[Leren leren/Stijl|leerstijlen]] die we in [[vrij leren]] kunnen onderscheiden;
+[[File:4Ooflearning.png|thumb|4 O's of free learning]]
+{| class="wikitable"
+|-
+! Leerstijl !! ''Passief''<br>[[Onbewust leren]]!! ''Actief''<br>[[Leren leren]]
+|- 
+| '''''Theorie'''''<br> Hoofd|| '''Reproductief'''<br> '''''Dromer'''''<br>[[Opvolgend leren]]|| '''Betekenisgericht'''<br> '''''Denker'''''<br>[[Onderzoekend leren]]
+|-
+| '''''Praktijk'''''<br> Handen|| '''Toepassingsgericht'''<br> '''''Beslisser'''''<br>[[Ontwerpend leren]]|| '''Productief'''<br> '''''Doener'''''<br>[[Ondernemend leren]]
+|}
+
+{{Opmaak | Voettekst}}

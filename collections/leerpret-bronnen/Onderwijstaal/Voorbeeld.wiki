@@ -1,0 +1,53 @@
+{{Opmaak}}
+Hieronder volgen enkele voorbeelden van hoe de syntaxis van '''Freell''' in de praktijk wordt gebruikt voor het definiëren van regels en architecturen.
+
+== Expertregel ==
+Het is verplicht om declaraties van expertregels te beginnen met de naam van de regel.
+Bijvoorbeeld:
+<pre>
+This expert rule is called The Feynman Technique.
+</pre>
+
+== Onderwijsarchitectuur ==
+Bij het ontwerpen van een leerproces voor iemand anders ([[Onderwijsarchitect|onderwijsarchitectuur]]) is het verplicht om te beginnen met:
+<pre>
+This education architecture is called Codeniacs.
+</pre>
+
+Vervolgens moet de ontwerper de mate van vrijheid aangeven door het wortelobject (root object) te definiëren.
+Dit dwingt de ontwerper om na te denken over de structuur:
+<pre>
+The root is [a/an] type called Name.
+</pre>
+
+=== Voorbeelden van Root-definities ===
+* '''Leraar als basis''':
+<pre>
+The root is an actor called Teacher.
+</pre>
+* '''Portfolio als basis''':
+<pre>
+The root is a portfolio called Showcase.
+</pre>
+* '''Actie als basis''':
+<pre>
+The root is an action called Skill.
+</pre>
+* '''Cursus als basis''':
+<pre>
+The root is a unit called Course.
+</pre>
+* '''Voorkennis als basis''':
+<pre>
+The root is a prerequisite called Recognition of prior learning.
+</pre>
+* '''Bron als basis''':
+<pre>
+The root is a resource called Book.
+</pre>
+* '''Methode als basis''':
+<pre>
+The root is a methode called Entrepreneurial_learning.
+</pre>
+
+{{Opmaak | Voettekst}}

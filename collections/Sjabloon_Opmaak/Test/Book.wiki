@@ -1,0 +1,16 @@
+{{Opmaak
+| Object = Boek
+| Bron = Humanature logo.jpg
+| Definitie = Definitie text
+| Beschrijving = Dit is een test voor het opmaken van een boek
+| Formaat = html
+| Voortgang = 5
+<!-- | Collectie = Sjabloon:Opmaak -->
+<!-- | Onderdeel = Hoofdstuk&shy;1&shy;hier&shy;daar, Hoofdstuk        2,Hoofdstuk 3 -->
+| Support = Help
+| Kleur = #846dab, #f26522, #bd1a8d
+| Titel = Ondernemend leren
+| Referentie = wikipedia, wikijunior
+| textregel 1
+| textregel 2
+}}

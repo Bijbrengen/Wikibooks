@@ -1,0 +1,268 @@
+<includeonly><div class="toccolours" style="clear: both; box-sizing: border-box; width: 100%; margin: 1em 0 -8px 0; padding: 5px;">{{#Switch: {{{1|}}} 
+|ref
+|refs
+|referenties      = '''Referenties'''
+|voet
+|voetnoot
+|voetnoten        = '''Voetnoten'''
+|noot
+|noten            = '''Noten'''
+|bron
+|bronnen          = '''Bronnen'''
+|bronvoet
+|voetbron         = '''Bronnen en voetnoten'''
+|bronnoot
+|nootbron
+|bronoot          = '''Bronnen en noten'''
+|voetref
+|refvoet          = '''Referenties en voetnoten'''
+|bronnootref
+|bronnennotenrefs
+|alles            = '''Bronnen, noten en/of referenties'''
+| = 
+| '''{{{1|Bronnen, noten en/of referenties}}}''' 
+}}
+{{{2|{{References}}}}}
+</div></includeonly><noinclude>
+__TOC__
+{{Sjablooninfo|1=
+Dit sjabloon is ter vervanging van het bronnen-sjabloon en het referenties-sjabloon. Het geeft de mogelijkheid om zo flexibel mogelijk te zijn, zonder dat dat ten koste gaat van de eenvormigheid binnen Wikipedia.
+
+Het sjabloon valt op meerdere manieren te gebruiken. De sectiekopjes kunnen van te voren gedefinieerd worden d.m.v. prefixen, achterwege gelaten worden of handmatig aangelegd worden.
+
+==Prefixen==
+*ref = '''Referenties'''
+*voet ''of'' voetnoot = '''Voetnoten'''
+*noot = '''Noten'''
+*bron = '''Bronnen'''
+*bronvoet = '''Bronnen en voetnoten'''
+*bronnoot = '''Bronnen en noten'''
+*alles = '''Bronnen, noten en/of referenties''' (standaard)
+
+= Voorbeelden =
+__NOTOC__
+
+{{Appendix|alles|
+*Tekst
+}}
+
+
+Is het resultaat van:
+<pre>{{Appendix|alles|
+*Tekst
+}}</pre>
+
+{{Appendix|alles|
+*Tekst
+*Tekst
+----
+:1. [[#|^]] Testreferentie
+:2. [[#|^]] Testreferentie
+}}
+
+
+Is het resultaat van:
+<pre>{{Appendix|alles|
+*Tekst
+*Tekst
+----
+{{References}}
+}}</pre>
+
+{{Appendix|ref|
+*Tekst
+}}
+
+
+Is het resultaat van:
+<pre>{{Appendix|ref|
+*Tekst
+}}</pre>
+
+{{Appendix|ref|2=
+{{{!}} width=100% style="background-colortransparent;"
+{{!}} width=50% {{!}}
+:1. [[#|^]] Testreferentie
+:2. [[#|^]] Testreferentie
+:3. [[#|^]] Testreferentie
+:4. [[#|^]] Testreferentie
+{{!}} width=50% {{!}}
+:5. [[#|^]] Testreferentie
+:6. [[#|^]] Testreferentie
+:7. [[#|^]] Testreferentie
+:8. [[#|^]] Testreferentie
+{{!}}}
+}}
+
+
+Is het resultaat van:
+<pre>{{Appendix|ref|
+{{References||2}}
+}}</pre>
+
+{{Appendix|voet|
+*Tekst
+}}
+
+
+Is het resultaat van:
+<pre>{{Appendix|voet|
+*Tekst
+}}</pre>
+
+{{Appendix|bron|
+*Tekst
+}}
+
+
+Is het resultaat van:
+<pre>{{Appendix|bron|
+*Tekst
+}}</pre>
+
+{{Appendix|noot|
+*Tekst
+}}
+
+
+Is het resultaat van:
+<pre>{{Appendix|noot|
+*Tekst
+}}</pre>
+
+{{Appendix|Een vrije kop|
+*Tekst
+}}
+
+
+Is het resultaat van:
+<pre>{{Appendix|Een vrije kop|
+*Tekst
+}}</pre>
+
+{{Appendix||
+*Tekst
+}}
+
+
+Is het resultaat van:
+<pre>{{Appendix||
+*Tekst
+}}</pre>
+
+{{Appendix|bron|
+:1. [[#|^]] Testreferentie
+:2. [[#|^]] Testreferentie
+:3. [[#|^]] Testreferentie
+}}
+
+
+Is het resultaat van:
+<pre>{{Appendix}}</pre>
+
+{{Appendix||2=
+==Bronnen==
+*Tekst
+
+==Voetnoten==
+{{{!}} width=100% style="background-colortransparent;"
+{{!}} width=50% {{!}}
+:1. [[#|^]] Testreferentie
+:2. [[#|^]] Testreferentie
+:3. [[#|^]] Testreferentie
+:4. [[#|^]] Testreferentie
+{{!}} width=50% {{!}}
+:5. [[#|^]] Testreferentie
+:6. [[#|^]] Testreferentie
+:7. [[#|^]] Testreferentie
+:8. [[#|^]] Testreferentie
+{{!}}}
+
+==Literatuur==
+*Tekst
+}}
+
+
+Is het resultaat van:
+<pre>{{Appendix||2=
+==Bronnen==
+*Tekst
+
+==Voetnoten==
+{{References||2}}
+
+==Literatuur==
+*Tekst
+}}</pre>
+
+Toepassingen van het sjabloon tref je onder meer aan op de naamartikelen [[Lederschildpad]] en [[The Legend of Zelda Ocarina of Time]].
+
+= Oude bronnen-sjabloon =
+Dit ging zo
+<pre>{{Bron|1=
+*Tekst
+}}</pre>
+
+...of bijvoorbeeld
+<pre>{{Bron|bronvermelding=
+*Tekst
+}}</pre>
+
+Dit werd
+{{Bron|1=
+*Tekst
+}}
+
+Met het nieuwe Appendix-sjabloon gebruik je het onderstaande
+<pre>{{Appendix|alles|2=
+*Tekst
+}}</pre>
+
+Dit wordt
+{{Appendix|alles|2=
+*Tekst
+}}
+
+}}
+
+= Oude referenties-sjabloon =
+Dit ging zo
+
+<pre>{{Referenties}}</pre>
+
+...of
+
+<pre>{{Refs}}</pre>
+
+Dit werd
+<div style="positionabsolute; visibilityhidden; height0; margin-top1em;">
+==Referenties==
+</div>
+{| class=toccolours style="width100%; clearboth; font-size90%; margin-top1em; margin-bottom-0.5em; border1px solid #aaa; padding5px; clearboth;"
+|'''Referenties'''
+|-
+|
+:1. [[#|^]] Testreferentie
+:2. [[#|^]] Testreferentie
+:3. [[#|^]] Testreferentie
+|}
+
+Met het nieuwe Appendix-sjabloon gebruik je het onderstaande
+<pre>{{Appendix|ref|
+{{References}}
+}}</pre>
+
+...of
+<pre>{{Appendix}}</pre>
+
+Dit wordt
+{{Appendix|ref|
+:1. [[#|^]] Testreferentie
+:2. [[#|^]] Testreferentie
+:3. [[#|^]] Testreferentie
+}}
+
+{{Transwiki}}
+[[Categorie:Sjablonen referentie]]
+
+</noinclude>

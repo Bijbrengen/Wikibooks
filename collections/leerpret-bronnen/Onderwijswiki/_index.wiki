@@ -1,0 +1,13 @@
+{{Opmaak
+| Titel = Onderwijswiki
+| Object = Boek
+| Bron = Onderwijswiki.webp
+| Definitie = Een onderwijswiki is een collaboratieve online platform dat dient als een uitgebreide kennisbank, waarbij gebruikers gezamenlijk educatieve inhoud kunnen creëren, bewerken en delen.
+| Beschrijving = Dit boek gaat over het bouwen van een onderwijswiki, zowel op Wikibooks als binnen een eigen wiki-omgeving, en biedt een grondige verkenning van de mogelijkheden en uitdagingen die deze platforms voor het onderwijs bieden. De diepste geheimen van de MediaWiki-software en de Lua-scripttaal worden ontrafelt en men zal essentiële vaardigheden verwerven in het schrijven van templates en het beheersen van wikitext.
+| Formaat = html
+| Voortgang = 100
+| Support = Signaleer
+| Referentie = 
+| Collectie = Onderwijsplatform
+| Onderdeel = Inleiding, Wikitext, ParserFunctions, Extensie, Scribunto, Lua, Model, Content, View, Configuration, Interface, Library, Architectuur
+}}

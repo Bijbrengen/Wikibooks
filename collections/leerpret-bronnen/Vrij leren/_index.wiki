@@ -1,0 +1,13 @@
+{{Opmaak
+| Titel = Vrij leren
+| Object = Boek
+| Bron = Free learning.png
+| Definitie = [[wikt:Vrij leren|Vrij leren]] is het in volledige vrijheid [[leren]].<br>Zowel vrijheid als manier van leren als leren over vrijheid (van geest en mening).<br>Vrij leren kan worden gerealiseerd door [[speels leren]] en resulteert dan in<br>[[opvolgend leren]], [[onderzoekend leren]], [[ontwerpend leren]] of [[ondernemend leren]].<br>Welke het beste past ([[passend leren]]) is afhankelijk van de [[leerstijl]] van de lerende.
+| Beschrijving = Dit boek gaat  mede om de psychologie van vrijheid.<br>Het omgaan met die vrijheid is iets wat geleerd dient te worden.<br>In dit boek wordt niets voorgeschreven, maar wordt de lezer middels gedichten stellig uitgedaagd zelf vrij te leren over vrij leren.<br>In de inleiding wordt hiervan afgeweken en vindt de lezer een beschrijving van deze vorm van [[leren]]. 
+| Formaat = html
+| Voortgang = 100
+| Support = Signaleer
+| Referentie = wikipedia
+| Collectie = Leren
+| Onderdeel = Inleiding, Vrijheid, Vrijbuiter, Vrijkomen
+}}

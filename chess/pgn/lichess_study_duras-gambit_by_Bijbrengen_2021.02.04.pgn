@@ -1,0 +1,285 @@
+[Event "Duras Gambit: Main line"]
+[Date "2021.03.27"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "Duras Gambit"]
+[ChapterName "Main line"]
+[ChapterURL "https://lichess.org/study/f8EJHmmA/VVZPpjhu"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.03.27"]
+[UTCTime "19:46:31"]
+
+1. e4 f5 2. exf5 Nf6 3. d4 *
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/yKPleZnL"]
+[Date "2021.02.04"]
+[White "rahul_vaniya"]
+[Black "Bijbrengen"]
+[Result "1-0"]
+[WhiteElo "1539"]
+[BlackElo "1377"]
+[TimeControl "600+30"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "Duras Gambit"]
+[ChapterName "rahul_vaniya - Bijbrengen"]
+[ChapterURL "https://lichess.org/study/f8EJHmmA/ToRWlviv"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 { [%clk 0:10:00] } 1... f5 { [%clk 0:10:00] } 2. exf5 { [%clk 0:10:24] } 2... Nf6 { [%clk 0:10:20] } 3. d4 { [%clk 0:10:48] } 3... d5 { [%clk 0:10:47] } 4. Bd3 { [%clk 0:11:14] } 4... Nc6 { [%clk 0:11:08] } 5. Nf3 { [%clk 0:11:39] } 5... e6 { [%clk 0:11:11] } 6. fxe6 { [%clk 0:11:56] } 6... Bxe6 { [%clk 0:11:37] } 7. O-O { [%clk 0:12:16] } 7... Bd6 { [%clk 0:11:59] } 8. Re1 { [%clk 0:12:34] } 8... Qd7 { [%clk 0:12:23] } 9. c4 { [%clk 0:12:38] } 9... O-O-O { [%clk 0:12:47] } 10. cxd5 { [%clk 0:12:55] } 10... Bxd5 { [%clk 0:13:14] } 11. Nc3 { [%clk 0:12:59] } 11... Ng4 { [%clk 0:13:27] } 12. Qc2 { [%clk 0:13:05] } 12... Nxd4 { [%clk 0:13:47] } 13. Nxd4 { [%clk 0:13:27] } 13... Bxh2+ { [%clk 0:14:08] } 14. Kh1 { [%clk 0:13:50] } 14... Bc6 { [%clk 0:14:30] } 15. Bf5 { [%clk 0:14:04] } 15... Bxg2+ { [%clk 0:14:56] } 16. Kxg2 { 1-0 Black resigns. } { [%clk 0:14:24] } 1-0
+
+
+[Event "Import"]
+[Site "https://lichess.org/VmfZ1Dr1"]
+[Date "2016.04.02"]
+[White "Scherbakov, Alexandr (2265)"]
+[Black "Kuzminyh, Valerij (2276)"]
+[Result "0-1"]
+[TimeControl "-"]
+[Termination "Unknown"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "Duras Gambit"]
+[ChapterName "Scherbakov, Alexandr (2265) - Kuzminyh, Valerij (2276)"]
+[ChapterURL "https://lichess.org/study/f8EJHmmA/mO8yWKHz"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 f5 2. exf5 Nf6 3. Bc4 d5 4. Bb3 Bxf5 (4... c5) 5. Nf3 Nc6 6. O-O e6 7. h3 Qd7 8. d3 O-O-O 9. Bd2 e5 10. Nh4 e4 11. Nxf5 Qxf5 12. dxe4 dxe4 13. Nc3 Qe5 14. Qe1 Bd6 15. f4 exf3 16. Qxe5 Bxe5 17. Bg5 h6 18. Bxf6 fxg2 19. Kxg2 Bxf6 20. Rad1 Rxd1 21. Rxd1 Re8 22. Ba4 Bxc3 23. bxc3 Re3 24. Rd3 Re4 25. Bb3 Re7 26. Kg3 Ne5 27. Re3 Kd7 28. a4 Kd6 29. a5 Kc5 30. a6 bxa6 31. Re4 c6 32. Ra4 Nf7 33. Rxa6 Nd6 34. Kh4 Nb5 35. c4 Nd4 36. Kh5 Kb4 37. Kg6 c5 38. Rd6 Nxb3 39. cxb3 Kxb3 40. Rd8 Kxc4 41. Rg8 Kd4 42. h4 c4 43. h5 c3 { 0-1 Black wins. } 0-1
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/81Q26fWc"]
+[Date "2021.02.04"]
+[White "Dragadraga1961"]
+[Black "Bijbrengen"]
+[Result "1-0"]
+[WhiteElo "1804"]
+[BlackElo "1369"]
+[TimeControl "3600+9"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "Duras Gambit"]
+[ChapterName "Dragadraga1961 - Bijbrengen"]
+[ChapterURL "https://lichess.org/study/f8EJHmmA/jvbVZcl0"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 { [%clk 1:00:00] } 1... f5 { [%clk 1:00:00] } 2. Qh5+ { [%clk 1:00:04] } 2... g6 { [%clk 0:59:50] } 3. Qf3 { [%clk 1:00:11] } 3... Nf6 { [%clk 0:59:56] } (3... fxe4 4. Qxe4 d5) 4. exf5 { [%clk 1:00:18] } 4... g5 { [%clk 0:59:49] } 5. d4 { [%clk 1:00:22] } 5... h5 { [%clk 0:59:54] } 6. Bxg5 { [%clk 1:00:29] } 6... Bh6 { [%clk 0:59:54] } 7. Bxf6 { [%clk 1:00:35] } 7... exf6 { [%clk 0:59:55] } 8. Nc3 { [%clk 1:00:38] } 8... c6 { [%clk 0:59:58] } 9. Bd3 { [%clk 1:00:44] } 9... d5 { [%clk 1:00:05] } 10. Nge2 { [%clk 1:00:51] } 10... h4 { [%clk 0:59:47] } 11. Nf4 { [%clk 1:00:56] } 11... Bg5 { [%clk 0:59:52] } 12. Ne6 { [%clk 1:01:01] } 12... Qd6 { [%clk 0:59:50] } 13. Nxg5 { [%clk 1:01:03] } 13... fxg5 { [%clk 0:59:55] } 14. O-O-O { [%clk 1:01:11] } 14... O-O { [%clk 0:59:47] } 15. Qh5 { [%clk 1:01:10] } 15... Qf4+ { [%clk 0:59:50] } 16. Kb1 { [%clk 1:01:17] } 16... Qxf2 { [%clk 0:59:56] } 17. g3 { [%clk 1:01:24] } 17... Qxd4 { [%clk 0:59:58] } 18. Qxg5+ { [%clk 1:01:29] } 18... Qg7 { [%clk 1:00:06] } 19. Qxh4 { [%clk 1:01:35] } 19... Bxf5 { [%clk 1:00:14] } 20. Bxf5 { [%clk 1:01:40] } 20... Rxf5 { [%clk 1:00:18] } 21. Rdf1 { [%clk 1:01:45] } 21... Rxf1+ { [%clk 1:00:24] } 22. Rxf1 { [%clk 1:01:52] } 22... Na6 { [%clk 1:00:28] } 23. a3 { [%clk 1:01:58] } 23... Rf8 { [%clk 1:00:32] } 24. Re1 { [%clk 1:02:05] } 24... Nc5 { [%clk 1:00:38] } 25. Re7 { [%clk 1:02:11] } 25... Qf6 { 1-0 Black resigns. } { [%clk 0:59:34] } 1-0
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/GuiwoZdO"]
+[Date "2021.02.04"]
+[White "Suhranitel"]
+[Black "Bijbrengen"]
+[Result "1-0"]
+[WhiteElo "1844"]
+[BlackElo "1368"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "Duras Gambit"]
+[ChapterName "Suhranitel - Bijbrengen"]
+[ChapterURL "https://lichess.org/study/f8EJHmmA/1drjBiYH"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 { [%clk 0:15:00] } 1... f5 { [%clk 0:15:00] } 2. exf5 { [%clk 0:15:08] } 2... Nf6 { [%clk 0:15:09] } 3. d4 { [%clk 0:14:52] } 3... c5 { [%clk 0:15:16] } 4. Bc4 { [%clk 0:14:24] } 4... d5 { [%clk 0:15:20] } 5. Bb3 { [%clk 0:14:45] } 5... Bxf5 { [%clk 0:15:10] } 6. dxc5 { [%clk 0:14:56] } 6... e5 { [%clk 0:15:16] } 7. Nf3 { [%clk 0:15:07] } 7... e4 { [%clk 0:15:24] } 8. Nd4 { [%clk 0:15:07] } 8... Bxc5 { [%clk 0:15:35] } 9. Nxf5 { [%clk 0:15:19] } 9... Qa5+ { [%clk 0:15:43] } 10. c3 { [%clk 0:15:30] } 10... Ng4 { [%clk 0:15:52] } 11. O-O { [%clk 0:15:37] } 11... Bxf2+ { [%clk 0:16:01] } 12. Rxf2 { [%clk 0:15:50] } 12... Nxf2 { [%clk 0:16:15] } 13. Kxf2 { 1-0 Black resigns. } { [%clk 0:15:55] } 1-0
+
+
+[Event "Import"]
+[Site "https://lichess.org/Yo4baZpB"]
+[Date "2020.01.31"]
+[White "Danielian, E. (2385)"]
+[Black "Nepomniachtchi, I. (2776)"]
+[Result "0-1"]
+[TimeControl "-"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "A82"]
+[Opening "Dutch Defense: Staunton Gambit"]
+[StudyName "Duras Gambit"]
+[ChapterName "Danielian, E. (2385) - Nepomniachtchi, I. (2776)"]
+[ChapterURL "https://lichess.org/study/f8EJHmmA/wLYn8xp5"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. d4 f5 2. e4 Nf6 3. exf5 c5 4. dxc5 Na6 5. Be3 b6 6. cxb6 axb6 7. Nc3 Nc5 8. Nf3 Qc7 9. h3 Bb7 10. Be2 e6 11. fxe6 Nxe6 12. O-O Be7 13. Re1 O-O 14. Nd4 Nf4 15. Bf3 Bc5 16. Ndb5 Qb8 17. a3 Kh8 18. b4 Bxe3 19. Rxe3 d5 20. Qd4 Bc8 21. Rae1 Bxh3 22. gxh3 Nxh3+ 23. Kf1 Qh2 24. Re7 Nf4 25. R1e3 Qh4 26. Ke1 Qg5 27. Kd2 Ng6 28. Re5 Nxe5 29. Qxe5 Qg1 30. Nd4 Qxf2+ 31. Re2 Qg1 32. Nxd5 Rae8 33. Qd6 Qxd4+ { 0-1 White resigns. } 0-1
+
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/nIFn38PG"]
+[Date "2021.02.04"]
+[White "tom4512"]
+[Black "Bijbrengen"]
+[Result "1-0"]
+[WhiteElo "1896"]
+[BlackElo "1287"]
+[TimeControl "1200+0"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "Duras Gambit"]
+[ChapterName "tom4512 - Bijbrengen"]
+[ChapterURL "https://lichess.org/study/f8EJHmmA/UNbMfiua"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 { [%clk 0:20:00] } 1... f5 { [%clk 0:20:00] } 2. exf5 { [%clk 0:19:28] } 2... Nf6 { [%clk 0:19:58] } 3. Bc4 { [%clk 0:19:23] } 3... d5 { [%clk 0:19:55] } 4. Bb3 { [%clk 0:19:20] } 4... e5 { [%clk 0:19:51] } 5. fxe6 { [%clk 0:19:15] } 5... Bxe6 { [%clk 0:19:51] } 6. Nf3 { [%clk 0:19:06] } 6... Bd6 { [%clk 0:19:45] } 7. O-O { [%clk 0:18:58] } 7... Nbd7 { [%clk 0:19:32] } 8. Re1 { [%clk 0:18:49] } 8... Qe7 { [%clk 0:19:30] } 9. Nd4 { [%clk 0:18:39] } 9... Ne4 { [%clk 0:19:20] } 10. f3 { [%clk 0:18:32] } 10... Bxh2+ { [%clk 0:19:15] } 11. Kxh2 { [%clk 0:18:25] } 11... Qh4+ { [%clk 0:19:11] } 12. Kg1 { [%clk 0:18:16] } 12... Rf8 { [%clk 0:18:38] } (12... Qf2+ 13. Kh1 Qh4+ 14. Kg1 Qf2+ 15. Kh1 Qh4+ 16. Kg1 Qf2+) 13. Qe2 { [%clk 0:17:49] } 13... Ng3 { 1-0 Black resigns. } { [%clk 0:18:23] } 1-0
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/RNDge2Vy"]
+[Date "2021.02.04"]
+[White "Trelles"]
+[Black "Bijbrengen"]
+[Result "1-0"]
+[WhiteElo "1620"]
+[BlackElo "1365"]
+[TimeControl "1800+0"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "Duras Gambit"]
+[ChapterName "Trelles - Bijbrengen"]
+[ChapterURL "https://lichess.org/study/f8EJHmmA/QHfkBQzM"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 { [%clk 0:30:00] } 1... f5 { [%clk 0:30:00] } 2. exf5 { [%clk 0:29:55] } 2... Nf6 { [%clk 0:29:58] } 3. Bc4 { [%clk 0:29:39] } 3... d5 { [%clk 0:29:53] } 4. Bd3 { [%clk 0:29:30] } 4... c5 { [%clk 0:28:53] } 5. b3 { [%clk 0:29:19] } 5... b5 { [%clk 0:28:48] } 6. Bb2 { [%clk 0:29:15] } 6... c4 { [%clk 0:28:43] } 7. bxc4 { [%clk 0:29:11] } 7... bxc4 { [%clk 0:28:41] } 8. Bxf6 { [%clk 0:29:04] } 8... exf6 { [%clk 0:28:30] } 9. Be2 { [%clk 0:29:02] } 9... Bxf5 { [%clk 0:28:26] } 10. Nc3 { [%clk 0:28:55] } 10... d4 { [%clk 0:23:57] } 11. Bh5+ { [%clk 0:28:38] } 11... g6 { [%clk 0:23:45] } 12. Bf3 { [%clk 0:28:35] } 12... Qe7+ { [%clk 0:23:14] } 13. Nge2 { [%clk 0:28:31] } 13... d3 { [%clk 0:19:22] } 14. Bxa8 { [%clk 0:28:16] } 14... dxc2 { [%clk 0:19:18] } 15. Qc1 { [%clk 0:28:04] } 15... Bd3 { [%clk 0:19:01] } 16. Bf3 { [%clk 0:27:47] } 16... Nc6 { [%clk 0:18:50] } 17. O-O { [%clk 0:27:22] } 17... Qa3 { [%clk 0:18:09] } 18. Bxc6+ { 1-0 Black resigns. } { [%clk 0:27:14] } 1-0
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/eRC7HVi2"]
+[Date "2021.02.04"]
+[White "Atabekk"]
+[Black "Bijbrengen"]
+[Result "1-0"]
+[WhiteElo "1636"]
+[BlackElo "1362"]
+[TimeControl "1500+0"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "Duras Gambit"]
+[ChapterName "Atabekk - Bijbrengen"]
+[ChapterURL "https://lichess.org/study/f8EJHmmA/7I8OSULk"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 { [%clk 0:25:00] } 1... f5 { [%clk 0:25:00] } 2. d3 { [%clk 0:24:56] } 2... fxe4 { [%clk 0:24:55] } 3. dxe4 { [%clk 0:24:54] } 3... e5 { 1-0 Black resigns. } { [%clk 0:24:48] } 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/U2pdxPti"]
+[Date "2021.02.04"]
+[White "pranavkhetan"]
+[Black "Bijbrengen"]
+[Result "1-0"]
+[WhiteElo "1867"]
+[BlackElo "1057"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "Duras Gambit"]
+[ChapterName "pranavkhetan - Bijbrengen"]
+[ChapterURL "https://lichess.org/study/f8EJHmmA/lL3QVxKs"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 { [%clk 0:03:00] } 1... f5 { [%clk 0:03:00] } 2. exf5 { [%clk 0:03:00] } 2... Nf6 { [%clk 0:03:00] } 3. d4 { [%clk 0:02:59] } 3... d5 { [%clk 0:03:00] } 4. Bd3 { [%clk 0:02:57] } 4... c5 { [%clk 0:03:00] } 5. dxc5 { [%clk 0:02:57] } 5... Qa5+ { [%clk 0:03:01] } 6. Nc3 { [%clk 0:02:53] } 6... Qxc5 { [%clk 0:03:01] } 7. Nf3 { [%clk 0:02:53] } 7... g6 { [%clk 0:02:51] } 8. fxg6 { [%clk 0:02:52] } 8... hxg6 { [%clk 0:02:52] } 9. Bxg6+ { 1-0 Black resigns. } { [%clk 0:02:52] } 1-0
+
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/u3UDwbTG"]
+[Date "2021.02.04"]
+[White "ofylypczuk"]
+[Black "Bijbrengen"]
+[Result "1-0"]
+[WhiteElo "1696"]
+[BlackElo "1277"]
+[TimeControl "180+8"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "Duras Gambit"]
+[ChapterName "ofylypczuk - Bijbrengen"]
+[ChapterURL "https://lichess.org/study/f8EJHmmA/ffZbvjiz"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 { [%clk 0:03:00] } 1... f5 { [%clk 0:03:00] } 2. exf5 { [%clk 0:03:06] } 2... Nf6 { [%clk 0:03:07] } 3. Nf3 { [%clk 0:03:13] } 3... d5 { [%clk 0:03:11] } 4. d4 { [%clk 0:03:20] } 4... Bxf5 { [%clk 0:03:17] } 5. Nc3 { [%clk 0:03:26] } 5... e6 { [%clk 0:03:11] } 6. Bf4 { [%clk 0:03:32] } 6... Bd6 { [%clk 0:03:17] } 7. Bxd6 { [%clk 0:03:25] } 7... Qxd6 { [%clk 0:03:23] } 8. Ne5 { [%clk 0:03:32] } 8... Nc6 { [%clk 0:03:27] } 9. f4 { [%clk 0:03:33] } 9... O-O { [%clk 0:03:17] } 10. Be2 { [%clk 0:03:38] } 10... Ne4 { [%clk 0:03:15] } 11. Nxe4 { [%clk 0:03:40] } 11... Bxe4 { [%clk 0:03:21] } 12. Bf3 { [%clk 0:03:30] } 12... Qb4+ { [%clk 0:03:26] } 13. c3 { [%clk 0:03:31] } 13... Qxb2 { [%clk 0:03:32] } 14. Bxe4 { [%clk 0:03:37] } 14... dxe4 { [%clk 0:03:39] } 15. O-O { [%clk 0:03:18] } 15... Qxc3 { [%clk 0:03:43] } 16. Rc1 { [%clk 0:03:18] } 16... Qxd4+ { [%clk 0:03:49] } 17. Qxd4 { [%clk 0:03:22] } 17... Nxd4 { [%clk 0:03:56] } 18. Rxc7 { [%clk 0:03:27] } 18... Ne2+ { [%clk 0:03:58] } 19. Kh1 { [%clk 0:03:31] } 19... Nxf4 { [%clk 0:04:05] } 20. Nd7 { [%clk 0:03:37] } 20... Rf7 { [%clk 0:04:08] } 21. Rxb7 { [%clk 0:03:39] } 21... Rd8 { [%clk 0:04:05] } 22. Nc5 { [%clk 0:03:44] } 22... Rxb7 { [%clk 0:04:00] } 23. Nxb7 { [%clk 0:03:52] } 23... Rf8 { [%clk 0:04:02] } 24. g3 { [%clk 0:03:47] } 24... Nh3 { [%clk 0:04:03] } 25. Re1 { [%clk 0:03:48] } 25... Nf2+ { [%clk 0:04:06] } 26. Kg2 { [%clk 0:03:55] } 26... e3 { 1-0 Black resigns. } { [%clk 0:04:07] } 1-0
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/l3zGhAhU"]
+[Date "2021.02.04"]
+[White "Madan2013"]
+[Black "Bijbrengen"]
+[Result "0-1"]
+[WhiteElo "1569"]
+[BlackElo "1359"]
+[TimeControl "1500+10"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "Duras Gambit"]
+[ChapterName "Madan2013 - Bijbrengen"]
+[ChapterURL "https://lichess.org/study/f8EJHmmA/mAHMQPu4"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 { [%clk 0:25:00] } 1... f5 { [%clk 0:25:00] } 2. exf5 { [%clk 0:25:07] } 2... Nf6 { [%clk 0:25:05] } 3. Nc3 { [%clk 0:25:12] } 3... d5 { [%clk 0:25:10] } 4. Bb5+ { [%clk 0:25:16] } 4... c6 { [%clk 0:25:18] } 5. Ba4 { [%clk 0:25:23] } 5... Bxf5 { [%clk 0:25:26] } 6. Nf3 { [%clk 0:25:25] } 6... Qb6 { [%clk 0:25:03] } 7. d4 { [%clk 0:25:22] } 7... Nbd7 { [%clk 0:25:08] } 8. Ne5 { [%clk 0:25:26] } 8... Nxe5 { [%clk 0:25:01] } 9. dxe5 { [%clk 0:25:34] } 9... Ne4 { [%clk 0:25:10] } 10. Nxe4 { [%clk 0:25:41] } 10... Bxe4 { [%clk 0:25:18] } 11. Bg5 { [%clk 0:25:42] } 11... Bxg2 { [%clk 0:25:24] } 12. Be3 { [%clk 0:25:35] } 12... Qc7 { [%clk 0:25:20] } 13. Rg1 { [%clk 0:25:32] } 13... Be4 { [%clk 0:25:20] } 14. Qe2 { [%clk 0:25:22] } 14... Qxe5 { [%clk 0:25:25] } 15. O-O-O { [%clk 0:25:27] } 15... Qxh2 { [%clk 0:25:33] } 16. f3 { [%clk 0:25:13] } 16... Qxe2 { [%clk 0:25:23] } 17. fxe4 { [%clk 0:25:19] } 17... Qxe3+ { [%clk 0:25:32] } 18. Rd2 { [%clk 0:25:24] } 18... Qxe4 { [%clk 0:25:40] } 19. Re1 { [%clk 0:25:31] } 19... Qxe1+ { [%clk 0:25:48] } 20. Rd1 { [%clk 0:25:39] } 20... Qe3+ { [%clk 0:25:57] } 21. Rd2 { [%clk 0:25:48] } 21... e5 { [%clk 0:26:01] } 22. Bxc6+ { [%clk 0:25:51] } 22... bxc6 { [%clk 0:26:08] } 23. c4 { [%clk 0:25:59] } 23... Bb4 { [%clk 0:26:13] } 24. cxd5 { [%clk 0:26:05] } 24... Qxd2+ { [%clk 0:26:22] } 25. Kb1 { [%clk 0:26:12] } 25... Qd1# { 0-1 Black wins by checkmate. } { [%clk 0:26:21] } 0-1
+
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/mBGilfwD"]
+[Date "2021.02.04"]
+[White "asgharafzali"]
+[Black "Bijbrengen"]
+[Result "1-0"]
+[WhiteElo "1720"]
+[BlackElo "1276"]
+[TimeControl "240+15"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "Duras Gambit"]
+[ChapterName "asgharafzali - Bijbrengen"]
+[ChapterURL "https://lichess.org/study/f8EJHmmA/fXM7h3HL"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 { [%clk 0:04:00] } 1... f5 { [%clk 0:04:00] } 2. exf5 { [%clk 0:04:13] } 2... Nf6 { [%clk 0:04:15] } 3. Bc4 { [%clk 0:04:19] } 3... d5 { [%clk 0:04:27] } 4. Bb5+ { [%clk 0:04:29] } 4... c6 { [%clk 0:04:41] } 5. Be2 { [%clk 0:04:40] } 5... Bxf5 { [%clk 0:04:43] } 6. Bh5+ { [%clk 0:04:42] } 6... Nxh5 { [%clk 0:04:54] } 7. Qxh5+ { [%clk 0:04:55] } 7... Bg6 { [%clk 0:05:09] } 8. Qd1 { [%clk 0:05:01] } 8... e5 { [%clk 0:05:17] } 9. d3 { [%clk 0:05:14] } 9... Bd6 { [%clk 0:05:13] } 10. Nf3 { [%clk 0:05:18] } 10... h6 { [%clk 0:04:59] } 11. O-O { [%clk 0:05:30] } 11... Qc7 { [%clk 0:05:05] } 12. h3 { [%clk 0:05:12] } 12... O-O { [%clk 0:05:14] } 13. Nc3 { [%clk 0:05:06] } 13... e4 { [%clk 0:05:15] } 14. Nd4 { [%clk 0:05:19] } 14... Bh2+ { [%clk 0:04:40] } 15. Kh1 { [%clk 0:05:26] } 15... Qe5 { [%clk 0:04:54] } 16. dxe4 { [%clk 0:04:19] } 16... dxe4 { [%clk 0:03:36] } 17. Re1 { [%clk 0:02:50] } 17... Bh5 { [%clk 0:03:46] } 18. g4 { [%clk 0:01:25] } 18... Rxf2 { [%clk 0:03:46] } 19. Rxe4 { [%clk 0:01:11] } 19... Qg3 { [%clk 0:03:56] } 20. Re8+ { [%clk 0:00:39] } 20... Kh7 { [%clk 0:04:07] } 21. Qd3+ { [%clk 0:00:48] } 21... Bg6 { [%clk 0:04:15] } 22. Qxg3 { [%clk 0:00:59] } 22... Bxg3 { [%clk 0:04:29] } 23. Be3 { [%clk 0:00:30] } 23... Rh2+ { [%clk 0:04:34] } 24. Kg1 { [%clk 0:00:41] } 24... Rxh3 { [%clk 0:04:41] } 25. Rf1 { [%clk 0:00:40] } 25... Bxe8 { [%clk 0:04:51] } 26. Kg2 { [%clk 0:00:22] } 26... Rh2+ { [%clk 0:03:39] } 27. Kxg3 { [%clk 0:00:31] } 27... Rxc2 { [%clk 0:03:51] } 28. Nxc2 { 1-0 Black resigns. } { [%clk 0:00:45] } 1-0
+
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/xsswUhqb"]
+[Date "2021.02.04"]
+[White "doun1681"]
+[Black "Bijbrengen"]
+[Result "1-0"]
+[WhiteElo "1560"]
+[BlackElo "1273"]
+[TimeControl "840+14"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "Duras Gambit"]
+[ChapterName "doun1681 - Bijbrengen"]
+[ChapterURL "https://lichess.org/study/f8EJHmmA/oAoUJdev"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 { [%clk 0:14:00] } 1... f5 { [%clk 0:14:00] } 2. Nc3 { [%clk 0:14:07] } 2... Nf6 { [%clk 0:14:07] } 3. f3 { [%clk 0:13:58] } 3... d5 { [%clk 0:14:12] } 4. Bb5+ { [%clk 0:13:01] } 4... c6 { [%clk 0:14:23] } 5. Ba4 { [%clk 0:13:12] } 5... fxe4 { [%clk 0:14:33] } 6. fxe4 { [%clk 0:13:22] } 6... Nxe4 { [%clk 0:14:29] } 7. Nxe4 { [%clk 0:13:09] } 7... dxe4 { [%clk 0:14:41] } 8. Qh5+ { [%clk 0:13:09] } 8... g6 { [%clk 0:14:48] } 9. Qe5 { [%clk 0:13:17] } 9... Rg8 { [%clk 0:14:36] } 10. Qxe4 { [%clk 0:13:28] } 10... Bf5 { [%clk 0:14:41] } 11. Qc4 { [%clk 0:13:21] } 11... e6 { [%clk 0:14:32] } 12. Bxc6+ { 1-0 Black resigns. } { [%clk 0:13:05] } 1-0
+
+

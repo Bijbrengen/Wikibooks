@@ -1,0 +1,115 @@
+{
+    "source":  "https://nl.wikibooks.org/wiki/",
+    "api":  "https://nl.wikibooks.org/w/api.php",
+    "list":  "D:\\repos\\Leerpret\\wikibooks\\page-lists\\infrastructuur.txt",
+    "fetched_at_utc":  "2026-04-27T09:00:55.0438416Z",
+    "requested_count":  7,
+    "fetched_count":  7,
+    "missing_count":  0,
+    "pages":  [
+                  {
+                      "title":  "Sjabloon:Opmaak",
+                      "file":  "Sjabloon_Opmaak/_index.wiki",
+                      "root":  "Sjabloon:Opmaak",
+                      "pageid":  41634,
+                      "contentmodel":  "wikitext",
+                      "revid":  405281,
+                      "parentid":  405280,
+                      "timestamp":  "2025-09-19T04:41:49Z",
+                      "user":  "BeeBringer",
+                      "comment":  "",
+                      "sha1":  "8cd9123e9783ecc88a95b2447fb8300e0cf5a935",
+                      "bytes":  2159
+                  },
+                  {
+                      "title":  "Sjabloon:Opmaak/PrefixIndex",
+                      "file":  "Sjabloon_Opmaak/PrefixIndex.wiki",
+                      "root":  "Sjabloon:Opmaak",
+                      "pageid":  41683,
+                      "contentmodel":  "wikitext",
+                      "revid":  368914,
+                      "parentid":  368912,
+                      "timestamp":  "2023-01-02T20:28:58Z",
+                      "user":  "BeeBringer",
+                      "comment":  "",
+                      "sha1":  "d458c7b5373363501384c6e0a71b9c7eba79eb6c",
+                      "bytes":  76
+                  },
+                  {
+                      "title":  "Sjabloon:Opmaak/Verwijzingen",
+                      "file":  "Sjabloon_Opmaak/Verwijzingen.wiki",
+                      "root":  "Sjabloon:Opmaak",
+                      "pageid":  41699,
+                      "contentmodel":  "wikitext",
+                      "revid":  368938,
+                      "parentid":  368937,
+                      "timestamp":  "2023-01-02T21:46:55Z",
+                      "user":  "Erik Baas",
+                      "comment":  "Wijzigingen door [[Speciaal:Contributions/Erik Baas|Erik Baas]] hersteld tot de versie na de laatste wijziging door BeeBringer",
+                      "sha1":  "8db75375d7d785e13bf0b348047e22cdc4cc9687",
+                      "bytes":  85
+                  },
+                  {
+                      "title":  "Sjabloon:Opmaak/Toelichting",
+                      "file":  "Sjabloon_Opmaak/Toelichting.wiki",
+                      "root":  "Sjabloon:Opmaak",
+                      "pageid":  42154,
+                      "contentmodel":  "wikitext",
+                      "revid":  424658,
+                      "parentid":  424103,
+                      "timestamp":  "2026-04-27T06:56:38Z",
+                      "user":  "BeeBringer",
+                      "comment":  "",
+                      "sha1":  "cb2d74a3659c6f14c641a07c4c67189a9b35d800",
+                      "bytes":  15467
+                  },
+                  {
+                      "title":  "Sjabloon:Opmaak/Zandbak",
+                      "file":  "Sjabloon_Opmaak/Zandbak.wiki",
+                      "root":  "Sjabloon:Opmaak",
+                      "pageid":  42196,
+                      "contentmodel":  "wikitext",
+                      "revid":  374328,
+                      "parentid":  374053,
+                      "timestamp":  "2023-04-05T14:11:48Z",
+                      "user":  "BeeBringer",
+                      "comment":  "",
+                      "sha1":  "ee16e62bc57a5abc7b7466b3b9a2c26fc501b340",
+                      "bytes":  1373
+                  },
+                  {
+                      "title":  "Sjabloon:Opmaak/Wachtruimte",
+                      "file":  "Sjabloon_Opmaak/Wachtruimte.wiki",
+                      "root":  "Sjabloon:Opmaak",
+                      "pageid":  42197,
+                      "contentmodel":  "wikitext",
+                      "revid":  374326,
+                      "parentid":  374322,
+                      "timestamp":  "2023-04-05T14:11:01Z",
+                      "user":  "BeeBringer",
+                      "comment":  "",
+                      "sha1":  "9d7f4ea111192838f53562191bfcbf1e80d9eea1",
+                      "bytes":  1371
+                  },
+                  {
+                      "title":  "Sjabloon:Opmaak/Werkplaats",
+                      "file":  "Sjabloon_Opmaak/Werkplaats.wiki",
+                      "root":  "Sjabloon:Opmaak",
+                      "pageid":  42198,
+                      "contentmodel":  "wikitext",
+                      "revid":  374327,
+                      "parentid":  374323,
+                      "timestamp":  "2023-04-05T14:11:27Z",
+                      "user":  "BeeBringer",
+                      "comment":  "",
+                      "sha1":  "7dff960f494ad159383e6b9000101d799cb9f7ec",
+                      "bytes":  1366
+                  }
+              ],
+    "missing":  [
+
+                ],
+    "redirects":  [
+
+                  ]
+}

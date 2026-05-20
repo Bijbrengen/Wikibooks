@@ -1,0 +1,12 @@
+{{Opmaak
+| Object = Boek
+| Bron = EPCOT - panoramio (7).jpg
+| Collectie = Leerpretpark
+| Definitie = De '''Leerbroedplaats''' is het fysieke hart van een [[Leerpretpark]].
+| Beschrijving = De '''Leerbroedplaats''' is een parkachtige omgeving waarin leerattracties samenkomen om bezoekers op een zintuiglijke, speelse en ervaringsgerichte manier te laten leren. De broedplaats vormt de tastbare ruimte waar het concept van leven lang leren en spelenderwijs ontdekken concreet beleefbaar wordt.
+| Formaat = html
+| Voortgang = 5
+| Support = 
+| Referentie = wikipedia
+| Onderdeel = Functies, Kenmerken, Organisatie, Pretpark
+}}

@@ -1,0 +1,4 @@
+<div class="toccolours mw-collapsible mw-collapsed">
+Oplossing
+<div class="mw-collapsible-content">{{{1|}}}</div>
+</div><noinclude>[[Categorie:Sjablonen schaken]]</noinclude>

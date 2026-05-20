@@ -1,0 +1,400 @@
+{{Opmaak}}
+'''In het boek "[[Onderwijsvorm]]" staan enkele voorbeelden van onderwijsvormen bedacht door een onderwijsarchitect.'''
+Andere voorbeelden zijn:
+* [http://www.onderwijsontwerp.nl Functioneel ontwerp] voor het onderwijs aan de Academie voor Natuurlijke Geneeswijzen Noord-Nederland.
+* [[Onderwijsarchitect/Werkwijze#Voorbeeld|Financieel-juridisch adviseren]]
+
+== Basisonderwijs ==
+=== Meester Jan ===
+In het schoolplan van een basisschool wordt beschreven dat in alle groepen aan het eind van het lopende schooljaar ICT volledig geïntegreerd is in het onderwijs. Het team heeft hierover een drietal scholingsbijeenkomsten gevolgd en een invoeringsplan opgesteld en wordt geacht nu zelf, met ondersteuning van de aan de schoolverbonden ICT-er, de integratie uit te voeren. Iedereen gaat enthousiast aan de slag, volgens het vastgestelde tijdpad. Na een drietal maanden, tijdens de evaluatie op een teamvergadering, blijkt dat Meester Jan, die er veel tijd in heeft gestoken, toch niet echt iets is opgeschoten. In zijn groep zijn computers nog steeds leuke extra’s voor snelle leerlingen en van een integratie in het reguliere ontwikkelings-leerproces is geen sprake. Jan heeft al extra ondersteuning gehad van de ICT-er maar diens tijd is beperkt en bovendien begrijpt hij niet goed waarom het Jan niet lukt: hij heeft toch heel duidelijk verteld welke stappen Jan moet zetten?
+Na de inzet van een onderwijsarchitect blijkt dat Meester Jan zelf helemaal niets heeft met ICT en sowieso niet met techniek. Een groot organisator is hij ook niet. Hij probeert wel te doen wat tegen hem gezegd wordt maar eerlijk gezegd gelooft hij er niet in en lukt het hem ook niet het ICT-onderwijs goed te organiseren. Zijn kracht ligt in onderwijs dat gerelateerd is aan levende dingen. Ook is hij in staat om zijn leerlingen enorm te motiveren en te zorgen dat ze zichzelf erg verantwoordelijk voelen voor elkaar en voor water in de groep gebeurt. Maar ICT? Nee. Toch wil Meester Jan heel graag zijn onderwijs zo inrichten dat ook in zijn groep de gestelde doelen worden gehaald. Maar dan wel graag zonder dat hij zich echt in de ICT moet verdiepen. 
+Op grond van de wensen en de sterke kwaliteiten van Meester Jan maakt de onderwijsarchitect een onderwijs-ontwerp waarin ICT geïntegreerd wordt, met een eenvoudige en duidelijke organisatie en structurele aanpassingen in het klassemanagement,  waarbij een sterk beroep wordt gedaan op de motivatie en het verantwoordelijkheidsgevoel van de leerlingen en de kracht van Meester Jan om die gevoelens bij leerlingen wakker te maken. Het werkt en het wordt een feest!
+
+== Voortgezet onderwijs ==
+=== Docent Peter ===
+Peter is leraar Geschiedenis van een Groningse scholengemeenschap die sinds kort is gefuseerd met een andere onderwijsinstelling. De hele organisatie wordt omgegooid en Peter verhuist met enkele van zijn collega’s naar een nieuwe locatie. Contracten van jonge docenten worden niet verlengt en veel zittende leraren worden heringedeeld in teams van 4 tot 6 leraren op basis van hun vakgebied. Leraren zijn niet langer verbonden aan één opleidingsniveau  binnen de school, maar worden nu ingezet per vakgebied. Ook de groepen van leerlingen worden groter en Peter krijgt dus ook meer en andere leerlingen. Peter’s passie voor het onderwijs blijkt zienderogen af te nemen. Hoewel hij vroeger bekend stond als een kundige, betrouwbare en gepassioneerde onderwijsman is Peter nu steeds vaker ziek en lusteloos. 
+
+Uit een gesprek met een onderwijsarchitect blijkt dat hij moeite heeft met de schijnbaar meer mondige leerlingen die hij nu ook moet begeleiden. Zijn talenten liggen in het motiveren en inspireren van zijn leerlingen, maar sinds alle groepen groter zijn geworden richt hij zijn aandacht meer op het handhaven van de orde. Hij is van mening dat een goede leraar aandacht moet besteden aan de individuele leerbehoeften van leerlingen. Bovendien vindt hij het belangrijk dat leerlingen kritisch en zelfstandig na kunnen denken over historische en maatschappelijke ontwikkelingen. Hij is graag rolmodel en is in staat zeer enthousiast en beeldend te vertellen. Na een diepgaandere analyse blijken de mondigheid van leerlingen en de groepsomvang samen te hangen. Peter besteed nu meer aandacht aan het handhaven van de orde en het realiseren van nieuwe onderwijsdoelstellingen dan voorheen. Hij lijkt niet meer gebruik te kunnen maken van zijn talent: het enthousiasmeren en inspireren van individuele leerlingen en groepen van leerlingen.
+
+De onderwijsarchitect komt met het voorstel om de leerlingen meer bij de les te houden. Er worden werkvormen ontworpen die de betrokkenheid van de leerlingen meer bevorderen terwijl ook de leraar zijn eigen talenten kan gebruiken. Na enkele gesprekken werpt de nieuwe aanpak al vruchten af. De leraar laat leerlingen onder andere participeren in een samenwerkingsvorm waarbij kleine groepen leerlingen een specifiek gewest vertegenwoordigen van een fictief rijk. De leraar vervult daarbij drie rollen: voorzitter, neutraal adviseur en ‘deux-ex-machina’ (iemand die intervenieert). Elke groep heeft een eigen gekozen afgevaardigde die plenair de standpunten van zijn gewest voor het senaat moeten presenteren en verdedigen. Het senaat bepaalt de lange termijn visie van het fictieve rijk en elk senaatslid mag op iedereen stemmen behalve op zichzelf. 
+
+Tijdens een zitting van het senaat mag een senator met zijn eigen achterban overleggen. Coalities worden alleen in het geheim gesloten en de leraar geeft als voorzitter van het senaat de discussiepunten aan. Deze discussiepunten kan hij direct koppelen aan de leerstof en de aandachtpunten die hij zelf heeft vastgesteld. Elke partij krijgt richtlijnen mee voor hun werkwijze bij het vormen en uitwerken van hun standpunten. De leraar laat de groepen leerlingen zelfstandig werken en bezoekt elke partij als neutraal adviseur. Een tweede rol die de leraar vervult is de rol van de ‘deux ex machina’. Na de beslissingen van het senaat geeft de leraar aan wat de gevolgen zijn van de besluiten. Hij gebruikt daarbij scenario’s uit de echte geschiedenis. De leraar beloont telkens het sterkste betoog door één groep leerlingen fictief macht, middelen, land en titels te geven. Het machtigste gewest zal uiteindelijk winnen en een eigen kandidaat voor het keizerschap naar voren brengen. De fantasie van de leerlingen slaat positief op hol, hun betrokken en enthousiasme stijgt en de leraar heeft zijn eigen energie weer teruggevonden.
+
+== Hoger onderwijs ==
+=== Rechten ===
+Hieronder zal een architectuur worden beschreven zoals die door een onderwijsarchitect is ontwikkeld voor onderwijseenheden van een Faculteit Rechtsgeleerdheid
+
+Het onderwijsontwerp is onderverdeeld in de volgende elementen:
+* de onderwijsmiddelen waarvan gebruik gemaakt gaat worden
+* de organisatie van het vak: hoe deel je de (hoor- en werk-)colleges in en de andere activiteiten?
+* de manier waarop de studenten feedback krijgen op hun prestaties gedurende het vak
+* de personen / plaatsen waar studenten leerondersteuning kunnen krijgen (dus hulp bij het leren)
+* de leeromgeving waarbinnen dit ontwerp plaats kan vinden
+* een uiteenzetting van de activiteiten die binnen dit ontwerp door de verschillende partijen ondernomen gaan worden
+* en ten slotte de praktische planning: hoe en wanneer implementeer je dit ontwerp?
+
+====Casussen====
+Gezien het leerdoel is het voor de hand liggend om juridische probleemstellingen als rode draad te nemen. Deze worden gevormd rond actuele casussen uit de praktijk van een (beginnend) jurist of juridisch wetenschapper. De casussen dienen deels nog onbeantwoord te zijn. Vooral de vaardigheid in het oplossen van de casussen wordt conform het leerdoel ontwikkeld en beoordeeld. 
+Opbrengst van deze aanpak:
+* door openstaande problemen te nemen wordt voorkomen dat docenten teveel kijken naar hoe dicht het antwoord bij het gewenste ligt; het oplossingsproces en niet de oplossing zelf heeft zodoende de focus.
+* onopgeloste casussen dwingen ook de studenten om niet zozeer hun zoekvaardigheid te gebruiken, maar hun analytische en probleemoplossend vermogen aan te spreken en te oefenen
+* het werkt voor studenten meer motiverend om casussen uit de praktijk te behandelen die bovendien nog onopgelost te zijn, in plaats van uitgekauwde praktijkvoorbeelden waar iedere ouderejaars nog wel een samenvatting van heeft liggen.
+
+====Organisatie====
+Studenten vormen een juridisch adviesbureau van 4 tot 6 personen en hebben een vaste peer.
+Docenten vormen een modellerend juridisch adviesbureau en zijn Nestor, Mentor en/of Tutor*.
+
+* Nestor: de docent stelt zich op als ervaren deskundige, consultant, expert die studenten op de inhoud begeleiden. De begeleiding bestaan uit het overdragen van expertise in dictaten, het voordoen van expertregels tijdens hoorcolleges, het geruststellen, enthousiasmeren, stimuleren op video, adviseren tijdens groepsconsultaties. = Martin, Ron, Hilda en Matthijs. 
+* Mentor: de docent zorgt ervoor dat de studenten worden ondersteund bij het presteren. (Deze rol is meer sturend en meer prestatiegericht dan die van Tutor). = Hilda
+* Tutor: de docent ondersteunt de student bij zijn leren leren. = René.
+
+====Feedback====
+Groepen krijgen tijdens de leeractiviteiten waarin ze hun voorstel verdedigen zowel feedback tussentijds als een oordeel nadien in de vorm van het toekennen van een opdrachtomzet. De qua omzet zwakste bureaus overleven niet en worden opgeheven. Gezien bovengenoemde subdoelen hebben de groepen die niet voldoende omzet draaien of niet komen opdagen een probleem. Hoe die omzet bepaald wordt staat verderop in het ontwerp beschreven.
+Later in het traject zullen de beoordeling en feedback meer en meer vanuit de groep op het individu gericht zijn. Aan het eind zal er alleen nog peerreview zijn en consultatie bij twijfelsituaties. Uiteindelijk moet een student in beperkte tijd een casus (deels) oplossen tijdens het tentamen. Er komt een voorwaardelijke of diagnostische toets die kennis en begrip garandeert. 
+
+====Leerondersteuning====
+* Studenten krijgen ondersteuning bij het verwerven van kennis en begrip door de dictaten, boeken, voorbeeldopgaven, feedback van de peer en oefeningen in de leeromgeving.
+* Studenten krijgen ondersteuning bij het oplossen van een casus en opstellen van een advies van de peer, groep en het voordoen door de Nestoren.
+* Studenten krijgen ondersteuning bij het leren door de groep, peer en Tutor.
+* Studenten krijgen ondersteuning bij het halen van het vak door de Mentor.
+* Groepen krijgen ondersteuning bij oplossen en verdedigen van een casus door een Nestor. 
+
+====Leeromgeving====
+De faculteit beschikt over een elektronische leeromgeving (ELO) in de vorm van een intranet. Deze ELO bevat alle opgaven en dictaten. Daarnaast komt er: 
+* een “hall of fame”: een lijst van de bureaus die de meeste omzet hebben gerealiseerd
+* een forum waarin groepen hun vragen kunnen stellen aan een Nestor
+* een videofilm waarin docenten de studenten rondleiden op de eigen werkplek(ken) en daarbij vertellen wat hun motiveert en inspireert in hun werk. Het gaat daarbij om een verhaal uit de losse pols op locatie. De faculteit dient zelf zorg te dragen voor het tot stand komen van deze videofilm.
+
+====Activiteiten====
+De belangrijkste activiteit om analyse en reflectie over casussen te prikkelen en daarmee het oplossend vermogen, overzicht en inzicht te vergroten is discussie. Daarnaast is het puzzelen om de oplossing zo goed mogelijk te laten zijn een sterk motiverend onderdeel. 
+
+Studenten krijgen kort vooraf een casus aangereikt die ze met gezond verstand / rechts­gevoel dienen op te lossen. Docenten (Ron, Martin en Hilda) doen tijdens een hoorcollege voor hoe ze zelf als expert dit fiscale probleem analyseren en oplossen en tot een gezamenlijk advies komen. Ze laten de studenten bewust schrikken door voor te doen hoe goed het moet (de lat leggen we een stuk hoger dan we eigenlijk als wenselijk niveau achten). Dus laat zien wat het eindniveau is en demonstreer het pad. Daarbij demonstreren ze vooral reflectie op hun eigen handelen, gedachten en emoties. De studenten doen dit eerst in groepen na en vervolgens individueel. De aanwezigheid tijdens het eerste hoorcollege is tevens de inschrijving voor het hele vak.
+
+Tevens wordt een spelelement ingebracht. Groepen richten fictieve juridische (onderzoeks)bureaus op met alles erop en eraan. Ze dienen dus na te denken over de ondernemingsvorm, personeel, vorm van belasting enzovoorts. In die hoedanigheid treden de studentengroepen op als juridische (onderzoeks)bureaus die proberen door de kracht van hun advies voor het oplossen van een probleem van een klant een opdracht bij die klant binnen te krijgen. De competitie zit erin dat het bureau dat de meeste omzet binnenhaalt, wint. De bureaus die niet voldoende omzet leveren om te bestaan worden opgeheven (na 1 week worden de bureaus die vallen onder de onderste 30% prestatie opgeheven). Nieuwe bureaus kunnen worden gevormd maar alleen als ze alsnog met voldoende startkapitaal (lees: opdrachten in hun portefeuille) kunnen beginnen. Een extra opdracht, zoals dictaten of rechtsartikelen (her)schrijven, kan als voorwaarde worden gesteld.
+
+In het eerste deel wordt er op 1 middag 4 werkgroepen met elk 6 groepen van 6 studenten via de carrousel werkcollege begeleid. De docent brengt een casus vooraf in met te beperkte informatie om goed op te kunnen lossen. Daarna mag elke woordvoerder 1 op 1 2 minuten aanvullende vragen stellen. De docent bepaalt welke groep welke beloning – lees: omzet – mag toevoegen aan het eind van de middag. Voorbereiden mag niet alleen, maar is zelfs wenselijk om te kunnen winnen. De middagen zijn genoeg om alle studenten adequaat te activeren.
+
+Op de helft van het college gaat de groep nadoen wat de docenten deden. Iemand brengt een casus (roulerende rol), één andere student beoordeelt deze en de rest maakt een voorstel. De beste 10 studenten winnen de competitie en krijgen vrijstelling.
+
+De slechtste 50 moeten zich melden voor een individueel gesprek met een Tutor. 
+
+Groepen mogen een consultant raadplegen. Als deze op weg helpt is dit gratis maar een antwoord betekent inleveren van een deel van de omzet. Er is een starttarief.
+
+====Opbrengst====
+De opbrengst van deze aanpak:
+* de intrinsieke motivatie van de studenten wordt hiermee aangesproken
+* studenten ervaren al een beetje het gevoel van ondernemen.
+
+====Planning====
+De eerste voorbereidende acties die kunnen worden gepleegd zijn:
+* Plaatsen van alle kennis- en begripsopgaven op de ELO (tentamenvragen, vragen tijdens werkcolleges). Studenten moeten deze opgaven maken. De antwoorden op de open vragen worden gebruikt als de keuzes van een naar Multiple Choice omgezette variant. De variant kent een waardering in percentages voor een bepaalde keuze (A: 50%, B-D: 0%, E: 100%, F: 80%)   
+* Studenten die niet aanwezig zijn bij het eerste hoorcollege (een logische eis om de inschrijving te bevestigen; aldaar worden immers de procedures uit gelegd) worden door Hilde direct zichtbaar voor de rest van de studenten uitgesloten. Ze kunnen alleen weer deelnemen via Hilde indien zij een hoorcollege verslaan in dictaatvorm ter goedkeuring van de docent die het hoorcollege verzorgt. Indien dit onvoldoende studenten oplevert, moeilijk is in te voeren of tegen de eigen cultuur indruist, dan kan men altijd vragen aan studenten die pen en papier in de aanslag hebben bij aanvang van het hoorcollege of de docent een uitgetikt exemplaar van hen mag. Er zijn altijd studenten te vinden die dit als een teken van vertrouwen en waardering ervaren en hier aan meewerken.
+* De docenten gaan vast bedenken en opschrijven wat de kenmerken zijn van de verschillende aspecten van het vak. Vooral hoe je herkent en erkent dat er sprake is van genoemde aspecten in een casus. Welke deelgebieden worden geraakt en hoe herken/analyseer je dat? Hoe herformuleer je de casus in juridische termen? Wat is in die termen het eigenlijke probleem of knelpunt? Welke (deel)vragen moeten beantwoord worden om de casus op te lossen? Welke wegen leiden naar Rome en hoe vind of bedenk je die wegen? Hoe kies je de beste weg/oplossingsstrategie? Hoe werk je die strategie uit? Hoe kun je vaststellen of de oplossing achteraf bekeken een goede is?
+* De docenten gaan erover nadenken hoe je een wetsartikel in gewoon Nederlands kunt omzetten. Let wel: niet het resultaat laten zien maar hoe een student het proces van omzetting zelf kan doen. Als aanvulling op het dictaat kan een student worden gevraagd dit voor een wetsartikel te doen. Men kan dit ook als open oefenvraag op de ELO zetten.
+* De docenten bedenken vast een overkoepelende, actuele casus die elk onderwerp binnen het vak raakt. Elke docent start hiermee en haakt vanuit een nieuw perspectief op in. Bij de start van het hoorcollege vat men samen wat er vanuit de verschillende invalshoeken al is behandeld en hoe de nieuwe invalshoek de casus uitbreidt en verrijkt. 
+* De docenten onderzoeken wat de studenten interesseert en motiveert in een interview met een representatieve groep. 
+* De werkgroepen worden geïntegreerd met de hoorcolleges door in beide werkvormen meer gebruik te maken van een zelfde casus en minder van verschillende onderwerpen. Het inzichtelijk maken en analyseren gaat altijd vanuit de gehele breedte van het vak. De detailuitwerking haakt in bij het al behandelde. De bedoeling is wel dat wat is behandeld telkenmale terugkomt in het uitwerken van een nieuwe casus. Eenmaal een white box blijft een white box.
+* De docenten stellen een conceptenlijst op van de belangrijkste begrippen en visualiseren middels een ‘mind map’.
+
+
+
+
+
+
+
+===De docent is de expert…?===
+
+====Inleiding====
+Een docent geeft een bepaald vak op het gebied van communicatie. Dit was eerst een keuzevak waarvoor zich gemiddeld ca. 30 studenten aanmeldden. Door maatschappelijke ontwikkelingen wordt dit een verplicht onderdeel van het studieprogramma en kan de docent nu 280 studenten verwachten. Hij wil vasthouden aan de oorspronkelijke leerdoelen en de zwaarte daarvan. Kijkend naar zijn huidige onderwijsactiviteiten zou dat een verzwaring voor zijn onderwijstaak betekenen die niet reëel is. Zijn aanvankelijke docentomvang van 120 uur wordt namelijk slechts verhoogd naar 180 (de teamleider gaf daarbij aan: “ach, dan gooi je er toch wat meer multiple choice in?”).
+
+In de oude situatie gaf de docent gedurende 6 weken één bijeenkomst per week à 2 uur. Tijdens de bijeenkomsten hanteerde hij zeer arbeidsintensieve begeleidingsvormen. Daarnaast was hij 2 dagen per week beschikbaar voor de studenten voor individuele consultatie (gemiddeld 8 uur). Om vervolgens de essays na te kijken (die als toetsing van het vak golden) had hij ongeveer een uur per stuk nodig, dus zo’n 30 uur in totaal. De docent heeft geklaagd over zijn geringe extra uren die hij er in de nieuwe situatie bij kreeg in verhouding tot de vernegenvoudiging van het aantal studenten; maar hij besefte ook zelf dat, gezien zijn andere taken, een uitbreiding financieel niet mogelijk was en daarbij eigenlijk ook niet wenselijk in zijn eigen ogen. Toch krijgt hij als compensatie 2 student-assistenten (die zijn vak eerder hadden gevolgd) en die hem gedurende het vak voltijds kunnen ondersteunen.
+
+====Intake====
+=====De vraag=====
+Hoe kan ik met minder uren toch dezelfde kwaliteit bereiken?
+
+=====Verkenning=====
+De onderwijsarchitect ervaart tijdens de intake dat de docent goed thuis is in onderwijskunde, didactiek en communicatie. Hij blijkt inderdaad een tijd lang als onderwijsadviseur en –ontwikkelaar gewerkt te hebben. De docent geeft aan: “Dan snap je dat ik alleen al met de toetsvorm (280 essays nakijken) een groot probleem krijg”. De onderwijsarchitect wijst hem erop dat hij het probleem zelfs nog wat onderschat, omdat goed onderwijs vereist dat je ook nog eens minimaal 2x feedback geeft aan de studenten. Dat zou dus heel veel uur werk gaan betekenen. De onderwijsarchitect denkt een beperkende opvatting bij de docent te herkennen en hij stelt daarom een paar verkennende vragen, zoals: 
+* hoe zit het met het ingangsniveau van de studenten, verslechtert die door deze grote aantallen? > antwoord: nee, daarvoor kon iedereen het kiezen (ook studenten buiten de studierichting), nu is het alleen voor binnen de studie dus het niveau zal gemiddeld beter zijn omdat deze studenten allemaal meer bagage hebben.
+* wat deed de docent nou precies tijdens de bijeenkomsten (van 2 uur per week)? > antwoord: hij hielp studenten vooral het leren kijken vanuit een deskundig perspectief naar berichten op het vakgebied en deed voor hoe je op recente artikelen uit de media kunt reflecteren, en kunt komen tot eigen producties met eigen visies vanuit het perspectief van dit vak. 
+
+=====Confrontatie=====
+De onderwijsarchitect confronteert de docent er direct mee dat wat hij deed niet strookt met de door hemzelf geformuleerde leerdoelen, nl. alleen maar de belangrijkste modellen en begrippen uit het vak kennen en begrijpen. De docent doet dus veel meer dan dat en heeft dus eigenlijk een breder doel voor ogen met dit vak. 
+Daarnaast reageert de onderwijsarchitect op de bedenkingen die de docent uitstraalde toen hij het had over de compensatie in de vorm van twee student-assistenten. De docent blijkt eigenlijk te vrezen dat hij er niet zo veel aan zal hebben omdat de student-assistenten niet echt expert zijn in zijn vak; en binnen zijn afdeling zijn er verder ook geen andere docenten die dat wel kunnen bieden. 
+
+De onderwijsarchitect krijgt sterk de indruk dat de beperkende opvatting van de docent is, dat alle expertise bij de docent vandaan moet komen. De onderwijsarchitect ziet echter in die grotere groep studenten alleen maar het voordeel van een grotere denktank. Wanneer hij de docent hiermee confronteert valt bij hem het kwartje: hij ziet in dat het niveau van die gezamenlijke geesten meer dan genoeg is om een individuele student van de benodigde expertondersteuning te voorzien. Vanuit zijn onderwijskundige en didactisch stevige achtergrond ziet hij direct in dat het een kwestie is van goed organiseren van die grote groep en dat zijn eigen rol dan ook kan worden geminimaliseerd. Hij vormt zich zelf ook al gauw een beeld van de werkvormen die hierbij zouden kunnen helpen.
+De onderwijsarchitect ontdekt ook dat deze docent weliswaar binnen zijn vakgroep de enige expert is, maar dat er in Nederland en vooral ook daarbuiten natuurlijk wel andere experts zijn. Hij neemt dit mee in zijn ontwerp.
+
+=====Vervolg=====
+Een punt dat nu nog niet opgelost is, is de feedback op de resultaten (de essays) wat hem nu nog een uur per stuk kost. De onderwijsarchitect geeft aan dat de beoordeling meer op het resultaat i.p.v. op het proces gericht kan zijn. Door de studentengroep als denktank te gaan gebruiken is de procesbegeleiding wel geborgd, maar hij als docent moet garant staan voor de kwaliteit van het resultaat. Dus moet er gekeken worden naar wat hij nu eigenlijk deed in de bijeenkomsten, omdat dat goed weerspiegelt wat zijn eigenlijke doelen waren. Dat leidt uiteindelijk naar de volgende opzet.
+
+====Het ontwerp==== 
+=====Forum=====
+*Elke student ontwikkelt gedurende het vak een prikkelende stelling met een kort, waterdicht betoog uit zijn/haar eigen essay. Dit stukje zou publiceerbaar moeten zijn in een artikel of krant.
+*De student-assistenten beoordelen welke stelling zij het beste vinden en plaatsen die bovenaan een hiërarchische lijst op een voor alle studenten toegankelijk forum. Echter, studenten kunnen elkaar bestrijden door ofwel hun eigen betoog aan te scherpen ofwel dat van een ander te ontkrachten. Zo ontstaat er een competitie die een extra prikkelende werking heeft op de motivatie.
+*Stellingen die volgens de student-assistenten onvoldoende zijn onderbouwd worden van het forum geweerd. Daarbij worden de eisen aan de stellingen elke week opgeschroefd, dus de studenten dienen hun eigen stelling, betoog en eventueel zelfs hun essay elke week te verbeteren. Zoals de onderwijsarchitect zegt: ‘stapsgewijs doorgroeien van borrelpraat tot deskundig betoog’.
+*Voor de eindbeoordeling geldt: de studenten dienen minimaal 1 stelling met betoog en een koppeling naar hun onderliggende essay blijvend te hebben veroverd op het forum. Daarnaast moeten ze minimaal 3x een stelling van een ander in plaats hebben laten zakken.
+:De student-assistenten organiseren en beoordelen dit forum, de docent kan naar eigen behoefte af en toe een korte scan en aanpassingen maken.
+
+=====Denktank=====
+De groep van 280 studenten wordt als volgt ingedeeld. Duidelijk uitgangspunt is dat studenten individueel moeten werken en ook worden beoordeeld, daar is dus niet van afgestapt. Om met minder intensiteit in begeleiding en beoordeling toch dezelfde kwaliteit te borgen wordt de begeleiding meer door de studenten onderling geregeld in verschillende aggregatieniveaus:
+# Peerbegeleiding (tweetallen) voor onderlinge feedback over het essay (vnl. inhoudelijk)
+# Twee of drie tweetallen vormen een groep, waarbinnen wordt gewerkt aan de stellingen en betogen. Elke groep krijgt hetzelfde subthema als onderwerp maar iedere individuele student moet daar zijn/haar eigen, authentieke essay en betoog over opstellen en met de groep tot een gezamenlijk artikel bewerken.
+# Zes groepen vormen samen weer een “groep van groepen” met een overkoepelend thema (nu dus ca. 36 personen). Deze groep heeft als doel hun bevindingen en resultaten samen te voegen tot een artikel over het hoofdthema. 
+
+De ‘groep van groepen’ verwerkt de producten van de verschillende deelnemende groepen tot artikelen en publiceert deze in internationale media. Voordeel hiervan is dat andere experts in het vakgebied erop reageren en de studenten nu dus ook feedback van anderen behalve de docent krijgen (dus in feite: gratis feedback). De onderwijsarchitect trekt hiermee de denktank van de studenten door naar de internationale denktank. Ook profileert deze vakgroep zich op deze manier veel meer in een sterk ontwikkelend vakgebied.
+
+=====Begeleiding=====
+Bij inhoudelijke vragen over de stof of het vak dient een individuele student dit eerst voor te leggen aan zijn peer, dan aan zijn groep, dan aan de ‘groep van groepen’, en pas als die er ook niet uitkomt dan kan men de vraag op het forum stellen. Elke ‘groep van groepen’ is verplicht 1x per week een adequaat antwoord te bedenken op de vragen van andere ‘groepen van groepen’ op het forum. De docent geeft op zijn beurt alleen maar feedback op dergelijke vragen op het forum wanneer alle ‘groepen van groepen’ hebben gereageerd op die vraag. Als een of meer ‘groepen van groepen’ niet gereageerd hebben dan worden deze daar stevig op gewezen door de docent, met de bedoeling hen aan te sporen over alle naar voren gebrachte kwesties na te denken. De docent communiceert dus alleen met ‘groepen van groepen’ i.p.v. met 280 individuele studenten.
+
+=====Indicatoren=====
+De ondrwijsarchitect bouwt veelal meetbare indicatoren in het ontwerp om de voortgang te kunnen bewaken. In dit geval zijn dat b.v.:
+een klachtenforum dat bewust is ingesteld om inzichtelijk te krijgen waar de studenten tegenaan lopen.
+De snelheid waarmee de studenten stellingen aanleveren op het forum om hoog op de ranglijst te komen geeft een goede indruk van de prestatiemotivatie van de studenten. 
+De hoeveelheid correcties die de docent moet doorvoeren ten aanzien van de plaatsingen en beoordelingen op de ranglijst geeft aan in hoeverre dit systeem met de student-assistenten daadwerkelijk functioneert naar de behoefte van de docent.
+
+====Uitvoering====
+=====De rol van de docent=====
+De docent bleek, zoals de onderwijsarchitect al gedacht had, zeer goed te zijn in het organiseren, op afstand aansturen en inlichten van de verschillende groepen. 
+De docent hield zich voornamelijk bezig met het organiseren van de diverse werkvormen waarbij de gezamenlijke denkkracht van de grote groep steeds werd benaderd. Hierbij kan gedacht worden aan het bundelen van een aantal essays tot een artikel dat kon worden gepubliceerd in een internationaal blad. In de praktijk van het forum bleken er maar weinig vragen op het forum te komen van dien aard dat de docent die echt zelf moest beantwoorden. Hij was dus nu veel minder tijd kwijt aan het beantwoorden van vragen.
+
+Tijdens de uitvoering deed de docent geen enkel beroep op ondersteuning door de onderwijsarchitect. Dat baarde de laatste wat zorgen, maar bij het raadplegen van genoemde indicatoren bleken deze zorgen ongegrond. Echter, zijn inschatting dat de docent meer dan 180 uur zou besteden in de eerste ronde van het nieuw opgezette vak bleek wel terecht. Dat was des te meer jammer toen bleek dat dit deels werd veroorzaakt door een tijdrovende actie van de docent, die achteraf gezien handiger had gekund. Hij had hierover zelf geen contact gezocht omdat hij dat niet nodig achtte. Toen de onderwijsarchitect belde om te vragen hoe het ging en hiervan hoorde, bleek de onderwijsarchitect echter een oplossing te hebben die minder tijd kostte en dat was nu te laat. 
+
+De onderwijsarchitect weet dat dit vaak de moeilijkheid is van zo’n traject: de sturing en verantwoordelijkheid ligt bij de docent, de betrokken begeleiding ligt bij de onderwijsarchitect. Hoewel hij indicatoren inbouwt om zichzelf te verifiëren over de voortgang, heeft hij niet 100% controle over of de docent ook daadwerkelijk aan de bel trekt bij vragen, hoe vaak hij dat ook heeft aangeboden. Dus dient er in het ontwerp altijd een marge te worden ingebouwd voor de mogelijkheid dat de docent toch zijn eigen weg gaat kiezen en die marge moet ook worden meegenomen in de rendementsafspraken.
+
+=====Het forum=====
+De student-assistenten konden het forum vrijwel geheel zelfstandig beheren, de docent heeft slechts een enkele keer een korte screening uitgevoerd (van enkele minuten). Al vrij vlot werd de ranglijst van stellingen gevuld door de studenten. De docent hoefde maar weinig correcties door te voeren op de plaatsingen en beoordelingen op de ranglijst. Wat betreft het klachtenforum: er kwamen in het begin wel veel reacties, maar dat betrof voornamelijk kinderziektes die eenvoudig op te lossen waren. Later werd dit forum nauwelijks meer bezocht.
+
+=====Studieresultaten=====
+Van alle studenten viel 25% af omdat zij uiteindelijk geen stelling meer inleverden. T.o.v. het jaar ervoor is dat een verbetering omdat toen bijna 50% afviel. Van de overblijvers slaagde 90% voor het vak en dat was een ongekend hoge score. Uiteindelijk hebben de afvallers het vak in de herkansing allemaal behaald.
+
+====Evaluatie====
+In de evaluatie sprak de docent de verwachting uit dat hij de volgende ronde van dit vak in de oorspronkelijke uuromvang van zijn taak (dus 120 uur i.p.v. 180) de begeleiding kon uitvoeren met één student-assistent i.p.v. twee. Hij was wel wat meer uren kwijt geweest voor het opzetten en dat zat vooral in het opbouwen van de geschikte leeromgeving (forum, documentatie, procedures).
+
+Een ander winstpunt was het niveau van de essays. De docent heeft steekproefsgewijs enkele essays van verschillende posities op de ranglijst helemaal nagekeken om te zien of de positie op de ranglijst ook terecht was. Een essay dat was afgekeurd heeft hij alsnog als voldoende bestempeld omdat het toch al veel beter was dan het minimumniveau van vorig jaar. Een essay dat net voldoende was vond hij eigenlijk al ruim voldoende; een essay dat een goede positie had was naar zijn mening meer ruim voldoende; maar een topessay was ook daadwerkelijk publiceerbaar. De docent was al met al aangenaam verrast over de gemiddelde stijging in kwaliteit van de eindproducten. Tot nu toe hanteerde hij een beoordelingssystematiek van cijfers met ook halve punten gebaseerd op de plaats op de ranglijst. Nu baseerde hij de beoordeling op de indeling goed-voldoende-onvoldoende waarbij hij vooraf deze overgangen op de ranglijst geïdentificeerd had.
+
+Er is geen onderzoek gedaan naar de beleving van de studenten. Hoewel dit interessant en belangrijk kan zijn, stond dit niet genoemd in de rendementsafspraken tussen de onderwijsarchitect en de docent. Wat de docent in de evaluatie wel aangaf was dat sommige studenten (m.n. degenen die het vak al eens eerder hadden gevolgd) zich er in het begin wat alleen voor voelden staan en de kleinschaligheid wel wat misten, maar wel begrepen dat de intensieve begeleiding zoals daarvoor nu niet meer haalbaar was voor de docente. Nu moesten ze hun steun bij hun medestudenten halen en dat was wel even wennen.
+
+
+=== Ruim onderzoekend leren ===
+
+Dit voorbeeld laat een onderwijsontwerp zien waarin een nieuw onderwijsconcept is ontwikkeld voor een Faculteit der Ruimtelijke Wetenschappen (vanaf hier faculteit genoemd).
+
+==== Doel ====
+
+De bedoeling is dat een onderwijsontwerper het onderwijs aan de betreffende faculteit doorlicht en een plan presenteert voor een nieuw onderwijsconcept. Het onderwijsconcept is opgebouwd uit een onderwijsvisie, onderwijsprincipes, onderwijsdoelen en de onderwijsmethode waarmee deze doelen bereikt dienen te worden. Voor het vaststellen van de identiteit, visie en de doelen van de faculteit is gesproken met de opleidingsdirecteuren en met decaan. Voor het vaststellen van de methode is de variatie in het bestaande onderwijsland van de faculteit verkend en heeft men daartoe gesproken met de opleidingscoördinatoren van de verschillende deelopleidingen. Het onderwijsconcept dient uit te gaan van het aanwezige onderwijsontwerp, maar geeft ook richting en stimulans aan de verdere ontwikkeling ervan.
+
+==== Organisatie ====
+
+Binnen de faculteit wordt onderzoek verricht en onderwijs gegeven in drie wetenschapsgebieden, namelijk Demografie, (Culturele en Economische) Geografie en (Technische) Planologie. Demografie bestudeert veranderingen in de omvang, samenstelling en spreiding van de bevolking. Geografie beschrijft ruimtelijke processen in relatie tot menselijk handelen en (Technische) Planologie ontwerpt interventies in die ruimtelijke processen om maatschappelijk gewenste doelen te bereiken. 
+
+==== Profilering ====
+
+De faculteit excelleert in de wijze waarop zij haar onderwijs en onderzoek interdisciplinair en (inter)nationaal vorm geeft. De faculteit levert daardoor een wetenschappelijke meerwaarde aan de (bestaande) kennis van de ruimtelijke implicaties van menselijk handelen. Die meerwaarde bestaat zowel uit het ontwikkelen, toetsen en uitdragen van nieuwe wetenschappelijke inzichten alsook in het opleiden en stimuleren van toekomstige wetenschappelijke c.q. professionele deskundigen. Deze activiteiten zijn verankerd in het (inter)nationaal academisch klimaat van de universiteit waar de faculteit onder valt en waar nuchterheid gekoppeld is aan ambitieuze doelstellingen en een pragmatische aanpak.
+
+==== Visie ====
+De faculteit beschouwt de student(e) als toekomstig professional, die na afronding van de studie in staat is om direct intensief te participeren in de diverse werkterreinen van de ruimtelijke wetenschappen. Dat kan als wetenschappelijk medewerker, als docent, in een beleidsfunctie of als professioneel adviseur, in zowel een nationale als een internationale werkomgeving. De wetenschappelijke en professionele eigenschappen van de stafleden zijn richtinggevend voor de kennis, vaardigheden en attitudes die studenten zich hiervoor eigen dienen te maken. De faculteit heeft als onderwijsvisie dat voor het eigen maken van deze competenties bij voorkeur een scala aan verschillende studeeractiviteiten worden uitgevoerd die identiek zijn aan of direct afgeleid van de gangbare activiteiten van de stafleden. Daarbij staat het wetenschappelijk onderzoeken centraal als dé meerwaarde die een academische opleiding heeft boven een beroepsopleiding en als dé wijze waarop de faculteit zich profileert. De faculteit gelooft in een hechte interdisciplinaire gemeenschap als omgeving waarin haar studenten zich het beste kunnen ontwikkelen. De rollen die studenten en docenten daarin uitoefenen dienen uit te gaan van de eigen kracht en steunen effectief een verdere ontwikkeling als professional.
+
+==== Principes ====
+
+'''Ruim onderzoekend studeren''' is onder andere gebaseerd op het principe dat als je wilt leren voetballen, de beste methode daartoe gewoon voetballen is. Uiteraard verbetert het voetballen ook wanneer je technische, fysieke en mentale trainingen uitvoert, dus deeltaken afzonderlijk ontwikkelt. Daarbij geldt dan wèl dat het trainen van deeltaken (bijvoorbeeld strafschoppen oefenen) in de context (voetbalveld) van of het perspectief (wedstrijd) op het uiteindelijke doel (beter voetballen) motiverender en integrerender werkt. Een volgend uitgangspunt is dat een goed samenspel van verdieping en verbreding (dus ruim denken, kijken en ervaren) leidt tot meer inzicht in en beheersing van de materie. Een ander principe waarop “Ruim onderzoekend studeren” stoelt is dat het onderwijs exponentieel effectiever wordt als deze meer afgestemd is op de aanwezige kwaliteiten van de betrokkenen. Daarbij geldt de insteek dat de studenten zich nog moeten ontwikkelen in hun kwaliteiten. De stafleden dienen optimaal te worden aangesproken op de reeds verworven competenties en talenten. Gecombineerd met het principe “goed voorbeeld doet goed volgen” is een belangrijk uitgangspunt om binnen de taak van de stafleden vooral ook de modellerende functie te zien voor het concreet invullen van het onderwijsconcept; ook al omdat de (onderzoeks)kwaliteiten van de stafleden het punt is waarop de faculteit zich onderscheidt van zusterorganisaties of HBO-instellingen. Een volgend uitgangspunt is dat het in redelijke mate verwerven van de competenties die een staflid bezit voor een student meer dan voldoende is om als volwaardig lid binnen, maar zeker ook buiten het eigen instituut te opereren. Het laatste bruikbare principe is dat een houdingsverandering bij een student het snelst worden aangeleerd als deze hiermee direct en in vol ornaat wordt geconfronteerd en bij het persoonlijk leren omgaan daarmee wordt opgevangen.
+
+==== Doelen ====
+
+Om de gewenste meerwaarde in onderzoek en onderwijs te verkrijgen en te behouden moet een lid van de wetenschappelijke staf van de faculteit zich onderscheiden door zijn of haar houding en vaardigheden. Deze staan model voor de gewenste competenties van de studenten ofwel eindtermen die als doel van het onderwijs worden gesteld, namelijk:
+* Hij/zij beheerst de theorieën betreffende ruimtelijke vraagstukken en kan die overbrengen aan studenten.
+* Hij/zij beheerst de methoden & technieken voor de analyse van ruimtelijke vraagstukken en kan die overbrengen aan studenten.
+* Hij/zij is interdisciplinair ingesteld en heeft creatieve initiatieven, analyses en oplossingen.
+* Zijn/haar innovatieve opvattingen getuigen van een kritisch reflectief vermogen, zijn doordacht en houden stand in het wetenschappelijke debat.
+* Hij/zij is actief betrokken bij maatschappelijke vraagstukken.
+* Hij/zij is in staat om gecompliceerde processen en projecten te (bege)leiden.
+* Hij/zij bezit uitstekende communicatieve eigenschappen in woord en geschrift.
+* Hij/zij kan zichzelf en anderen motiveren tot het leveren van uitstekende prestaties.
+* Hij/zij is (inter)nationaal georiënteerd en erkend en profileert zichzelf en de faculteit op wetenschappelijke podia, in de (inter)nationale vakbladen en in de media.
+
+==== Methode ====
+
+Studenten gaan zich bezighouden met taken uit het wetenschappelijk onderzoeken om zodoende bovengenoemde competenties te verwerven en/of verdiepen. Men verwerft niet alleen kennis of bedrevenheid, het klassieke leren, maar produceert ook eigen kennis en denkt daarover intensief na. Studenten bestuderen de ruimtelijke wetenschap door zelfverantwoordelijk en proactief met inzet, inzicht en een ruime blik (interdisciplinair, unieke thematiek en onderwerp in de vakgebieden en internationaal) de ruimte te onderzoeken. Vandaar dat gekozen is voor de benaming ''ruim onderzoekend studeren''. Dit vraagt van de studenten een houding die zich kenmerkt door de durf uit te gaan van de eigen kwaliteiten, verantwoordelijkheidsgevoel voor de eigen ontwikkeling en een sterke gedrevenheid tot zichtbaar presteren. Docenten zullen in de methodiek minder doceren, sturen en aanreiken maar eerder meer begeleiden. Ze geven feedback en verlenen consult en supervisie. De methode stelt studeren gelijk aan onderzoeken in de breedste zin van het woord. Daarmee is het middel (onderwijsmethode) direct afgeleid van het doel (verwerven van ruimtelijk-wetenschappelijke competenties). De methode bestaat uit een beschrijving van de rollen (studerend of onderwijzend) die genoemde activiteiten in een ondersteunende omgeving vervullen. De elementen zullen in het navolgende verder worden uitgewerkt.
+
+==== Activiteiten ====
+
+Voorbeelden uit de onderwijspraktijk van ''ruim onderzoekend studeren'':
+* Studenten doen een literatuurstudie en presenteren de resultaten aan collegae of juist leken
+* Studenten organiseren en gaan mee op een internationale onderzoeksexcursie en doen daar veldwerk
+* Studenten analyseren (inter)nationale plaatsen en representeren die analyse in een foto- en tekstatelier of een samenvatting
+* Studenten organiseren en dragen bij aan een seminar, congres of conferentie
+* Studenten schrijven een internationaal onderzoeksartikel
+* Studenten participeren en vergaderen in regionale werkgroepen met betrekking tot de samenstelling en ontwikkeling van de bevolking en de ruimtelijke inrichting van het woon- en werkgebied
+* Studenten lopen stages bij mogelijk toekomstige werkgevers in het werkgebied (beleids)onderzoek
+* Studenten zijn groepsdeelnemer aan interdisciplinair onderzoeksproject voor studenten
+* Studenten schrijven een epistel: plan, beleidstuk of visie
+* Studenten onderzoeken een thema, formuleren hun visie en debatteren daarover 
+* Studenten doen onderzoek en schrijven scripties, oplopend in zwaarte tijdens de opleiding
+* Studenten begeleiden jongerejaars medestudenten met bovengenoemde activiteiten in de rol van de docent
+* Studenten doen mee aan een onderzoeksproject van een ervaren onderzoeker
+* Studenten achterhalen en schrijven reflecties op de strategieën waarmee stafleden kennis bestuderen, begrijpen en in zich verankeren.
+
+==== Rollen ====
+
+De student als onderzoeker en de onderzoeker als docent is de kern van de rolverdeling binnen ''ruim onderzoekend studeren''. De eerdergenoemde competenties van de stafleden onderschrijven dat de stafleden als onderzoeker, docent, deskundige, model, debater, supervisor, projectbegeleider, ontwikkelaar, mentor en promotor in de onderwijsmethode zonder problemen kunnen optreden. Uiteraard heeft elk staflid binnen deze rollen zijn specifieke voorkeur en talenten en daarmee is bij de inzet rekening gehouden. Bij het kiezen en organiseren van studeeractiviteiten zullen studenten deze rollen eveneens ontwikkelen; bijvoorbeeld als onderzoeker tijdens onderzoekscasussen, de doceerrol tijdens presentaties, als model bij het assisteren van jongerejaars, als debater bij discussies in de groep en tussen woordvoerders van groepen, als supervisor bij het reflecteren op elkaars werk, als projectleider van een groepsonderzoeksproject, als ontwikkelaar bij het schrijven en presenteren van authentiek werk, als studentmentor bij het helpen van medestudenten bij het leren studeren en als promotor bij het nemen van initiatieven (bijvoorbeeld binnen de faculteitsvereniging of bij onderzoekscasussen uit de praktijk) tot het nationaal en internationaal uitdragen van de faculteit.
+
+==== Omgeving ====
+
+Een student heeft voorbeelden en ondersteuning uit zijn onderwijsomgeving nodig bij het ontwikkelen van zijn competenties. De faculteit levert daartoe een onderwijsgemeenschap waarin zowel individuen als de gemeenschap als geheel van elkaar leren. Men deelt de eigen inspanning tot verdieping in de materie met anderen en leert de competenties van anderen gebruiken voor het eigen studeren. Men onderzoekt, deelt resultaten met elkaar en past de conclusies toe in vervolgactiviteiten. Docenten staan model als onderzoeker. Ze tonen de hoofdvragen die in het vakgebied spelen, de geldende methoden van onderzoek, de regels voor samenwerking en communicatie en hun actuele onderzoeksresultaten. De studenten op hun beurt reflecteren op deze illustraties en delen hun creatieve verdiepende vragen en ontdekkingen met de docenten. De studenten en de docenten zijn zodoende beiden deelnemers aan de ontwikkeling van de Ruimtelijke Wetenschappen. Kleinschaligheid en een weloverwogen organisatie van de studeeractiviteiten zorgen voor een hechte interdisciplinaire verbondenheid. De faculteit erkent het belang van intensieve participatie van de faculteitsverenging bij de onderwijsgemeenschap, vooral bij het ontwikkelen van de gewenste attitudes bij de student. Naast de onderwijsgemeenschap zelf biedt de faculteit andere passende diensten en middelen (ook wel onderwijsobjecten genoemd) aan als ondersteuning bij het studeren. Een fundamenteel onderwijsobject uit de onderwijsomgeving is de onderzoekscasus.
+
+==== Casuïstiek ====
+
+De werkwijze waarop studenten in dit onderwijsconcept genoemde competenties verwerven is het onderzoeken van een ruimtelijke casus. De casussen zijn dusdanig opgesteld dat ze vragen oproepen en ontdekkingen stimuleren. Het liefst horen we dan vragen die blijk geven van wetenschappelijk nadenken, en ontdekkingen die begrippen en strategieën uit de Ruimtelijke Wetenschappen illustreren, ontkrachten of vernieuwen. De casussen vragen daarnaast een benadering vanuit de verschillende disciplines, lees: perspectieven. Deze perspectieven bepalen de soort vragen die studenten bij een casus stellen en de oplossingswegen die ze zullen gaan bewandelen. Kritisch reflecteren op het gevolgde oplossingsproces en het finale product, het interactief participeren, het integreren van disciplines, het zien van samenhang en het leren problematiseren, analyseren, oplossen en evalueren zullen bij het behandelen van de casus centraal staan. Casuïstiek wordt zowel binnen de onderwijseenheden als vakoverstijgend gebruikt. In het laatste geval vormt casuïstiek hét bindmiddel tussen de verschillende brillen die door losse onderwijseenheden binnen het curriculum worden opgezet.
+
+==== Ontwerp ====
+
+Het concept zal op elk aggregatieniveau (van vak tot curriculum) en in elke procesfase (van werving & selectie tot masterthesis) in het onderwijsontwerp terug te vinden zijn. Voor studenten is het vooraf duidelijk dat Ruimtelijke Wetenschappen geen relaxstudie is maar veel inzet en een onderzoekende houding vraagt; dat geïnvesteerd wordt in het ontwikkelen van talent en niet in puntenverzamelaars. Het beoordelingssysteem is daarop ingericht; zelfverantwoordelijkheid, aangename verrassingen, inspirerende dan wel recalcitrante stellingen en extra verdieping of verbreding worden expliciet beloond. Studenten worden tijdens alle onderwijsactiviteiten getraind in het zelfvertrouwen, de creativiteit en de reflectie die daarvoor nodig zijn. Als rode draad en bindmiddel fungeren de onderzoekscasussen, waarmee studenten taken uitvoeren van populair-wetenschappelijk in de bachelorfase tot volwaardige wetenschap in de masterfase. Docenten worden, rekening houdend met hun persoonlijke kracht en deskundigheid, optimaal ingezet ten behoeve van deze ondersteunende taken. Ze worden bij voorkeur op verzoek van de studenten zelf geconsulteerd; denk bijvoorbeeld aan een verzoek om een presentatie over een lastig thema. Het ontwerp is opgebouwd uit blokken onderzoek. 
+
+==== Voordelen ====
+
+Studenten zijn door onderzoekend te studeren sneller in staat argumenten voor een standpunt te beschouwen als toetsbare hypothesen in plaats van als vaststaande feiten. Ze zullen beter leren waarnemen en onderzoeken. Ze zullen meer vertrouwen op eigen claims en deze beter onderbouwen met argumenten. Studenten kweken door het onderzoeken ervaringen die direct gerelateerd zijn aan het toekomstige werk. Het reflecteren op deze ervaringen wordt extra uitgelokt door een ruime terugblik tijdens hun onderzoeksevaluatie door de studenten op deze ervaringen vanuit verschillende perspectieven. Er is sprake van studeren, diepgaand nadenken, verkennen en ontdekken, als exponent van het (meer gangbare) soort leren dat meer is gebaseerd op herontdekken van bestaande ideeën van anderen. Daarnaast wordt het eenvoudiger het onderwijs te beoordelen op zijn wetenschappelijkheid omdat men in het onderwijsconcept wetenschap en niet anders dan wetenschap beoefent. Doordat onderzoeken een onderwijstaak wordt van de docent èn de student zullen docenten meer tijd aan onderzoek kunnen besteden en deze met minder belasting kunnen uitvoeren omdat studenten (eenvoudige) deeltaken op zich kunnen nemen. “Ruim onderzoekend studeren” betekent dat studenten kennis produceren, en ze voelen zich daardoor nuttig en bekwaam. Dit werkt zeer motiverend en stimuleert reflectie. Reflectie heeft als voordeel dat verworven kennis en vaardigheden levenslang worden geïncorporeerd. “Ruim onderzoekend studeren” levert geen rigiditeit in werkvormen op, zoals bij een onderwijsconcept als “projectonderwijs”. Het concept geeft wel een duidelijke richting en houvast ten aanzien van de vormen en rollen die docenten zelf creatief kunnen ontwikkelen. Dit in tegenstelling tot onderwijsconcepten als bijvoorbeeld “begeleide zelfstudie”. 
+
+==== Aansluiting ====
+
+Door “ruim onderzoekend studeren” als onderwijsvorm te promoten bij VWO-docenten aardrijkskunde kan de aansluiting maar bovenal de werving van studenten enorm worden versterkt. Uiteraard zal daarvoor een eenvoudiger variant van dit concept worden ontwikkeld. De aardrijkskundedocent wordt aangesproken op zijn onderzoeksvaardigheden en het aanbieden van een ondersteunende leergemeenschap. De faculteit biedt de aardrijkskundedocent daartoe begeleiding en faciliteiten waardoor aspirant-studenten actief kennis kunnen maken met het instituut. Hetzelfde kan worden bereikt door in verwante vakken op het HBO “ruim onderzoekend studeren” te introduceren. Door studeren gelijk te stellen aan onderzoeken verstevigt de faculteit zijn imago als onderwijsinstelling. Immers, bekendheid als hoogstaand onderzoeksinstituut in haar (inter)nationale netwerk wordt door het concept nauw verbonden aan de kwaliteit van het onderwijs. 
+
+==== Ontwikkeling ====
+
+Onderwijskundige activiteiten die het concept uitdragen zijn alom aanwezig. Ze lijken echter als losse flarden te bestaan. Een kapstok ontbreekt. Dit is vanzelfsprekend gezien het feit dat het concept mede pas na verkenning van deze flarden is ontwikkeld. Behoefte zou er zijn aan een overkoepelend studieprogramma, opgesteld vanuit dit onderwijsconcept, dat een richtinggevend houvast biedt aan de architectuur van de studieonderdelen en aan het ontwikkelen van nieuwe werkvormen. Ook is er helaas onterecht vanuit gegaan dat de groei van zelfstandigheid naar zelfverantwoordelijkheid van de studenten in geleidelijke stappen moet worden genomen. Het definiëren en incorporeren van een eenduidige cultuur binnen alle bestaande vormen zal de student sneller richten naar de cognitieve maar bovenal de affectieve en sociale doelen. 
+Deze ontwikkelingsgang is op korte termijn te realiseren. Het verder ontwikkelen van de rollen die stafleden in het onderwijs uitvoeren vraagt een langetermijnplanning. De begeleiding die daarbij benodigd is kan echter pas na het vaststellen van het studieprogramma worden ontworpen. Beide ontwikkelingen zullen de kwaliteit en het rendement van het onderwijs verder vergroten. De uitstraling van het onderwijs zal positiever zijn en talenten zullen beter aangetrokken kunnen worden. Door de taakverdeling in het studieprogramma beter af te stemmen op de specifieke kwaliteiten van de stafleden zal het werkplezier en motivatie toenemen. De kapstok zal de integratie van onderwijs en onderzoek bevorderen. De eenheid in onderwijsaanpak zal de effectiviteit en efficiëntie van de gevraagde houding en uit te voeren studeeractiviteiten versterken. Onderzoeksmethoden en -technieken worden bijvoorbeeld niet meer als losse taken aangeleerd maar direct gekoppeld aan het daadwerkelijk onderzoek doen. 
+
+==== Plan ====
+
+De aanpak bij de ontwikkeling van het onderwijs werkt gezien het voorgaande goed wanneer top-downacties (van gegeven concept naar rode draad, doel en activiteiten; van daar naar het vormgeven; op grond hiervan van een onderwijseenheid) worden afgewisseld met bottum-upacties (van ontstane werkvormen naar onderwijsvormen naar onderwijsontwerp). Deze kruisbestuiving is een realistische, gedegen, creatieve en praktische manier om lijn in maar ook draagvlak voor het onderwijsontwerp te bewerkstellingen. Het advies is de volgende actiepunten in genoemde volgorde uit te voeren:
+# Vaststellen van het onderwijsconcept
+# Integreren in betrokken visitatiedocumentatie 
+# Herontwerp van het curriculum gestoeld op het vastgestelde onderwijsconcept
+# Vergelijken van het gewenste onderwijsontwerp met het bestaande
+# Uit deze vergelijking een planning voor implementatie opstellen
+# Herontwerpen van de studieonderdelen
+# Bijstelling van het onderwijsontwerp op grond van de bevindingen uit het herontwerp van de studieonderdelen
+# Ontwerpen van de begeleiding van docenten bij het verder ontwikkelen van hun onderwijsrollen binnen hun studieonderdelen.
+# Implementeren van het nieuwe onderwijsontwerp
+# Begeleiden van de docenten.
+# Evalueren
+
+=== Farmacie ===
+
+==== Casus ====
+De docent ervaart het als een probleem dat studenten in het eerste jaar moeite hebben om te reflecteren met een farmaceutisch perspectief op gebeurtenissen in de dagelijkse praktijk, omdat dit farmaceutische perspectief nog niet is ontwikkeld. Ook weten zij nog niet hoe de verschillende actoren kijken naar deze gebeurtenissen op basis van hun specifieke belangen en expertise.
+Wat de studenten na afloop moeten kunnen: 
+* In staat zijn om de apotheek als centrum van farmaceutische zorg en werkplaats in samenhang met de gezondheidszorg en samenleving te kunnen duiden, met inzicht in de positie van de apotheker als zorgverlener, nu en in de toekomst. 
+* Kennis maken met" en kunnen "plaatsen van" zou het doel moeten zijn, met een goed overzicht van actoren (onderzoekers, industrie, artsen, verzekeraars, patienten, e.a) en hun functies.
+* Zelfstandig probleemanalyses maken, literatuur ontsluiten, suggesties voor oplossingen geven en een presentatie verzorgen.
+* Zelfstandig inzicht krijgen in de wijze waarop patiënten met hun ziekte, klachten en medicatie omgaan, waar zij hun informatie vandaan halen en hoe zij hun problemen met medicatie oplossen.
+
+Zaken die volgens de docent veranderd moeten worden, en dus de inzet van een onderwijsontwerper gevraagd is,  zijn:
+* Goed inleidend college met uitleg over gehele curriculum en de opbouw van het onderwijsblok Introductie Apotheek/Farmacie
+* Uniform format om enerzijds de eisen van ieder onderwijsonderdeel op het punt van attitude, kennis en vaardigheden expliciet per docent/vak te omschrijven. Dit moet ondersteunend zijn voor het hierna volgende:
+* Een instrument om de " drie profielschetsen" voor en na het blok goed uit te kunnen lichten. En een handleiding om met het verschil hiertussen op het punt van verwachtingen, keuzes en onderbouwing nog iets te doen. De docenten denken dat deze zelfreflectie-oefening eigenlijk het belangrijkste doel is, naast een goed overzicht van ieder vak in samenhang met andere vakken en in relatie tot de opleiding.
+
+In de eerste opzet werd gekozen voor een totale herziening omdat dit het beste leek om de leerdoelen te bereiken. Omdat beide vakken veel gebruik maken van gastdocenten werden deze gepeild of ze hier iets voor voelden. Er is een notitie opgesteld die mondeling is toegelicht - op basis waarvan enige reacties zijn binnengekomen. Na de gesprekken is duidelijk geworden, dat de deelnemende gastdocenten eigenlijk niet in zijn voor een totale herziening. Het extra werk dat men zich in het vooruitzicht stelt, wordt niet echt gezocht. Er is gekozen om de bijdrages van de gastdocenten als afzonderlijke leereenheden te beschouwen en daarover een leereenheid te bouwen die deze onderdelen dient te integreren.
+
+==== Voortraject ====
+
+In het voortraject start de onderwijskundige begeleiding, bestaande uit gesprekken en notities waarin: 
+* De wensen zijn geïnventariseerd
+* Oplossingsrichting is afgestemd
+* Oplossingsrichting is aangepast aan nieuwe wensen i.v.m. de docenten die de colleges verzorgen
+* Training in hoe de rol van de docent kan zijn in de nieuwe opzet plaatsvindt.
+* Tekeningen die de structuur van het vak weerspiegelen zijn ontworpen.
+* Het cursusontwerp aangestuurd is.
+* Ervaringsnotitie m.b.t. ict-vrees van studenten is voorgelegd.
+
+Het is belangrijk dat de opdrachtgever een methode aangereikt krijgt om het innemen van verschillende standpunten te oefenen, waarbij het volgen van de verschillende vakken hen hierbij steeds een stapje verder helpt. Daardoor zal het duidelijk worden welke relevantie de diverse vakken hebben en wat de samenhang tussen de vakken in de opleiding is. Het inlevingsvermogen van studenten dient dus nadrukkelijk te worden ontwikkeld en een goede reflectie op wat men hoort en ziet zal beter zichtbaar worden. Dit zal de studenten tijdens de gehele studie ondersteuning bieden.
+De volgende doelstellingen dienen binnen het vak in elk geval bereikt te worden.
+# Studenten kunnen reflecteren op hun eigen farmaceutische perspectief en die van diverse actoren (onderzoekers, industrie, artsen, verzekeraars, apothekers, patiënten, e.a) op een casus uit de dagelijkse praktijk. 
+## Studenten kunnen hun impliciete manier van denken en voelen over de farmacie in schrift en woord expliciteren.
+## Studenten kunnen vanuit verschillende farmaceutische perspectieven naar een situatieschets kijken en deze in bijpassend taalgebruik herformuleren.
+## Studenten kunnen in een alledaagse situatie een farmaceutisch element en knelpunt herkennen, een probleemstelling formuleren en deze oplossen en evalueren.
+# Studenten kunnen een leerhouding demonstreren die past bij de farmacieopleiding.
+## Studenten kunnen zich verplaatsen/inleven in diverse actoren bij een farmaceutische casus en hun verschillende functies daarin.
+## Studenten kunnen hun waardering tonen voor de opzet en invulling van het farmacie curriculum.
+## Studenten tonen een open houding waarin ze bereid zijn tot reflectie en evaluatie op zichzelf en op/door die van anderen.
+## Studenten kunnen hun meerwaarde als (toekomstig) apotheker overtuigend presenteren.
+
+==== Ontwerp ====
+
+Bij dit onderwijsontwerp wordt ervan uitgegaan dat de farmacie een deel van de wereld om ons heen voorstelt. Door een casus uit de dagelijkse praktijk te kiezen kan de student de facetten die de diverse actoren (onderzoekers, industrie, artsen, verzekeraars, apothekers, patiënten, e.a.) vanuit hun perspectief aan deze casus zouden benoemen, zelf ontdekken. Het vanuit een vak kijken naar de gekozen casus, kan telkens wanneer dit vak als onderdeel van Introductie Apotheek/farmacie is afgerond, plaatsvinden. Het herschrijven van de casus, al kijkend door de ‘bril’ van de vakdiscipline verrijkt de casus, maakt deze diepgaander dan voor het afronden van het vak mogelijk was. Door de vakken achtereenvolgens te volgen zal de casus ook ‘groeien’ en kan de student na afloop tonen hoe het ontdekkingsproces is verlopen. De cursus is ook gericht op een beoordeling van de groei (het leren kijken naar de relevantie en de samenhang van de vakken voor de opleiding tot apotheker) en niet op de het opleveren van een product, zoals dat bij het eind van de studie wel het geval is.
+Er zal een geïntegreerd leertraject om de studenten te ondersteunen in het trainen van academische vaardigheden tijdens het volgen van de cursus Introductie Apotheek/Farmacie worden opgezet. Er wordt uitgegaan van de reeds bestaande eigen onderwijsvorm met bestaande inhoud. Deze blijven bestaan, alleen de samenhang wordt met de voorgestelde aanpak verbeterd. De docenten (gast en hoofd) zijn voorstander van de opdrachtvorm en hebben geen moeite met het invoeren van één integrerende casus. Docent wil zelf de verslagen schrijven als onderdeel van zijn eigen leren.
+De cursus zal dus een ontdekkingsproces van de student door integratie vormen. Door de losse delen van de diverse docenten in de cursus Introductie Apotheek/Farmacie in een context te plaatsen wordt getracht de integratie van de diverse vakken te illustreren.
+
+Studenten zijn zelf verantwoordelijk voor het leren en beoordelen elkaar. Alle studenten worden verzocht een casus in te dienen op elektronische leeromgeving (ELO). De casus zal bij voorkeur geen relatie met de farmacie moeten hebben, omdat de zelfverkenning hier niet van afhankelijk is. De casus kan bijvoorbeeld een krantenartikel zijn of een beschrijving van een alledaagse gebeurtenis. De onderbouwing van de indiener is belangrijk. Hierin dient de aspecten van de diverse actoren aan de orde te komen.
+De Coördinator beoordeelt de casussen vervolgens met ‘goed’, ‘voldoende’ en ‘slecht’. Alleen de goede casussen blijven gehandhaafd en iedere indiener die een ‘voldoende’ of ‘slecht’ heeft gescoord krijgt het verzoek het nogmaals te proberen. Iedere indiener die ‘goed’ scoort met zijn casus mag uit de collectie ‘goede’ casussen een keuze maken (echter niet zijn eigen casus). Binnen een week moet dit proces zijn afgerond, zodat er een lijst van unieke ‘goede’ casussen overblijft.
+Studenten worden vervolgens ingedeeld in groepen van 7 personen, die onderling een groepsvertegenwoordiger aanwijzen. Deze zal uiteindelijk de gesprekspartner zijn voor de Coördinator. Studenten ondersteunen elkaar in deze groepen. Vragen en problemen worden in eerste instantie in de groep besproken; in tweede instantie kan dan een gemotiveerde vraag worden voorgelegd aan de Coördinator.
+De ELO zal worden ingezet om het gehele proces te faciliteren, bijvoorbeeld door de beoordeling van casussen transparant te maken. Daarnaast kan het stellen van vragen voor ondersteuning en het voeren van een groepsdiscussie in een platform mogelijk worden gemaakt. De Coördinator zal via de ELO ook zijn beschikbaarheid aangeven in de vorm van een spreekuur, waarbij de voorwaarden waaronder dit mogelijk is worden aangegeven.
+Na de presentatie van ieder vak wordt de casus die is geselecteerd, opnieuw beschreven door de bril van dat vakgebied. Bijvoorbeeld in de woorden van een zorgverzekeraar of farmaco-econoom. De casusbeschrijving wordt beoordeeld door de indiener van de casus. Deze bepaalt of de casus voldoende volgens de opdracht is beschreven. De Coördinator beoordeelt uiteindelijk de beoordelingen als een geheel en heeft met de beoordelaars contact (niet met de indieners van de geschreven stukken).
+In de aanpak zal de voorbereiding enige inspanning van de Coördinator vragen, wanneer de casussen moeten worden beoordeeld. Tijdens de cursus zal er regelmatig een beoordeling van het proces zijn.
+
+In de opzet van de cursus nieuwe stijl zal een afsluiting plaatsvinden aan de hand van een postersessie. De organisatie van de postersessie en prijsuitreiking ligt in handen van een commissie van drie studenten, die deze opdracht uitvoeren in plaats van hun casusbeschrijving.
+Iedere student zal zijn geschreven casus-serie presenteren op een poster. De beste poster (jury zijn de docenten, maar deze krijgen een voordracht aangereikt door de organisatiecommissie zodat zij ook op het leerdoelniveau kunnen belanden), wordt plenair gepresenteerd en de student die deze poster heeft ingediend krijgt een prijs. Er zijn ook andere vormen van presenteren denkbaar, bijvoorbeeld een workshop, videopresentatie of rollenspel. Vormen zijn vrij te kiezen als de leerdoelen maar worden gehaald.
+
+==== Vervolg ====
+
+In de volgende fase wordt voor dit ontwerp de technische begeleiding ingevuld. In overleg met de onderwijsontwerper zijn door de onderwijsontwikkelaar tekeningen en cursussen ( voor de ELO ) ontworpen, de cursus gebouwd, illustraties ontworpen en zorg gedragen voor een efficiënte indeling aan de hand van interne links. De onderwijsontwikkelaar heeft in overleg met de onderwijsontwerper de onderwijstechnoloog opdracht gegeven om een webtool te bouwen om afspraken te maken en te beheren. De onderwijsontwikkelaar schrijft de handleidingen voor de cursus en de webtools en ontwikkelt een gebruikerstest. 
+
+Met de opdrachtgever wordt afgesproken hoe het advies inhoudelijk wordt geïmplementeerd. Er worden door de onderwijsontwerper afspraken gemaakt over de taakverdeling, deadlines gesteld en verantwoordelijken aangesteld. De onderwijsontwikkelaar verleent de technische begeleiding aan de docenten en zal de student-assistenten en de docenten trainen in het gebruik van het product opdat zij volgende jaar zelf veranderingen kunnen aanbrengen. De onderwijstechnoloog zorgt in samenwerking met de onderwijsontwikkelaar voor de bouw van aanvullingen op de ELO. Inhoudelijk zullen nog aanpassingen worden verricht door de onderwijsontwikkelaar. De onderwijsontwerper draagt zorg voor het kwaliteitsbeheer tijdens het traject en voert ter afsluiting een klanttevredenheidsonderzoek uit.
+
+Het benodigde materiaal wordt klaargezet. Eventueel worden andere medewerkers geschoold door de onderwijsontwikkelaar. Overdracht naar de opdrachtgever vindt plaats.
+
+Het ontwerp wordt vervolgens uitgevoerd. Nadien wordt met de opdrachtgever een evaluatiegesprek gehouden. Dit zal mede gaan op grond een evaluatie van de mening betrokkenen die middels een vragenlijst zijn geïnterviewd. Naar aanleiding van de vragenlijst en het gesprek wordt een evaluatieverslag geschreven. Eventueel wordt een interne versie opgesteld.
+
+In de laatste fase wordt het ontwerptraject afgerond en de financiën afgehandeld. Het trajectverslag wordt gecommuniceerd naar alle betrokkenen.
+
+=== Shiatsu ===
+
+De doel van dit ontwerp is om de interesse en de kwaliteit van de studenten, die de docent onder zijn hoede heeft, zodanig te laten groeien dat, onder gelijkblijvende afstudeereisen en door meer onderwijskundige en didactische aandacht voor het onderwijs, er per jaar 25% minder afvallers zullen voorkomen.
+
+==== Situatie ====
+
+De docent als opdrachtgever vormt met samen met 2 collegae het hoofdteam van de opleiding shiatsu. Ze leggen verantwoording af aan de directeur van het opleidingsinstituut waar ze aan verbonden zijn. De docent is al 15 jaar praktijkdocent shiatsumassage en heeft bijna nooit negatieve feedback gehad. Af en toe geeft hij theorie, ter vervanging van een zieke collega. De docent heeft een leerplan geschreven, waarin alle massages handeling voor handeling uitgeschreven staan. Hiermee kan bij ziekte een collega de lessen naadloos overnemen. De docent en zijn collega's benaderen hun onderwijs en alle vernieuwingen daarin alleen vakinhoudelijk; het leerproces als zodanig krijgt geen aandacht.
+
+Een les uit de praktijk duurt 2 3⁄4 uur. Er zijn per bijeenkomst zo'n 12-22 personen. Soms heeft de docent assistenten. De werkvormen die gehanteerd worden zijn ontwikkeld bij de start van de opleiding, ongeveer 20 jaar geleden. De docent legt een handeling uit en doet het voor, waarna de studenten het nadoen. Soms wordt een oefening nabesproken. De studenten oefenen, maar leggen elkaar geen dingen uit; discussie en onderling feedback wordt niet geven. 50% van de eerste jaars stroomt niet door naar het 2e jaar. Voor een deel is dit bewuste uitval; deze studenten hebben ervoor gekozen alleen het 1e jaar te doen.
+
+De docent is autonoom wat betreft zijn lessen maar de echte verbeteringen zijn te behalen als in overleg met de docenten in de opleiding, binnen duidelijke kaders, aanpassingen mogelijk zijn. Afgesproken is dat dus binnen duidelijk gedefinieerde kaders over de inhoud de soort casussen en de leerdoelen, zowel de docenten als de studenten casussen middels hun eigen stijl en aanpak kunnen benaderen. Het onderwijs is daartoe adaptief genoeg ingericht. Afgesproken is met de onderwijsontwerper dat er een versie wordt gemaakt rekening houden met bestaande structuren en randvoorwaarden maar dat er ook een ideaal plaatje wordt geschetst. Tot dit plaatje voldoende uit is gekristalliseerd zal er per e-mail contact verdere afstemming plaats hebben.
+
+==== Doelen ====
+
+Het doel van de opleiding is shiatsutherapeuten op te leiden die zelfstandig mensen met klachten kunnen behandelen. De leerdoelen beschrijven het kunnen toepassen van de juiste druktechnieken, maar het op een goede wijze met de patiënt omgaan komt niet aan bod evenmin als de wijze van toetsen van de leerdoelen. In het eerste jaar ligt het accent op het leren voelen, in het derde jaar op het stellen van de diagnose. De ideale student kan aan het eind van het eerste jaar zelfstandig een goede basismassage geven, (met de juiste techniek en de juiste houding, rust en flexibiliteit van het lichaam) en kan aan het eind van het 3e jaar zelfstandig een patient behandelen. Nu gaat dat door te kijken of bij een patiënt de klacht wordt opgeheven. Dat zie je aan de ontspanning bij de patient, de behandelde geeft feedback aan de behandelaar. Later in het opleidingstraject kunnen ze zelf voelen hoe de behandelde zich heeft gevoeld.
+
+Lastig bij het formuleren van de leerdoelen is dat shiatsu niet wetenschappelijk is en alles kan; dus lastig om te kaderen en klein te houden. Een andere school heeft dan ook een andere aanpak. Er zijn wat dat betreft geen harde waarheden. Is dus moeilijk aan te geven wanneer iets wel of niet Shiatsu is. Het is in ieder geval geen kneden of wrijven. Wel met de duim een druk uitoefenen en dan ervaren wat dat bij de patient losmaakt. Men kiest bij de opleiding voor de Traditional Chinese Medicin (TCM Shiatsu).
+
+Een shiatsu therapeut moet met personen kunnen omgaan, technisch de handeling kunnen uitvoeren, een diagnose kunnen stellen en een behandelplan opstellen en kunnen evalueren. Daarbij geldt dat men aan het eind van het 1e jaar zelfstandig een goede basis massage moet kunnen uitvoeren en aan het eind van het 3e jaar zelfstandig patiënten moet kunnen behandelen. De ideale student toont de juiste houding (fysiek en mentaal), straalt rust uit, is lijfelijk flexibel, verwerkt snel feedback en instructie en voelt aan wat ie doet.
+
+==== Analyse ====
+
+# Leerdoelen zijn niet scherp gedefinieerd wel de onderwerpen die moeten worden behandeld. Bij navraag blijkt ook dat de docent(en) niet goed hoe je deze opstelt. Nadat is afgesproken dat het team leerdoelen zou formuleren blijkt uit navraag dit wederom lastig te zijn geweest.
+# Elke jaar wordt het leerplan herschreven zonder dat er een duidelijke aanwijsbare inhoudelijke laat staan onderwijskundige reden voor is. Het vernieuwen om te vernieuwen? De aanpassing van het plan kost veel tijd. Het leerplan kan eenvoudiger robuuster worden gemaakt tegen verandering zodat aanpassingen geminimaliseerd worden.
+# Het herontwerp richt zich op dat deel van het onderwijs waar de docent autonoom is. Hij blijft dezelfde stof behandelen als zijn collega's, maar doet dit op de best bij hem passende wijze. Uiteindelijk zal een aanpassing van het curriculum zodanig dat de docent binnen zijn autonome leereenheden zichzelf optimaal kan ontplooien nodig zijn.
+# De docent hanteert nu in zijn onderwijs een herhalende structuur. Hij heeft het onderwijs ingedeeld per lichaamsdeel wat als onderwerp wordt behandeld. Wat hij ook erkend is dat de onderdelen als lossen bladeren aan een boom hangen maar dat de cursisten eigenlijk de boom niet goed zien. En dat gebeurd nu pas aan het eind in plaats van aan het begin.
+# Ze beginnen met het moeilijkste maar vergeten het te herhalen. Belangrijkste doel van hun onderwijs is aan je buik voelen. Schoudermassage is het moeilijkste lichaamsdeel.
+# Een kwantitatieve en kwalitatieve verbetering van het onderwijs door ruimte in te bouwen voor feedback en reflectie.
+# Huidige manier van werken is de doceervorm met vertellen en voordoen en uitleggen en in 2-tallen nadoen, toepassen en uitvoeren en indien mogelijk nabespreken. Bijeenkomst staat vooral in feedback en toetsing. Voordoen indien nodig.
+# Er is weinig tijd voor herhaling dus de bijeenkomsten lijken meer op het laten zien wat je al kan dan op het leren van het maken van fouten.
+
+==== Ontwerp ====
+
+Kern van het nieuwe ontwerp wordt het werken vanuit een casus. De casus definieert de doelen van de lessen en opleiding De casus geeft aan wat er in welke volgorde aan bod komt. De casus zorgt voor herhaling van verworven/aangeleerde technieken. De casus zorgt voor integratie van de lossen bladeren. De casus zorgt voor motivering van de studenten en de cursisten om verder te gaan omdat het steeds illustreert de pracht van het beroep als shiatsu therapeut. De casus zorgt voor structuur wat betreft doelen, rollen en activiteit.
+
+De docent ontwikkelt casussen die aansluiten bij de belevingswereld, de mogelijkheden en voorkeuren van de cursisten. Daarnaast is zijn rol de cursisten te begeleiden bij het vormgeven van ervaringen, gevoelens, situaties en gebeurtenissen in hun therapeutisch werk. Hij biedt ruimte binnen de gestelde kaders voor de diversiteit aan uitingen die de cursisten inbrengen en weet de keuze voor onderwerpen hierop te betrekken.
+De casus vormt een soort doorlopend verhaal. De terugblik is mede bedoelt om te verzamelen wat de cursisten al meebrengen. Dit kunnen correcte maar ook misvattingen en technieken zijn. De rol van de docent is op grond van het aanwezige samen met zijn assistente plenair in de groep of zelfs individueel feedback te geven. Belangrijk is het daarom voor de docent om te kijken met zijn assistente op welk moment wel voldoende en effectief genoeg bezig zijn met feedback te geven. Hij kan op grond daarvan de groepen of de opdracht die de groep aan het uitvoeren is, verzwaren of verlichten of aanpassen. De kern moet zijn effectief functioneren wat betreft feedback geven.
+
+De studenten gaan in drietallen werken in plaats van tweetallen zoals nu gebruikelijk is. Een student voet de drukhandeling uit, de tweede ondergaat de behandeling en de derde geeft feedback. De docent geeft feedback op het feedback geven; dit vraagt van hem veel reflectie. De globale opzet van bijeenkomsten wordt als volgt: Elke keer wordt teruggeblikt op de vorige bijeenkomst en hetgeen wat men als opdracht heeft meegekregen om zelfstandig maar ook in een drietal tussentijds heeft gedaan. Een drietal bestaat bij het oefenen bij de technieken uit een waarnemer, een behandelaar en een patiënt. Afhankelijk van de individuele leerplannen wisselen de studenten van rol binnen het drietal en binnen en in de samenstelling van de groep. Ook kan de ene groep (het ene drietal) worden ingezet om aan de andere groep dingen voor te doen of uit te leggen.
+
+Wanneer de docent van oordeel is dat een bepaalde feedback voor alle groepen interessant is daar kan hij plenair dit bespreken of voordoen. Hij zal dit moment voor dit onderwerp en zijn uitleg proberen te borgen bijvoorbeeld voor het verbeteren van zijn instructie. Zodanig dat hij verwacht de volgende keer hierop niet terug te hoeven komen. De docent moet heel goed bij alles wat men behoort te doen na te denken of met dit het beste alleen kan doen of met een drietal of tijdens de bijeenkomst. Of te wel; wat doe je waar, wanneer en hoe. 
+
+Studenten moeten cursisten zelfstandig met hulp van een drietal en een ELO naar een door de docent vastgesteld niveau in de periode tussen de bijeenkomsten werken. Wanneer de docent merkt dat een groep niet voldoende inspanning heeft gepleegd om zelf dat niveau te bereiken dan zal hij hierop de studenten aanspreken. Hij zal dit gedrag echter niet belonen door alsnog zelf de gaten te dichten en te gaan uitleggen of voordoen.
+
+In als zijn handelen laat de docent  zien een voorbeeld te zijn van een goede shiatsu therapeut met een eigen deskundige stijl die past binnen de TCM maar kan verschillen met andere docenten. Hij straalt energie uit en draagt dynamiek over, hij staat tegelijk tussen én boven de cursisten. Hij doet met plezier en enthousiasme zijn job; hij is op een spontane, hartelijke en menselijke wijze betrokken bij zijn cursisten. Door uitdagende en haalbare casussen uit de praktijk die met plezier worden behandeld, waarbij de docent meer uitgaat van doelen dan leerinhouden en meer focust op feedback dan evaluatie, waarbij zelfstandigheid van het individu en de groepen worden bevorderd en samenwerking wordt uitgelokt, zal de betrokkenheid van de cursisten enorm toenemen.
+
+De docent zal de instructietijd beperken zodat cursisten optimaal werken: telkens er een nieuwe oefening aankomt kan de docent deze aanbrengen bij een beperkte groep cursisten die dan een demo uitvoert voor de andere groepen terwijl de docent of iemand van die groep instructie geeft. De lessen worden intensiever als groepen niet op elkaar hoeven te wachten omdat ze verder kunnen gaan met de casus, nieuwe lastigere casussen krijgen aangereikt, verdieping kunnen plegen op een onderdeel of andere groepen kan helpen (uitleggen is de meest effectieve vorm om te leren). Kort samengevat; zorg binnen de lessen en de opleiding voor voldoende differentiatie. Dit zorgt ervoor dat de docent wordt geprikkeld veel individuele positieve feedback te geven waardoor de cursisten meer betrokken raken. Hij stimuleert zijn cursisten daarbij steeds tot zelfwerkzaamheid.
+
+Cursisten die zwak zijn dienen vanaf het begin individueel aangepakt te worden om de cursist af te leiden van " de verstikkende sociale meting". In een individueel gesprek wordt de cursist bewust gemaakt van haar/zijn zwakkere toestand in vergelijking met de rest. Via dit persoonlijk gesprek probeert de docent de cursist te verleiden tot het zelf opstellen en aangaan van een persoon ontwikkelingsplan als aanvulling op de leerplan dat er al ligt. Voorwaarde is dat de cursist intrinsiek gemotiveerd is om naast het leerplan extra activiteiten te plegen die voor hem de studie haalbaar maken. Dat betekent dat de te moeilijke casussen zelf door de cursist wordt aangevuld met meer kleine oefeningen gericht
+op de zwakheden. Hierdoor heeft de cursist toch haalbare taken (succesbeleving) en krijgt daardoor een gevoel van competentie. De aanvullende taken zijn dus haalbaar, binnen beleving en binnen direct bereik van de cursist en moeten intensifieerbaar en varieerbaar zijn en persoonlijke inbreng en creativiteit toelaten. Daarnaast moeten de taken meetbaar zijn (duur, frequentie, belastingsgraad), op die manier kan de cursist de activiteitsomvang en de vergroting ervan vastleggen voor zichzelf.
+
+{{Opmaak | Voettekst}}

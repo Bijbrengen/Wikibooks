@@ -1,0 +1,20 @@
+{{#IfExist:{{BASEPAGENAME}}/Boekinhoud|<!--
+
+-->{{#IfExist:{{BASEPAGENAME}}/Boekinhoud<!--
+  -->|{{:{{BASEPAGENAME}}/Boekinhoud}}<!--
+  -->| <!--Bladeren--><!--
+-->}}<!--
+
+--><div class="noprint"><!--
+-->{{#IfExist:Sjabloon:Koptekst/{{BASEPAGENAME}}<!--
+  -->| {{Koptekst/{{BASEPAGENAME}}}}<!--
+  -->| {{Koptekst/Opmaak}}<!--
+--> }}<!--
+--></div><!--
+
+-->}}<noinclude>
+
+{{Wiu3|BeeBringer}}
+
+[[Categorie:Sjablonen]]
+</noinclude>

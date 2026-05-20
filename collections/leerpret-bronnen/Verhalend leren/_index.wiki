@@ -1,0 +1,13 @@
+{{Opmaak
+| Titel = Verhalend leren
+| Object = Boek
+| Bron = Verhalend leren.webp
+| Definitie = ''Verhalend leren'' duidt op het ontdekkend, diepgaand en actief [[leren]] aan de hand van een zelfverzonnen of zelfgekozen verhaal of storyline.
+| Beschrijving = In plaats van dat een leerboek of een docent een instructie aanreikt,<br>wordt in verhalend leren de lerende<br>- eventueel gestart door een inspirerende anekdote van de docerende<br>- uitgenodigd door een verhaal zelf een betekenis aan zijn leren te geven.<br>Men bedenkt daartoe zelf een plot of intrige om een gewenst leerproces op te roepen, te starten en weer te geven.<br>Met verhalen lukt het beter - dat weten spirituele leraren al vanouds - om complexe boodschappen over te brengen.
+| Formaat = html
+| Voortgang = 5
+| Support = Signaleer
+| Referentie = 
+| Collectie = Leren
+| Onderdeel = Inleiding
+}}

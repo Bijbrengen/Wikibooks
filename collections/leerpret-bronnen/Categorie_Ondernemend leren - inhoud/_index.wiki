@@ -1,0 +1,8 @@
+{{Boekcat
+|onderwerp=[[Ondernemend leren]]
+|detailomschrijving= Een boek waarin wordt uitgelegd hoe ondernemend leren op een school als variant van [[vrij leren]] kan worden ingevoerd.
+|broodkruimel= [[:Categorie:Alles|Alles]] &rarr; [[:Categorie:Boek|Boek]] &rarr; [[:Categorie:Boek naar thema|Boek naar thema]] &rarr; [[:Categorie:Onderwijs|Onderwijs]] &rarr;'''{{PAGENAME}}'''
+|overig=
+}}
+[[Categorie:Onderwijs]]
+[[Categorie:Inhoud]]

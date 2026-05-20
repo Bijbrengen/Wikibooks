@@ -1,0 +1,13 @@
+{{Informatie
+ |Beschrijving   = 
+ |Boek           = Mindfulness
+ |Bron           = 
+ |Datum          = 29 maart 2026
+ |Auteur         = [[Gebruiker:BeeBringer|BeeBringer]]
+ |Toestemming    = PD
+ |andere_versies = 
+ |tools          = 
+}}
+
+== Licentie ==
+{{PD-eigen}}

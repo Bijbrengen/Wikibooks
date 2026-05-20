@@ -1,0 +1,284 @@
+[Event ".Dutch.Drill: d4...c4...e3...b3"]
+[Site "https://lichess.org/study/EThZdfgd/mC25Peu4"]
+[Date "2022.07.11"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[Variant "Standard"]
+[ECO "A84"]
+[Opening "Dutch Defense: Normal Variation"]
+[StudyName "1. d4 f5 2. c4: Dutch Defense Normal variation"]
+[ChapterName "d4...c4...e3...b3"]
+[ChapterURL "https://lichess.org/study/0xAQNkvf/CotbFvhr"]
+[UTCDate "2022.07.11"]
+[UTCTime "07:35:18"]
+
+1. d4 f5 2. c4 Nf6 3. e3 d6 4. b3 e5 *
+
+
+[Event ".Dutch.Drill: d4...c4...e3...Be2...d5"]
+[Site "https://lichess.org/study/EThZdfgd/5G69duiA"]
+[Date "2022.07.11"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[Variant "Standard"]
+[ECO "A84"]
+[Opening "Dutch Defense: Normal Variation"]
+[StudyName "1. d4 f5 2. c4: Dutch Defense Normal variation"]
+[ChapterName "d4...c4...e3...Be2...d5"]
+[ChapterURL "https://lichess.org/study/0xAQNkvf/4L75go8r"]
+[UTCDate "2022.07.11"]
+[UTCTime "07:35:18"]
+
+1. d4 { [%clk 0:10:00] } 1... f5 { [%clk 0:10:00] } 2. c4 { [%clk 0:09:59] } 2... Nf6 { [%clk 0:09:39] } 3. e3 { [%clk 0:09:57] } 3... d6 { [%clk 0:09:30] } 4. Be2 { [%clk 0:09:55] } 4... e5 { [%clk 0:09:11] } 5. d5 { [%clk 0:09:51] } 5... a5 *
+
+
+[Event "1. d4 f5 2. c4: Dutch Defense Normal variation: d4...c4...e3...Bd3"]
+[Date "2022.12.17"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A84"]
+[Opening "Dutch Defense: Normal Variation"]
+[StudyName "1. d4 f5 2. c4: Dutch Defense Normal variation"]
+[ChapterName "d4...c4...e3...Bd3"]
+[ChapterURL "https://lichess.org/study/0xAQNkvf/llIOSrsd"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2022.12.17"]
+[UTCTime "16:42:21"]
+
+1. d4 { [%clk 0:30:00] } 1... f5 { [%clk 0:30:00] } 2. c4 { [%clk 0:29:58] } 2... Nf6 { [%clk 0:29:35] } 3. e3 { [%clk 0:29:56] } 3... d6 { [%clk 0:29:28] } 4. Bd3 { [%clk 0:29:53] } 4... e5 *
+
+
+[Event ".Dutch.Drill: d4...c4...g3...Nf3...Bg2...O-O...Nc3...Bg5"]
+[Site "https://lichess.org/study/EThZdfgd/KRsqKuEB"]
+[Date "2022.07.11"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[Variant "Standard"]
+[ECO "A88"]
+[Opening "Dutch Defense: Leningrad Variation, Warsaw Variation"]
+[StudyName "1. d4 f5 2. c4: Dutch Defense Normal variation"]
+[ChapterName "d4...c4...g3...Nf3...Bg2...O-O...Nc3...Bg5"]
+[ChapterURL "https://lichess.org/study/0xAQNkvf/vE9yqqXQ"]
+[UTCDate "2022.07.11"]
+[UTCTime "07:35:18"]
+
+1. d4 { Defend with the Dutch } 1... f5 2. c4 Nf6 3. g3 d6 4. Nf3 g6 5. Bg2 Bg7 6. O-O O-O 7. Nc3 c6 8. Bg5 Ne4 *
+
+
+[Event ".Dutch.Drill: d4...c4...h3...Nf3...Nbd2"]
+[Site "https://lichess.org/study/EThZdfgd/9Tr9KkZd"]
+[Date "2022.07.11"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[Variant "Standard"]
+[ECO "A84"]
+[Opening "Dutch Defense: Normal Variation"]
+[StudyName "1. d4 f5 2. c4: Dutch Defense Normal variation"]
+[ChapterName "d4...c4...h3...Nf3...Nbd2"]
+[ChapterURL "https://lichess.org/study/0xAQNkvf/bVbHcjvO"]
+[UTCDate "2022.07.11"]
+[UTCTime "07:35:18"]
+
+1. d4 f5 2. c4 Nf6 3. h3 e6 4. Nf3 Bb4+ 5. Nbd2 O-O *
+
+
+[Event ".Dutch.Drill: d4...c4...Bg5...Be3...Nf3"]
+[Site "https://lichess.org/study/EThZdfgd/ofmUcMUw"]
+[Date "2022.07.11"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[Variant "Standard"]
+[ECO "A84"]
+[Opening "Dutch Defense: Normal Variation"]
+[StudyName "1. d4 f5 2. c4: Dutch Defense Normal variation"]
+[ChapterName "d4...c4...Bg5...Be3...Nf3"]
+[ChapterURL "https://lichess.org/study/0xAQNkvf/r0tGKwO2"]
+[UTCDate "2022.07.11"]
+[UTCTime "07:35:18"]
+
+1. d4 f5 2. c4 Nf6 3. Bg5 Ne4 4. Be3 d5 5. Nf3 e6 *
+
+
+[Event "1. d4 f5 2. c4: Dutch Defense Normal variation: d4...c4...Nc3...new best line"]
+[Date "2023.03.27"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A85"]
+[Opening "Dutch Defense: Queen's Knight Variation"]
+[StudyName "1. d4 f5 2. c4: Dutch Defense Normal variation"]
+[ChapterName "d4...c4...Nc3...new best line"]
+[ChapterURL "https://lichess.org/study/0xAQNkvf/lRsMWVq6"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.27"]
+[UTCTime "20:02:49"]
+
+1. d4 { [%clk 0:10:00] } 1... f5 { [%clk 0:10:00] } 2. c4 { [%clk 0:09:59] } 2... Nf6 { [%clk 0:09:41] } 3. Nc3 { [%clk 0:09:53] } 3... e6 *
+
+
+[Event ".Dutch.Drill: d4...c4...Nc3...Bg5...e3...Nf3"]
+[Site "https://lichess.org/study/EThZdfgd/SuGcS3Fo"]
+[Date "2022.07.11"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[Variant "Standard"]
+[ECO "A84"]
+[Opening "Dutch Defense"]
+[StudyName "1. d4 f5 2. c4: Dutch Defense Normal variation"]
+[ChapterName "d4...c4...Nc3...Bg5...e3...Nf3"]
+[ChapterURL "https://lichess.org/study/0xAQNkvf/zd8OjuuE"]
+[UTCDate "2022.07.11"]
+[UTCTime "07:35:18"]
+
+1. d4 f5 2. c4 d6 3. Nc3 Nf6 4. Bg5 e6 5. e3 Be7 6. Nf3 Nc6 *
+
+
+[Event ".Dutch.Drill: d4...c4...Nc3...Bg5...Nf3"]
+[Site "https://lichess.org/study/EThZdfgd/ECYFIre6"]
+[Date "2022.07.11"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[Variant "Standard"]
+[ECO "A85"]
+[Opening "Dutch Defense: Queen's Knight Variation"]
+[StudyName "1. d4 f5 2. c4: Dutch Defense Normal variation"]
+[ChapterName "d4...c4...Nc3...Bg5...Nf3"]
+[ChapterURL "https://lichess.org/study/0xAQNkvf/z78YNazo"]
+[UTCDate "2022.07.11"]
+[UTCTime "07:35:18"]
+
+1. d4 { [%clk 0:05:00] } 1... f5 { [%clk 0:05:00] } 2. c4 { [%clk 0:04:58] } 2... Nf6 { [%clk 0:04:45] } 3. Nc3 { [%clk 0:04:56] } 3... d6 { [%clk 0:04:17] } 4. Bg5 { [%clk 0:04:54] } 4... e6 { [%clk 0:04:06] } 5. Nf3 { [%clk 0:04:51] } 5... h6 *
+
+
+[Event ".Dutch.Drill: d4...c4...Nc3...Nf3...e3"]
+[Site "https://lichess.org/study/EThZdfgd/7LRLjJiO"]
+[Date "2022.07.11"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[Variant "Standard"]
+[ECO "A84"]
+[Opening "Dutch Defense"]
+[StudyName "1. d4 f5 2. c4: Dutch Defense Normal variation"]
+[ChapterName "d4...c4...Nc3...Nf3...e3"]
+[ChapterURL "https://lichess.org/study/0xAQNkvf/6OU07BeG"]
+[UTCDate "2022.07.11"]
+[UTCTime "07:35:18"]
+
+1. d4 f5 2. c4 d6 3. Nc3 Nf6 4. Nf3 g6 5. e3 a5 *
+
+
+[Event ".Dutch.Drill: d4...c4...Nc3...Nf3...g3...Bg2...b3"]
+[Site "https://lichess.org/study/EThZdfgd/CAjShOjD"]
+[Date "2022.07.11"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[Variant "Standard"]
+[ECO "A84"]
+[Opening "Dutch Defense"]
+[StudyName "1. d4 f5 2. c4: Dutch Defense Normal variation"]
+[ChapterName "d4...c4...Nc3...Nf3...g3...Bg2...b3"]
+[ChapterURL "https://lichess.org/study/0xAQNkvf/ageScokj"]
+[UTCDate "2022.07.11"]
+[UTCTime "07:35:18"]
+
+1. d4 f5 2. c4 d6 3. Nc3 Nf6 4. Nf3 g6 5. g3 Bg7 6. Bg2 c6 7. b3 Qc7 *
+
+
+[Event "1. d4 f5 2. c4: Dutch Defense Normal variation: d4...c4...Nc3...Nf3...h4...Qc2"]
+[Date "2023.04.17"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A85"]
+[Opening "Dutch Defense: Queen's Knight Variation"]
+[StudyName "1. d4 f5 2. c4: Dutch Defense Normal variation"]
+[ChapterName "d4...c4...Nc3...Nf3...h4...Qc2"]
+[ChapterURL "https://lichess.org/study/0xAQNkvf/LAppxZNW"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.04.17"]
+[UTCTime "11:23:58"]
+
+1. d4 { [%clk 0:05:00] } 1... f5 { [%clk 0:10:00] } 2. c4 { [%clk 0:04:57] } 2... Nf6 { [%clk 0:09:39] } 3. Nc3 { [%clk 0:04:56] } 3... e6 { [%clk 0:09:18] } 4. Nf3 { [%clk 0:04:56] } 4... g6 { [%clk 0:09:09] } 5. h4 { [%clk 0:04:47] } 5... Bg7 { [%clk 0:08:00] } 6. Qc2 { [%clk 0:04:45] } 6... O-O *
+
+
+[Event "1. d4 f5 2. c4: Dutch Defense Normal variation: d4...c4...Nc3...Nf3...Bg5...e3...Bd3"]
+[Date "2022.12.14"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A85"]
+[Opening "Dutch Defense: Queen's Knight Variation"]
+[StudyName "1. d4 f5 2. c4: Dutch Defense Normal variation"]
+[ChapterName "d4...c4...Nc3...Nf3...Bg5...e3...Bd3"]
+[ChapterURL "https://lichess.org/study/0xAQNkvf/sk26WQqg"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2022.12.14"]
+[UTCTime "10:31:27"]
+
+1. d4 { [%clk 0:30:00] } 1... f5 { [%clk 0:30:00] } 2. c4 { [%clk 0:29:56] } 2... Nf6 { [%clk 0:29:35] } 3. Nc3 { [%clk 0:29:51] } 3... d6 { [%clk 0:29:15] } 4. Nf3 { [%clk 0:29:41] } 4... g6 { [%clk 0:28:31] } 5. Bg5 { [%clk 0:29:24] } 5... Bg7 { [%clk 0:27:30] } 6. e3 { [%clk 0:29:16] } 6... O-O { [%clk 0:26:57] } 7. Bd3 { [%clk 0:29:08] } 7... Nc6 *
+
+
+[Event ".Dutch.Drill: d4...c4...Nf3...g3...Bg2...Nc3"]
+[Site "https://lichess.org/study/EThZdfgd/IpbycGZj"]
+[Date "2022.07.11"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[Variant "Standard"]
+[ECO "A84"]
+[Opening "Dutch Defense: Normal Variation"]
+[StudyName "1. d4 f5 2. c4: Dutch Defense Normal variation"]
+[ChapterName "d4...c4...Nf3...g3...Bg2...Nc3"]
+[ChapterURL "https://lichess.org/study/0xAQNkvf/VC1M4Wcm"]
+[UTCDate "2022.07.11"]
+[UTCTime "07:35:18"]
+
+1. d4 f5 2. c4 Nf6 3. Nf3 g6 4. g3 c6 5. Bg2 Bg7 6. Nc3 d6 *
+
+
+[Event ".Dutch.Drill: d4...c4...Nf3...g3...Bg2...O-O...Nc3"]
+[Site "https://lichess.org/study/EThZdfgd/NgDPteK2"]
+[Date "2022.07.11"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[Variant "Standard"]
+[ECO "A88"]
+[Opening "Dutch Defense: Leningrad Variation, Warsaw Variation"]
+[StudyName "1. d4 f5 2. c4: Dutch Defense Normal variation"]
+[ChapterName "d4...c4...Nf3...g3...Bg2...O-O...Nc3"]
+[ChapterURL "https://lichess.org/study/0xAQNkvf/J4mV4dXF"]
+[UTCDate "2022.07.11"]
+[UTCTime "07:35:18"]
+
+1. d4 { [%clk 0:30:00] } 1... f5 { [%clk 0:30:00] } 2. c4 { [%clk 0:29:54] } 2... Nf6 { [%clk 0:29:47] } 3. Nf3 { [%clk 0:29:21] } 3... g6 { [%clk 0:29:26] } 4. g3 { [%clk 0:29:18] } 4... c6 { [%clk 0:29:00] } 5. Bg2 { [%clk 0:29:03] } 5... Bg7 { [%clk 0:28:55] } 6. O-O { [%clk 0:28:56] } 6... d6 { [%clk 0:28:30] } 7. Nc3 { [%clk 0:28:06] } 7... O-O *
+
+
+[Event "1. d4 f5 2. c4: Dutch Defense Normal variation: d4...c4...Nf3...Bg5...Be3"]
+[Date "2022.11.30"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A84"]
+[Opening "Dutch Defense: Normal Variation"]
+[StudyName "1. d4 f5 2. c4: Dutch Defense Normal variation"]
+[ChapterName "d4...c4...Nf3...Bg5...Be3"]
+[ChapterURL "https://lichess.org/study/0xAQNkvf/qcc9Zlhq"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2022.11.30"]
+[UTCTime "13:29:24"]
+
+1. d4 { [%clk 0:30:00] } 1... f5 { [%clk 0:30:00] } 2. c4 { [%clk 0:29:57] } 2... Nf6 { [%clk 0:29:10] } 3. Nf3 { [%clk 0:29:47] } 3... g6 { [%clk 0:28:55] } 4. Bg5 { [%clk 0:29:41] } 4... Ne4 5. Be3 Bg7 *
+
+
+[Event ".Dutch.Drill: d4...c4...Nf3...Nc3"]
+[Site "https://lichess.org/study/EThZdfgd/9Mv4C2yj"]
+[Date "2022.07.11"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[Variant "Standard"]
+[ECO "A84"]
+[Opening "Dutch Defense: Normal Variation"]
+[StudyName "1. d4 f5 2. c4: Dutch Defense Normal variation"]
+[ChapterName "d4...c4...Nf3...Nc3...Bf4"]
+[ChapterURL "https://lichess.org/study/0xAQNkvf/Gj0SWUoS"]
+[UTCDate "2022.07.11"]
+[UTCTime "07:35:18"]
+
+1. d4 { [%clk 0:30:00] } 1... f5 { [%clk 0:30:00] } 2. c4 { [%clk 0:29:36] } 2... Nf6 { [%clk 0:29:55] } 3. Nf3 { [%clk 0:29:24] } 3... g6 { [%clk 0:29:46] } 4. Nc3 { [%clk 0:28:58] } 4... Bg7 5. Bf4 Ne4 *
+
+

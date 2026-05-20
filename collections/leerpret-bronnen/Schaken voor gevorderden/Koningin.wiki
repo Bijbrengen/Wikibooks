@@ -1,0 +1,87 @@
+{{Opmaak}}
+== Aanval ==
+
+== Offer ==
+Hoe wint wit aan zet?
+{{Schaak/Bord2
+|left
+|
+|
+8 |rd|  |bd|qd|kd|  |  |rd|
+7 |pd|pd|pd|pd|nd|pd|  |pd|
+6 |  |  |nd|  |  |  |pd|  |
+5 |  |  |  |nl|  |  |bl|  |
+4 |  |  |pl|bd|  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|  |  |pl|pl|pl|pl|
+1 |rl|  |  |ql|kl|bl|  |rl|
+   a  b  c  d  e  f  g  h
+|Andreikin, Dmitry (2683) - Karjakin, Sergey (2760)}}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |rd|  |bd|qd|  |rd|kd|  |
+7 |pd|pd|pd|pd|nd|pd|  |pd|
+6 |  |  |  |  |  |bl|pd|nl|
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |pl|nd|  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|  |  |pl|pl|pl|pl|
+1 |rl|  |  |  |kl|bl|  |rl|
+   a  b  c  d  e  f  g  h
+|De dame offert zich op om de loper als beschermer van de lijn a1 h8 te verwijderen}}
+# c4 e5
+# Nc3 Nc6
+# Nf3 g6
+# d4 exd4
+# Nd5 Bg7
+# Bg5 Nge7
+# Nxd4 Bxd4
+# Qxd4 O-O
+# Nf6+ Kh8
+# Ng4+ zwart gaf op want na Nxd4
+# Bf6+ Kg8
+# Nh6#
+Zie [https://lichess.org/study/SJoDmAGb/SMbOjEpj Lichess study '''Andreikin, Dmitry (2683) - Karjakin, Sergey (2760)'''].
+}}
+<br>
+Hoe wint wit aan zet?
+{{Schaak/Bord2
+|left
+|
+|
+8 |rd|  |bd|kd|  |rd|  |  |
+7 |pd|pd|  |  |rl|  |pd|  |
+6 |  |  |  |pd|  |  |  |pd|
+5 |  |  |pd|  |  |  |ql|  |
+4 |  |  |  |nl|  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pd|pl|  |  |pl|pl|pl|
+1 |  |  |  |  |  |  |kl|  |
+   a  b  c  d  e  f  g  h
+|Sokolov - Ruzhnikov, Rusland 1969}}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |rd|  |bd|  |  |kd|  |  |
+7 |pd|  |  |  |rl|  |ql|  |
+6 |  |  |nl|pd|  |rd|  |pd|
+5 |  |  |pd|  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pd|pl|  |  |pl|pl|pl|
+1 |  |  |  |  |  |  |kl|  |
+   a  b  c  d  e  f  g  h
+|De dame blijft ondanks dat ze aangevallen wordt op haar plek}}
+# Rxb7+ Rf6 (1... hxg5 2. Nc6+ Ke8 3. Re7#)
+# Nc6+ Ke8
+# Re7+ Kf8
+# Qxg7# *
+Zie [https://lichess.org/study/SJoDmAGb/E28WWoUu Lichess study '''Sokolov - Ruzhnikov, Rusland 1969'''].
+}}
+
+{{Opmaak | Voettekst}}

@@ -1,0 +1,52 @@
+{{Opmaak}}
+== Inleiding ==
+Een '''onderwijsontwikkelaar''' (ook wel curriculumontwikkelaar of leermiddelenontwikkelaar genoemd) is een professional die zich bezighoudt met het systematisch ontwerpen en vormgeven van onderwijsprogramma's, cursussen en leermaterialen. Het produceren van leerstof is de kerntaak. Dit omvat het maken van leerboeken, lesbrieven, onderwijsfilms, software en educatieve games.
+
+=== Ontwikkelaar vs. Ontwerper ===
+Hoewel de termen vaak door elkaar worden gebruikt, is er een essentieel verschil in focus:
+* **De onderwijsontwikkelaar**: Richt zich op het '''produceren''' van materialen. De taak is het realiseren van de leermiddelen die nodig zijn om een ontwerp te ondersteunen.
+* **De onderwijsontwerper**: Richt zich op het '''organiseren''' van het onderwijs. Hij bepaalt de wensen, de structuur, de methoden en de werkvormen. De ontwikkelaar bouwt wat de ontwerper heeft geschetst.
+
+== Ontwerpmodellen ==
+Een onderwijsontwikkelaar hanteert modellen om het proces van ontwerp naar product te structureren.
+
+=== Romiszowski ===
+Alexander Joseph Romiszowski benadert een probleem als een discrepantie tussen de bestaande en de gewenste situatie. Hij onderscheidt vier niveaus van ontwerpen:
+# **Project**: Front-end analyse en projectdoelen.
+# **Instructie**: Instructieplan (media/methoden).
+# **Les**: Materiaalspecificatie.
+# **Oefening**: Materiaalontwikkeling.
+
+=== AT&T Development-Model ===
+Dit model kenmerkt zich door een sterke focus op return on investment en bestaat uit acht fasen: Vooronderzoek, Functieanalyse, Taakanalyse, Materiaalontwikkeling, Proeftoetsing, Documentatie, Onderhoud en Effectiviteitsonderzoek.
+
+=== IDI-model ===
+Het IDI-model (Instructional Development Institute) is een lineaire procedure in 9 stappen, verdeeld over drie hoofdfases: **Definieer** (probleem vaststellen), **Ontwikkel** (doelen bepalen en prototypen bouwen) en **Evalueer** (prototypen testen en implementeren).
+
+== Curriculumbouw ==
+Onderwijsontwerpen gaat over de strategie die men kiest om een onderwijskundig probleem opgelost te krijgen. Een onderwijskundig probleem is het verschil tussen de gewenste en de bestaande onderwijssituatie.
+
+De bouwsteen van elk ontwerp is het **leerobject**. De ontwerper vertaalt de wensen van de opdrachtgever (bijv. een schooldirectie) naar een concreet ontwerp waar de ontwikkelaar mee aan de slag kan.
+
+== Kwaliteitszorg ==
+Een onderwijsontwikkelaar professionaliseert zijn werk door er bij de bouw al van uit te gaan dat de materialen uiteindelijk "uitgegeven" gaan worden. 
+
+=== Kwaliteitseisen ===
+In deze methodiek stellen we twee harde eisen:
+# **Basis in Ontwerp**: De ontwikkelaar start altijd vanuit een concreet onderwijsontwerp.
+# **Uitgeefwaardig**: De producten moeten van een dusdanige kwaliteit zijn dat een professionele uitgever ze direct zou kunnen produceren.
+
+== Casus: Universitair Vak Scheikunde ==
+In deze casus wordt een docent getraind in het maken van een onderwijsontwerp waarbij studenten zelf analytische vragen gaan verzinnen over de leerstof.
+
+=== Fasering ===
+* **Fase 1: Begeleid oefenen**: De docent doet voor hoe je goede deelvragen formuleert.
+* **Fase 2: Casusontwikkeling**: Studenten leren zelf goede casussen te bedenken.
+* **Fase 3: Zelfstandige uitvoering**: De student pakt geheel zelfstandig ingewikkelde casussen aan.
+
+== Woordenlijst ==
+* **Seminar**: Een omvangrijke bijeenkomst rond een bepaald onderwerp waarin deskundigen kennis delen (Latijn: *seminarium*).
+* **Leerobject**: Een logische ordening van herbruikbare bouwstenen uit het onderwijs (tekst, beeld, geluid).
+* **LCMS**: Een Learning Content Management System is de database waarin leerobjecten worden beheerd en ontsloten.
+
+{{Opmaak | Voettekst}}

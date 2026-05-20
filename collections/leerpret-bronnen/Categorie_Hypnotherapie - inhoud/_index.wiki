@@ -1,0 +1,8 @@
+{{Boekcat
+|onderwerp=[[Hypnotherapie]]
+|detailomschrijving= Hypnotherapie is een vorm van behandeling die gebruik maakt van trance.
+|broodkruimel= [[:Categorie:Alles|Alles]] &rarr; [[:Categorie:Boek|Boek]] &rarr; [[:Categorie:Boek naar thema|Boek naar thema]] &rarr; [[:Categorie:Psychologie|Psychologie]] &rarr;'''{{PAGENAME}}'''
+|overig=
+}}
+[[Categorie:Psychologie]]
+[[Categorie:Inhoud]]

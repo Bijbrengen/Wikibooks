@@ -1,0 +1,35 @@
+{
+    "source":  "https://nl.wikibooks.org/wiki/Sjabloon%3ABoek",
+    "api":  "https://nl.wikibooks.org/w/api.php",
+    "title":  "Sjabloon:Boek",
+    "fetched_at_utc":  "2026-04-24T07:35:41.1854028Z",
+    "page_count":  2,
+    "pages":  [
+                  {
+                      "title":  "Sjabloon:Boek",
+                      "file":  "_module.wiki",
+                      "pageid":  13557,
+                      "contentmodel":  "wikitext",
+                      "revid":  418067,
+                      "parentid":  417946,
+                      "timestamp":  "2026-02-02T00:12:49Z",
+                      "user":  "Erik Baas",
+                      "comment":  "OK",
+                      "sha1":  "e04e5fcd18d52e4857f41e4d37edf6e988ea9f21",
+                      "bytes":  2714
+                  },
+                  {
+                      "title":  "Sjabloon:Boek/Status",
+                      "file":  "Status.wiki",
+                      "pageid":  41506,
+                      "contentmodel":  "wikitext",
+                      "revid":  374860,
+                      "parentid":  365400,
+                      "timestamp":  "2023-04-12T16:17:33Z",
+                      "user":  "Erik Baas",
+                      "comment":  "cat",
+                      "sha1":  "6f3971a706ba54fb82658f0ce91c505be097e7a3",
+                      "bytes":  385
+                  }
+              ]
+}

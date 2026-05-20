@@ -1,0 +1,39 @@
+{{Opmaak}}
+== Profiel ==
+{{Wp|en:Alexander McDonnell|Alexander McDonnell}} was een Ierse schaakgrootmeester.
+
+== Gambiet ==
+'''1. e4 c4 2. f4''' of '''1. f4 c4 2. e4'''
+
+Alexander McDonnell bedacht een naar hem vernoemde variatie de McDonnell aanval of gambiet. Deze mogelijkheid ontstaat als zwart reageert met '''c5''' op de [[Schaken_door_meesters/Bird|Bird opening]] of op de {{Wp|Koningspionopening|Koningspionopening}} ({{Wp|Siciliaans (schaakopening)|Siciliaans}}). Wit kan er in beide situaties voor zorgen dat er pionnen zijn op '''d4''' en '''e4'''. De opstelling met f4 en e4 geeft wit veel ruimte, maar verzwakt de koningsstelling enigszins.
+{{Opmaak
+| Object = Schaak
+| Definitie = McDonnell-aanval
+| Beschrijving = De McDonnell aanval of gambiet (1. e4 c4 2. f4)
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|  |pd|pd|pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |pd|  |  |  |  |  |
+4 |  |  |  |  |pl|pl|  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|pl|  |  |pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+
+De beste respons volgens onder andere Jeremy Silman is de {{Wp|Talgambiet|Talgambiet}} '''2...d5 3.exd5 Nf6!'''. Zwart offert een pion voor snelle ontwikkeling en druk op het witte centrum. De evaluatie is ongeveer +0.6 voor wit, maar in de praktijk krijgt zwart zeer gevaarlijk tegenspel.
+
+=== Andere varianten ===
+* '''2... d6 3. Nf3 a6 4. d4''': Wit bouwt een sterk centrum op.
+* '''2... Nc6 3. Nf3 e6 4. Bb5 Nd4''': Zwart daagt direct de witte loper uit en probeert het centrum te controleren.
+* '''2... g6 3. Nc3 Nc6 4. Nf3 Bg7''': Een Siciliaanse opstelling waarbij wit met f4 al extra ruimte heeft geclaimd.
+
+== Evaluatie van Combinaties ==
+De McDonnell aanval is een agressieve manier om de Siciliaanse verdediging aan te pakken:
+* '''Centrumcontrole''': Wit streeft naar d4 en e4. Als wit hierin slaagt (zoals in de Bijbrengen-studies), heeft hij een ruimtevoordeel.
+* '''Tal Gambiet''': Dit is de grootste uitdaging voor wit. Wit moet bereid zijn de pion op d5 te verdedigen of terug te geven voor een betere structuur.
+* '''Koningsveiligheid''': Omdat wit f4 speelt, is de diagonaal a7-g1 (of g1-a7) vaak een zwakte waar zwart gebruik van kan maken met ...Qb6 of ...Bc5.
+
+{{Opmaak | Voettekst}}

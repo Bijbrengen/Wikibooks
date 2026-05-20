@@ -1,0 +1,23 @@
+{{Opmaak}}
+== [[Vrij leren]] ==
+'''Freell''' is ontworpen om vrij leren te bevorderen, waarbij strikt wordt vastgehouden aan expertregels voor elke vorm van oplegging.
+Daarom worden leereenheden niet willekeurig gestructureerd, tenzij dit strikt noodzakelijk is.
+De volgorde van sub-eenheden binnen een eenheid is bijvoorbeeld alleen gerechtvaardigd als dit cruciaal is voor het leerproces.
+Dit is met name het geval wanneer bepaalde vaardigheden pas kunnen worden verworven na het beheersen van voorafgaande vaardigheden, wat een logische en noodzakelijke progressie in de leerreis garandeert.
+
+'''Freell''' beoogt zowel onderwijsarchitecten (zij die het leren voor anderen orkestreren) als leerarchitecten (zij die hun eigen leren structureren) te ontlasten van de verplichting om effectieve leerstrategieën tot in detail te beheersen.
+De expertregels die in Freell zijn ingebed, zorgen ervoor dat er zoveel mogelijk vrijheid in het leerproces wordt opgenomen zonder de effectiviteit in gevaar te brengen.
+
+Meer vrijheid in het leren maakt een betere afstemming mogelijk, wat de effectiviteit verhoogt.
+Via '''Freell''' worden architecten verlost van de tijdrovende taak om het leren verder te structureren dan nodig is.
+De taal en de daaruit voortvloeiende instrumenten regelen dit, terwijl ze trouw blijven aan de kernmissie: het bevorderen van zoveel mogelijk vrijheid in het leren, zolang dit de effectiviteit dient of niet schaadt.
+
+== Leerbox ==
+De ultieme vorm van vrijheid wordt bereikt door het leerproces te isoleren van externe verstoringen.
+Dit gebeurt in what we een '''Leerbox''' noemen.
+De Leerbox bevat de noodzakelijke bronnen en regels om het leren zelfsturend te maken.
+In deze omgeving is de rol van '''Freell''' het definiëren van het "wat" van het leren, zodat de "hoe" volledig aan de interactie van de leerder binnen de box wordt overgelaten.
+
+Zie voor meer details het hoofdstuk [[Onderwijstaal/Leerbox|Leerbox]].
+
+{{Opmaak | Voettekst}}

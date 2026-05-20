@@ -1,0 +1,29 @@
+{{Opmaak}}
+
+Nu we alle onderdelen van de [[Module:Layout]] hebben verkend, kunnen we de balans opmaken.
+Waarom is dit systeem zo opgezet en wat zijn de voordelen?
+
+== Waarom simpele MVC niet genoeg is ==
+De standaard '''Model-View-Controller''' (MVC) architectuur is een geweldig begin, maar in een complexe omgeving als een wiki lopen we tegen grenzen aan:
+* **Veiligheid**: Hoe voorkomen we dat een gebruiker het hele systeem laat crashen met een verkeerde parameter?
+* **Onderhoud**: Hoe kunnen we nieuwe functies ontwikkelen zonder de huidige gebruikers te storen?
+* **Herbruikbaarheid**: Hoe voorkomen we dat we dezelfde code voor kleuren of tekst telkens opnieuw schrijven?
+
+== Het "Totaal-Systeem" ==
+De Layout-module lost dit op door MVC uit te breiden met extra lagen:
+
+* '''Interface + Security''': Zorgen voor een veilige buffer tussen de gebruiker en de logica.
+* '''Configuration + Environments''': Maken het mogelijk om in `Development` te werken terwijl `Production` stabiel blijft.
+* '''Library''': Biedt een solide basis van herbruikbare gereedschappen.
+
+=== De voordelen op een rij ===
+# '''Stabiliteit''': Door de strikte scheiding en de Interface-controles is de module extreem robuust.
+# '''Snelheid van Ontwikkeling''': Nieuwe onderdelen (zoals een nieuwe `View`) kunnen snel worden toegevoegd door gebruik te maken van de bestaande `Library` en het `Call`-model.
+# '''Overzicht''': Ondanks dat de module uit honderden submodules bestaat, is het door de duidelijke mappenstructuur altijd duidelijk waar je moet zijn om iets aan te passen.
+# '''Testbaarheid''': Elk onderdeel kan individueel worden getest (met de `Unittest`-library), wat de kans op regressies (nieuwe fouten in oude code) minimaliseert.
+
+== Conclusie ==
+Het bouwen van een onderwijswiki met deze architectuur vraagt in het begin om meer planning, maar de beloning is een systeem dat jarenlang kan meegroeien met de behoeften van leerlingen en docenten.
+Je hebt nu niet alleen geleerd hoe Lua werkt, maar ook hoe je een software-ecosysteem ontwerpt dat klaar is voor de toekomst.
+
+{{Opmaak | Voettekst}}

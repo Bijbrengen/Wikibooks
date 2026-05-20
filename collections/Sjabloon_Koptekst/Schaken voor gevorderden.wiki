@@ -1,0 +1,21 @@
+{|align=right width=300px style="margin: 1em 0 1em 1em;" class=toccolours 
+|
+{{Koptekst/Spel}}
+----
+|-
+|[[File:Schaken.svg|center|100 px]]
+|-
+|style="text-align:center;font-size: 135%;"|[[Schaken voor gevorderden]]
+|-
+|style="font-size: 85%;" align=left|
+
+* [[Schaken voor gevorderden/Inleiding|Inleiding]]
+* [[Schaken voor gevorderden/Visualisatie|Visualisatie]]
+* [[Schaken voor gevorderden/Concentratie|Concentratie]]
+* [[Schaken voor gevorderden/Mindfulness|Mindfulness]]
+* [[Schaken voor gevorderden/Pion|Pion]]
+* [[Schaken voor gevorderden/Loper|Loper]]
+----
+|}<noinclude>
+[[Categorie:Sjablonen voor een bepaald boek]]
+</noinclude>

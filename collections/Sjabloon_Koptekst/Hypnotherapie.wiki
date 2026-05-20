@@ -1,0 +1,19 @@
+{|align=right width=300px style="margin: 1em 0 1em 1em;" class=toccolours 
+|
+{{Koptekst/Psychologie}}
+----
+|-
+|[[File:Mijlocul hipnotic d'a adormi uă femee pentru a 'i face operaţiuni chirurgicale fără să simtă durere, Gazeta Săteanului, 20 mar 1888.JPG|center|100px]]
+|-
+|style="text-align:center;font-size: 135%;"|[[Hypnotherapie]]
+|-
+|style="font-size: 85%;" align=left|
+
+* [[Hypnotherapie/Hypnose|Hypnose]]
+* [[Hypnotherapie/Therapie|Therapie]]
+* [[Hypnotherapie/Theorie|Theorie]]
+* [[Hypnotherapie/Toepassing|Toepassing]]
+----
+|}<noinclude>
+[[Categorie:Sjablonen voor een bepaald boek]]
+</noinclude>

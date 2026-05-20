@@ -1,0 +1,5 @@
+<div style="font-size: 16px; font-weight: bold;">Verwijzingen</div>
+<div style="width:100%; font-size:90%; margin: 0.5em 0 0.5em 0; border: 1px solid #ddddddd; background-color:#cccccc; color: black; padding:5px; clear:both;">{{{bronvermelding}}}</div><noinclude>
+
+[[Categorie:Sjablonen referentie]]
+</noinclude>

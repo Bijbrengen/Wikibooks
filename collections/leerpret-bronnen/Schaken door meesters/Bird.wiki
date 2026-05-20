@@ -1,0 +1,247 @@
+{{Opmaak}}
+== Profiel ==
+De Britse amateurschaker {{Wp|Henry Bird|Henry Edward Bird}} (1830-1908) introduceerde in 1873 tegen John Wisker zijn openingszet '''1.f4''', waardoor deze opening naar hem is vernoemd; de {{Wp|Birdopening|Birdopening}}. Omdat men direct de zwakste f-pion inzet, leert men als men deze opening regelmatig kiest als schaker het gevaar te herkennen, erkennen en te pareren van deze pion.
+
+Voor beginners is deze opening aan te raden, om te leren (in plaats van te winnen) hoe een tegenstander de zwakke e1-h4 diagonaal kan gebruiken, iets wat in andere openingen in minder gevarieerde manieren voorkomt. Men ervaart schaakopeningstheorie in plaats van dat men die braaf opvolgt en heel veel tijd aan moet besteden (zoals bij '''e4''' of '''d4'''), terwijl een beginner met de opening nog niet veel voordelen haalt. Men leert gambieten als [[Schaken door meesters/From|From Gambiet]] en hoe men zich tegen {{Wp|Fianchetto|gefianchetteerde}} lopers wapent of daar zelf gebruik van maakt.
+
+Hoewel een uitzondering, zijn er schaakmeesters zoals {{Wp|en:Henrik Danielsen|Henrik Danielsen}} die de Bird gebruiken.
+
+== Hollands ==
+De Bird opening is een opening in het schaakspel dat wordt gespeeld door zowel amateurs als professionals. Het is genoemd naar Henry Bird, een Engelse schaker die deze opening voor het eerst gebruikte in de 19e eeuw.
+
+De Bird opening is een 1.f4-opening, wat betekent dat wit begint met de loper naar f4 te zetten. In tegenstelling tot andere 1.e4-openingen, is de Bird opening niet erg populair bij top-spelers omdat het niet veel kansen biedt om een voorsprong te krijgen.
+
+Eén van de voordelen van de Bird opening is dat het moeilijk is voor de tegenstander om te voorspellen wat de volgende zet zal zijn. De opening biedt wit de mogelijkheid om verschillende strategieën te verkennen, waardoor het moeilijk is voor zwart om zijn stukken te plaatsen en een verdediging op te zetten.
+
+Ondanks dat de Bird opening niet populair is bij top-spelers, biedt het amateurs de mogelijkheid om hun vaardigheden te verbeteren, omdat het een unieke opening is die verschillende stukken betrekt. Het kan ook worden gebruikt als een verrassing voor een tegenstander die niet gewend is aan deze opening.
+
+Al met al is de Bird opening een interessante opening voor mensen die op zoek zijn naar een unieke strategie en de mogelijkheid om hun vaardigheden te verbeteren. Hoewel het niet populair is bij topspelers, is het een leuke manier om een tegenstander te verrassen en je vaardigheden te verbeteren.
+
+[[Bestand:Schaakschema Bird opening.svg|600px|Chess scheme Bird Opening]]
+
+{{Opmaak
+| Object = Schaak
+| Definitie = Bird Opening
+| Beschrijving = De standaardopstelling van de Bird opening (1. f4)
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|pd|pd|pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |pl|  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|pl|pl|  |pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+
+De Birdopening wordt ook wel de Hollandse aanval genoemd omdat het het omgekeerde is van de [[Schaken_door_meesters/Stein#Hollands|Hollandse verdediging]]. Een tegenstander - zeker als die er niet goed bekend mee is - kan zich vrij goed verdedigen door alles simpelweg te kopiëren (copycat);
+'''1. f4 f5 2. g3 g6 3. d3 d6 4. e4 e5 5. Nf3 Nf6 6. Nc3 Nc6 7. Bg2 Bg7 8. exf5 exf4 9. fxg6 fxg3 10. Qe2+ Qe7 11. Qxe7+ ...'''
+
+De Birdopening is niet een gangbare opening vanwege de zwakke diagonaal '''e1-h4'''. Als wit een blunder maakt door '''2. g4''' te spelen verliest hij direct door '''Qh4#''' het {{Wp|Narrenmat|Narrenmat}}. 
+
+{{Opmaak
+| Object = Schaak
+| Definitie = Narrenmat
+| Beschrijving = Het Narrenmat na 1. f4 e5 2. g4 Qh4#
+| Orientatie = wit
+|
+8 |rd|nd|bd|  |kd|bd|nd|rd|
+7 |pd|pd|pd|pd|  |pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |pd|  |  |  |
+4 |  |  |  |  |  |  |pl|qd|
+3 |  |  |  |  |  |pl|  |  |
+2 |pl|pl|pl|pl|pl|  |  |pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+Men kiest deze opening om het witte paard op '''e5''' te krijgen door dit veld alvast te verdedigen. Een van de vervolg zetten die wit zal kiezen (ook om het gevaar van schaak op '''Qe4''' te mijden) is '''Nf3''' welke de beste zet is als zwart reageert op '''f4''' met '''d5''',  '''Nc6''' of '''Nh6'''. Omdat '''d5''' (de "dutch variation") het vaakst wordt gekozen, is '''Nf3''' de meest voorkomende vervolgzet. Als zwart de pionnen op de flank ('''a5''', '''a6''', '''b5''', '''b6''', '''c5''', '''c6''', '''d6''', '''e6''', '''g6''', '''h5''', '''h6''') als beginzet doet, dan kan wit het beste meteen de ruimte in het centrum claimen door '''e4''' te spelen! Als de witte f-pion een zwarte pion krijgt aangeboden door '''e5''' ([[Schaken_door_meesters/From#Gambiet|From's gambiet]]) of '''g5''' ([[Schaken_door_meesters/Basman#Borg|De Borg]]) , dan kan wit die gewoon nemen.
+
+Naast '''e4''' of '''Nf3''' of het slaan van een geofferde pion, is de enige andere zet die is te overwegen '''g3'''. Het idee van deze zet is het snel fianchetto maken van de koningsloper. Deze optie is aan te raden als zwart '''f5''' (copycat) of '''Nf6''' speelt.
+
+Men bereidt met deze opening al een vroege aanval op de koningsvleugel voor. Door de [[Schaken door meesters/From|From gambiet]] (zelf '''e5''' innemen) kan zwart dit plan saboteren. Door de f-pion twee plaatsen op te schuiven creëert men de mogelijkheid om al snel in de game gebruik te maken van de mogelijkheid tot een zogenaamde "rook lift" waarbij men na rokeren de toren op '''Rf1''' via '''Rf3''' in het spel brengt. Ook zien we vaak dat de mogelijkheid tot een uitkijkpost voor een paard ontstaat op of '''e4''' (zwart) of '''e5''' (wit).
+
+Een positie die met de Bird vaak wordt bereikt als men de beste lijnen wil volgen ziet er als volgt uit.
+
+{{Opmaak
+| Object = Schaak
+| Definitie = 'Ideale' Bird Opstelling
+| Beschrijving = Een solide opstelling die wit kan nastreven in de Bird opening
+| Orientatie = wit
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |pl|  |  |
+3 |  |  |pl|pl|  |nl|pl|  |
+2 |pl|pl|  |nl|pl|  |bl|pl|
+1 |rl|  |bl|ql|kl|rl|kl|  |
+   a  b  c  d  e  f  g  h
+}}
+===1. f4 a6===
+Dit is de St. George's Defense. Wit reageert hier meestal met '''2. e4'''. Dit is een sterke voortzetting (evaluatie: +0.6) omdat wit direct het centrum claimt terwijl zwart een afwachtende zet heeft gedaan. Wit kan later d4 spelen voor een volledige controle.
+
+{{Opmaak
+| Object = Schaak
+| Definitie = St. George's Defense
+| Beschrijving = De stelling na 1. f4 a6 2. e4
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |  |pd|pd|pd|pd|pd|pd|pd|
+6 |pd|  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |pl|pl|  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|pl|  |  |pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+
+===1. f4 b5===
+Dit is de [[Schaken_door_meesters/Myers#Myersverdediging|Myersverdediging]]. Ook hier is '''2. e4''' de aanbevolen voortzetting. Wit valt direct de b5-pion aan en dwingt zwart tot een reactie (meestal b4 of Bb7). Het is een uitdagende lijn voor beide kanten, maar wit behoudt een licht voordeel door de centrale controle.
+
+===1. f4 b6===
+Deze reactie op de Bird leidt tot de {{Wp|en:Owen's Defence|Owen's verdediging}} als wit de sterkste tegenreactie kiest namelijk '''e4'''.
+Een sterke voortzetting uit de praktijk is: ''' 1. f4 b6 2. e4 Bb7 3. Qe2 Nf6 4. d3 e6 5. Nf3'''. Hier beschermt wit e4 met de dame en bereidt d4 voor. Dit is een solide opstelling waarbij wit de gevaren op de diagonaal e1-h4 minimaliseert.
+{{Opmaak
+| Object = Schaak
+| Definitie = Owen's Verdediging
+| Beschrijving = Voortzetting na 1. f4 b6 2. e4 g6 3. Nf3 Bg7 4. d4 Bb7 5. Nc3
+| Orientatie = wit
+|
+8 |rd|nd|  |qd|kd|  |nd|rd|
+7 |pd|bd|pd|pd|pd|pd|bd|pd|
+6 |  |nd|  |  |  |  |pd|  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |pl|pl|pl|  |  |  |
+3 |  |  |nl|  |  |nl|  |  |
+2 |pl|pl|pl|  |  |  |pl|pl|
+1 |rl|  |bl|ql|kl|bl|  |rl|
+   a  b  c  d  e  f  g  h
+}}
+
+===1. f4 c5 2. e4===
+Dit is de [[Schaken door meesters/McDonnell|McDonnell aanval]].
+
+===1. f4 d5===
+Dit is de Hollandse variatie op de Bird opening en de meest voorkomende respons van zwart. Het wordt zo genoemd omdat het het karakter krijgt van een Hollandse verdediging (1.d4 f5) met omgekeerde kleuren. Hoewel de witte koning niet hoeft te worden beschermd door het koningspaard is toch de beste vervolgzet voor wit '''2. Nf3'''. Dit voorkomt direct zwarte plannen met e5 of vroege koningsaanvallen via h4.
+{{Opmaak
+| Object = Schaak
+| Definitie = Hollandse Variant
+| Beschrijving = De Hollandse variant van de Bird opening (1. f4 d5)
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|  |pd|pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |pd|  |  |  |  |
+4 |  |  |  |  |  |pl|  |  |
+3 |  |  |  |  |  |nl|  |  |
+2 |pl|pl|pl|pl|pl|  |pl|pl|
+1 |rl|nl|bl|ql|kl|bl|  |rl|
+   a  b  c  d  e  f  g  h
+}}
+
+===1. f4 d5 2. c4===
+Dit is de Sturm gambiet.
+
+===1. f4 d5 2. Nf3 c5===
+Dit is de  Siciliaanse variatie op de Hollandse verdediging.
+
+===1. f4 d6 2. e4===
+Dit is de Rat verdediging, Harmonist variatie.
+
+===1. f4 d6 2. e4 d5 3. exd5 Nf6===
+Dit is de [[Schaken door meesters/Fuller|Fuller Gambiet]].
+
+===1. f4 e5===
+Dit is de [[Schaken door meesters/From|From gambiet]]. Wit doet er verstandig aan het offer te accepteren met '''2. fxe5'''. Zwart krijgt hiervoor compensatie in de vorm van snelle ontwikkeling, maar met nauwkeurig spel (bijv. d3 en Nf3) kan wit het voordeel behouden. Het is een van de meest gevaarlijke lijnen voor een onvoorbereide Bird-speler.
+
+{{Opmaak
+| Object = Schaak
+| Definitie = From Gambiet
+| Beschrijving = De beginstelling van het From Gambiet (1. f4 e5)
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|pd|  |pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |pd|  |  |  |
+4 |  |  |  |  |  |pl|  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|pl|pl|  |pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+
+===1. f4 e6===
+Met '''2. e4''' kan wit de Birdopening transformeren in de {{Wp|Frans (schaakopening)|Franse opening}} (de {{Wp|Louis de La Bourdonnais|Louis de La Bourdonnais}}-variant). Dit is ook de sterkste zet hoewel '''Nf3''' prima voldoet en wit op bekend terrein houdt in.
+
+===1. f4 f5===
+Dit is de [[Schaken_door_meesters/Basman#Borg|Borg]].
+
+===1. f4 f6===
+Dit is de Barnes verdediging.
+
+===1. f4 g6===
+Dit is de {{Wp|Koningsfianchetto|Koningsfianchetto}} of {{Wp|en:Modern Defense|Modern defense}}.
+
+===1. f4 Nh6===
+Dit is de Horsefly verdediging.
+
+Als zwart reageert met Nh6 dan spreken we van de Horsefly verdediging (''A02 Bird Opening: Horsefly Defense'').
+{{Opmaak
+| Object = Schaak
+| Definitie = Horsefly Verdediging
+| Beschrijving = De Horsefly verdediging tegen de Bird opening (1. f4 Nh6)
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|  |rd|
+7 |pd|pd|pd|pd|pd|pd|pd|pd|
+6 |  |  |  |  |  |  |  |nd|
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |pl|  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|pl|pl|  |pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+Een goede response voor wit is Nf3. Daarna zijn er slechts enkele gebruikelijke zetten voor zwart namelijk
+* '''d5'''
+* '''e6'''
+* '''g6'''
+Een andere krachtige, maar niet gebruikelijke, respons is '''e4''' of '''Nc3'''.
+Men kan de Horsefly defense trainen op [https://lichess.org/study/Rmz2tVUc Lichess].
+
+== Evaluatie van Combinaties ==
+Op basis van praktijkstudies kunnen we de volgende conclusies trekken over veelvoorkomende combinaties:
+* '''f4 + e4''': Een zeer agressieve combinatie die wit vaak een ruimtevoordeel geeft, maar kwetsbaar is op de d-lijn. Goed tegen afwachtende zetten van zwart.
+* '''f4 + g3 + Bg2''': De meest solide opbouw (Leningrad-stijl voor wit). Het beschermt de koning en geeft wit lange-termijn druk op het centrum.
+* '''f4 + d3 + Nf3''': Een flexibele opstelling die vaak wordt gebruikt om de scherpe lijnen van het From-gambiet te neutraliseren.
+
+== Voorbeelden ==
+=== Bird – Wisker (1873) ===
+Dit is de partij waarin Bird zijn opening introduceerde.
+{{Opmaak
+| Object = Schaak
+| Definitie = Bird's Debuut
+| Beschrijving = De stelling na 1. f4 d5 2. e3 Nf6 3. Nf3 e6 4. b3
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|  |  |rd|
+7 |pd|pd|pd|  |  |pd|pd|pd|
+6 |  |  |  |  |pd|nd|  |  |
+5 |  |  |  |pd|  |  |  |  |
+4 |  |  |  |  |  |pl|  |  |
+3 |  |pl|  |  |pl|  |nl|  |
+2 |pl|  |pl|pl|  |pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|  |rl|
+   a  b  c  d  e  f  g  h
+}}
+''1. f4 d5 2. e3 Nf6 3. Nf3 e6 4. b3 Be7 5. Bb2 O-O 6. Bd3 c5 7. Nc3 Nc6 8. O-O a6 9. a3 Qc7 10. Qe1 e5 11. fxe5 Nxe5 12. Nxe5 Qxe5 13. Qh4 h6 14. Rf3 Ne4 15. Nxd5 Qxb2 16. Nxe7+ Kh8 17. Qxe4 Qxa1+ 18. Rf1 f5 19. Rxa1 fxe4 20. Ng6+ Kg8 21. Bc4+ Rf7 22. Rf1 1-0''
+
+{{Opmaak | Voettekst}}

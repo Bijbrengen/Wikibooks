@@ -1,0 +1,33 @@
+<div><onlyinclude><div class="UitklapFrame" style="width: 21em; float: right; margin: 0 0 .5em .5em; padding: 5px;">
+<div class="UitklapHead" style="background-color: #efefef; color: black;">'''Instructies voor de moderator'''</div> 
+<div class="UitklapContent" style="text-align: left; font-size: 90%; padding: 0;">
+* Geef op deze pagina aan wat er met het verzoek gebeurt.
+* Verplaats discussies of foutief geplaatste verzoeken naar de juiste plek en vermeld op deze pagina waarheen het verzoek verplaatst werd.
+* Verplaats afgehandelde verzoeken een maand na afhandeling naar het archief.
+</div><div class="UitklapEind"></div></div></onlyinclude>
+</div>{{Beheerpagina's}}[[Categorie:Wikibooks:Beheer]]
+
+Op deze pagina kunnen '''verzoeken aan [[Wikibooks:Moderator|moderatoren]]''' geplaatst worden. Deze pagina is niet bedoeld voor discussies of vragen. Bezoek daartoe bijvoorbeeld eens de [[Wikibooks:Lerarenkamer|lerarenkamer]].
+*Voorstellen om pagina's te '''verwijderen''' aub. op [[Wikibooks:Te verwijderen pagina's]]
+*Verzoeken voor het '''importeren''' van pagina's dienen op de [[Wikibooks:Import|importlijst]] geplaatst te worden. Ze mogen niet eigenhandig gekopieerd worden omdat dan de auteursgeschiedenis niet behouden blijft en de auteursrechten daarmee geschonden worden!
+
+==Status moderatoren==
+Zie [[Wikibooks:Moderator|hier]] voor de huidige status.
+
+==Archief==
+{{Archieflinks|vanaf=2022}}  <!-- ----- *** Alleen alles onder deze lijn archiveren svp. *** ----- -->
+
+==Verzoeken==
+=== Verwijderen oude botflags op Wikibooks ===
+Hoi @[[Gebruiker:Ellywa|Ellywa]], [[Gebruiker:Erik Baas|Erik Baas]],
+
+Ik surfde wat op Wikibooks en toevallig viel me op dat er hier wat oude bot flags zijn op inactieve botaccounts (>10 jaar geen edits). Ik heb de drie eigenaren aangeschreven, en [[Overleg_gebruiker:Valhallasw#Botje|Valhallasw]] geeft aan dat de botflag verwijderd mag worden omdat hij er niks meer mee doet. Zouden jullie die uit willen zetten?<br>
+::{{Done}} - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 22 mrt 2026 11:11 (CET)
+En misschien als [[Overleg_gebruiker:Erwin#Botje|Erwin]] en [[Overleg_gebruiker:Londenp#Botje|Londenp]] over twee weken nog niet hebben gereageerd, kan bij hun bots ook de botflag worden weggenomen? Het heeft geen enorme haast natuurlijk, maar extra rechten op accounts die niet meer worden gebruikt/beheerd is wel een kwetsbaarheid, vandaar dat ik de boteigenaren afgelopen week heb aangeschreven. [[Gebruiker:Ciell|Ciell]] ([[Overleg gebruiker:Ciell|overleg]]) 22 mrt 2026 10:49 (CET)
+:Je hebt gelijk; 't is een formaliteit, maar wel correct. Komt in orde! - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 22 mrt 2026 11:11 (CET)
+::Bedankt! [[Gebruiker:Ciell|Ciell]] ([[Overleg gebruiker:Ciell|overleg]]) 22 mrt 2026 16:27 (CET)
+::{{Gedaan}} <!-- (was al gedaan??) --> - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 5 apr 2026 09:09 (CEST)
+
+=== [[MediaWiki:Noarticletext]] ===
+Sorry for writing in English. Could an admin please remove <code>&nbsp;style="color: #000;"</code> from the first line of [[MediaWiki:Noarticletext]]? It makes the text unreadable in dark mode, while it makes almost no difference in light mode. [https://nl.wikipedia.org/w/index.php?title=MediaWiki:Noarticletext&diff=2686077 The same style was removed over two decades ago on Wikipedia.] Thanks in advance! —[[Gebruiker:Tacsipacsi|Tacsipacsi]] ([[Overleg gebruiker:Tacsipacsi|overleg]]) 24 mrt 2026 22:48 (CET)
+:{{Done|Done}}. Thank you. - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 25 mrt 2026 02:50 (CET)

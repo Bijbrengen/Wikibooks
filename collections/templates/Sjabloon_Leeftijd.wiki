@@ -1,0 +1,18 @@
+<includeonly>{{Opmaak|Object=Leeftijd|{{{Geboortedag}}}-{{{Geboortemaand}}}-{{{Geboortejaar}}}}}</includeonly><noinclude>
+
+== Doel ==
+Met dit sjabloon kan de leeftijd van een persoon op een semi-automatisch wijze weergegeven worden.
+
+== Gebruik ==
+Voor het gebruik van dit sjabloon dienen de volgende parameters te worden ingevuld:
+
+*'''Geboortedag=''' (vul hier een geboortedag in, bv. 1)
+*'''Geboortemaand=''' (vul hier een geboortemaand in, bv. 1)
+*'''Geboortejaar=''' (vul hier een geboortejaar in, bv. 2007)
+
+== Voorbeeld ==
+<pre>{{Leeftijd| Geboortedag=1 |Geboortemaand=1 | Geboortejaar=2007}}</pre>.
+Dit geeft <strong>{{Leeftijd|Geboortedag=1|Geboortemaand=1|Geboortejaar=2007}}</strong>. Dus de persoon uit het voorbeeld is op dit moment {{Leeftijd| Geboortedag=1 |Geboortemaand=1 | Geboortejaar=2007}} jaar oud.<br>
+
+[[Categorie:Sjablonen scripting]]
+</noinclude>

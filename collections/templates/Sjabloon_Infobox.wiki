@@ -1,0 +1,164 @@
+<templatestyles src="Sjabloon:Infobox/style.css" /><noinclude>{{Gebruikt TemplateStyles|Infobox/style.css}}</noinclude><includeonly>
+{| class="infobox_nw" width="600px" cellspacing="0"
+| width="30px"  | {{Status|{{{voortgang|00}}}|{{{datum|}}}}}
+| width="30px"  | {{Klik|Afbeelding=Looking glass Hexagonal Icon.svg|Grootte=30px|Link=Special:Prefixindex/{{{titel}}}}}
+! <div style="font-size: large; text-align: center;">[[{{{titel|(titel)}}}]]</div>
+| width="30px"  | {{Klik|Afbeelding=Information icon.svg|Grootte=30px|Link=Wikibooks:Infobox}}
+|-
+| colspan="4" |
+{| class="vatop" style="width: 100%;"
+|- 
+{{#If:{{{boekenplank|XXX}}}|
+! Boekenplank:
+{{!}} [[Boekenplank:{{{boekenplank}}}|{{{boekenplank}}}]]
+{{!}}-}}
+{{#If:{{{boekentype|}}}|
+! Boekentype:    
+{{!}} {{{boekentype}}}
+{{!}}-}}
+{{#If:{{{niveau|}}}|
+! Niveau:
+{{!}} {{{niveau}}}
+{{!}}-}}
+! style="width: 12em;" | Aantal [[:Categorie:{{{titel|}}} - inhoud|hoofdstukken]]:
+| {{PAGESINCATEGORY:{{{inhoudcategorie|{{{titel}}} - inhoud}}}}}
+|- 
+{{#If:{{{activiteit|}}}|
+! Activiteit:
+{{!}} {{{activiteit}}}
+{{!}}-}}
+{{#If:{{{startdatum|}}}|
+! Startdatum:   
+{{!}} {{{startdatum}}}
+{{!}}-}}
+{{#If:{{{redacteur|}}}|
+! Redacteur:   
+{{!}} [[Gebruiker:{{{redacteur}}}|{{{redacteur}}}]] <span style="font-size: small;">([[Overleg gebruiker: {{{redacteur}}}|contact]])</span>
+{{!}}-}}
+{{#If:{{{auteurs|}}}|
+! Belangrijkste auteur(s):
+{{!}} {{{auteurs|}}}
+{{!}}-}}
+{{#If:{{{beschrijving|}}}|
+! Beschrijving:
+{{!}} <span style="font-size: small;">{{{beschrijving|}}}</span>
+{{!}}-}}
+{{#If:{{{opmerkingen|}}}|
+! Opmerkingen:
+{{!}} <span style="font-size: small;">{{{opmerkingen|}}}</span>
+{{!}}-}}
+{{#If:{{{doelstelling|}}}|
+! Doelstelling: 
+{{!}} {{{doelstelling|}}}
+{{!}}-}}
+{{#If:{{{leesniveau|}}}|
+! Leesniveau:
+{{!}} {{{leesniveau}}} en hoger.
+{{!}}-}}
+{{#If:{{{voorkennis|}}}|
+! Voorkennis:
+{{!}} {{{voorkennis|}}}
+{{!}}-}}
+{{#If:{{{uitstapniveau|}}}|
+! Uitstapniveau:
+{{!}} {{{uitstapniveau|}}}
+{{!}}-}}
+{{#If:{{{bronnen|}}}|
+! Bronnen en referenties:
+{{!}} {{{bronnen|}}}
+{{!}}-}}
+{{#If:{{{infolinks|}}}|
+! Infolinks:
+{{!}} {{{infolinks|}}}
+{{!}}-}}
+{{#If:{{{laatstecontrole|}}}|
+! Laatste controle:
+{{!}} {{{laatstecontrole|}}}
+{{!}}-}}
+{{#If:{{{toevoeging|}}}|
+! Laatste toevoeging:
+{{!}} {{{toevoeging|}}}
+{{!}}-}}
+{{#If:{{{gerelateerd|}}}|
+! Gerelateerde boeken:
+{{!}} {{{gerelateerd|}}}
+{{!}}-}}
+{{#If:{{{WSBN|}}}|
+! [[Wikibooks:Wiki Standaard Boeknummer|WSBN]]:
+{{!}} {{{WSBN}}}  <!--[[Wikibooks:Wiki Standaard Boeknummer#WSBN {{{WSBN}}}|{{{WSBN}}}]]-->
+{{!}}-}}
+{{#If:{{{projectpagina|}}}|
+! Projectpagina:
+{{!}} {{{projectpagina|}}}
+{{!}}-}}
+{{#If:{{{licentie|}}}|
+! Licentie:  
+{{!}} {{{licentie|}}}
+{{!}}-}}
+{{#IfExist:bestand:{{{PDF|{{{1|}}}}}}.pdf|
+! [[Help:Boeken|PDF]]:
+{{!}} [[:Media:{{{PDF|{{{1|}}}}}}.pdf|Download]] • [[:bestand:{{{PDF|{{{1|}}}}}}.pdf|Details]]
+{{!}}-}}
+{{#IfExist:{{{print|{{{1}}}}}}/Printversie|
+! [[Wikibooks:Printversie|Print]]:
+{{!}} [[{{{print|{{{1}}}}}}/Printversie|Bekijk]] <span style="font-size: small;">(File ==> Save page as...)</span>}}
+|}
+|}
+[[Categorie:Wikibooks:Boeken {{#If:{{{WSBN|}}}|met|zonder}} WSBN|{{{titel|}}}]]<!-- NB Dit zet de _infobox_ in een cat, niet het boek! --></includeonly><noinclude>
+<!-- boekenplank    -->{{#If:{{{boekenplank|}}}|[[Categorie:{{{boekenplank}}}|{{SUBPAGENAME}}]]}}
+<!-- categorie      -->{{#If:{{{categorie|}}} |[[Categorie:{{{categorie}}}|{{SUBPAGENAME}}]]}}
+<!-- category twee  -->{{#If:{{{categorie twee|}}}|[[Categorie:{{{categorie twee}}}|{{SUBPAGENAME}}]]}}
+{{Sjablooninfo|1=Zie [[Wikibooks:Infobox]] voor meer informatie.
+:Kopieer het volgende en zet dit in de Wikibooks:Infobox/Naam van het boek
+<pre>
+{{Infobox
+<!-- Titel van het boek                      -->| titel           = {{SUBPAGENAME}}
+<!-- Kies: 0, 25, 50, 75 of 100 (%)          -->| voortgang       = 0
+<!-- Revisiedatum                            -->| datum           = 
+<!-- Boekenplank                             -->| boekenplank     = 
+<!-- Naslag, Instructie, Hobby, Handboek     -->| boekentype      = 
+<!-- VWO, HBO, WO, Junior, etc               -->| niveau          = 
+<!-- laag, middel, hoog                      -->| activiteit      = 
+<!-- Datum eerste edit (datum maand jaar)    -->| startdatum      = 
+<!-- zonder "Gebruiker:" Naam/Nick           -->| redacteur       = 
+<!-- Gebruiker:Auteur 1|Auteur 1...          -->| auteurs         = [[Gebruiker:<naam>|<naam>]]<!-- per auteur, komma's ertussen -->
+<!-- korte beschrijving                      -->| beschrijving    = 
+<!-- info over boek, geen inhoud             -->| opmerkingen     = 
+<!-- Doelstellingen, * voor elk punt         -->| doelstelling    = 
+<!-- Bronnen                                 -->| bronnen         = 
+<!-- benodigde voorkennis, * voor elk punt   -->| voorkennis      = 
+<!-- Uitstapniveau - * voor elk punt         -->| uitstapniveau   = 
+<!-- Links naar niet-inhoud-hfdstn           -->| infolinks       = 
+<!-- laatste controle DD-MM-YYYY             -->| laatstecontrole = 
+<!-- laatste toevoeging DD-MM-YYYY           -->| toevoeging      = 
+<!-- Boek 1, etc                             -->| gerelateerd     = 
+<!-- projectpagina                           -->| projectpagina   = [[Overleg:{{SUBPAGENAME}}]]
+<!-- licentie                                -->| licentie        = 
+<!-- Kleine afbeelding (< 100x100)           -->| thumb           = 
+<!-- Grote afbeelding als een cover          -->| afbeelding      = 
+<!-- autom. als boek en titel gelijk         -->| PDF             = 
+<!-- autom. voor "Boek/Printversie"          -->| printversie     = 
+<!-- departement invullen                    -->| departement     = 
+<!--                                         -->| categorie       = 
+<!--                                         -->| categorie twee  = 
+<!-- WSBN invullen                           -->| WSBN            = 
+}}</pre>
+
+<!--
+*** parameters uit de lijst verwijderd omdat ze niet werken: ***
+< !--                                        -->| PDFcommentaar  = 
+< !--                                        -->| printcommentaar= 
+< !--               [of leeg laten] ja       -->| BvdM           = 
+< !--            [of leeg laten] maand       -->| BvdMmaand      = 
+< !--             [of leeg laten] YYYY       -->| BotMjaar       = 
+****************************************************************
+-->
+
+}}
+
+==Subpagina's==
+{{Subpagina's}}
+
+[[Categorie:Sjablonen infobox| ]]
+</noinclude>
+<includeonly>{{#If:{{{aantal|}}}|[[Categorie:Wikibooks:Test|1]]}}</includeonly>

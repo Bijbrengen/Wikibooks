@@ -1,0 +1,1 @@
+{{Opmaak|Beschrijving=Dit is de bibliotheek van de [[Module:Layout]]. Op dit moment heeft de bibliotheek functies voor hanteren en uitlezen van '''headers''' en '''sjablonen''' en het '''valideren''' van allerlei invoergegevens of het gebruiken van '''patronen''' voor strings.}}

@@ -1,0 +1,31 @@
+{{Opmaak}}
+== Toegankelijkheid en het Onderwijsplatform ==
+Toegankelijkheid is een fundamentele eis voor elk [[Onderwijsplatform|Onderwijsplatform]]. De onderwijstechnoloog zorgt ervoor dat technologie barrières wegneemt in plaats van opwerpt. In het kader van [[Onderwijstaal/Vrijheid|vrij leren]] betekent dit dat leermiddelen in de [[Onderwijstaal/Leerbox|Leerbox]] toegankelijk moeten zijn voor alle leerlingen, ongeacht hun fysieke of cognitieve beperkingen.
+
+== ICT en leerstoornissen ==
+Meer dan 10 procent van de kinderen kampt met een leerstoornis, zoals dyslexie, dyscalculie of ADHD/Autisme. Voor deze leerlingen is ICT niet zomaar een hulpmiddel, maar vaak een noodzakelijke voorwaarde om onderwijs te kunnen volgen.
+
+=== Dyslexie en Voorleessoftware ===
+Voor leerlingen met dyslexie is voorleessoftware onmisbaar. Deze software ondersteunt bij het lezen, spellen en begrijpend lezen door teksten auditief en visueel te markeren.
+* '''Sprint / Sprinto''': Voorleessoftware die vaak via een USB-stick werkt, ideaal voor mobiel gebruik op verschillende computers.
+* '''Kurzweil 3000''': Een geavanceerd pakket dat tekst scant, voorleest en specifieke studiehulpmiddelen biedt (zoals markeren en samenvatten).
+* '''ReadingPen''': Een scanner die woorden of zinnen direct voorleest en vertaalt.
+
+=== Woordvoorspelling ===
+Software zoals '''Skippy''' helpt leerlingen met dyslexie of motorische problemen door woorden te voorspellen tijdens het typen. Dit verhoogt de schrijfsnelheid en vermindert spellingfouten, waardoor de focus kan liggen op de inhoud van de [[Onderwijstaal/Leerbox|Leerbox]].
+
+=== Dyscalculie en ADHD ===
+* '''Dyscalculie''': Specifieke rekensoftware helpt bij het visualiseren van getalbegrip.
+* '''ADHD/Autisme''': Structuur-apps en digitale planners helpen bij het organiseren van de dagtaak. In een goed ontworpen [[Onderwijsplatform|Onderwijsplatform]] zijn deze hulpmiddelen geïntegreerd in de interface.
+
+== Projecten in Vlaanderen ==
+* '''Surfplank''': Een handleiding en softwarepakket (met demo's van Sprint en Kurzweil) om scholen te ondersteunen bij leerzorg via ICT.
+* '''Digibib''': Een project dat handboeken omzet in voorleesbare en invulbare digitale bestanden.
+
+== Implementatie in de Leerbox ==
+Een onderwijstechnoloog implementeert toegankelijkheid door:
+# '''Structuur''': Gebruik van semantische HTML in de [[Onderwijswiki/View|View]]-laag.
+# '''Flexibiliteit''': Mogelijkheid om lettertypes en kleuren aan te passen (CSS).
+# '''Multi-modaal''': Dezelfde content aanbieden in tekst, audio en video binnen één [[Onderwijstaal/Leerbox|Leerbox]].
+
+{{Opmaak | Voettekst}}

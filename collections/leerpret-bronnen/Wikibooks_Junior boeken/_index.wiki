@@ -1,0 +1,25 @@
+'''<span style="font-size: large;">[[Wikijunior]]</span>'''<br>
+
+Wikijunior biedt boeken voor kinderen. Dit project staat nog in de kinderschoenen. Meehelpen mag altijd! Hoe je dat kunt doen lees je in [[Incubatie:Richtlijnen voor Wikijunior/Wat is Wikijunior|"Wat is Wikijunior"]]. Hieronder een lijstje. Het symbooltje geeft aan hoever het boek 'af' is.
+
+[[Wikijunior:Aardrijkskunde|Aardrijkskunde]]{{25%}} - 
+[[Wikijunior:Beroepen van de wereld|Beroepen van de wereld]]{{50%}} - 
+[[Wikijunior:De elementen|De elementen]]{{25%}} - 
+[[Wikijunior:Dierenalfabet|Dierenalfabet]]{{100%}} - 
+[[Wikijunior:Energiebronnen|Energiebronnen]]{{50%}} -  
+[[Wikijunior:Frans|Frans]]{{25%}} - 
+[[Wikijunior:Het lichaam|Het lichaam]]{{25%}} - 
+[[Wikijunior:Informatica|Informatica]] - 
+[[Wikijunior:Kriebelbeestjes|Kriebelbeestjes]]{{50%}} - 
+[[Wikijunior:Mens en maatschappij|Mens en maatschappij]]{{00%}} - 
+[[Wikijunior:Natuurkunde|Natuurkunde]]{{100%}} - 
+[[Wikijunior:Ondernemend leren|Ondernemend leren]]{{75%}} - 
+[[Wikijunior:Schaken voor beginners|Schaken voor beginners]]{{50%}} - 
+[[Wikijunior:Tijdreizen|Tijdreizen]]{{25%}} - 
+[[Wikijunior:Tijdreizen door Vlaardingen|Tijdreizen door Vlaardingen]]{{50%}} - 
+[[Wikijunior:Tijdrekenen|Tijdrekenen]]{{75%}} - 
+[[Wikijunior:Toekomst|Toekomst]]{{100%}} - 
+[[Wikijunior:Topografie|Topografie]]{{25%}} - 
+[[Wikijunior:Wereldbeelden|Wereldbeelden]]{{0%}} - 
+[[Wikijunior:Wereldwonderen|Wereldwonderen]]{{50%}} - 
+[[Wikijunior:Zonnestelsel|Zonnestelsel]]{{75%}}

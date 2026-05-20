@@ -1,0 +1,19 @@
+{|align=right width=300px style="margin: 1em 0 1em 1em;" class=toccolours 
+|
+{{Koptekst/Psychologie}}
+----
+|-
+|[[File:P_Psychology2.png|center|100px]]
+|-
+|style="text-align:center;font-size: 135%;"|[[Visualisatie]]
+|-
+|style="font-size: 85%;" align=left|
+
+* [[Visualisatie/Concept|Concept]]
+* [[Visualisatie/Methode|Methode]]
+* [[Schaken_voor_gevorderden/Visualisatie|Toepassing]]
+----
+|}<noinclude>
+[[Categorie:Sjablonen voor een bepaald boek]]
+
+</noinclude>

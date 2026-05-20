@@ -1,0 +1,19 @@
+{|align=right width=300px style="margin: 1em 0 1em 1em;" class=toccolours 
+|
+{{Koptekst/Onderwijs}}
+----
+|-
+|[[File:Use Brain.gif|center|100px]]
+|-
+|style="text-align:center;font-size: 135%;"|[[Onderzoekend leren]]
+|-
+|style="font-size: 85%;" align=left|
+
+* [[Onderzoekend_leren/Methode|Methode]]
+* [[Onderzoekend_leren/Vrijheid|Vrijheid]]
+* [[Onderzoekend_leren/Technologie|Technologie]]
+----
+|}<noinclude>
+[[Categorie:Sjablonen voor een bepaald boek]]
+
+</noinclude>

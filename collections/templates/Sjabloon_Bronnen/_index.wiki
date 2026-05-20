@@ -1,0 +1,4 @@
+{|style="border: 1px solid #dfdfdf; background-color: Whitesmoke; color: black; float: right; margin: 0 0 1em 1em;"
+|style="vertical-align:top;"|'''Bronnen:'''
+|{{{1}}}
+|}<noinclude>[[Categorie:Sjablonen referentie]]</noinclude>

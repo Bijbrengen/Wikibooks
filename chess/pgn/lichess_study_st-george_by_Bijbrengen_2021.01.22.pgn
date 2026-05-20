@@ -1,0 +1,197 @@
+[Event "St. George: kjxwdlk"]
+[Date "2021.01.22"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "St. George"]
+[ChapterName "kjxwdlk"]
+[ChapterURL "https://lichess.org/study/hdDiKGgL/gXk6tHtp"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.01.22"]
+[UTCTime "07:25:29"]
+
+ *
+
+
+[Event "EUR-chT (Men) 7th"]
+[Site "Skara SWE"]
+[Date "1980.01.??"]
+[Round "1"]
+[White "Anatoly Karpov"]
+[Black "Anthony Miles"]
+[Result "0-1"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "St. George Defense"]
+[StudyName "St. George"]
+[ChapterName "Anatoly Karpov - Anthony Miles"]
+[ChapterURL "https://lichess.org/study/hdDiKGgL/vEBHDxHn"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 { Notes by Tony Miles, edited by Ray Keene. } 1... a6 { !
+After a few moments hesitation. I watched Karpov's face as he
+returned to the board - there was no reaction at all. The
+audience, though, was another matter. Conditions for
+spectators were not wonderful so at first only a few noticed,
+but after some nudging and pointing a general hushed
+sniggering broke out. Mutters of "I thought the Skara Schools
+Championship was not until next week..." I tried to look
+serious. Miles is the only grandmaster to have espoused this
+weird defence in a serious game. This extraordinary move is
+hardly ever played since it does little to challenge White's
+domination of the centre. Miles chose it primarily to sidestep
+the then world champion's superior knowledge of opening
+theory. } 2. d4 { If White is prepared to admit taking this
+opening seriously than 2 c4 comes into consideration. } 2... b5 { Several atrocities have also been committed at this
+point. Whilst they may find their way into the general heading
+of 1...a6 they certainly do not qualify as the "Birmingham
+Defence". However, since this is supposed to be a theoretical
+magazine, a brief survey: (a) For historical interest 2...d5?
+3 exd5 Qxd5 4 Nc3 Qa5 5 Nf3 e6 6 Bd3 c6 (it would seem more
+consistent to allow the queen to retreat via b6 to a7) 7 O-O
++/- Rubinstein-Gunsberg, St. Petersburg 1914. (b) 2...g6 3 g3
+d5!? 4 Nc3 dxe4 5 Nxe4 Bg7 6 Be3 Nc6 7 c3 e5 8 d5 Nce7 with an
+excellent position for Black (a distinct improvement on
+Gunsberg's play). Patterson + Williams - Keene + Eales,
+consultation game 1969, continued 9 d6 Nf5 10 Bc5 cxd6 11
+Nxd6+ Nxd6 12 Bxd6 Ne7 13 Qa4+? Bd7 14 Qa3 Bc6 15 f3 Nf5 16
+O-O-0 Bh6+ 17 Kb1 Bf8 18 c4 Nxd6 19 c5 Ne4! 20 Rxd8+ Rxd8 21
+Nh3 Bxc5 22 b4 Be7 23 Bg2 Rd4 0-1. (c) Several games have
+continued with 2...d6 or 2...g6 leading to a Modern Defence,
+where 1...a6 has little more than psychological value. One of
+slight independent value: 2...d6 3 f4 g6 4 Nf3 Bg7 5 c3 d5 6
+e5 h5 7 Qb3 Nh6 8 c4?! dxc4 9 Bxc4 b5 10 Bd5 c6 11 Be4 Be6 12
+Qc2 Nf5 with a good position, Bellin-Keene, Norwich
+1969. Oddly enough, when I consulted the relevant reference
+works after the game to discover the official refutation, I
+could discover no lines that conferred a tangible White
+advantage. The game Rubinstein-Gunsberg, St. Petersburg 1914,
+continued instead 2...d5 3 exd5 Qxd5 4 Nc3 Qa5 5 Nf3 e6 6 Bd3
+c6 7 O-O with evidently better chances for White. The Miles
+strategem of expanding on the queenside is considerably more
+rational. } 3. Nf3 { As far as I know, the only person to play
+1...a6 (or 1 d4 b5 2 e4 a6) with the same idea as myself is
+Michael Basman (not completely surprising as we both
+'invented' the idea as an improvement on 1...b6). However, I
+only have the score of one game, Chandler-Basman, London 1979,
+which went 3 a4(?!) Bb7 4 axb5 axb5!? (simple and good is
+4...Bxe4 5 bxa6 Bb7 or even 5...Nxa6) 5 Rxa8 Bxa8 6 Nd2 e6!? 7
+Bxb5 f5 8 Qe2 (8 Qh5+ g6 9 Qe2 seems preferable) 8...Nf6 9 Bd3
+c5 10 Ngf3 c4! 11 Bxc4 fxe4 12 Ne5 Bd6 with good compensation
+for the pawn. Black soon had an excellent position but later
+went astray. White could try 3 f3 when ...Bb7 would reach a
+position which has seen before via the move order 1 d4 b5 2 e4
+Bb7 3 f3 a6, e.g. 4 Be3 e6 (or 4...Nf6 5 Nh3 e6 6 Nd2 d5 7 e5
+Nfd7 8 Bd3 c5 9 c3 Nc6 with a decent position,
+Tatai-Ljubojevic, Palma de Mallorca 1971) 5 Nd2 d5 6 Bd3 Nf6 7
+e5 Nfd7 8 f4 += Portisch-Ljubojevic, Vrsac 1971. These games
+illustrate the possibility of transposing to a French type
+set-up, but if Black wishes, he might well defer ...d5. } 3... Bb7 4. Bd3 { Murray Chandler has suggested the odd-looking
+4 e5!? (gaining space and preventing ...Nf6) 4...e6 5 c4 bxc4
+(Basman would doubtless gambit this pawn) 6 Bxc4 Bb4+ 7 Nc3
+striving for control of d5, though after 7...Ne7 Black's
+position looks OK. } 4... Nf6 { Attacking e4 before White has the
+chance to defend with Re1. ECO mentions (by transposition)
+4...e6 5 Nbd2 c5 6 dxc5 Bxc5 7 Nb3 Bb6 8 a4 +=
+Spielmann-Hartingsvelt, 1914. Remarkably similar to the
+present game! } 5. Qe2 e6 6. a4 { !? Premature perhaps? Of
+course normal moves - O-O, Bg5, Nbd2 - are playable. } 6... c5 { !? A sharp reaction, but the natural 6...b4 is quite a
+reasonable alternative. Note that White was threatening to win
+a pawn by 7 e5. The text still offers the pawn, but only in
+return for the bishop pair and an initiative. While playing
+...c5 I felt sure Karpov would avoid such tactical lines. } 7. dxc5 { After 5 minutes thought. If 7 axb5 axb5 8 Rxa8 Bxa8 9
+e5 c4 and now: (a) 10 exf6 cxd3 11 fxg7 Bxg7 12 Qxd3 when with
+such an open position the bishop pair, particularly the one
+lurking on a8, give excellent value for the pawn. Black might
+continue quietly with 12...Qb6, or maybe 12...Qa5+!?, for
+example 13 Bd2 Qa1 14 Qxb5!? Qxb1+ 15 Ke2 Bxf3+ 16 gxf3 Nc6!
+17 Qxc6 Qxh1! and the black king runs to safety. (b) 10 Bxc4
+bxc4 11 exf6 gxf6(!) and if 12 Qxc4 Rg8 with a fierce
+initiative. 7 c3 looks more vigorous. } 7... Bxc5 { 7...b4!?. } 8. Nbd2 { Again choosing the quietest path. 8 e5 was certainly
+worth considering. If 8...Nd5 just 9 axb5 and 8...Ng4 9 O-O
+leaves Black a bit out on a limb, e.g. 9...b4 10 h3 h5!? 11
+Nbd2 followed by Ne4 or Be4. White reinforces his pawn on e4
+which would be undefended after a series of captures on b5. } 8... b4 9. e5 { Less critical now as the knight can safely go to
+d5. } 9... Nd5 10. Ne4 Be7 11. O-O { After this, yet another
+peaceful move, Black's position is very comfortable. The last
+chance to try for an advantage was 11 Bg5. Then 11...f6?! 12
+exf6 gxf6?? would lose disastrously to 13 Ne5! and 12...Nxf6
+is also uncomfortable. I intended 11...O-O and if 12 Nd6 Bc6
+when 13 Qe4 is met by ...f5 and White must look after the
+N(d6). Probably White is a little better, but Black has
+chances for counterplay based on the a8-h1 diagonal, the f4
+square and the break ...f6. More active is 11 Bg5. } 11... Nc6 { ! Much more accurate than 11...O-O. Now if 12 Bg5 f6! 13 exf6
+gxf6! followed by ...Qc7 and ...O-O-0 with a tremendously
+active position and automatic kingside attack. } 12. Bd2 Qc7 13. c4 { As expected, still playing quiet moves. The only
+alternative to defend the d-pawn was 13 Ng3 when Black could
+either challenge in the centre with ...d6 (simplest) or ...f6
+(sharper), or as his king is still uncommitted, even consider
+...h5!?. } 13... bxc3 14. Nxc3 Nxc3 15. Bxc3 Nb4 { ! Opening the
+long diagonal and putting the knight on its best
+circuit. Black has comfortably equalised. } 16. Bxb4 { Understandably, White did not want to part with his
+light-squared bishop, and since 16 Bb1 is scarcely palatable,
+this was the only move. Karpov later regrets his decision to
+part with the bishop pair, but after 16 Be4 White would have
+no means of challenging the future impregnable establishment
+of a black knight on d5. } 16... Bxb4 17. Rac1 Qb6 18. Be4 { To
+counteract Black's powerful queen's bishop. } 18... O-O { ! } 19. Ng5 { !? After half an hour's thought. 19 Bxh7+ was
+interesting - though again I was sure that Karpov wouldn't
+play it! On 19...Kxh7 20 Ng5+ of course not 20...Kg8?? because
+of 21 Qh5, but 20...Kh6 also fails to 21 Rc4! threatening Rh4+
+and if 21...g6 22 Qg4 and Black loses the B(b4). Correct is
+20...Kg6 and if 21 Qg4 either 21...f5 22 Qg3 (22 exf6 Kxf6)
+22...Qd4!? to block on g4 (23 h3? Kh5! winning) or even
+21...f6!?. Afterwards it was established that 19 Bxh7+ is
+quite dangerous but Miles was confident that Karpov would
+regard it as speculative and avoid it. The commencement of an
+artificial manoeuvre which ultimately loses the game for
+White. The simple 19 Bxb7 Qxb7 20 Rfd1 is perfectly adequate
+for equality, whilst a further superior alternative to the
+text is the complicated attacking variation 19 Bxh7+ Kxh7 20
+Ng5+ Kg6 21 Qg4 f5 22 Qg3 when Black's king is in considerable
+danger. NOTE: checking with the computer - 19. Bxh7+ Kxh7
+20. Ng5+ Kg6 21. Qg4 f5 (21...f6 looks inferior, and 21. Qd3+
+f5 22. Qg3 avoids it anyway) 22. Qg3 and now: (a) 22...Kh5 is
+Fritz's first choice (intending 23 Rc4 f4!), but give it White
+and it soon comes up with 23 Nh3! which looks to win,
+e.g. 23...Bd2 (only move) 24 Rc4 g5 25 Qd3 g4 26 Qxd2 gxh3 27
+Qxd7 Kg6 28 Rc3, while 25...Bxg2!? (Fritz) 26 Kxg2 Qb7+ 27 Kg1
+g4 28 Qxd2 gxh3 fails to 29 Rh4+!. (b) Fritz's second choice
+is 22...Rg8, but it then finds the very attractive 23 Rc7! Bc6
+24 Nxe6+ Kf7 25 Qb3! and if 25...Ke7 26 Ng5 Qxc7 27 Qf7+ wins
+- capture Rg8 and Pg7, play Qf6+ ...Ke8, Rd1 with the decisive
+threat Qf7+ ...Kd8, Nf7+. (c) Miles' 22...Qd4 (Fritz's fifth
+choice) probably deserves "!". White seems to have nothing
+better than 23 Nxe6+ (23 h3 f4! 24 Qg4 Kh6 25 Qh4+ Kg6 is a
+draw) 23...Qg4 24 Qxg4+ fxg4 25 Nxf8+ Bxf8 and Black is fine,
+e.g. 26 Rfd1 Bc6 27 e6 Ra7! 28 Re1 Kf6 29 Rc4 g5/Bd6. } 19... h6 20. Bh7+ { ?! Distinctly artificial. I expected 20 Bxb7 Qxb7 21
+Qe4 though Black is certainly not worse in the resulting
+ending. I suspect the text was rather due to the psychological
+effect of 1...a6. Karpov, having got nowhere from the opening,
+felt he should be doing something forceful. This is too
+optimistic and White should prefer the simple 20 Bxb7. } 20... Kh8 21. Bb1 Be7 { Of course not 21...hxg5? 22 Qh5+. } 22. Ne4 { Or 22 Qd3 g6 =+. } 22... Rac8 23. Qd3 { ?? A ridiculous
+oversight, though Karpov played it very quickly. However,
+Black's bishops already give him the edge. The battery looks
+dangerous, but it never gets the chance to operate. This looks
+dangerous since White is lining up his queen and bishop as a
+battery against the black king. However, Miles was never one
+to be scared of phantoms and he demonstrates that White's
+threats are in fact hollow. } 23... Rxc1 24. Rxc1 Qxb2 { Gullibly
+taking the pawn(s). White's back rank weaknesses prevents any
+serious counterplay. } 25. Re1 { ? This doesn't help. On 25 Rc7
+Black has a pleasant choice between ...Rc8, ...g6 and ...Bc6,
+and on 25 Rd1 g6 26 Qxd7 is impossible because of 26...Rd8. } 25... Qxe5 { Pinning the knight against the rook. White has
+nothing to do but take back one pawn, but the game is over. } 26. Qxd7 Bb4 27. Re3 Qd5 { Simplest. It is obvious after this
+move that any vestiges of a white attack have totally
+evaporated and that the world champion faces a hopeless
+ending, where he is material down and his pieces lack
+coordination. } 28. Qxd5 Bxd5 29. Nc3 Rc8 { The liquidation has
+left the world champion with a hopeless position. He is a pawn
+down, his a-pawn remains weak, his opponent possesses the
+bishop pair in an open situation and, to cap it all, White has
+problems with his own back rank. The remainder of the game is
+a mere technical exercise for one of Miles' strength. } 30. Ne2 g5 31. h4 Kg7 32. hxg5 hxg5 33. Bd3 a5 34. Rg3 Kf6 35. Rg4 Bd6 36. Kf1 Be5 37. Ke1 Rh8 38. f4 gxf4 39. Nxf4 Bc6 40. Ne2 Rh1+ 41. Kd2 Rh2 42. g3 Bf3 43. Rg8 Rg2 44. Ke1 Bxe2 45. Bxe2 Rxg3 46. Ra8 { I now sealed ...Bc7 } 46... Bc7 { but Karpov resigned
+without resumption. } 0-1
+
+

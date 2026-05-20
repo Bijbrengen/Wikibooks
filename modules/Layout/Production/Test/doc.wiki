@@ -1,0 +1,3 @@
+﻿{{Opmaak|Beschrijving=Dit is de testmodule van de [[Module:Layout]]. Deze module runt tests voor de onderdelen '''Box''', '''Library''' en '''System'''. Deze module maakt gebruik van de functionaliteit van de [https://www.mediawiki.org/wiki/Module:ScribuntoUnit Module:ScribuntoUnit].|
+== Subpagina's ==
+{{Speciaal:Prefixindex/Module:Layout/Test}}}}

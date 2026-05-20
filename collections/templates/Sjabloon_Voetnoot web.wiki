@@ -1,0 +1,318 @@
+<includeonly>{{#If:{{#If:{{{url|}}} | {{#If:{{{titel|}}} |1}}}}
+  ||<span style="color:red;">Kan [[Sjabloon:voetnoot web]] niet gebruiken, vanwege ontbrekende parameters '''url''' en/of '''titel'''</span>
+}}{{#If:{{{taal|}}}
+  |{{#IfExist:sjabloon:{{{taal}}}
+    |{{ {{{taal}}} }}
+    | <span style="font-size: 0.95em; font-weight: bold; color:#555; position: relative;">({{{taal}}})&#32;</span> 
+  }}
+}}{{#If:{{{archiefurl|}}}{{{archiefdatum|}}} 
+  | {{#If:{{#If:{{{archiefurl|}}}| {{#If:{{{archiefdatum|}}} |1}}}}
+    ||<span style="color:red;">Kan [[Sjabloon:voetnoot web]] niet gebruiken, vanwege ontbrekende parameters '''archiefurl''' of '''archiefdatum''' (beide moeten worden gebruikt of geen van beide)</span>
+}}
+}}{{#If:{{{auteur|}}}{{{achternaam|}}}
+  | {{#If:{{{auteurlink|}}}
+    | [[{{{auteurlink}}}|{{#If:{{{achternaam|}}}
+      | {{{achternaam}}}{{#If:{{{voornaam|}}} | , {{{voornaam}}} }}
+      | {{{auteur}}}
+    }}]]
+    | {{#If:{{{achternaam|}}}
+      | {{{achternaam}}}{{#If:{{{voornaam|}}} | , {{{voornaam}}} }}
+      | {{{auteur}}}
+    }}
+  }}
+}}{{#If:{{{auteur|}}}{{{achternaam|}}}
+  | {{#If:{{{medeauteurs|}}}| <nowiki>;</nowiki>&#32;{{{medeauteurs}}} }}
+}}{{#If:{{{auteur|}}}{{{achternaam|}}}|
+    {{#If:{{{datum|}}}
+    | &#32;({{{datum}}})
+    | {{#If:{{{jaar|}}}
+      | {{#If:{{{maand|}}}
+        | &#32;({{{maand}}} {{{jaar}}})
+        | &#32;({{{jaar}}})
+      }}
+    }}
+  |}}
+}}{{#If:{{{achternaam|}}}{{{auteur|}}}
+  | .&#32;}}{{#If:{{{archiefurl|}}}
+    | {{#If:{{{archiefurl|}}} | {{#If:{{{titel|}}} | [{{{archiefurl}}} {{{titel}}}] }}}}
+    | {{#If:{{{url|}}} | {{#If:{{{titel|}}} | [{{{url}}} {{{titel}}}] }}}}
+}}{{#If:{{{formaat|}}}
+  | &#32;({{{formaat|}}})
+}}{{#If:{{{werk|}}}
+  | .&#32;''{{{werk}}}''
+}}{{#If:{{{paginas|}}}
+  | &#32;{{{paginas}}}
+}}{{#If:{{{uitgever|}}}
+  | .&#32;{{{uitgever}}}{{#If:{{{auteur|}}}{{{achternaam|}}}
+    | 
+    | {{#If:{{{datum|}}}{{{jaar|}}}{{{maand|}}} || }}
+  }}
+}}{{#If:{{{auteur|}}}{{{achternaam|}}}
+  ||{{#If:{{{datum|}}}
+    | &#32;({{{datum}}})
+    | {{#If:{{{jaar|}}}
+      | {{#If:{{{maand|}}}
+        | &#32;({{{maand}}} {{{jaar}}})
+        | &#32;({{{jaar}}})
+      }}
+    }}
+  }}
+}}.{{#If:{{{archiefdatum|}}}
+  | &#32;Gearchiveerd van [{{{url}}} het origineel] op {{{archiefdatum}}}.
+}}{{#If:{{{bezochtdatum|}}}
+  | <span style="font-size: small;">&#32;Geraadpleegd op {{{bezochtdatum}}}{{#If:{{{bezochtjaar|}}} | , {{{bezochtjaar}}} }}.</span>
+}}{{#If:{{{bezochtmaanddag|}}}
+  | <span style="font-size: small;">&#32;Geraadpleegd op {{{bezochtmaanddag}}} {{{bezochtjaar}}}.</span>
+}}{{#If:{{{citaat|}}} 
+  | &nbsp;<span style="font-size: small;">"{{{citaat}}}"</span>
+}}</includeonly><noinclude>{{Sjablooninfo|1=
+== Gebruik ==
+;Meest gebruikte vorm bij bijvoorbeeld nieuwspublicaties
+<code><nowiki>{{Voetnoot web |url= |titel= |auteur= |uitgever= |datum= |bezochtdatum=</nowiki>{{LOCALDAY}} {{LOCALMONTHNAME}}<nowiki> </nowiki>{{LOCALYEAR}}<nowiki> }}</nowiki></code>
+
+<code><nowiki>{{Voetnoot web |url=(de link) |titel=(de titel van het nieuwsbericht) |auteur=(de schrijver, als hij erbij staat) |uitgever=(het medium waarin het bericht is uitgegeven, bijvoorbeeld [[NRC Handelsblad]]) |datum=(de datum die bij het bericht staat, bijv '12 april 2008') |bezochtdatum=(de datum waarop je de [[URL]] bezocht hebt, bijvoorbeeld</nowiki> {{LOCALDAY}} {{LOCALMONTHNAME}} {{LOCALYEAR}}<nowiki> }}</nowiki></code>
+
+;Meest gebruikte vorm als er weinig bekend is over de auteur van de pagina (met de datum)
+<code><nowiki>{{Voetnoot web |url= |titel= |bezochtdatum=</nowiki>{{LOCALDAY}} {{LOCALMONTHNAME}} {{LOCALYEAR}}<nowiki> |formaat= |werk= }}</nowiki></code>
+
+;Gebruik maken van de achternaam- en voornaam-parameters (met de datum)
+<code><nowiki>{{Voetnoot web |url= |titel= |bezochtdatum=</nowiki>{{LOCALDAY}} {{LOCALMONTHNAME}} {{LOCALYEAR}}<nowiki> |achternaam= |voornaam= |auteurlink= |medeauteurs= |datum= |jaar= |maand= |formaat= |werk= |uitgever= |paginas= |taal= |archiefurl= |archiefdatum= |citaat= }}</nowiki></code>
+
+;Gebruik maken van de auteur-parameter (met de datum)
+<code><nowiki>{{Voetnoot web |url= |titel= |bezochtdatum=</nowiki>{{LOCALDAY}} {{LOCALMONTHNAME}} {{LOCALYEAR}}<nowiki> |auteur= |auteurlink= |medeauteurs= |datum= |jaar= |maand= |formaat= |werk= |uitgever= |paginas= |taal= |archiefurl= |archiefdatum= |citaat= }}</nowiki></code>
+
+;Gebruik maken van de niet-gelinkte bezochtdatum en de voornaam en achternaam
+<code><nowiki>{{Voetnoot web |url= |titel= |bezochtmaanddag= |bezochtjaar= |achternaam= |voornaam= |auteurlink= |medeauteurs= |datum= |jaar= |maand= |formaat= |werk= |uitgever= |paginas= |taal= |archiefurl= |archiefdatum= |citaat= }}</nowiki></code>
+
+;Gebruik maken van de niet-gelinkte bezochtdatum en de auteur
+<code><nowiki>{{Voetnoot web |url= |titel= |bezochtmaanddag= |bezochtjaar= |auteur= |auteurlink= |medeauteurs= |datum= |jaar= |maand= |formaat= |werk= |uitgever= |paginas= |taal= |archiefurl= |archiefdatum= |citaat= }}</nowiki></code>
+
+;Alle parameters
+<pre>{{Voetnoot web
+| url = 
+| titel = 
+| bezochtdatum = 
+| bezochtmaanddag = 
+| bezochtjaar = 
+| auteur = 
+| achternaam = 
+| voornaam = 
+| auteurlink = 
+| medeauteurs = 
+| datum = 
+| jaar = 
+| maand = 
+| formaat = 
+| werk = 
+| uitgever = 
+| paginas = 
+| taal = 
+| archiefurl = 
+| archiefdatum = 
+| citaat = 
+}}</pre>
+
+=== Verplichte parameters ===
+* '''url''': Het web adres (URL) van de pagina.
+* '''titel''': Titel van de pagina.
+''Om een automatisch gelinkte bezochtdatum te maken::''
+:* '''bezochtdatum''': Volledige datum wanneer de pagina was bezocht, in bijvoorbeeld "bezochtdatum = {{LOCALDAY}} {{LOCALMONTHNAME}} {{LOCALYEAR}}"
+''Om een bezochtdatum te maken zonder link:''
+:* '''bezochtmaanddag''' en '''bezochtjaar''': Maand en dag wanneer de pagina was bezocht, bijvoorbeeld "bezochtmaanddag = 10 mei", <u>en</u> jaar wanneer de pagina was bezocht, bijvoorbeeld "bezochtjaar = 2005".
+
+=== Niet-verplichte parameters ===
+* '''auteur''': Auteur
+** '''achternaam''' werkt samen met '''voornaam''' om het volgende te weergeven: <code>last, first</code>
+** '''auteurlink''' werkt samen met '''auteur''' of met '''achternaam''' & '''voornaam''' om naar het juiste Wikipedia-artikel te linken. Werkt niet met URLs.
+** '''medeauteurs''': maakt het mogelijk om nog meer auteurs toe te voegen
+* '''datum''': Volledige datum van de publicatie, en moet het liefst in [[ISO 8601]] YYYY-MM-DD formaat, bijvoorbeeld ''2006-02-17''. Mogen worden gewikilinkt.
+** OF:  '''jaar''': Jaar van de publicatie, en '''maand''': maand van de publicatie (naam, b.v. Mei). Als de dag ook bekend is, is het beter om de ''datum'' parameter te gebruiken. Moet niet worden gelinkt.
+* '''formaat''': Formaat, bijvoorbeeld PDF. HTML is de standaard waarde.
+* '''werk''': Als deze pagina onderdeel is van een groter werk, vul de naam van dit werk hier in.
+* '''uitgever''': Uitgever, als die er is.
+* '''paginas''': ''pp. 5–7'': eerste pagina en eventueel de laatste pagina. Dit wordt gebruikt om aan te geven welke pagina's relevant zijn voor het citaat, en niet het totaal aantal pagina's van het boek. Dit is erg handig voor het [[Portable Document Format|PDF]] formaat, waarbij het mogelijk is om direct naar de pagina's te linken door <code>#page=''number''</code> aan het einde van de URL te plakken.
+*: <code><nowiki>paginas = [https://www.example.com/file.pdf#page=123 p. 123]</nowiki></code>
+* '''taal''': taal van de publicatie
+* '''archiefurl''': URL van de locatie waar een gearchiveerde versie van de pagina kan worden gevonden. ('''archiefdatum''' is verplicht als deze parameter wordt gebruikt)
+* '''archiefdatum''': Datum waarop de pagina was gearchiveerd ('''archiefurl''' is dan ook verplicht), in [[ISO 8601]] YYYY-MM-DD formaat, b.v. ''2006-02-17''. Moet niet worden gelinkt; dat gebeurt automatisch.
+* '''citaat''': Relevante citaat van de pagina.
+
+== Voorbeelden ==
+;Paar standaard voorbeelden
+* <nowiki>{{Voetnoot web
+ | auteur=Doe, John
+ | titel=My Favorite Things Part II
+ | uitgever=Open Publishing
+ | datum=2005-04-30
+ | werk=Encyclopedia of Things
+ | url=https://www.example.com/
+ | bezochtdatum=2005-07-06
+}}</nowiki><br>→ <span style="background:white; color: black;">{{Voetnoot web | auteur=Doe, John | titel=My Favorite Things Part II | uitgever=Open Publishing | datum=2005-04-30 | werk=Encyclopedia of Things | url=https://www.example.com | bezochtdatum=2005-07-06 }}</span>
+
+* <nowiki>{{Voetnoot web
+ | auteur=Doe, John
+ | titel=My Favorite Things Part II
+ | datum=2005-04-30
+ | werk=Encyclopedia of Things
+ | url=https://www.example.com/
+ | bezochtdatum=2005-07-06
+}}</nowiki><br>→ <span style="background:white; color: black;">{{Voetnoot web | auteur=Doe, John | titel=My Favorite Things Part II | datum=2005-04-30 | werk=Encyclopedia of Things | url=https://www.example.com | bezochtdatum=2005-07-06 }}</span>
+
+* <nowiki>{{Voetnoot web
+ | auteur=Doe, John
+ | titel=My Favorite Things Part II
+ | datum=2005-04-30
+ | url=https://www.example.com/
+ | bezochtdatum=2005-07-06
+}}</nowiki><br>→ <span style="background:white; color: black;">{{Voetnoot web | auteur=Doe, John | titel=My Favorite Things Part II | datum=2005-04-30 | url=https://www.example.com | bezochtdatum=2005-07-06}}</span>
+
+* <nowiki>{{Voetnoot web
+ | auteur=Doe, John
+ | titel=My Favorite Things Part II
+ | url=https://www.example.com/
+ | bezochtdatum=2005-07-06
+}}</nowiki><br>→ <span style="background:white; color: black;">{{Voetnoot web | auteur=Doe, John | titel=My Favorite Things Part II | url=https://www.example.com | bezochtdatum=2005-07-06}}</span>
+
+* <nowiki>{{Voetnoot web
+ | titel=My Favorite Things Part II
+ | url=https://www.example.com/
+ | bezochtdatum=2005-07-06
+}}</nowiki><br>→ <span style="background:white; color: black;">{{Voetnoot web | titel=My Favorite Things Part II | url=https://www.example.com | bezochtdatum=2005-07-06}}</span>
+
+* <nowiki>{{Voetnoot web
+ | url=https://www.nfl.com/fans/
+ | titel=Digest of Rules
+ | uitgever= National Football League
+ | bezochtdatum=2005-07-06
+}}</nowiki><br>→ <span style="background:white; color: black;">{{Voetnoot web | url=https://www.nfl.com/fans/
+ | titel=Digest of Rules | uitgever= National Football League | bezochtdatum=2005-07-06 }}</span>
+
+;De bezochtdatum niet gelinkt (door het gebruiken van bezochtmaanddag en bezochtjaar)
+* <nowiki>{{Voetnoot web
+ | titel=My Favorite Things Part II
+ | werk=Encyclopedia of Things
+ | url=https://www.example.com/
+ | bezochtmaanddag=July 6
+ | bezochtjaar=2005
+}}</nowiki><br> → <span style="background:white; color: black;">{{Voetnoot web 
+ | titel=My Favorite Things Part II
+ | werk=Encyclopedia of Things
+ | url=https://www.example.com/
+ | bezochtmaanddag=July 6
+ | bezochtjaar=2005
+}}</span>
+
+;Gebruik maken van formaat
+* <nowiki>{{Voetnoot web 
+| titel=List of psychotropic substances under international control
+| uitgever = International Narcotics Control Board
+| url=https://www.incb.org/pdf/e/list/green.pdf
+| formaat = PDF
+| bezochtdatum=2005-07-06
+}}</nowiki><br> → <span style="background:white; color: black;">{{Voetnoot web 
+| titel=List of psychotropic substances under international control
+| uitgever = International Narcotics Control Board | url=https://www.incb.org/pdf/e/list/green.pdf
+| formaat = PDF | bezochtdatum=2005-07-06}}</span>
+
+;Taal
+* <nowiki>{{Voetnoot web
+ | auteur=Joliet, François
+ | titel=Honi soit qui mal y pense
+ | datum=2005-04-30
+ | url=https://www.example.com/
+ | bezochtdatum=2005-07-06
+ | taal=fr
+}}</nowiki><br>→ <span style="background:white; color: black;">{{Voetnoot web | auteur=Joliet, François | titel=Honi soit qui mal y pense | datum=2005-04-30 | url=https://www.example.com | bezochtdatum=2005-07-06 | taal=fr}}</span>
+
+;Medeauteurs
+* <nowiki>{{Voetnoot web | voornaam=John | achternaam=Doe | medeauteurs=Peter Smith, Jim Smythe | titel=My Favorite Things Part II | uitgever=Open Publishing | datum=2005-04-30 | werk=Encyclopedia of Things | url=https://www.example.com/ | bezochtdatum=2006-05-16 
+}}</nowiki><br>→ <span style="background:white; color: black;">{{Voetnoot web | voornaam=John | achternaam=Doe | medeauteurs=Peter Smith, Jim Smythe | titel=My Favorite Things Part II | uitgever=Open Publishing | datum=2005-04-30 | werk=Encyclopedia of Things | url=https://www.example.com/ | bezochtdatum=2006-05-16 }}</span>
+
+;Geen auteur
+* <nowiki>{{Voetnoot web | titel=My Favorite Things Part II | uitgever=Open Publishing | datum=2005-04-30 | werk=Encyclopedia of Things | url=https://www.example.com/ | bezochtdatum=2006-05-16 
+}}</nowiki><br>→ <span style="background:white; color: black;">{{Voetnoot web | titel=My Favorite Things Part II | uitgever=Open Publishing | datum=2005-04-30 | werk=Encyclopedia of Things | url=https://www.example.com/ | bezochtdatum=2006-05-16 }}</span>
+
+;Geen auteur, geen uitgever
+* <nowiki>{{Voetnoot web | titel=My Favorite Things Part II | datum=2005-04-30 | werk=Encyclopedia of Things | url=https://www.example.com/ | bezochtdatum=2005-07-06
+}}</nowiki><br>→ <span style="background:white; color: black;">{{Voetnoot web | titel=My Favorite Things Part II | datum=2005-04-30 | werk=Encyclopedia of Things | url=https://www.example.com/ | bezochtdatum=2005-07-06 }}</span>
+
+* <nowiki>{{Voetnoot web | titel=My Favorite Things Part II | datum=2005-04-30 | url=https://www.example.com/ | bezochtdatum=2005-07-06 }}</nowiki><br>→ <span style="background:white; color: black;">{{Voetnoot web | titel=My Favorite Things Part II | datum=2005-04-30 | url=https://www.example.com/ | bezochtdatum=2005-07-06 }}</span>
+
+* <nowiki>{{Voetnoot web 
+| titel=List of psychotropic substances under international control
+| datum=2005-04-30
+| url=https://www.incb.org/pdf/e/list/green.pdf
+| formaat = PDF
+| bezochtdatum=2005-07-06
+| taal=Greek 
+}}</nowiki><br> → <span style="background:white; color: black;">{{Voetnoot web 
+| titel=List of psychotropic substances under international control | datum=2005-04-30
+| url=https://www.incb.org/pdf/e/list/green.pdf | formaat = PDF | bezochtdatum=2005-07-06
+| taal=Greek }}</span>
+
+; Gebruik maken van archiefurl en archiefdatum om pagina's te gebruiken die niet meer bestaan maar wel zijn gearchiveerd
+* <nowiki>{{Voetnoot web
+| titel=List of psychotropic substances under international control
+| datum=2005-04-30
+| url=https://www.incb.org/pdf/e/list/green.pdf
+| formaat = PDF
+| bezochtdatum=2005-07-06
+| archiefurl=https://www.archive.org/2005-09-11/www.incb.org/pdf/e/list/green.pdf
+| archiefdatum=2005-09-11
+}}</nowiki><br> → <span style="background:white; color: black;">{{Voetnoot web
+| titel=List of psychotropic substances under international control
+| datum=2005-04-30
+| url=https://www.incb.org/pdf/e/list/green.pdf
+| formaat = PDF
+| bezochtdatum=2005-07-06
+| archiefurl=https://www.archive.org/2005-09-11/www.incb.org/pdf/e/list/green.pdf
+| archiefdatum=2005-09-11 }}</span>
+
+* <nowiki>
+{{Voetnoot web
+|url=https://joanjettbadrep.com/cgi-bin/fullStory.cgi?archive=currnews&story=20060405-01shore.htm
+|titel=Interview with Maggie Downs
+|datum=2006-03-31
+|uitgever=The Desert Sun
+|archiefurl=https://72.14.207.104/search?q=cache:JAxf4v-pQmgJ:joanjettbadrep.com/cgi-bin/fullStory.cgi%3Farchive%3Dcurrnews%26story%3D20060405-01shore.htm
+|archiefdatum=2006-04-26
+}}</nowiki><br> → <span style="background:white; color: black;">{{Voetnoot web
+|url=https://joanjettbadrep.com/cgi-bin/fullStory.cgi?archive=currnews&story=20060405-01shore.htm
+|titel=Interview with Maggie Downs
+|datum=2006-03-31
+|uitgever=The Desert Sun
+|archiefurl=https://72.14.207.104/search?q=cache:JAxf4v-pQmgJ:joanjettbadrep.com/cgi-bin/fullStory.cgi%3Farchive%3Dcurrnews%26story%3D20060405-01shore.htm
+|archiefdatum=2006-04-26}}</span>
+
+; Gebruik maken van citaat
+* <nowiki>{{Voetnoot web
+ | titel = My Favorite Things Part II
+ | werk = Encyclopedia of Things
+ | url = https://www.example.com/
+ | bezochtdatum = 2005-07-06
+ | citaat = Lorem ipsum dolor.
+}}</nowiki><br>→ <span style="background:white; color: black;">{{Voetnoot web
+ | titel = My Favorite Things Part II
+ | werk = Encyclopedia of Things
+ | url = https://www.example.com/
+ | bezochtdatum = 2005-07-06
+ | citaat = Lorem ipsum dolor.
+}}</span>
+
+; Een "<nowiki>|</nowiki>" (bijv. in een link) vervangen door [[Sjabloon:!|<nowiki>{{!}}</nowiki>]]
+* <nowiki>{{Voetnoot web
+ | titel = Voorbeeld
+ | url = https://www.example.com/
+ | uitgever = [[Trouw (krant){{!}}Trouw]]
+}}</nowiki><br>→ <span style="background:white; color: black;">{{Voetnoot web
+ | titel = Voorbeeld
+ | url = https://www.example.com/
+ | uitgever = [[Trouw (krant){{!}}Trouw]]
+}}</span>
+
+;Geen parameters (error)
+* <nowiki>{{Voetnoot web}}</nowiki><br>→ <span style="background:white; color: black;">{{Voetnoot web}}</span>
+}}
+
+[[Categorie:Sjablonen referentie]]
+</noinclude>

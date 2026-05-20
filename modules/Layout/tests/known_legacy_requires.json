@@ -1,0 +1,5 @@
+{
+  "strict": "Scribunto/MediaWiki runtime library; provided by the local Lua harness as a no-op stub.",
+  "Module:Layout/Configuration": "Legacy path used by older modules/tests. The local harness aliases this to Module:Layout/Production/Configuration.",
+  "Module:Layout/Production/Library/Test": "Legacy unittest name. The local harness aliases this to Module:Layout/Production/Library/Unittest."
+}

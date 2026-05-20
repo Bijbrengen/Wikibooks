@@ -1,0 +1,13 @@
+{{Opmaak
+| Titel = Humanature
+| Object = Boek
+| Bron = Humanature logo.jpg
+| Definitie = '''Humanature''' is een samenvoeging van '''Human''' (mens) en '''Nature''' (natuur).<br>Het verwijst tevens naar '''[[w:Huma|Huma]]''', een [[w:Paradijsvogels|paradijsvogel]] in de [[w:Perzische_mythologie|Perzische mythologie]] – vergelijkbaar met de [[w:Feniks|Feniks]] – die geluk brengt.
+| Beschrijving = Dit boek gaat over de relatie tussen de mens en de natuur.<br>Het steeds beter begrijpen hiervan ontwikkelt de liefde voor onszelf en alles om ons heen.<br>We bekijken de relatie tussen mens en natuur vanuit verschillende perspectieven en zoeken naar overeenkomsten met respect voor verschillen.<br>We streven naar een diepe bewondering en eerbied voor het groots en majestueus in de natuur, spiritualiteit en kunst.<br>Het boek nodigt uit tot [[ontdekkend leren]], waarbij niet wordt gekeken vanuit afzonderlijke vakgebieden, maar in samenhang.<br>Het boek beschouwd het concept "vrijheid" als de basis voor een gelukkig leven.
+| Formaat = html
+| Voortgang = 100
+| Support = Signaleer
+| Referentie = 
+| Collectie = Onderwijs
+| Onderdeel = Inleiding, Vrijheid, Ruimtetijd, Gelukzaligheid, Veranderlijkheid, Werkelijkheid, Tweeledigheid, Oneindigheid, Onzekerheid, Virtualiteit, Eenheid, Waarheid, Dankbaarheid, Verbondenheid, Deelbaarheid, Dapperheid, Leegheid, Schoonheid, Synchroniciteit, Goddelijkheid
+}}

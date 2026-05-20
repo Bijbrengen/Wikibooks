@@ -1,0 +1,12 @@
+{{Opmaak}}
+== Inleiding ==
+Een toets is geen test. Een test is juist bedoeld om verschillen in niveau vast te stellen zodat men bijvoorbeeld aan het begin van een onderwijsperiode daar rekening mee kan houden. Een toets is het bewijs achteraf dat men heeft voldaan aan de gestelde eisen. Dan is het juist wenselijk voor de docent om niet de verschillen maar de overeenkomsten tussen de leerlingen te tonen, want daarin wordt enigszins zijn functioneren weerspiegeld. Idealiter zou een toets een gedegen onderzoek moeten zijn met als hypothese dat de leerdoelen gehaald zijn.
+
+== Strikvraag ==
+''Een strikvraag hoort in een test niet in een toets!''
+
+Een goede toets is representatief, pluriform en bestaat uit relevante vragen die efficiënt, effectief, spaarzaam en in overleg met collega zijn geformuleerd&nbsp;<ref name="BENDER">{{Citeer boek|Achternaam = Bender, W. | Titel = Toetsen in het hoger onderwijs | ISBN=9023239393 | Datum = 2003 | Uitgever = Koninklijke Van Gorcum BV | Plaats = Assen}}</ref>. Een strikvraag voldoet daar niet aan omdat hij de aandacht kan afleiden en een toets niet bedoeld is om te selecteren of te keuren maar om met zijn allen te bewijzen dat men voldoet aan de leerdoelen. Daarnaast is een strikvraag meestal een zwaktebod van de toetsmaker omdat die blijkbaar geen mogelijkheid ziet een leerdoel te toetsen met een "gewone" vraag.
+
+<references />
+
+{{Opmaak | Voettekst}}

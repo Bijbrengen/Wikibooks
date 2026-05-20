@@ -1,0 +1,29 @@
+{{Opmaak}}
+De validatie van '''Freell''' rust op drie cruciale assen: Turing-volledigheid, conversie naar erkende onderwijsstandaarden en praktische toepasbaarheid in open leeromgevingen (ELO's).
+
+== Turing-volledigheid ==
+Er wordt een formele toets uitgevoerd om de Turing-volledigheid vast te stellen.
+Hiermee wordt aangetoond dat Freell in staat is om complexe computationele logica te omvatten, vergelijkbaar met een Turing-machine, maar dan binnen het domein van het leren.
+
+== Standaardconversie ==
+Er worden conversiemodules ontwikkeld om de '''Freell'''-syntaxis te vertalen naar formaten die worden voorgeschreven door:
+* '''Experience API (xAPI)'''
+* '''cmi5 specificatie'''
+* '''Sharable Content Object Reference Model (SCORM)'''
+
+De nauwkeurigheid en integriteit van het conversieproces worden strikt gecontroleerd aan de hand van vooraf gedefinieerde benchmarks.
+
+== Praktische Toepasbaarheid ==
+'''Freell''' wordt ingezet om cursussen te ontwerpen binnen open ELO-omgevingen zoals Moodle.
+Gebruikersacceptatietests meten de tevredenheid en effectiviteit vanuit het perspectief van de eindgebruiker.
+Tegelijkertijd wordt het correcte gebruik van prompts door AI beoordeeld door middel van gespecificeerde tests.
+
+== AI-interactietests ==
+De interactie tussen '''Freell''' en AI wordt grondig onderzocht om er zeker van te zijn dat leerprompts nauwkeurig worden uitgevoerd.
+We zetten kunstmatige intelligentie in om verschillende vormen van leer- of onderwijsbeschrijvingen naar '''Freell''' te vertalen, en deze vervolgens weer te reconstrueren vanuit de '''Freell'''-definities.
+Dit dient om te controleren of de essentie van het leren behouden blijft.
+
+Deze veelzijdige testaanpak biedt een uitgebreid validatiekader.
+Het zorgt ervoor dat Freell niet alleen voldoet aan theoretische computationele principes, maar ook naadloos integreert met bestaande onderwijsstandaarden en platforms.
+
+{{Opmaak | Voettekst}}

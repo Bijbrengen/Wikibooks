@@ -1,0 +1,282 @@
+{{Opmaak}}
+== Fasering ==
+=== Werkwijze ===
+Een onderwijsarchitect heeft als werkwijze het individueel coachen van een professional op de eigen werkplek met het eigen werk. Dit werk wordt in een intakegesprek gerelateerd aan het profiel en de wensen van de professional en zijn omgeving. De onderwijsarchitect demonstreert vervolgens oplossingswegen die naar meetbare opbrengsten leiden. Wanneer de professional besluit verder te gaan worden deze rendementen afgesproken in een voorstel. In de (twee) daaropvolgende gesprekken worden de voorstellen uit het intakegesprek uitgewerkt tot een (her)ontwerp van het werk. De onderwijsarchitect heeft daarbij indicatoren ingebouwd die informeren over de voortgang van de implementatie en uitvoering. Hij zal desgevraagd de professional daarbij ondersteunen. De begeleiding wordt afgerond met een evaluatiegesprek.
+
+De onderwijsarchitect vertrekt in zijn wijze van werken vanuit een unieke visie op het begeleiden van het onderwijs. Een fasering die een onderwijsarchitect hanteert bij het ontwerpen is (informatie)analyse, functioneel ontwerp en detailontwerp. De werkwijze van een onderwijsarchitect verbindt docentprofessionalisering en onderwijsontwikkeling in een methode die binnen korte tijd leidt tot effectiever onderwijs.
+<div style="padding: 30px; float:left;">__TOC__</div>
+
+=== Producten ===
+''Welke levensfase boeit je het meest; de geboorte, de kindperiode, de pubertijd, de adolescentie....?''
+
+Het onderwijsontwerptraject heeft een fasering (afspraak, intake, analyse, ontwerp, bouw, uitvoering, bewaking, evaluatie, afronding) en kan een fase zijn in een overkoepeld project. Kort gezegd worden de volgende producten opgeleverd:
+# Na intake; voorstel met rendementsafspraken
+# Na analysegesprek; ontwerpvoorstel op grond van analyseverslag
+# Na ontwerpgesprek; onderwijskundig ontwerp op functioneel niveau
+# Tijdens bouw; feedback op detail ontwerp opgeleverd door onderwijsprofessional zelf
+# Tijdens uitvoering; adviezen op verzoek of bij aanslaan indicatoren
+# Na evaluatie; evaluatieverslag
+
+=== Fasen ===
+Een onderwijsarchitect geeft individuele begeleiding aan een onderwijsprofessional op de eigen werkplek en m.b.t. de eigen onderwijsleersituatie. Daarbij is de werkwijze als volgt:
+# ''Intakegesprek''. Dit eerste gesprek is vrijblijvend. In dit gesprek onderzoeken onderwijsarchitect en onderwijsprofessional samen de wensen en de eigen kracht van  de professional, en de randvoorwaarden die de omgeving oplegt. De onderwijsarchitect verbindt deze met elkaar en geeft oplossingswegen aan die leiden naar meetbare resultaten.
+# ''Voorstel''. Wanneer de cliënt, de onderwijsgevende, besluit met de onderwijsarchitect verder te gaan biedt een onderwijsarchitect een voorstel aan waarin de rendementen van het ontwerp en de begeleiding, de meetbare resultaten, omschreven staan.
+# ''Analysegesprek''. In een tweede gesprek worden de opbrengsten van het eerste gesprek fijner afgestemd. De basis wordt gelegd voor het (her-)ontwerp van de besproken onderwijsleersituatie(s). De doelen van de leraar worden concreet geformuleerd. Ook wordt nader ingegaan op de methode om die doelen te bereiken (activiteiten, groeperingvormen, klassenmanagement, rollen, enz.). Steeds houdt de onderwijsgevende, het roer in handen; het gaat om vergroting van zijn/haar effectiviteit. De onderwijsgevende wordt gestimuleerd om eigen wensen en motieven diepgaand te verkennen, problemen en belemmeringen te analyseren en zichzelf daarbij een spiegel voor te houden.
+# ''(Her-)ontwerp''. De onderwijsarchitect werkt het resultaat van het analysegesprek uit in een conceptontwerp. In het ontwerp worden, naast concrete doelen en rendementen, ook afspraken voorgesteld m.b.t. terugkoppeling tijdens de uitvoering van het ontwerp en wordt een tijdpad uitgezet.
+# ''Ontwerpgesprek''. In dit derde gesprek presenteert de onderwijsarchitect het ontwerp aan de leraar en is er nog gelegenheid voor bijstelling, aanvulling,enz. Vervolgens wordt het ontwerp vastgesteld.
+# ''Uitvoering ontwerp''. Als onderwijsprofessional is de onderwijsgevende in staat om op basis van eigen kracht en vakmanschap het ontwerp in te voeren en te borgen. Gedurende de invoering vindt terugkoppeling plaats op de vastgelegde manier. 	Daarnaast is de onderwijsarchitect beschikbaar voor ondersteuning d.m.v. het geven van feedback, coaching of supervisie; op verzoek van de onderwijsgevende.
+# ''Evaluatiegesprek''. Het ontwerptraject wordt afgesloten met een evaluatiegesprek waarin onderwijsarchitect en onderwijsgevende vaststellen of de afgesproken doelen wel of niet zijn gerealiseerd, en waarom wel of niet.
+ 
+In de informatieanalyse wordt informatie ingewonnen en geanalyseerd die van toepassing is op de te ontwikkelen of aan te passen onderwijs. De informatie heeft betrekking op het op te leiden beroep, maatschappelijke invloeden, de opleiding waarbinnen de leereenheid wordt gegeven, de studenten en de docent zelf. De onderwijsarchitect gebruikt deze informatie om vast te stellen wat de wensen van de gebruikers (maatschappij, opleiding, student en docent) zijn.
+ 
+De vraag hoe de gegevens uit de informatieanalyse dienen te worden gehanteerd wordt beantwoord in het functionele ontwerp. De onderwijsarchitect beschrijft in functionele bewoordingen hoe hij te werk gaat om de wensen uit de informatieanalyse te realiseren. Aan bod komen het ontwerptype, ontwerptechnieken, -methoden en elementen, leerdoelen, leeractiviteiten, leerprocessen, didactische werkvormen, taken en opdrachten, gebruik van ICT als middel of doel. Dit betekent dat hij vanuit de doelstellingen deze ingrediënten dient af te leiden. Niet alleen de keuze zelf, maar ook het waarom van de keuze - in relatie met de gegevens uit de informatieanalyse - is van belang.
+ 
+In het detailontwerp wordt het hoe omgezet in een wat. De onderwijsarchitect beschrijft in detail hoe de leereenheid qua vormgeving, inhoud en structuur eruit ziet.
+
+=== Intake===
+''De docent staat centraal en via hem de organisatie en de student!''
+
+Doel van het intakegesprek is de onderwijsprofessional te laten zien wat een onderwijsarchitect voor haar/hem kan 
+betekenen. Het gesprek begint vaak met het verkennen met hoe de docent zit:
+* Wat is haar/zijn houding ten aanzien van het traject?
+* Is men zij/hij sceptisch ten aanzien van onze rol (verkopers, geitenwollen sokken, zoals anderen)?
+* Heeft men (voor)oordelen over onderwijs en de eigen professionalisering?
+* Is de docent angstig een ander in de eigen keuken te laten kijken?
+* Welke knelpunten of wensen heeft de docent?
+* Wat zijn de wensen en verwachtingen van de docent over het traject?
+Door deze vragen te bespreken kan de vertrouwenssfeer ontstaan die voor het traject noodzakelijk is en kunnen de onderliggende motieven en doelen helder worden gemaakt. Het is belangrijk dat de klant goed geïnformeerd wordt over de opzet van het traject en welke ruimte er binnen deze opzet is voor individuele afstemming. 
+
+===Wensen===
+''Je weet goed wat je wilt; je weet alleen niet wat je wenst!''
+
+Basis voor het uiteindelijke ontwerp zijn de wensen van de docent. Wat zijn haar of zijn doelen met het onderwijs. Dit onderdeel is de kern van het intakegesprek. Belangrijk is goed te letten op impliciete wensen. Een docent zegt dat zijn doel is studenten discrete wiskunde te leren maar eigenlijk wil hij dit omdat ze daarmee hun logisch inzicht versterken. Deze impliciete doelen zijn te achterhalen door te kijken naar de docent; hem goed te lezen. Uiteraard kunnen bronnen als studiehandleiding, opleidingseisen, toetsen en deze te verbinden met eigen beroepsvaardigheden van de docent daarbij helpen. De vraag wat heeft een student aan je vak als zij/hij eenmaal beroepsbeoefenaar geeft vaak een verhelderende blik van de docent op het eigen onderwijs.
+
+===Rendementen===
+''Uiteindelijk rende-men-ten behoeve van de resultaten''
+
+Een onderwijsarchitect vertaalt de doelen in rendementen waarvan hij denkt dat ze haalbaar zijn uitgaande van de al aanwezige mogelijkheden van de docent maar bij een verbeterd onderwijsontwerp. Als een docent zegt dat zijn studenten inzicht moeten krijgen in de structuur van Engelse grammatica is het zaak dit in toetsbare doelen om te zetten. Een vraag die daarbij helpt is aan de docent te vragen hoe een student aan haar/hem aantoont de genoemde vaardigheid in voldoende mate te bezitten. De onderwijsarchitect wijst de docent op het feit dat leerdoelen bestaan uit wat een student moet kennen en kunnen, en hoe hij/zij dit aan dit te tonen. Hij onderzoekt of de docent het leren van de student als hoofddoel heeft (leerdoelen) of eigen belangen nastreeft (onderwijsdoelen); indruk maken op collegae, aanstelling verwerven, aardig gevonden worden. Hij vraag hoe de docent de gevonden leer- of onderwijsdoelen in het huidig onderwijs bereikt. Hij geeft discrepanties tussen huidig ontwerp (kijk of beoordelingsinstrument en onderwijsactiviteiten zo nauw mogelijk aansluiten bij de leerdoelen) en doelen aan, en komt met mogelijke oplossingen zodat de docent vertrouwen krijgt in de toegevoegde waarde van de ondersteuning. Hij probeert vast te stellen of de docent verder wil met het traject.
+
+===Voorstel===
+''U bepaalt hoeveel de afspraken u waard zijn; ik bepaal hoeveel ik waard ben!''
+
+Naar aanleiding van het intakegesprek wordt een voorstel opgesteld. Het succes van de voorstel (of het toetsaan dat er überhaupt een voorstel wordt gemaakt) is naast de doelen afhankelijk van de adremheid, innovatie, creativiteit, vindingrijkheid, uitstraling zelfvertrouwen, onderbouwing, denksnelheid, doeltreffendheid, inlevingsvermogen, communicatie, ondersteuning, uitdaging die de onderwijsarchitect in het intakegesprek heeft getoond. Indien de docent akkoord is met het voorstel volgt een analysegesprek. In het analysegesprek worden relevante kenmerken van de docent en zijn omgeving (opleiding, collegae, studenten, voorzieningen) besproken. Op grond hiervan worden de eerder geformuleerde wensen van de docent nogmaals onder de loep genomen. Ook wordt nogmaals de eerder gestelde globale leerdoelen vastgesteld en in meer specifiekere onderverdeeld (leerdoelhiërarchie en leerroutes). De opzet van het huidig onderwijs wordt besproken en vastgelegd op papier. Tijdens en na het gesprek kan de onderwijsarchitect met de analysegegevens, de leerdoelen en de huidige opzet een vertaalslag maken naar de onderdelen die het ontwerp vormen (zie ontwerp). Dit voorlopig ontwerp is het uitgangspunt voor het laatste ontwerpgesprek.
+
+=== Ontwerp ===
+''Een miniscule misser in de doelen, creëert een blunder in het ontwerp en veroorzaakt een ramp in de uitvoering!''
+
+In het ontwerp staat de docent centraal. Dat betekent dat haar/zijn wensen uitgangspunt zijn. Deze wensen kunnen worden beïnvloed door de omgeving (opleiding, collegae, studenten en voorzieningen) waarmee de docent te maken heeft. Door te starten met een analyse van de behoeften die de docent als onderdeel van zijn omgeving heeft de onderwijsarchitect een referentie bij het kiezen van de invulling van onderdelen van het ontwerp. Een goed ontwerp heeft als voorwaarde dat het doelgericht en doelmatig moet zijn. Om dit te kunnen bereiken heeft de ontwerper (docent in samenspraak met de onderwijsarchitect) voldoende vrijheid nodig. De omgeving mag dus niet te beperkend zijn.
+Onderdelen die het ontwerp vormen zijn;
+* Leerdoelen
+* Ingangseisen
+* Activiteiten
+* Werkvormen
+* Onderwijsrollen
+* Leeromgeving
+
+Om deze onderdelen ingevuld te krijgen kan volgend iteratief ontwerpproces worden gehanteerd:
+# Welke leerdoelen kunnen we uit de onderwijsdoelen van de docent afleiden?
+# Wat moeten de studenten minimaal beheersen vooraf om redelijkerwijs met het gegeven onderwijs de leerdoelen te bereiken?
+# Welke leeractiviteiten moeten er plaats vinden om de leerdoelen te bereiken?
+# Hoe kunnen we middels werkvormen (onderwijsleergesprek) die beide passen bij de docent en zijn omgeving (onderwijsdoelen) de genoemde leeractiviteiten stimuleren?
+# Welke rollen zijn er in dat geval gevraagd en passen die bij de docent en student?
+# Welke leerobjecten en diensten zijn nodig als ondersteuning bij de leeractiviteiten en roluitoefening?
+De genoemde werkvormen en de daarbij behorende leerdoelen, ingangseisen, activiteiten, rollen en leerobjecten moeten in (tijd)volgorde worden geplaatst.
+
+=== Rapportage ===
+''Ik ben blij dat je taal- en spelfouten constateert dat betekent dat je al bent begonnen met de detailuitwerking!''
+
+In het advies komen verschillende didactische functies aan de orde. In het verslag worden alle functies genoemd, maar niet elke functie hoeft altijd te worden beschreven. Uitgangspunt bij het beschrijven van de functies is dat de docent snapt wat er staat (zonder dat hij opnieuw de literatuur wordt ingestuurd) en naar aanleiding van de beschrijving zijn handelen concreet kan aanpassen. Dat betekent dat er in principe geen verwijzingen naar literatuur (of auteurs) worden opgenomen. Als iets een toelichting vergt, dan wordt dat ook direct opgeschreven. Namen als Bloom e.d. niet gebruiken, omdat dat meestal alleen maar verwarring oproept.
+Wat onderwijs en hulpmiddelen als ICT betreft mag ervan uit worden gegaan dat er alleen basale kennis aanwezig is. De onderwijsarchitect zorgt dat hij de kennis van docenten daarover te weten komt bij het intakegesprek. Normaal gesproken zal een instructie “Maak groepjes van vier en daarbinnen groepjes van twee” abracadabra zijn voor een docent. Die kan dan nog lang niet concreet aan de slag. 
+En verder:
+* Zinnen voluit schrijven (geen staccato zinnen gebruiken).
+* Volledige beschrijvingen geven: een docent moet begrijpen wat je schrijft.
+* Geen afko’s !
+* Bondig schrijven
+* Concreet schrijven: gebruik voorbeelden en benoemd dat ook: “Dat kan bijvoorbeeld door het zus en zo te doen”
+* Maak gebruik van opsommingstekens (en gebruik daarvoor de Word-functie en ga niet zelf streepjes intypen !)
+
+''Zeggen dat je iets niet kunt meten is eigenlijk zeggen dat je niet weet hoe!''
+
+Naar aanleiding van het ontwerpadvies volgt nog een ontwerpgesprek. Dit gesprek dient ter afstemming, bijstelling van het ontwerpvoorstel en om alvast tot een globale plan van aanpak te komen om het ontwerp te realiseren. Deze afstemmingsgegevens gebruikt de onderwijsarchitect om het ontwerp af te ronden een plan van aanpak op te stellen om het ontwerp gestalte te geven. Het detailontwerp wordt opgesteld door de docent maar het is verstandig deze te checken op interpretatie. De onderwijsarchitect probeert aan te geven hoe hij zal bewaken of het ontwerp juist wordt uitgevoerd en hoe je de afgesproken rendementen denkt te gaan meten.
+
+=== Uitvoering ===
+''Pas in de eindevaluatie vertelt een docent dat hij teleurgesteld was dat de studenten alleen achteraf problemen melden''
+
+Naast de voortgangsbewaking op afstand door het uitzetten van enkele simpel te achterhalen indicatoren geeft de onderwijsarchitect op verzoek of ongevraagd handelingsadviezen. Deze adviezen zijn concrete eenvoudige snelle handelingen met een groot (corrigerend) effect. De lusten moeten de lasten van de extra inspanning ruim overstijgen. Ook zonder aanleiding is het goed dat de onderwijsarchitect zijn betrokkenheid laat blijken door zelf actief na te vragen. Dit ondanks het feit dat hij vooraf duidelijk zal maken dat de docent aan het roer is en dat hij verwacht dat de docent aan de bel trekt als er iets aan schort. Alleen dan kan hij hem helpen en kunnen de rendementsafspraken in alle redelijkheid worden waargemaakt.
+
+=== Evaluatie ===
+''Cijfers liegen nooit maar bedriegen je altijd!''
+
+In de evaluatie staan meestal niet de afspraken maar de emotionele ervaringen/belevingen voorop. De onderwijsarchitect kapt dit niet af maar besteed er ruimte aan. Hij geeft eventueel aanvullende adviezen en denkt mee met verdere verbeteringen. Maar uiteindelijke mag het oordeel van de eindevaluatie alleen bestaan uit meting van de afgesproken rendementen. Het kan niet zo zijn dat het oordeel ontevreden is terwijl de rendementen gehaald zijn. Dan moet de onderwijsarchitect duidelijk tijd en ruimte nemen om gevoelens van onbehagen weg te nemen.
+
+==Ontwerpen==
+===Tips===
+De volgende tips zijn uit het werkveld van de onderwijsarchitect verzameld:
+# werk eerst aan de relatie en dan pas aan de informatie
+# werk niet/zo weinig mogelijk met noodzakelijke randvoorwaarden
+# als je een ander niet kunt lezen lok hem dan uit de tent en kijk hoe hij reageert; bijvoorbeeld zeg dat je hem adviseert een zweep te pakken en elke keert als de cursist niet zijn werk goed heeft gedaan je hem mag slaan
+# werk niet aan beperkingen maar aan de kwaliteiten
+# werk niet aan het veranderen van de persoon maar het beter gebruiken van de persoon
+# concrete en harde cijfers proberen te achterhalen en af te spreken
+# laat de student werken en niet de docent (maak in plaats van een casus een project zodat studenten de casus zelf definieren)
+
+Een onderwijsontwerper herontwerpt onderwijsleersituaties. Het werk van de leraar of docent als onderwijsprofessional wordt optimaal ingericht. Dit kan leiden tot nieuwe onderwijsvormen, onderwijsmethoden en onderwijsmaterialen.
+
+===Technieken===
+Om overzichtelijk te werken kan de onderwijsontwerper gebruik maken van ontwerptechnieken. Sommige technieken zoals behoeftebepaling, aanhaken bij de heersende onderwijsstrategie, kenmerken van de context van de leereenheid, randvoorwaarden vaststellen, leerdoelen algemeen en specifiek definiëren en doelgroep analyseren hebben al plaats gehad in de informatieanalyse. 
+
+===Ontwerptype===
+De eerste vraag die een onderwijsontwerper uit de gegevens van de informatieanalyse moet afleiden om te komen tot een functioneel ontwerp is om welk type ontwerp het gaat?
+*           Discipline (kennisoverdracht)
+*           Competenties (training)
+*           Begaafdheid (geplande processen en oefeningen)
+*           Sociale activiteiten
+*           Individuele behoeften (onafhankelijk leren)
+Of beter gezegd kennisgeoriënteerde versus competentiemodel.
+ 
+===Leerhiërarchie===
+Een handige techniek tijdens het ontwerpen is het maken van een kaart van de kennis- en vaardigheidsstructuur (leerhiërarchie). Dit is een hulpmiddel dat naast het ontwerpen als houvast om op terug te grijpen in vele situaties van pas komt. Bijvoorbeeld bij het informeren van de studenten over de doelstelling van de leereenheid. Gezien de voordelen verwachten we dit als onderdeel van het functionele ontwerp. Een ondersteuning bij het vaststellen van de leerdoelen is de beginsituatie middels een pretest (dus hoe zouden de studenten vooraf een leereenheid karakteristieke test mogen maken) en een eindsituatie geschetst door een eindtest (hoe moeten de studenten de test uiteindelijk maken) te beschrijven. 
+ 
+
+===Student===
+De student is het lerende object. Hij/zij zal daarvoor leeractiviteiten moeten ontplooien. Welke rol of verantwoordelijkheid de docent hierin heeft is voor een groot deel een opvattingkwestie; van de docent zelf, van de student of de opleiding. Uit de informatieanalyse is al gebleken welke rol en verantwoordelijkheid de docent in uw leereenheid ten aanzien van de leeractiviteiten van de studenten op zich zal nemen. 
+ 
+===[[Leren leren/Doel|Leerdoelen]]===
+Om de gewenste leeractiviteiten te bepalen is het belangrijk terug te blikken op de soort kennis en vaardigheden die moeten worden aangeleerd (zoals blijkt uit de leerdoelen). Vervolgens kan de onderwijsontwerper kiezen of de vastgestelde vaardigheden vooral cognitief, metacognitief (denken over leren), motorisch, affectief of sociaal van aard zijn? Vanuit deze verkenning van kennis en vaardigheden kan de onderwijsontwerper uit een bak met twee soorten leeractiviteiten kiezen in zijn ontwerp; reproductief (oppervlakkig<ref name="FANCHAMPS">{{Citeer boek|Achternaam = Fanchamps, J. |Titel = ''Ergens goed in worden: Johan van der Sanden en zijn beroepsonderwijs''|Datum = 2006| Uitgever=Garant|ISBN=9044120727}}</ref>) of productief<ref name="HAENEN">{{Citeer boek|Achternaam = Haenen, P.P.|Titel=''De vorming van wetenschappelijke begrippen: Davydov op de basisschool''|Datum =1986 | Uitgever = Pedagogische Studiën| URL = https://igitur-archive.library.uu.nl/ivlos/2008-1015-200753/UUindex.html}}</ref>.
+
+===Werkvormen===
+De onderwijsontwerper kan niet simpelweg een opsomming van de gewenste leeractiviteiten maken. Hij dient deze zodanig te organiseren dat duidelijk is hoe ze samenwerken aan een gesteld leerdoel? Daartoe dient de onderwijsontwerper aan te geven welke didactische werkvormen leiden tot welke leeractiviteiten. De leeractiviteiten doen immers de studenten. De docent kan deze alleen aanzetten door het gebruik van didactische werkvormen. De onderwijsontwerper moet deze werkvormen bedenken en beschrijven in relatie met het leerdoel, onderwerp en leeractiviteiten.
+ 
+===Samenwerkingsvormen===
+Als de onderwijsontwerper heeft vastgesteld dat het gewenst is dat er samenwerkingsvormen in de leereenheid nodig zijn dan zal hij hier een structuur voor moeten ontwerpen. Voorbeelden van samenwerkingsstructuren uit “Samenwerkend leren praktijkboek”, Ebbens zijn;
+*           Check in duo´s,
+*           Denken-delen-uitwisselen,
+*           Genummerde hoofden samen,
+*           Team-toernooi,
+*           Drie-stappen-interview
+*           Brainstormen
+*           Hoeken,
+*           Ronde tafel,
+*           Team-woordkaart,
+*           Groepsreis,
+*           Samen-samen,
+*           Experts,
+*           Groepsonderzoek.
+ 
+
+===Detailontwerp===
+In het detailontwerp beschrijf je de hele leereenheid:
+*      De doelstellingen
+*       De studenten waarvoor de leereenheid is bedoeld
+*       De verdeling in fases  / onderdelen 
+*       De planning daarvan
+ 
+en per fase / onderdeel:
+*       Hoe dit onderdeel past in de leereenheid,
+*       Wat de doelen van het onderdeel zijn,
+*       De leeractiviteiten van studenten om de doelen te realiseren, 
+*       Met welke werkvormen jij ondersteunt en welke leermiddelen je daarvoor gebruikt;
+**           Hoe motiveer je studenten,
+**          Hoe zorg je er voor zorgt dat de cursus aansluit op je studenten,
+**          Hoe oriënteer je,
+**          Hoe laat je oefenen,
+**          Hoe controleer je en geef je terugkoppeling?
+*       De manier waarop je studenten beoordeelt
+*       De manier waarop je de cursus evalueert.
+ 
+===Verantwoording===
+Het detailontwerp van een cursus moet te verantwoorden zijn op basis van de analyse en het functioneel ontwerp en het moet daarmee in overeenstemming zijn. Als bijvoorbeeld de onderwijsfilosofie van de opleiding is dat het onderwijs competentiegericht moet zijn en studenten actief competenties moeten verwerven door te werken aan casussen, dan is een cursus gericht op het verwerven van basiskennis door middel van hoorcolleges, een boek, controlevragen en een tentamen niet in overeenstemming met de onderwijsfilosofie van de opleiding.
+
+===Onderwijssituatie===
+Een onderwijsarchitect richt zich in zijn onderwijsontwerp niet op verandering van de persoon en ook niet op de invoering van een ander systeem of onderwijsconcept. Het werk van de leraar of docent wordt gekoppeld aan zijn/haar persoonlijke kwaliteiten en kracht. Binnen de randvoorwaarden van een bestaand onderwijsconcept, de schoolsituatie en vastgestelde ontwikkelingsdoelen ontwerpt een onderwijsarchitect, in de vrije ruimte die iedere leraar of docent heeft, een onderwijssituatie op maat.
+
+===Docent centraal===
+Doordat in het ontwerp de wens en de eigen kracht van de leraar uitgangspunt is, leert hij/zij het werk anders te doen, vaste patronen te doorbreken en nieuwe motivatie en inspiratie te vinden.
+
+===Maatwerk===
+Waar allerlei veranderingstrajecten in het onderwijs er op gericht zijn leerlingen of studenten meer individueel, meer “op maat gemaakt” onderwijs aan te bieden, uitgaande van de uniciteit van ieder mens, daar doet een onderwijsarchitect hetzelfde voor onderwijsgevenden: een onderwijsleersituatie op maat. 
+Een onderwijsarchitect is dan ook, in keukentermen, geen recept met vaste ingrediënten en hoeveelheden, maar maakt het mogelijk om ieder gerecht af te stemmen op de smaak van de “eter”, de onderwijsgevende.
+
+==Voorbeeld==
+
+===Uitgangssituatie===
+Een docent bij de rechtenfaculteit geeft (onder andere) het vak ''financieel-juridisch adviseren''. Dit vak heeft een eerste- en tweedejaarsvariant. De studenten dienen hierbij kennis op te doen om een goed onderbouwd financieel bedrijfsadvies te kunnen geven. Kennis ziet de docent hierbij als (essentieel) gereedschap, de studenten dienen reflectief met de kennis om te kunnen gaan en zo hun eigen prestaties steeds verder te verbeteren. Dit vak is naar zijn mening namelijk bedoeld als rechtstreekse voorbereiding op hun latere beroepsuitoefening!
+
+Over de opbouw en organisatie van het vak heeft de docent eigenlijk geen klachten; het waren eerst losstaande modules maar nu werkt hij al een jaar met themaopdrachten. De studenten maken een rapport over het leerproces en sluiten het vak af met een presentatie; dit samen geeft een gecombineerd cijfer. Bij de themagroepen zit een themagroepbegeleider die de gehele gespreksduur bij de gesprekken aanwezig is, hetgeen hem al met al 10 uur aan werktijd kost. Ook over het lesmateriaal is de docent tevreden. Er wordt een elektronische leeromgeving gebruikt (Blackboard), het bij het vak behorende boek is zeer geschikt voor zelfstudie en ook het themawerkboek geeft de student voldoende handvatten en duidelijkheid ten aanzien van de leerdoelen en hoe die te bereiken zijn.
+
+===Uitdagingen===
+* In de praktijk valt het de docent echter wat tegen, de studenten lijken niet zo goed zelf de kennis te kunnen oppakken en neigen ernaar om op een nogal schoolse manier de kennis tot zich te nemen, zonder zich daarbij vragen te stellen over die kennis. Dit stimuleert de docent dus in zijn onderwijs door (dan maar) zelf feedback op de studenten te geven. Daarnaast vindt hij het van belang dat studenten leren in een groep samen de themaopdrachten tot een goed einde te brengen, maar men blijft wel individueel verantwoordelijk. Vooral het oplosproces van de door de docent aangeboden probleemsituaties vindt hij een goede maatstaf voor het kunnen beoordelen van zijn studenten in dit vak.
+* Het hele vak kost de docent zelf echter veel meer uren dan hij ervoor krijgt. Voor elk vak dat hij geeft krijgt hij 25 uur, maar dit vak alleen al kost hem gemiddeld 60 uur per week. Hij kijkt tussentijdse themaopdrachten van de studenten na in het weekend en er komt een flinke stapel administratie bij kijken (er zijn veel regels en protocollen, allen de e-mailverwerking kost hem al 2 uur en de docent en zijn collega's moeten alle cijfers zelf in het systeem invoeren. Dit urentekort geldt dus voor meerdere docenten bij zijn faculteit. 
+* Het bestuur van de faculteit neemt dit probleem serieus, meerdere docenten klagen over een te hoge werkdruk. Het onderwijskundig uitgangspunt van de faculteit is gebaseerd op concepten als groepswerk, leren van de lerende, probleemgestuurd onderwijs en het zo veel mogelijk oefenen in authentieke beroepssituaties; dit stimuleert ondernemerschap, eigen initiatief en onafhankelijk denken, zo is de visie. Maar ook het bestuur ziet in dat de studenten hiervan minder oppikken dan de opzet was. Oftewel: men wil het graag efficiënter inrichten om uiteindelijk meer studenten te kunnen bedienen met minder mensen, met meer kwaliteit en minder werkdruk. Om dit doel te bereiken wordt een onderwijsarchitect ingeschakeld.
+
+===Intake===
+De insteek van een onderwijsarchitect is altijd dat productie en rendementen worden gerealiseerd op de werkvloer. De rendementsafspraak wordt in overleg als volgt geformuleerd: “De docent van het vak ''financieel-juridisch adviseren'' dient zijn onderwijsactiviteiten binnen de geplande 25 uur te kunnen uitvoeren (in plaats van de 50 uur of meer die het de docent nu kost), zonder dat er concessies  worden gedaan aan de kwaliteit van het onderwijs.”
+
+In overleg met bestuur wordt overeenstemming bereikt op de volgende punten:
+* Het organisatiemodel dient dienstbaar te zijn aan de plek waar wordt geproduceerd. 
+* Om te weten te komen wat de docenten nodig hebben om genoemde doelstelling te realiseren moet naar hen worden geluisterd 
+* Daarnaast dienen zij de vrijheid te krijgen om hun werk effectief in te richten. 
+* Vanuit deze herontwerpen is de directie bereid parallel daaraan de benodigde organisatieverbeteringen door te voeren die deze herontwerpen optimaal faciliteren.
+
+Vervolgens heeft de onderwijsarchitect een tweetal gesprekken met de docent, over hoe hij het vak momenteel geeft en wat zijn drijfveren zijn, waar hij tegenaan loopt en hoe hij daar zelf tegenaan kijkt, enzovoorts. De docent merkt al snel dat deze persoon flink doorvraagt en zo een aantal zaken weet te verduidelijken, zowel op organisatieniveau als wat betreft zijn individuele manier van lesgeven.
+
+Het uitgangspunt is dan wel de zelf lerende student die initiatief neemt, maar bij de toelating blijkt op dat gebied niets van de studenten gevraagd te worden. Er wordt ook binnen de opleiding niet expliciet gewerkt aan affectieve doelen en leer-/werkhouding, en omdat de gemiddelde student vervolgens weinig zelfverantwoordelijke activiteiten vertoont gaan de meeste docenten uiteindelijk sturender te werk dan ze eigenlijk van plan waren – zo ook u zelf, moet u toegeven. Dat werkt dan weer volgend en kopiërend leergedrag van de studenten in de hand, terwijl het streven juist is om de studenten op te leiden in zelfstandigheid. Ook het principe van het 'just in time' aanreiken van het benodigde gereedschap is de organisatie wel bekend, maar er wordt in de praktijk te weinig rekening mee gehouden. Aan de andere kant wordt  een student die het gewenste leergedrag wèl laat zien ook niet beloond, bijvoorbeeld door vrijstelling van een bepaalde onderdeel o.i.d. Er is dus in feite voor de studenten weinig reden om het gewenste gedrag te gaan vertonen.
+
+=== Analyse ===
+De docent beschikt over de volgende kwaliteiten: 
+* klantgerichtheid: de student is de klant
+* feedback: hij is niet bang voor het geven van negatieve feedback
+* geduld:  hij heeft geen problemen met tegensputterende studenten aan het begin als aan het eind het niveau maar wordt gegarandeerd, en ook het proces van vallen en opstaan jaagt hem niet de schrik op het lijf
+* schriftelijk: hij houdt vooral van het geven van schriftelijke feedback en is daar ook goed in
+* resultaatgericht: het resultaat van het onderwijs wordt wat de docent betreft gevormd door de studentevaluatie en bereikte leerdoelen
+
+Het valt de onderwijsarchitect op dat de docent enerzijds het boek geschikt voor zelfstudie vindt, maar tegelijkertijd hoorcolleges geeft over dezelfde stof. Het vak wordt nu verdeeld over vele onderwijsgevenden terwijl geenszins blijkt waarom niet een docent een heel grote rol kan vertolken en de anderen als gastdocent optreden. Nu is er onnodig veel tijdverlies in overhead en afstemmingsactiviteiten. Verder heeft de docent verteld dat hij initiatief en betrokkenheid bij de studenten mist. De onderwijsarchitect ziet de reden daarvan in de organisatie van het vak: ondanks dat er nu meer met themaopdrachten gewerkt wordt, kunnen deze opdrachten nog steeds als losse eenheden gezien worden - een minder goed uitgevoerde opdracht valt wel weer te compenseren door de volgende beter te doen, zeg maar. De integratie en samenhang van de onderdelen laat dus eigenlijk nogal te wensen over. Hoe zou het zijn als de studenten de eerste opdracht echt correct moeten hebben afgerond, willen ze überhaupt de tweede kunnen gaan doen? Niet door een schools soort beslissing ('jij mag de volgende opdracht nog niet doen!'), zo roept de docent meteen; dat is niet wat hij wil. 
+
+De onderwijsarchitect stelt een soort opbouwende moeilijkheidsgraad voor waarbij materiaal uit de ene opdracht essentiële input vormt voor de volgende. Zo komen studenten eer zelf wel achter dat ze die eerdere opdracht toch maar beter goed kunnen afmaken. Ook de continue aanwezigheid van docenten bij de themabijeenkomsten werkt in feite deze verzelfstandiging tegen. En in de eindopdracht, ten slotte, wordt toch ook weer een hoop kennis getoetst, waarvan de docent eerder beweerde dat hij het als gereedschap zag. Kortom, de inhoud en organisatie van het vak zouden beter moeten aansluiten bij de onderwijs- en leerdoelen van de docent, van dit vak en van de organisatie als geheel.
+
+Verder constateert de docent samen met de onderwijsarchitect dat de eindopdracht weliswaar doelen, activiteiten en toetsing adequaat aan elkaar koppelt, maar dat het uitvoeren van die eindopdracht verder nergens in de loop van het vak wordt geoefend. In de leermiddelen wordt niet aangegeven aan studenten hoe zij zich kunnen oriënteren op de leerstof en deze kunnen verwerken, hoe men dient te kijken (analyseren) als beroepsbeoefenaar en hoe men problemen kan oplossen en de oplossing kan evalueren, hoe men elkaar daarin kan ondersteunen en hoe men kan reflecteren. Ook leerdoelen als bijvoorbeeld (zelf)beoordelen wordt te weinig als cruciale vaardigheid geoefend. Sterker nog, de opzet gaat nu van instructie- of taakgestuurd onderwijs tot de eindfase waarin men op probleemgestuurd onderwijs overstapt; maar projectonderwijs (een niveau diepgaander dan PGO) zou in feite beter passen, ook omdat men de student echt wil voorbereiden op zijn/haar beroepsuitoefening.
+
+Ook het bestuur kan zich in deze analyse vinden. Het herontwerp mag dus verder gaan dan de individuele invulling van de betrokken docent, oftewel: in het herontwerp zitten ook organisatorische aspecten waaraan het bestuur in principe wil meewerken.
+
+===Ontwerp===
+Het hele systeem van dit vak wordt in feite omgegooid. In plaats van dat de docenten bepalen hoe de studenten moeten leren, is het nu de bedoeling dat de studenten daar zelf over gaan nadenken. En dat niet alleen: ze moeten er ook op reflecteren, want dat maakt onderdeel uit van hun beoordeling.
+
+* '''De opzet''':
+: Gedurende het vak moeten de studenten, in groepjes van 4 tot 6 mensen, toewerken naar de eindopdracht. Daarvoor moeten ze een projectdefinitie bedenken en een projectplan opzetten. Dit kunnen ze doen op basis van een werkelijke casus uit het bedrijfsleven, die ze ook zelf moeten zien te krijgen. Hoe diepgaand dat project moet zijn dienen ze zelf te bedenken; het projectplan wordt een soort portfolio waarmee ze zelf moeten kunnen aantonen dat ze zowel  individueel als met de groep aan de – vooraf door de docent helder gestelde – leerdoelen voldoen.
+
+* '''Kennis is gereedschap...'''
+:... en zo wordt het ook toegepast. Net zoals men eerst het theorie-examen voor het rijbewijs moet hebben behaald alvorens te mogen afrijden, moeten de studenten eerst aantonen over voldoende kennis te beschikken voordat ze überhaupt een projectplan mogen indienen. Dit kan, gezien de eerder genoemde geschiktheid van het boek door zelfstudie, plaatsvinden zonder te veel tussenkomst van de docent. Op de elektronische leeromgeving wordt een flink gevulde databank met vragen over de theorie geplaatst; studenten kunnen hier mee oefenen als ze dat vooraf willen, en dienen hier uiteindelijk een soort toets af te leggen.
+:Daarnaast zou het een goed idee kunnen zijn de verwerking van de stof verder te stimuleren door van de groepjes studenten te eisen dat ze zelf een vooraf gesteld minimaal aantal innovatieve multiple-choicevragen (inclusief antwoordmodel) per studieonderdeel moeten formuleren die nog niet eerder zijn gesteld door de docent of door andere studenten (wie het eerst komt wie het eerst maalt). De docent beoordeelt de vragen (zie hieronder).
+
+* '''Feedback onderling door studenten'''
+: De studenten dienen er zelf voor te zorgen dat de rollen en taken binnen het project zodanig verdeeld worden dat iedere student alles een keer gedaan heeft. Zodoende kan ieder individu ook de gestelde leerdoelen behalen en dat onderbouwen. Bij tussentijdse (concept-)projectplannen en vragen dienen de groepjes eerst onderling feedback of antwoorden te zoeken; pas wanneer dat (aantoonbaar) niet is gelukt dan kan de docent benaderd worden. De docent zal zijn steun in zo'n geval vooral baseren in het aanreiken van hints hoe men elkaar beter kan helpen, en dient ervoor te waken dat hij niet de oplossingen zelf aandraagt, tenzij het echt niet anders meer kan. Indien nodig zal de docent de beschikbare leermiddelen aanpassen of er aanvullingen op geven.
+: De groepjes moeten elke twee weken een voortgangsevaluatie van hun project schrijven, als was het aan een opdrachtgever. Tussentijds beoordelen de groepjes deze evaluaties van elkaar en geven onderbouwde feedback. Dit wordt dan ook door de docent gelezen.
+
+* '''De rol van de docent'''
+: In een paar startcolleges geeft de docent uitleg over hoe je een projectdefinitie opstelt, hoe je dat onderbouwt, hoe je bewijsmiddelen verzamelt en aan welke eisen dit allemaal moet voldoen. Ook de verschillende rollen van de deelnemers binnen een project worden toegelicht. De lesvoorbereiding voor de eerste vier weken kan op deze manier teruggebracht worden van 8 naar 3 uur.
+: De docent hoeft wat betreft de voorbereiding qua kennisniveau alleen de elektronische resultaten van de toets te verzamelen.
+: De door de studenten aangeleverde nieuwe vragen over de theorie worden door de docent beoordeeld op correctheid, niveau en of hij vindt dat ze daadwerkelijk iets toevoegen aan de reeds bestaande vragen (zou hij ze toevoegen po de elektronische leeromgeving?? Zo ja, dan telt de vraag mee).
+: De docent bekijkt vervolgens alleen de projectplannen en geeft schriftelijk feedback hierop. Hij kan eventueel een spreekuur instellen, maar dan strak afgebakend qua tijd en reservering door de studenten.
+: Ook de voortgangsevaluaties van de groepjes worden door de docent beoordeeld, niet zozeer op de evaluaties zelf maar vooral op de feedback die groepjes op elkaar geven (is die adequaat?).
+
+===Opbrengst===
+De opbrengst van dit ontwerp is :
+# Het aantal te investeren uren van de docent is drastisch teruggebracht: de voorbereiding van de colleges zal minder tijd vergen, er zijn überhaupt minder colleges te geven (alleen de eerste vier weken) en ook wat betreft feedback wordt nu een groot gedeelte daarvan door de studenten zelf gedaan.
+# De manier van feedback geven door de docent wordt middels dit ontwerp beperkt tot het slechts verder helpen van de studenten; de docent kan nu minder gemakkelijk terugvallen in pure, te sturende instructievormen van onderwijs.
+# Studenten worden sterk gestimuleerd om actief bezig te gaan met leren leren; doelen verhelderen, oriënteren en verwerken, plannen, feedback geven en krijgen, evalueren en reflecteren. 
+# De studenten maken kennis met het uitoefenen van het daadwerkelijke beroep en worden ook op dat niveau (team, projectmatig, analytisch en toepassing) uitgedaagd.
+# Studenten denken zelf mee over hoe ze gestelde competenties en gereedschappen verifieerbaar kunnen maken en kunnen bereiken. Dat stimuleert creativiteit en authenticiteit zeer sterk en haalt ze uit het schoolse systeem van kopiëren en braaf voldoen aan wat de docent wil.
+# Door het gebruik van een portfolio wordt de vaardigheid van beoordelen expliciet en zinvol getraind vanaf het eerste moment.
+# Integratie van de onderdelen van het vak wordt gegarandeerd omdat men direct vanuit de samenhang en overkoepelende inzicht vertrekt en dat blijft doen tot het eind.
+
+===Uitvoering===
+Te ondernemen acties zijn volgens de onderwijsarchitect:
+* Vragen en uitwerking in multiple-choicevorm plaatsen op de elektronische leeromgeving.
+* Procedures beschrijven en eveneens plaatsen op de elektronische leeromgeving (en deze ook daarop inrichten).
+* Een voorbeeld-projectplan ergens ophalen en plaatsen in de documentatie.
+* Verwijderen van weggevallen onderdelen en teveel instructie qua eindopdracht.
+
+Een advies van de onderwijsarchitect in zijn algemeenheid: 
+:De eerste weken moet er rekening mee worden gehouden dat er echt geïnvesteerd moet worden in het drastisch ombuigen van de oude manier van leren binnen dit vak. Men dient te beseffen dat andere vakken nog wèl zo werken wat betreft de houding van student en docent. De docent heeft in het begin reflectietijd nodig om over de benodigde houdingsveranderingen na te denken en te vertalen in concrete onderwijsactiviteiten.
+
+{{Opmaak | Voettekst}}

@@ -1,0 +1,40 @@
+{{Opmaak}}
+== Typen ==
+Freell categoriseert de leerervaring in verschillende typen, van de meest vrije tot de meest gestructureerde vorm.
+
+=== Gebruik ===
+Wanneer een leerder zijn eigen leerproces ontwerpt, spreken we van een '''leerarchitectuur'''.
+Er is sprake van een '''onderwijsarchitectuur''' wanneer iemand anders het leerproces van de leerder ontwerpt.
+In dat geval begint de declaratie altijd met het kiezen van het type van het wortelobject (root object) waaraan de leertakken en leerbladeren zijn verbonden.
+Deze keuze wordt afgedwongen bij de onderwijsarchitect om hem uit te nodigen zorgvuldig na te denken over de mate van vrijheid die aan de leerder wordt verleend.
+
+De mate van vrijheid bepaalt het type van het wortelobject.
+Dit betekent niet dat minder vrije typen niet gebruikt kunnen worden als onderdeel van dat wortelobject.
+Het vertelt Freell vooral hoe de takken en bladeren moeten worden geïnterpreteerd op basis van het type van het wortelobject.
+
+=== Onderwijsarchitectuur ===
+Binnen een onderwijsarchitectuur onderscheiden we de volgende typen:
+
+* '''Actor''': Wanneer een derde partij de leerervaring begint te ontwerpen, zoals een leraar of onderwijsontwerper, wordt de vrijheid van de leerder verminderd. We noemen deze externe beïnvloeder een "Onderwijsarchitect".
+* '''Portfolio''': Wanneer van de leerder wordt verwacht dat hij laat zien wat hij heeft geleerd, komen we op het gebied van het portfolio. Dit type vereist validatie door een externe partij, maar staat de leerder nog steeds toe om vrij te verkennen.
+* '''Action (Actie)''': Naarmate we meer resultaatgericht onderwijs krijgen, identificeert Freell 'Actie' als het volgende niveau. Hierbij moet de leerder concrete acties of gedragingen laten zien om aan te tonen dat er geleerd is.
+* '''Unit (Eenheid)''': Als de ontwerper het leerproces organiseert of verdeelt in eenheden (zoals schooljaren of cursussen), beperkt dit de vrijheid van de leerder verder.
+* '''Prerequisite (Voorkennis)''': Vaak stelt een onderwijsorganisatie eisen aan de beginkenmerken van de leerder om deel te mogen nemen aan een bepaalde eenheid.
+* '''Resource (Bron)''': In de context van vrij leren dient het type 'Bron' als suggestie, hulp of hint die leerders kunnen raadplegen voor ondersteuning.
+* '''Method (Methode)''': Het laatste type voordat we het leren niet langer als vrij kunnen bestempelen is de 'Methode'. Dit komt in beeld wanneer er specifieke methodieken zijn die de leerder geacht wordt te volgen (bijv. Montessori of Ondernemend Leren).
+
+=== Leerarchitectuur ===
+In een leerarchitectuur is het hebben van een wortelobject optioneel.
+De leerder heeft immers de ultieme vrijheid om zijn eigen leerpad te ontwerpen.
+Hier is de vrijheid op zijn hoogtepunt omdat de leerder de volledige controle heeft, waardoor de achterwaartse afhankelijkheden die vaak nodig zijn bij het ontwerpen van onderwijs voor iemand anders, worden geëlimineerd.
+
+=== Achterwaartse Afhankelijkheden ===
+Elk type in een Freell-onderwijsarchitectuur activeert de noodzaak voor andere typen.
+Dit is een logische progressie:
+# '''Method''': Het kiezen van een methode leidt tot specifieke overtuigingen of eisen ('''Prerequisite''').
+# '''Prerequisite''': Voorkennis impliceert een organisatorische eenheid waar deze relevant is ('''Unit''').
+# '''Unit''': Een eenheid impliceert dat acties op een bepaalde manier zijn georganiseerd ('''Action''').
+# '''Action''': Acties moeten waarneembaar zijn om waarde te hebben in een onderwijscontext, wat leidt tot het tonen ervan ('''Portfolio''').
+# '''Portfolio''': Het tonen van acties impliceert de aanwezigheid van een publiek of beoordelaar ('''Actor''').
+
+{{Opmaak | Voettekst}}

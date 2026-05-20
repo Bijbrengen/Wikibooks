@@ -1,0 +1,61 @@
+local test = {};
+
+local CFG      = require("Module:Layout/Production/Configuration");
+local valid    = CFG.INCLUDE("production", "validation");
+local unittest = CFG.INCLUDE("production", "unittest");
+
+test = unittest:new();
+
+function test.main( frame )
+	return test.run( frame );
+end
+
+function test:test_Library_Validation_mediafile()
+    self:assertFalse( valid.mediafile()               , "No parameter given" );
+    self:assertFalse( valid.mediafile( "" )           , "Empty parameter given" );
+    self:assertFalse( valid.mediafile( {} )           , "No string given" );
+    self:assertFalse( valid.mediafile( true )         , "Bool given" );
+    self:assertFalse( valid.mediafile( "Trash" )      , "No correct mediafile syntax" );
+    self:assertFalse( valid.mediafile( "Trash.trash" ), "No correct mediafile extension" );
+    self:assertTrue ( valid.mediafile( "Huma.JPG" )   , "Valid Huma.JPG" );
+end
+
+
+
+function test:test_Library_Validation_title()
+	local test_too_long = ""
+    for i = 1, 256 do
+        test_too_long = test_too_long .. "a"
+    end
+    self:assertFalse( valid.title()          , "No parameter given" );
+    self:assertFalse( valid.title( "" )      , "Empty parameter given" );
+    self:assertFalse( valid.title( {} )      , "No string given" );
+    self:assertFalse( valid.title( true )    , "Bool given" );
+    self:assertFalse( valid.title( nil )     , "Nil given" );
+    self:assertFalse( valid.title( " " )     , "One space" );
+    self:assertFalse( valid.title( "      " ), "Multiple spaces" );
+    self:assertFalse( valid.title( "Te#st" )  , "Contains # " );
+    self:assertTrue ( valid.title( "Tes,t" )  , "Contains , (Valid in MW)" );
+    self:assertFalse( valid.title( "Tes<t" )  , "Contains < " );
+    self:assertFalse( valid.title( "T>est" )  , "Contains > " );
+    self:assertFalse( valid.title( "Tes[t" )  , "Contains [ " );
+    self:assertFalse( valid.title( "T]est" )  , "Contains ] " );
+    self:assertFalse( valid.title( "Te|st" )  , "Contains | " );
+    self:assertFalse( valid.title( "T{est" )  , "Contains { " );
+    self:assertFalse( valid.title( "Tes}t" )  , "Contains } " );
+    self:assertTrue ( valid.title( "(Test" )  , "Contains ( (Valid in MW)" );
+    self:assertTrue ( valid.title( "Test)" )  , "Contains ) (Valid in MW)" );
+    self:assertFalse( valid.title( "T+est" )  , "Contains + " );
+    self:assertFalse( valid.title( "Tes~~~t" )  , "Contains ~~~ " );
+    self:assertTrue ( valid.title( "T&est" )  , "Contains & (Valid in MW)" );
+    self:assertFalse( valid.title( ":Test" )  , "Beginning with : " );
+    self:assertFalse( valid.title( ".Test" )  , "Beginning with . " );
+    self:assertFalse( valid.title( "%11 Test" )  , "Contains % followed by two hexadecimal digits " );
+    self:assertFalse( valid.title( test_too_long )  , "256 characters" ); 
+    self:assertTrue ( valid.title( "Te:st" )  , "Contains : but not at the start" );
+    self:assertTrue ( valid.title( "Te_st" )  , "Contains _ " );
+    self:assertTrue ( valid.title( "Test" )  , "Test" );
+    self:assertTrue ( valid.title( "Test1" )  , "Test1" );
+    self:assertTrue ( valid.title( "1" )  , "1" );
+end
+return test;

@@ -1,0 +1,14 @@
+{{Opmaak
+| Titel = Leren leren
+| Object = Boek
+| Bron = Leren leren.png
+| Definitie = [[w:nl:Leren_leren|Leren leren]] of bewust leren betekent het zich eigen maken van algemene en herbruikbare vaardigheden met betrekking tot [[leren]].
+| Beschrijving = De lol in het leren neemt toe als we er beter in worden.<br>Met plezier leren is de slimste manier van leren<br>Een zichzelf versterkende wederkerigheid.
+| Formaat = html
+| Voortgang = 50
+| Support = Signaleer
+| Referentie = wikipedia
+| Collectie = Leren
+| Onderdeel = Bewust, Kwaliteit, Stijl, Opbrengst, Leerstof, Leerstrategie, Toetsing
+}}
+{{Fase|2}}

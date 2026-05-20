@@ -1,0 +1,41 @@
+{{Opmaak}}
+== Profiel ==
+{{Wp|Howard Staunton|Howard Staunton}} werd als Engels schaker in de periode van 1843 tot 1851 als de beste schaakspeler ter wereld gezien.
+
+== Gambiet ==
+'''1. d4 f5 2. e4'''
+
+De {{Wp|Stauntongambiet|Stauntongambiet}} is een reactie op de [[Schaken door meesters/Stein|Hollandse verdediging]].
+
+Het Stauntongambiet is een van de meest agressieve manieren voor wit om de Hollandse verdediging te bestrijden. Wit offert onmiddellijk zijn e-pion om de f-lijn te openen en de zwarte koningsstelling te verzwakken.
+
+De hoofdlijn is '''2... fxe4 3. Nc3 Nf6 4. Bg5'''. Wit zet druk op e4 en dreigt de pion terug te winnen of de zwarte structuur te beschadigen. Volgens de Bijbrengen-studies is de voortzetting '''4... g6 5. Bxf6 exf6 6. Nxe4''' zeer gunstig voor wit (+1.1). Wit heeft een centraal paard en zwart heeft een verzwakte pionnenstructuur op de koningsvleugel.
+
+=== Belangrijke varianten ===
+* '''2... fxe4 3. Nc3 Nf6 4. f3''': Het Blackmar-variant (of Second Gambit). Wit offert nog een pion voor nog snellere ontwikkeling.
+* '''4... d5''': Zwart probeert de pion op e4 te verdedigen, maar wit krijgt vaak een sterke aanval na 5. Bxf6 of 5. f3.
+
+== Evaluatie van Combinaties ==
+Het Stauntongambiet dwingt de zwartspeler tot uiterste precisie:
+* '''Aanval op de f-lijn''': Wit profiteert van de vroege f5-zet van zwart om lijnen naar de zwarte koning te openen.
+* '''Structurele schade''': Door het paard op f6 te ruilen (Bxf6), dwingt wit zwart vaak tot een dubbelpion, wat het eindspel lastig maakt voor zwart.
+* '''Positioneel overwicht''': Zelfs als zwart de pion behoudt, heeft wit vaak voldoende compensatie door de controle over het centrum en de betere coördinatie van de stukken.
+
+{{Opmaak
+| Object = Schaak
+| Definitie = Stauntongambiet
+| Beschrijving = Het Stauntongambiet tegen de Hollandse verdediging (1. d4 f5 2. e4)
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|pd|pd|  |pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |pd|  |  |
+4 |  |  |  |pl|pl|  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|  |  |pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+
+{{Opmaak | Voettekst}}

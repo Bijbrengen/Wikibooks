@@ -1,0 +1,17 @@
+<div style="text-align:center;">[[Afbeelding:P_Education.png|30px]] <span style="font-size: large;">'''[[Boekenplank:Samenleving|6. Samenleving]]'''</span></div>
+'''{{Aut|62. Economie en handel}}'''<br>
+[[Economie]]{{75%|Datum=Volgens infobox}}<br>
+[[Kennismanagement]]{{75%|Datum=Volgens infobox}}<br>
+'''{{Aut|64. Politiek}}'''<br> 
+[[Trotski voor beginners]]{{100%|Datum=Volgens infobox}}<br>
+'''{{Aut|66. Ecologie}}'''<br> 
+[[Alternatieve energie]]{{75%|Datum=Volgens infobox}} - 
+[[Save Our Future Today, a SOFT revolution]]{{75%|Datum=Volgens infobox}}<br>
+'''{{Aut|67. Onderwijs en opleiding}}'''<br> 
+{{Leren}}<br> 
+'''{{Aut|68. Psychologie}}'''<br>
+[[Hypnotherapie]]{{100%|Datum=Volgens infobox}} - [[Jungiaans woordenboek]]{{75%|Datum=Volgens infobox}} - [[Mindfulness]]{{100%|Datum=Volgens infobox}} - [[Parapsychologie]]{{75%|Datum=Volgens infobox}} - [[Visualisatie]]{{75%|Datum=Volgens infobox}} - [[Winnie de Poeh en de vrees voor het multiple choice-tentamen]]{{100%|Datum=Volgens infobox}}<br>
+'''{{Aut|69. Overige}}'''<br>
+''691. informatiewetenschap'':
+[[Informatievoorziening]]{{75%|Datum=Volgens infobox}}<br>
+<noinclude>[[Categorie:Sjablonen hoofdpagina]]</noinclude>

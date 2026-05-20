@@ -1,0 +1,254 @@
+[Event "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation: d5...Bf5...e6...h6"]
+[Date "2023.03.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[StudyName "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation"]
+[ChapterName "d5...Bf5...e6...h6"]
+[ChapterURL "https://lichess.org/study/jJl69kzH/2qDAP3Pn"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.28"]
+[UTCTime "13:34:00"]
+
+1. f4 { [%clk 0:05:00] } 1... d5 { [%clk 0:05:00] } 2. Nf3 { [%clk 0:04:58] } 2... Bf5 { [%clk 0:04:58] } 3. d3 { [%clk 0:03:58] } 3... e6 { [%clk 0:04:51] } 4. g3 { [%clk 0:03:47] } 4... h6 { [%clk 0:04:50] } 5. Bg2 *
+
+
+[Event ".Bird.Drill: d5...Bf5...e6...Bb4+"]
+[Site "https://lichess.org/study/qfz5RN62/mjogXVEu"]
+[Date "2023.03.28"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[Variant "Standard"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[StudyName "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation"]
+[ChapterName "d5...Bf5...e6...Bb4+"]
+[ChapterURL "https://lichess.org/study/jJl69kzH/Ubbl0gxB"]
+[UTCDate "2023.03.28"]
+[UTCTime "13:34:00"]
+[ChapterMode "gamebook"]
+
+{ Open with the Bird! To drill more variations on the Bird opening https://lichess.org/study/qfz5RN62 or for other creative openings https://lichess.org/study/fj7xMIag. }
+1. f4 d5 2. Nf3 Bf5 3. d3 e6 4. g3 Bb4+ 5. Nbd2 *
+
+
+[Event "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation: d5...Bf5...e6...Nc6"]
+[Date "2023.03.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[StudyName "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation"]
+[ChapterName "d5...Bf5...e6...Nc6"]
+[ChapterURL "https://lichess.org/study/jJl69kzH/k0P6LYfk"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.28"]
+[UTCTime "13:34:00"]
+
+1. f4 { [%clk 0:30:00] } 1... d5 { [%clk 0:30:00] } 2. Nf3 { [%clk 0:29:57] } 2... Bf5 { [%clk 0:29:57] } 3. d3 { [%clk 0:29:31] } 3... e6 { [%clk 0:29:54] } 4. g3 { [%clk 0:29:18] } 4... Nc6 { [%clk 0:29:43] } 5. Bg2 *
+
+
+[Event "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation: d5...Bf5...e6...Nf6...c6"]
+[Date "2023.03.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[StudyName "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation"]
+[ChapterName "d5...Bf5...e6...Nf6...c6"]
+[ChapterURL "https://lichess.org/study/jJl69kzH/sBjj4IZh"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.28"]
+[UTCTime "13:34:00"]
+
+1. f4 { [%clk 0:30:00] } 1... d5 { [%clk 0:30:00] } 2. Nf3 { [%clk 0:29:56] } 2... Bf5 { [%clk 0:29:58] } 3. d3 { [%clk 0:29:34] } 3... e6 { [%clk 0:29:52] } 4. g3 { [%clk 0:29:20] } 4... Nf6 { [%clk 0:29:44] } 5. Bg2 { [%clk 0:29:00] } 5... c6 { [%clk 0:29:38] } 6. O-O *
+
+
+[Event ".Bird.Drill: d5...Bf5...e6...Nf6...Bc5"]
+[Site "https://lichess.org/study/qfz5RN62/YAnZTZ0j"]
+[Date "2023.03.28"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[Variant "Standard"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[StudyName "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation"]
+[ChapterName "d5...Bf5...e6...Nf6...Bc5"]
+[ChapterURL "https://lichess.org/study/jJl69kzH/4BI8FJQo"]
+[UTCDate "2023.03.28"]
+[UTCTime "13:34:01"]
+[ChapterMode "gamebook"]
+
+{ Open with the Bird! To drill more variations on the Bird opening https://lichess.org/study/qfz5RN62 or for other creative openings https://lichess.org/study/fj7xMIag. }
+1. f4 d5 2. Nf3 Bf5 3. d3 e6 4. g3 Nf6 5. Bg2 Bc5 *
+
+
+[Event "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation: d5...Bf5...e6...Nf6...Bd6...c6.+.Nbd7...a5...dxe4...Bc5+...Bg4"]
+[Date "2023.03.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[StudyName "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation"]
+[ChapterName "d5...Bf5...e6...Nf6...Bd6...c6.+.Nbd7...a5...dxe4...Bc5+...Bg4"]
+[ChapterURL "https://lichess.org/study/jJl69kzH/8qcUg2OB"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.28"]
+[UTCTime "13:34:01"]
+
+1. f4 { [%clk 0:30:00] } 1... d5 { [%clk 0:30:00] } 2. Nf3 { [%clk 0:29:57] } 2... Bf5 { [%clk 0:29:59] } 3. d3 { [%clk 0:29:49] } 3... e6 { [%clk 0:29:52] } 4. g3 { [%clk 0:29:15] } 4... Nf6 { [%clk 0:29:38] } 5. Bg2 { [%clk 0:29:05] } 5... Bd6 { [%clk 0:29:35] } 6. O-O { [%clk 0:28:20] } 6... c6 { [%clk 0:29:25] } 7. Nc3 { [%clk 0:27:43] } 7... Nbd7 { [%clk 0:29:23] } 8. Qe1 { [%clk 0:27:33] } 8... a5 { [%clk 0:29:08] } 9. e4 { [%clk 0:27:31] } 9... dxe4 { [%clk 0:29:06] } 10. dxe4 { [%clk 0:27:29] } 10... Bc5+ { [%clk 0:28:57] } 11. Kh1 { [%clk 0:27:16] } 11... Bg4 { [%clk 0:28:55] } 12. Nh4 *
+
+
+[Event "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation: d5...Bf5...g6"]
+[Date "2023.03.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[StudyName "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation"]
+[ChapterName "d5...Bf5...g6"]
+[ChapterURL "https://lichess.org/study/jJl69kzH/nguU0CRl"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.28"]
+[UTCTime "13:34:01"]
+
+1. f4 { [%clk 0:10:00] } 1... d5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:58] } 2... Bf5 { [%clk 0:09:42] } 3. d3 { [%clk 0:09:36] } 3... g6 { [%clk 0:09:39] } 4. Nbd2 *
+
+
+[Event "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation: d5...Bf5...h6"]
+[Date "2023.03.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[StudyName "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation"]
+[ChapterName "d5...Bf5...h6"]
+[ChapterURL "https://lichess.org/study/jJl69kzH/A7oInm6s"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.28"]
+[UTCTime "13:34:01"]
+[ChapterMode "gamebook"]
+
+1. f4 { [%clk 0:30:00] } 1... d5 { [%clk 0:30:00] } 2. Nf3 { [%clk 0:29:54] } 2... Bf5 { [%clk 0:29:55] } 3. d3 { [%clk 0:29:42] } 3... h6 { [%clk 0:29:43] } 4. c4 *
+
+
+[Event ".Bird.Drill: d5...Bf5.+.Be6...Bd7"]
+[Site "https://lichess.org/study/qfz5RN62/kjwu2e4S"]
+[Date "2023.03.28"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[Variant "Standard"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[StudyName "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation"]
+[ChapterName "d5...Bf5.+.Be6...Bd7"]
+[ChapterURL "https://lichess.org/study/jJl69kzH/iljRSsib"]
+[UTCDate "2023.03.28"]
+[UTCTime "13:34:01"]
+[ChapterMode "gamebook"]
+
+{ Open with the Bird! To drill more variations on the Bird opening https://lichess.org/study/qfz5RN62 or for other creative openings https://lichess.org/study/fj7xMIag. }
+1. f4 d5 2. Nf3 Bf5 3. d3 Be6 4. Nbd2 Bd7 5. e4 *
+
+
+[Event "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation: d5...Bf5...Nc6"]
+[Date "2023.03.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[StudyName "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation"]
+[ChapterName "d5...Bf5...Nc6"]
+[ChapterURL "https://lichess.org/study/jJl69kzH/USp602CM"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.28"]
+[UTCTime "13:34:01"]
+
+1. f4 d5 2. Nf3 Bf5 3. d3 Nc6 4. e3 *
+
+
+[Event "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation: d5...Bf5...Nc6...e6"]
+[Date "2023.03.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[StudyName "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation"]
+[ChapterName "d5...Bf5...Nc6...e6"]
+[ChapterURL "https://lichess.org/study/jJl69kzH/luMtxUS6"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.28"]
+[UTCTime "13:34:01"]
+
+1. f4 { [%clk 0:30:00] } 1... d5 { [%clk 0:30:00] } 2. Nf3 { [%clk 0:29:56] } 2... Bf5 { [%clk 0:29:55] } 3. d3 { [%clk 0:29:25] } 3... Nc6 { [%clk 0:29:48] } 4. e3 { [%clk 0:29:12] } 4... e6 { [%clk 0:29:37] } 5. Bd2 *
+
+
+[Event ".Bird.Drill: d5...Bf5...Nf6...e6"]
+[Site "https://lichess.org/study/qfz5RN62/eIp7kNx5"]
+[Date "2023.03.28"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[Variant "Standard"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[StudyName "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation"]
+[ChapterName "d5...Bf5...Nf6...e6...Bc5"]
+[ChapterURL "https://lichess.org/study/jJl69kzH/9qiTJRPF"]
+[UTCDate "2023.03.28"]
+[UTCTime "13:34:01"]
+[ChapterMode "gamebook"]
+
+{ Open with the Bird! To drill more variations on the Bird opening https://lichess.org/study/qfz5RN62 or for other creative openings https://lichess.org/study/fj7xMIag. }
+1. f4 d5 2. Nf3 Bf5 3. d3 Nf6 4. g3 e6 5. Bg2 Bc5 6. e3 *
+
+
+[Event "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation: d5...Bf5...Nf6...e6...Bd6"]
+[Date "2023.03.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[StudyName "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation"]
+[ChapterName "d5...Bf5...Nf6...e6...Bd6"]
+[ChapterURL "https://lichess.org/study/jJl69kzH/9ax1pMFe"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.28"]
+[UTCTime "13:34:01"]
+
+1. f4 { [%clk 0:30:00] } 1... d5 { [%clk 0:30:00] } 2. Nf3 { [%clk 0:29:56] } 2... Bf5 { [%clk 0:29:32] } 3. d3 { [%clk 0:29:40] } 3... Nf6 { [%clk 0:29:08] } 4. g3 { [%clk 0:29:24] } 4... e6 { [%clk 0:28:36] } 5. Bg2 { [%clk 0:29:08] } 5... Bd6 { [%clk 0:28:20] } 6. O-O { [%clk 0:28:26] } 6... h6 { [%clk 0:27:48] } 7. Qe1 *
+
+
+[Event "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation: d5...Bf5...Nf6...h6...e6...Bd6"]
+[Date "2023.03.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[StudyName "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation"]
+[ChapterName "d5...Bf5...Nf6...h6...e6...Bd6"]
+[ChapterURL "https://lichess.org/study/jJl69kzH/P9ABSUQG"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.28"]
+[UTCTime "13:34:01"]
+
+1. f4 { [%clk 0:10:00] } 1... d5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:57] } 2... Bf5 { [%clk 0:09:58] } 3. d3 { [%clk 0:09:42] } 3... Nf6 { [%clk 0:09:56] } 4. g3 { [%clk 0:09:26] } 4... h6 { [%clk 0:09:40] } 5. Bg2 { [%clk 0:08:43] } 5... e6 { [%clk 0:09:37] } 6. O-O { [%clk 0:08:36] } 6... Bd6 { [%clk 0:09:32] } 7. Nc3 *
+
+
+[Event "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation: d5...Bf5...Nf6...Nc6"]
+[Date "2023.03.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[StudyName "1. f4 d5 2. Nf3 Bf5: Bird Opening Dutch Variation"]
+[ChapterName "d5...Bf5...Nf6...Nc6"]
+[ChapterURL "https://lichess.org/study/jJl69kzH/0KkKrSKD"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.28"]
+[UTCTime "13:34:01"]
+[ChapterMode "gamebook"]
+
+1. f4 { [%clk 0:30:00] } 1... d5 { [%clk 0:30:00] } 2. Nf3 { [%clk 0:29:57] } 2... Bf5 { [%clk 0:29:40] } 3. d3 { [%clk 0:29:23] } 3... Nf6 { [%clk 0:29:18] } 4. g3 { [%clk 0:29:10] } 4... Nc6 { [%clk 0:29:04] } 5. Bg2 *
+
+

@@ -1,0 +1,14 @@
+<includeonly><tr style="vertical-align:middle;">
+{{#Switch:{{{numbers|both}}}
+ |left|both=<td>[[File:Solid white.svg|18px|link=|alt=]]</td>
+}}<td style="background-color:white; color: black;">h</td>
+<td>g</td>
+<td>f</td>
+<td>e</td>
+<td>d</td>
+<td>c</td>
+<td>b</td>
+<td>a</td>
+{{#Switch:{{{numbers|both}}}
+ |right|both=<td>[[File:Solid white.svg|18px|link=|alt=]]</td>
+}}</tr></includeonly><noinclude>[[Categorie:Sjablonen schaken]]</noinclude>

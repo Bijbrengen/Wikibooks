@@ -1,0 +1,70 @@
+{{Opmaak}}
+== {{Wp|Georgi Lisitsyn|Profiel}} ==
+..
+
+== {{Wp|Lisitsyngambiet|Lisitsyngambiet}} ==
+{{Opmaak
+| Object = Schaak
+| Definitie = Lisitsyngambiet
+| Beschrijving = De beginstelling van het Lisitsyngambiet (1. Nf3 f5 2. e4)
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|pd|pd|  |pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |pd|  |  |
+4 |  |  |  |  |pl|  |  |  |
+3 |  |  |  |  |  |nl|  |  |
+2 |pl|pl|pl|pl|  |pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|  |rl|
+   a  b  c  d  e  f  g  h
+}}
+De '''Lisitsyngambiet''' is het aanbieden van de koningspion na de {{Wp|Hollands (schaakopening)|Hollandse verdediging}} als reactie op de {{Wp|Zukertortopening|Zukertortopening}}. Deze gambiet is vernoemd naar Georgi Lisitsyn. 
+
+De beste reactie voor zwart is het aannemen van de pionoffer, waarop het witte paard naar '''Ng5''' sprint.
+{{Opmaak
+| Object = Schaak
+| Definitie = Paardmanoeuvre Ng5
+| Beschrijving = Zwart neemt de gambiet aan, waarna het witte paard naar Ng5 springt
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|pd|pd|  |pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |nl|  |
+4 |  |  |  |  |pd|  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|pl|  |pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|  |rl|
+   a  b  c  d  e  f  g  h
+}}
+
+Men zou verwachten dat zwart nu met '''Nf6''' het beste antwoord geeft. Want het zwarte paard valt zowel de zwarte pion op '''e4''' aan, als dat het voorkomt dat de witte dame schaak geeft op '''Qh5'''. Het blijkt echter dat uiteindelijk zwart beter af is door zijn pion op '''e4''' terug te geven door te vervolgen met '''e6'''. De dreiging die uitgaat van de witte dame is eigenlijk gering nader beschouwd. Zwart kan tempo ontwikkelen door eerst zijn andere paard te ontwikkelen met '''Nc6''' nadat de witte paard de pion terugpakt en daarna met '''d5''' het paard te verjagen. Om die reden kan na '''e6''' wit het beste zijn goed gepositioneerd paard laten staan door die te verdedigen met zijn loper middels '''d3'''. Dat kan ook met '''d4''', maar dat is een blunder die zwart een groot voordeel geeft na '''d5'''. Met '''d5''' na '''d3''' kan de zwarte pion wel worden terug worden gepakt door '''dxe4''' omdat het witte paard '''e4''' verdedigt met als gevolg dat zwart zijn centrale pionnenstructuur (geïsoleerde koningspion) is doorbroken. De evaluatie na '''4. d3 Nf6 5. dxe4 Nc6 6. Bd3 Bc5''' is licht in het voordeel van wit (+0.5), maar zwart heeft een zeer harmonieuze ontwikkeling.
+
+{{Opmaak
+| Object = Schaak
+| Definitie = Offer-Negatie
+| Beschrijving = Zwart biedt de pion terug aan (e6), wit negeert dit met d3 (zwischenzug)
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|pd|  |  |pd|pd|
+6 |  |  |  |  |pd|  |  |  |
+5 |  |  |  |  |  |  |nl|  |
+4 |  |  |  |  |pd|  |  |  |
+3 |  |  |  |pl|  |  |  |  |
+2 |pl|pl|pl|  |  |pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|  |rl|
+   a  b  c  d  e  f  g  h
+}}
+Zwart kan beter niet '''exd3''' slaan omdat de extra pion niet opweegt tegen de sterk gepositioneerde witte loper op '''d3''' met veel mogelijkheden de zwarte koning aan te vallen op de koningsflank.
+
+Men kan de Lisitsyngambiet trainen op [https://lichess.org/study/eePi1z6Q/yzG5Y2Lk Lichess].
+
+== Evaluatie van Combinaties ==
+Op basis van de Lisitsyn-studies trekken we de volgende tactische lessen:
+* '''3. Ng5 e6 4. d3''': De meest solide manier voor wit om te spelen. Wit accepteert de teruggave van de pion in ruil voor gezonde ontwikkeling.
+* '''De aanval met h4''': In sommige varianten speelt wit '''4. h4''' om de zwarte koningsvleugel direct te bestoken. Dit is riskant maar kan verrassend effectief zijn als zwart te passief reageert.
+* '''Blunder d4''': Zoals eerder vermeld is '''4. d4''' na '''3... e6''' een positionele fout omdat zwart met '''4... d5''' direct het centrum opeist en het witte paard op g5 buitenspel zet.
+
+{{Opmaak | Voettekst}}

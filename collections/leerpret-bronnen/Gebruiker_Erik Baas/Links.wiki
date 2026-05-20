@@ -1,0 +1,159 @@
+{{#babel:nl-N|en-3}}
+
+Boeken:
+*[[Speciaal:Boek|Boek beheren]]
+*[https://nl.wikibooks.org/w/index.php?title=Speciaal:Voorvoegselindex&prefix=Gebruiker:Erik+Baas/Boeken/ Mijn boeken]
+*[https://nl.wikibooks.org/w/index.php?title=Speciaal:Voorvoegselindex&prefix=Wikibooks:Boeken/ Openbare boeken]
+*[https://pediapress.com/ Pedia Press] {{En}}
+*[[Help:Collecties]]
+
+Diversen:
+*[[Module:TestEJB]]: {{#Invoke:TestEJB|x}}
+*[[:Categorie:Files by User:Erik Baas|Bestanden]]
+*<s>[https://wikistics.org/pages/?year=2016&month=10&day=0&proj=wikibooks&lang=nl&type=all&filtered=yes&limit=1000 Page Views] (okt 2016)</s>
+*<s>[https://wikistics.org/devices/?year=2016&month=10&day=0&proj=wikibooks&lang=nl&type=all&filtered=yes Unique Devices] (okt 2016)</s>
+
+==Bezig met==
+<div style="font-size: small;">{{Special:Prefixindex/Scalable Vector Graphics}}</div>
+
+==ToDo==
+*Rename Wikibooks:Infobox/Microsoft Office Excel (Wikibooks:Infobox/Microsoft Excel bestaat al)
+*Rename [[Wikibooks:Wachtruimte/Microsoft Office Powerpoint]]
+*{{Tl|Babel}}
+*<s>[https://nl.wikibooks.org/w/index.php?title=Speciaal%3AZoeken&ns0=1&ns1=1&ns2=1&ns3=1&ns4=1&ns5=1&ns6=1&ns7=1&ns8=1&ns9=1&ns10=1&ns11=1&ns12=1&ns13=1&ns14=1&ns15=1&ns102=1&ns103=1&ns104=1&ns105=1&redirs=1&search=hiddenStructure&fulltext=Uitgebreid+zoeken hiddenStructure]</s>
+*[[In mensentaal]]
+*PDF-uitvoer van [[Wiskunde/Rekenkunde]]
+*[[:Sjabloon:Niet afdrukken]]
+*[[w:NS 5400]]
+*[[Gebruiker:Erik Baas/De geschiedenis van C++]]
+
+----
+<div style="text-decoration: line-through;">
+The [[:mw:Extension:StringFunctions|StringFunctions]] extension has been merged with the [[:mw:Extension:ParserFunctions|ParserFunctions]] extension, per [[bugzilla:6455|bug 6455]].  These functions will be available once [[rev:50997|r50997]] is pushed live to the Wikimedia servers. (huidige versie: {{CURRENTVERSION}})
+
+The new functions include: 
+
+* len (<code><nowiki>{{#len:string}}</nowiki></code>) - provides the number of characters in a string.
+* pos (<code><nowiki>{{#Pos: string | needle | offset}}</nowiki></code>) - Finds first occurrence of "needle" in "string" starting at "offset".
+* rpos (<code><nowiki>{{#rpos: string | needle}}</nowiki></code>) - Finds last occurrence of "needle" in "string".
+* sub (<code><nowiki>{{#sub: string | start | length }}</nowiki></code>) - Returns substring of "string" starting at "start" and having "length" characters.
+* count (<code><nowiki>{{#count: string | substr }}</nowiki></code>) - Returns number of occurrences of "substr" in "string".
+* replace (<code><nowiki>{{#replace:string | from | to | limit }}</nowiki></code>) - Replaces each occurrence of "from" in "string" with "to", and "limit" replacements at most are performed.
+* explode (<code><nowiki>{{#explode:string | delimiter | position}}</nowiki></code>) - Breaks "string" into chunks separated by "delimiter" and returns the chunk identified by "position".
+
+The string parser functions will only work for strings up to a maximum length of 1000 characters.
+</div>
+
+==ToDo (SVG)==
+===Elementen===
+====Container-elementen====
+[[Scalable Vector Graphics/Elementen/a|a]] ·
+[[Scalable Vector Graphics/Elementen/clipPath|clipPath]] ·
+[[Scalable Vector Graphics/Elementen/defs|defs]] ·
+[[Scalable Vector Graphics/Elementen/g|g]] ·
+[[Scalable Vector Graphics/Elementen/mask|mask]] ·
+[[Scalable Vector Graphics/Elementen/marker|marker]] ·
+[[Scalable Vector Graphics/Elementen/pattern|pattern]] ·
+[[Scalable Vector Graphics/Elementen/svg|svg]] ·
+[[Scalable Vector Graphics/Elementen/switch|switch]] ·
+[[Scalable Vector Graphics/Elementen/symbol|symbol]]
+[[Scalable Vector Graphics/Elementen/tspan|tspan]]
+
+====Grafische elementen====
+[[Scalable Vector Graphics/Elementen/circle|circle]] ·
+[[Scalable Vector Graphics/Elementen/ellipse|ellipse]] ·
+[[Scalable Vector Graphics/Elementen/image|image]] (*) ·
+[[Scalable Vector Graphics/Elementen/line|line]] ·
+[[Scalable Vector Graphics/Elementen/path|path]] ·
+[[Scalable Vector Graphics/Elementen/polygon|polygon]] ·
+[[Scalable Vector Graphics/Elementen/polyline|polyline]] ·
+[[Scalable Vector Graphics/Elementen/rect|rect]] ·
+[[Scalable Vector Graphics/Elementen/text|text]] ·
+[[Scalable Vector Graphics/Elementen/use|use]] (*)
+
+:<span style="font-size: small;">*: by reference</span>
+
+====Overige elementen====
+[[Scalable Vector Graphics/Elementen/!--|!--]] ·
+[[Scalable Vector Graphics/Elementen/animateColor|animateColor]] ·
+[[Scalable Vector Graphics/Elementen/body|body]] ·
+[[Scalable Vector Graphics/Elementen/desc|desc]] ·
+[[Scalable Vector Graphics/Elementen/feBlend|feBlend]] ·
+[[Scalable Vector Graphics/Elementen/feColorMatrix|feColorMatrix]] ·
+[[Scalable Vector Graphics/Elementen/feComponentTransfer|feComponentTransfer]] ·
+[[Scalable Vector Graphics/Elementen/feComposite|feComposite]] ·
+[[Scalable Vector Graphics/Elementen/feFlood|feFlood]] ·
+[[Scalable Vector Graphics/Elementen/feFuncA|feFuncA]] ·
+[[Scalable Vector Graphics/Elementen/feFuncR|feFuncR]] ·
+[[Scalable Vector Graphics/Elementen/feFuncG|feFuncG]] ·
+[[Scalable Vector Graphics/Elementen/feFuncB|feFuncB]] ·
+[[Scalable Vector Graphics/Elementen/feGaussianBlur|feGaussianBlur]] ·
+[[Scalable Vector Graphics/Elementen/feMerge|feMerge]] ·
+[[Scalable Vector Graphics/Elementen/feMergeNode|feMergeNode]] ·
+[[Scalable Vector Graphics/Elementen/feOffset|feOffset]] ·
+[[Scalable Vector Graphics/Elementen/fePointLight|fePointLight]] ·
+[[Scalable Vector Graphics/Elementen/feSpecularLighting|feSpecularLighting]] ·
+[[Scalable Vector Graphics/Elementen/filter|filter]] ·
+[[Scalable Vector Graphics/Elementen/foreignObject|foreignObject]] ·
+[[Scalable Vector Graphics/Elementen/linearGradient|linearGradient]] ·
+[[Scalable Vector Graphics/Elementen/radialGradient|radialGradient]] ·
+[[Scalable Vector Graphics/Elementen/stop|stop]] ·
+[[Scalable Vector Graphics/Elementen/textPath|textPath]] ·
+[[Scalable Vector Graphics/Elementen/title|title]] ·
+[[Scalable Vector Graphics/Elementen/tref|tref]] ·
+
+===Attributen===
+*120+... apart hoofdstuk, of alleen bij de elementen ?
+*Opsplitsen in stijl en overige ?
+
+===Andere pagina's===
+[[Scalable Vector Graphics/Elementen|Elementen]] (opsplitsen ?) ·
+[[Template:Navigatie SVG-elementen]] ? ·
+[[Template:SVG inhoud]]
+
+===(ex-)weespagina's===
+*[[Maatschappijleer/Werk]]
+*[[Maatschappijleer/Onderzoek]]
+*[[Maatschappijleer/Rechtsstaat/Nederlandse Grondwet]]
+*[[Onderwijs in relatie tot P2P/Toetsing aan de praktijk]]
+*[[Onderwijstechnologie/Voorbeelden onderwijstechnologische realisaties/Lichamelijke Opvoeding en Bewegingswetenschappen 3]]
+*[[Programmeren in BASIC/Commando's/Datatypes]]
+
+==Notes==
+[[Bestand:Wikibooks-logo-nl.svg|100px]]
+
+Logo: (~ File:Wikibooks-logo-nl.svg)
+ font-family:DejaVu Sans, bold
+ kleuren:
+ "WIKI"  #0b2645 rgb(11, 38,  69)
+ "BOOKS" #0a4e98 rgb(10, 78, 152)
+
+ Boeken:            rand:
+ rgb(233, 221, 175) rgb(21, 48, 79)
+ rgb(244, 238, 215) rgb(42, 98, 161)
+ rgb(253, 252, 248) rgb(95, 150, 211)
+
+{| {{Wikitable}} style="text-align: center;"
+|-
+|background||wikibooks-wordmark-vi.svg||wikibooks-wordmark-vi-2.svg
+|- 
+|default||[[Bestand:wikibooks-wordmark-vi.svg]]||[[Bestand:wikibooks-wordmark-vi-2.svg]]
+|- style="background-color: white; color: black;"
+|white||[[Bestand:wikibooks-wordmark-vi.svg]]||[[Bestand:wikibooks-wordmark-vi-2.svg]]
+|- style="background-color: black; color: white;"
+|black||[[Bestand:wikibooks-wordmark-vi.svg]]||[[Bestand:wikibooks-wordmark-vi-2.svg]]
+|}
+
+ #0B2645 resp. #0A4E98
+
+*Commons: [[c:User:Erik Baas]]
+*Meta: [[m:User:Erik Baas]]
+*Wikidata: [[d:User:Erik Baas]]
+
+ ┌─┬─┐
+ │ │ │
+ ├─┼─┤
+ │ │ │
+ └─┴─┘
+
+[[en:User:Erik Baas]]

@@ -1,0 +1,13 @@
+{{Opmaak
+| Titel = Onderzoekend leren
+| Object = Boek
+| Bron = Onderzoekend leren.webp
+| Definitie = {{Wp|Onderzoekend_leren|Onderzoekend leren}} is jezelf ontwikkelen door vragen over iets te formuleren en die trachten te beantwoorden volgens de criteria van wetenschap.
+| Beschrijving = Onderzoekend leren is vooral geschikt voor de lerende met een betekenisgerichte [[leerstijl]] in een bepaalde context die [[Zelf leren|zelf wil leren]].<br>Het wordt in dat geval ervaren als een [[speels leren|speelse vorm van leren]].<br>Onderzoekende leeractiviteiten zijn analyseren, beoordelen, experimenteren, exploreren, inspecteren, interpreteren, observeren, reflecteren, testen en vaststellen.<br>Elke leerling is in staat tot onderzoekend leren, ook al heeft men een verstandelijke beperking.
+| Formaat = html
+| Voortgang = 25
+| Support = Signaleer
+| Referentie = wikipedia
+| Collectie = Leren
+| Onderdeel = Betekenis, Methode, Vrijheid, Technologie
+}}

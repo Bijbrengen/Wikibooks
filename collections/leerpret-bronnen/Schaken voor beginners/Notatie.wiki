@@ -1,0 +1,14 @@
+{{Opmaak}}
+Het is belangrijk om de notaties te leren vertalen in beelden van de opstelling en de veranderingen daarin. Een manier om dit te trainen is door schaakboeken te bestuderen zonder een (digitaal) schaakbord.
+== AN ==
+{{Wp|Schaaknotatie|Algebraïsche notatie}} (AN) is de standaardcodering voor schaakzetten en gebruikt een systeem van coördinaten (letters voor de rij en cijfers voor de kolom) om elk veld op het schaakbord te labelen. Algebraïsche notatie is geïntroduceerd in het schaken om de bewegingen van de stukken te documenteren en om de stappen die nodig zijn om een bepaalde positie te bereiken in te schrijven. Het biedt ook een handige manier om schaakpartijen te analyseren en te leren van schaakmeesters. Door de algebraïsche notatie kunnen spelers hun voorgaande partijen herzien en hun zwakke punten identificeren, waardoor ze kunnen leren en hun spel verbeteren.
+
+Schaakzetten worden niet beschermd door de {{Wp|Auteursrecht|auteursrechtwetgeving}} omdat, net als sportuitslagen en statistieken, het geen creatieve werken van auteurschap zijn. Let wel, de annotaties die iemand bij een schaakwedstrijd geeft, zijn wel beschermd.
+
+== FEN ==
+{{Wp|Forsyth-Edwards_Notation|Forsyth-Edwards Notation}} (FEN) is de standaardcodering voor het beschrijven van schaakopstellingen met ASCII-karakters. De Forsyth-Edwards Notation (FEN) is uitgevonden door David Forsyth en is een notatie om schaakstellingen vast te leggen. Het is ontworpen om schaakposities te beschrijven op een eenvoudige en logische manier. FEN is een standaardformaat voor het verzenden en opslaan van schaakstellingen, waardoor het gemakkelijk is voor computers om deze te interpreteren. Het kan ook worden gebruikt om schaakspelers te helpen bij het analyseren van een schaakstelling.
+
+== PGN ==
+{{Wp|Portable_Game_Notation|Portable Game Notation}} (PGN) is de standaardcodering waarmee schaakspellen worden opgeslagen in computerbestanden. Portable Game Notation (PGN) is een standaardnotatie voor het opslaan en uitwisselen van schaakspelen. Het is een veel meer uitgebreide notatie dan FEN en slaat niet alleen de stellingen van een spel op, maar ook de stappen die gemaakt zijn tijdens het spel. PGN is ook compatibel met veel verschillende schaakprogramma's en biedt daarom meer flexibiliteit bij het opslaan en uitwisselen van schaakspelen.
+
+{{Opmaak | Voettekst}}

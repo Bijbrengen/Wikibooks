@@ -1,0 +1,14 @@
+{{Opmaak
+| Titel = Cognitieve zelftherapie
+| Object = Boek
+| Bron = P_Psychology2.png
+| Definitie = '''Cognitieve Zelftherapie''' is een gestructureerd en geprotocolleerd programma dat zich richt op het verbeteren van sociaal functioneren en interpersoonlijke relaties door patiënten zelf controle over het therapieproces te laten nemen, met name de herstructurering van cognitieve schema's.
+| Beschrijving = '''Cognitieve Zelftherapie''' wordt toegepast bij individuen die kampen met psychische problemen zoals chronische depressie of gegeneraliseerde angststoornissen. Het unieke aan CZT is dat het deelnemers in staat stelt om actief deel te nemen aan hun eigen genezingsproces. Door middel van educatie en begeleiding leren zij hun eigen denkpatronen en overtuigingen te identificeren, uit te dagen en te veranderen.<br>Dit zelfgestuurde aspect van CZT sluit nauw aan bij de principes van [[Zelf leren/Zelfontdekking|zelfontdekking]] en [[Zelf leren/Zelfbekwaamheid|zelfbekwaamheid]], waarbij het individu geleerd wordt om eigen interne bronnen aan te boren voor persoonlijke groei en herstel.<br>Onderzoek naar CZT heeft aangetoond dat deze methode minstens even effectief kan zijn als traditionele behandelvormen, met voordelen op het gebied van kosteneffectiviteit en de bevordering van zelfregie bij patiënten. Deze vorm van therapie benadrukt de waarde van zelfleren en zelfmanagement als cruciale elementen in de behandeling van psychische stoornissen.
+| Formaat = html
+| Voortgang = 10
+| Support = Signaleer
+| Referentie = 
+| Collectie = Zelftherapie
+| Onderdeel = Inleiding, Online
+}}
+{{Fase|0}}

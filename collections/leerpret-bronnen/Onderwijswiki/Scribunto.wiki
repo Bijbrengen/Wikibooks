@@ -1,0 +1,46 @@
+{{Opmaak}}
+'''Scribunto''' (Latijn voor "zij zullen schrijven!") is een MediaWiki-extensie die een framework biedt voor het inbedden van scripttalen in wikipagina's. Het is ontwikkeld om de beperkingen van standaard wikitext en sjablonen te overwinnen, waardoor complexe logica, geavanceerde gegevensverwerking en verbeterde prestaties mogelijk zijn.
+
+== Talen ==
+Hoewel Scribunto is ontworpen om taalonafhankelijk te zijn, ondersteunt het momenteel voornamelijk '''Lua''' (versie 5.1). Sinds de release in 2012 is Lua de standaard scripttaal voor MediaWiki geworden, en wordt het intensief gebruikt op projecten zoals Wikipedia voor het beheren van infoboxen en complexe data.
+
+== Veiligheid en Sandboxing ==
+Veiligheid is een topprioriteit voor Scribunto. Scripts draaien in een streng beveiligde "sandbox":
+* '''Beperkte omgeving''': Gevaarlijke functies (zoals `os.execute`, `require` naar het bestandssysteem, of directe toegang tot serverbronnen) zijn uitgeschakeld of vervangen door veilige, wiki-specifieke alternatieven (`mw.loadData`).
+* '''Resourcebeheer''': Er worden strikte limieten opgelegd aan het CPU-gebruik (vaak 7 seconden) en het geheugengebruik (vaak 50MB) om te voorkomen dat een script de server overbelast.
+* '''Execution Engines''': 
+** '''luastandalone''': Draait Lua in een apart proces.
+** '''luasandbox''': Een PHP-extensie die een nog snellere en veiligere omgeving biedt.
+
+== MediaWiki Integratie ==
+* '''Module Naamruimte''': Alle scripts worden opgeslagen als pagina's in de `Module:` naamruimte.
+* '''<nowiki>{{#invoke:}}</nowiki>''': Modules worden aangeroepen vanaf wikipagina's met de parserfunctie `<nowiki>{{#invoke:ModuleNaam|FunctieNaam|Argumenten}}</nowiki>`.
+* '''Frame Object''': Argumenten en de paginacontext worden via een "frame"-object doorgegeven aan de Lua-functies.
+* '''Output''': De module geeft een string terug die door MediaWiki wordt gerenderd als normale wikitext.
+
+== Hulpmiddelen voor Ontwikkelaars ==
+* '''CodeEditor''': Biedt syntax-highlighting, automatisch inspringen en haakjes-matching direct in de browser.
+* '''Debug Console''': Een console onderaan de module-editor voor het testen van codefragmenten en het bekijken van `mw.log()` output.
+* '''ScribuntoUnit''': Een framework voor het schrijven van unit-tests om de betrouwbaarheid van modules te waarborgen.
+* '''Scribunto Bibliotheken''': MediaWiki-specifieke bibliotheken zoals `mw.title`, `mw.uri`, `mw.site` en `mw.language` geven toegang tot wiki-gegevens.
+
+== Bibliotheken ==
+[https://www.mediawiki.org/wiki/Extension:Scribunto/Lua_reference_manual#Base_functions De basisfuncties-bibliotheek] bevat functies voor basisoperaties (strings, tables, math). Er zijn een aantal specifieke Scribunto-bibliotheken beschikbaar voor gebruik in Mediawiki:
+* [https://www.mediawiki.org/wiki/Extension:Scribunto/Lua_reference_manual#Title_library '''mw.title''']: Toegang tot informatie over de titel en naamruimte.
+* [https://www.mediawiki.org/wiki/Extension:Scribunto/Lua_reference_manual#Site_library '''mw.site''']: Informatie over de instellingen en configuratie van de site.
+* [https://www.mediawiki.org/wiki/Extension:Scribunto/Lua_reference_manual#Language_library '''mw.language''']: Informatie over de taal en vertalingen.
+* [https://www.mediawiki.org/wiki/Extension:Scribunto/Lua_reference_manual#Frame_object '''Frame object''']: Toegang tot de paginacontext en parser-argumenten.
+* [https://www.mediawiki.org/wiki/Extension:Scribunto/Lua_reference_manual#HTML_library '''mw.html''']: Voor het genereren van HTML-tags en structuren.
+
+== Circulair en Beperkingen ==
+In het kader van het werken met Scribunto stuiten ontwikkelaars vaak op specifieke beperkingen om de integriteit en prestaties te waarborgen:
+* '''Geen directe API-calls''': Om circulaire bewerkingen en overbelasting te voorkomen, kun je niet rechtstreeks externe API's aanroepen vanuit Lua-modules.
+* '''Circulaire afhankelijkheden''': Het systeem blokkeert pogingen waarbij modules elkaar in een oneindige lus aanroepen.
+* '''Paginagegevens''': Toegang tot gegevens van andere pagina's is beperkt om de laadtijd te garanderen.
+
+Ondanks deze beperkingen zijn er manieren om met data te werken:
+* '''MediaWiki API via JavaScript''': Asynchroon gegevens ophalen aan de client-zijde.
+* '''Preloaded Data''': Gegevens vooraf verwerken en opslaan op een door Lua leesbare subpagina.
+* '''Speciale Pagina's''': Gebruik van ingebouwde overzichten zoals "Speciaal:Categorieën".
+
+{{Opmaak | Voettekst}}

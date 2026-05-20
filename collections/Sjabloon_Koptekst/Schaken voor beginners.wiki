@@ -1,0 +1,22 @@
+{|width=300px style="margin: 1em 0 1em 1em;" class="toccolours floatright noprint"
+|
+{{Koptekst/Spel}}
+----
+|-
+|[[File:Schaken.svg|center|100 px]]
+|-
+|style="text-align:center;font-size: 135%;"|[[Schaken voor beginners]]
+|-
+|style="font-size: 85%;" align=left|
+
+* [[Schaken voor beginners/Regels|Regels]]
+* [[Schaken voor beginners/Notatie|Notatie]]
+* [[Schaken voor beginners/Verloop|Tactiek]]
+* [[Schaken voor beginners/Stukken|Stukken]]
+* [[Schaken voor beginners/Strategie|Strategie]]
+* [[Schaken voor beginners/Verloop|Verloop]]
+* [[Schaken voor beginners/Wedstrijd|Wedstrijd]]
+----
+|}<noinclude>
+[[Categorie:Sjablonen voor een bepaald boek]]
+</noinclude>

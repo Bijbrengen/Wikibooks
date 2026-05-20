@@ -1,0 +1,173 @@
+Portaal naar deelonderwerpen op het gebied van informatica.
+
+Pagina's kunnen afgedrukt worden naar pdf en gecombineerd worden met eigen voorbladen, oefeningen en andere info. Uiteraard moet wel de licentie '[https://creativecommons.org/licenses/by-sa/3.0/deed.nl Creative Commons Naamsvermelding-GelijkDelen]' gerespecteerd worden. Meer info staat onderaan iedere pagina.
+
+<div style="columns: 4 250px;">
+__TOC__
+{{Marge|1.5em;}}
+== [[Basiskennis informatica]] ==
+Onder andere:
+* [[Computers voor beginners]]
+* [[Wikijunior:Informatica]]
+* [[Basiskennis informatica/Geschiedenis van de computer|Geschiedenis van de computer]]
+* [[Basis ICT]]
+* [[Basiskennis informatica/Capaciteit|Capaciteit]]
+* [[Basiskennis informatica/Snelheid|Snelheid]]
+* [[Basiskennis informatica/Talstelsels|Talstelsels]]
+* [[Basiskennis informatica/Codering|Codering]] (programmeren), bijvoorbeeld:
+** [[Basiskennis informatica/Codering/ASCII|ASCII]]
+** [[Basiskennis informatica/Codering/Unicode|Unicode]]
+* [[Basiskennis informatica/Automatiseringsproces|Automatiseringsproces]] (van idee tot geïmplementeerde software)
+** [[Implementeren van informatiesystemen]]
+
+{{Bij elkaar houden|inhoud=
+== [[Basiskennis informatica/Hardware|Hardware]] ==
+* [[In mensentaal/Onderdelen van een computer]]
+* [[Computersystemen/Moederbord|Moederbord]]
+* [[Computersystemen/Computerbussen|Computerbussen]]
+* [[Computersystemen/Processor|Processor]]
+* [[Computersystemen/Geheugen|Geheugen]]
+* [[Computersystemen/Opslagmedia|Opslagmedia]]
+* [[Overklokken]]
+* [[Computersystemen/Koeling|Koeling]]
+* [[Computersystemen/Randapparatuur|Randapparatuur]]
+* [[Computersystemen/Spanningsbron|Spanningsbron]] (PSU, batterijen, USP)
+* [[Arduino]] microcontroller
+}}
+
+{{Bij elkaar houden|inhoud=
+== [[Basiskennis informatica/Software|Software]] ==
+* [[Open standaarden]]
+** [[OpenOffice.org]]
+** [[Scalable Vector Graphics]] (afbeeldingen in SVG-bestandsformaat)
+** [[webERP]] (Enterprise Resource Planning) 
+* [[Programmeren, de basis]]
+}}
+
+{{Bij elkaar houden|inhoud=
+=== [[Besturingssystemen]] ===
+* [[Besturingssystemen|Inleiding]], als achtergrondinfo
+* [[Computersystemen/Opstartproces|Opstartproces]]
+* [[Computersystemen/Opslagbeheer|Opslagbeheer]]
+* [[Computersystemen/Bestandsbeheer|Bestandsbeheer]] (oa. synchronisatie)
+* [[Computersystemen/Gegevensherstel|Gegevensherstel]]
+* [[Gebruik van de opdrachtprompt|De opdrachtprompt]]
+* [[Ontwerp en bouw een besturingssysteem]]
+* [[Linux voor beginners]]
+* [[Linux Systeembeheer]]
+* [[LXDE]]
+}}
+
+{{Bij elkaar houden|inhoud=
+=== Programmeertalen ===
+Enkele voorbeelden:
+* [[Programmeren in BASIC|BASIC]]
+* [[Programmeren in C|C]] ; [[Programmeren in C++|C++]] 
+* [[Programmeren in Go|Go]]
+* [[Programmeren in Java|Java]] ; [[Programmeren in JavaScript|JavaScript]]
+* [[Programmeren in Pascal|Pascal]]
+* [[Programmeren in Python|Python]]
+Zie [[:Categorie:Programmeertaal]] voor meer programmeertalen.
+}}
+
+{{Bij elkaar houden|inhoud=
+=== Scripttalen ===
+* [[Programmeren in ASP.NET|ASP.NET]] en [[Programmeren in ASP.net 2.0 N-Tier Tutorial|ASP.net 2.0 N-Tier Tutorial]]
+* [[Programmeren in PHP|PHP]]
+}}
+
+=== Mark-uptalen/opmaaktalen ===
+* [[Basiskennis informatica/Codering/HTML|HTML]]
+* [[LaTeX]]
+* [[Inleiding MediaWiki]]
+* [[Handboek MediaWiki]]
+* [[Scalable Vector Graphics]] 
+
+=== Databanken en gegevens ===
+* [[Oracle]]
+* [[Basiskennis informatica/Automatiseringsproces#Gegevensanalyse|Gegevensanalyse]]
+
+=== Softwarepakketten ===
+* [[Geo-visualisatie]] (kaarten maken met GIS)
+* [[Inleiding MediaWiki]]
+* [[Handboek MediaWiki]]
+* [[Moodle]] (websites en cursussen maken)
+* [[webERP]] (Enterprise Resource Planning) 
+
+{{Bij elkaar houden|inhoud=
+==== [[Kantoorsoftware]] ====
+* [[Microsoft Office/Klembord|Klembord]]
+* [[Maple]] (rekenpakket)
+* [[Microsoft Excel]]
+* [[Microsoft Publisher]]
+* [[OpenOffice.org]]
+* [[Tekstverwerker]], waaronder:
+** [[Microsoft Word]]
+}}
+
+{{Bij elkaar houden|inhoud=
+==== Multimedia ====
+* [[Inleiding MediaWiki]]
+* [[Handboek MediaWiki]]
+* [[Handboek Wikimedia Commons]]
+* [[Leerboek Wikipedia]]
+* [[OpenStreetMap]]
+* [[Werken met MKVToolnix]]
+* [[Computerspellen]]
+}}
+
+{{Bij elkaar houden|inhoud=
+== [[Computersystemen]] ==
+Geïntegreerde hardware en software
+* [[Computersystemen/Werking computersystemen|Werking computersystemen]]
+* [[Computersystemen/Soorten computersystemen|Soorten computersystemen]]
+* [[Datacommunicatie in informatica]]
+* [[Basiskennis_informatica/Automatiseringsproces#Fase VII: Systeembeheer|Systeembeheer]]
+* [[Computersystemen/Groene ICT|Groene ICT]]
+}}
+
+== [[Computernetwerken]] ==
+* [[Computernetwerken voor gevorderden]]
+** [[Computernetwerken voor gevorderden/Netwerkbekabeling|Netwerkbekabeling]]
+** [[Computernetwerken voor gevorderden/Netwerkprotocollen|Netwerkprotocollen]]
+** [[Computernetwerken voor gevorderden/Draadloze communicatie|Draadloze communicatie]]
+
+Zie ook:
+* [[Computersystemen/Netwerkbegrippen|Netwerkbegrippen]]
+* [[Computersystemen/Netwerkcomponenten|Netwerkcomponenten]]
+* [[Computersystemen/Netwerkstappen|Netwerkstappen]]
+* [[Computersystemen/Netwerkdiagnose|Netwerkdiagnose]]
+* [[Netwerkbeheer]]
+
+=== Internet ===
+* [[Basisboek internet]]
+* [[In mensentaal/Internet]]
+* [[Veilig op het internet]]
+* [[Firefox]]
+
+== [[Basiskennis informatica/Veiligheid|Veiligheid]] ==
+* {{Wp|Toegangscontrole|Toegangscontrole}}:
+** {{Wp|Identificatie (informatica)|Identificatie}}
+** {{Wp|Authenticatie|Authenticatie}}: [[Veilig op het internet/Wachtwoorden|wachtwoorden]], {{Wp|Biometrie|biometrie}}
+** {{Wp|Autorisatie|Autorisatie}}
+* [[Veilig op het internet|Veilig op het internet]], met o.a.
+** [[Veilig op het internet/Back-up|back-ups]]
+** computerbedreigingen, waaronder: {{Wp|malware}}, [[Veilig op het internet/Spam|spam]], [[Veilig op het internet/Phishing|phishing]], [[Veilig op het internet/Hoax|hoaxes]], [[Privacy|privacy]], {{Wp|Social engineering (informatica)|social engineering}}
+
+== Elektriciteit en Elektronica ==
+* [[Computersystemen/Elektriciteit|Elektriciteit]]
+* [[Computersystemen/Spanningsbron|Spanningsbron]] (PSU, batterijen, USP)
+
+== Toepassingen ==
+* [[Onderwijstechnoloog]]
+* [[Aan de slag met BitTorrent]]
+
+== Overige onderwerpen ==
+* [[Basiskennis informatica/Inleiding#Over mensen in de informatica|Beroepen in de informatica]]
+</div>
+
+== Zie ook ==
+* [[Boekenplank:Multimediale wetenschappen]]
+
+[[Categorie:Informatica|*]]
+[[Categorie:Portaal|Informatica]]

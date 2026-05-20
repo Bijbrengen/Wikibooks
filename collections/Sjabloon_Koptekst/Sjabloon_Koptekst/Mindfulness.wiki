@@ -1,0 +1,33 @@
+{|align=right width=300px style="margin: 1em 0 1em 1em;" class=toccolours 
+|
+{{Koptekst/Psychologie}}
+----
+|-
+|[[File:Cartoon Meditating Man.svg|center|100px]]
+|-
+|style="text-align:center;font-size: 135%;"|[[Mindfulness]]
+|-
+|style="font-size: 85%;" align=left|
+
+* [[Mindfulness/Concept|Concept]]
+* [[Mindfulness/Onderwijs|Onderwijs]]
+* [[Mindfulness/MBSR|MBSR]]
+* [[Mindfulness/Kabat-Zinn|Kabat-Zinn]]
+* [[Mindfulness/MBCT|MBCT]]
+* [[Mindfulness/Meditatie|Meditatie]]
+* [[Mindfulness/Acceptatie|Acceptatie]]
+* [[Mindfulness/Karma|Karma]]
+* [[Mindfulness/Interzijn|Interzijn]]
+* [[Mindfulness/Focussen|Focussen]]
+* [[Mindfulness/Gatha|Gatha]]
+* [[Mindfulness/Chöd|Chöd]]
+* [[Mindfulness/Tonglen|Tonglen]]
+* [[Mindfulness/Lucide droom|Lucide droom]]
+* [[Mindfulness/Schaken|Schaken]]
+* [[Mindfulness/TM|TM]]
+
+----
+|}<noinclude>
+[[Categorie:Sjablonen voor een bepaald boek]]
+
+</noinclude>

@@ -1,0 +1,13 @@
+== Bronnen ==
+{{#If:{{{ook|}}} | 
+=== Zie ook ===
+{{{ook}}} 
+}}
+=== Verdieping ===
+De volgende open en gratis bronnen kunnen helpen bij verdere verdieping in deze materie:
+{{#If:{{{inhoud|}}} | {{{inhoud}}} | {{Verdieping}} }}
+{{Referentie|bronvermelding=
+<references/>}}
+<includeonly>
+{{Sub}}</includeonly>
+<noinclude>[[Categorie:Subsjablonen]]</noinclude>

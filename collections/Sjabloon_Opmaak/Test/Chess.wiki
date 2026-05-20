@@ -1,0 +1,18 @@
+{{Opmaak
+| Object = Schaak
+| Definitie = Barnes Opening
+| Beschrijving = De eerste zet van de Barnes opening is '''f3'''
+| Orientatie = wit
+| Support = Help
+| Kleur = ,#345612,
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|pd|pd|pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |pl|  |  |
+2 |pl|pl|pl|pl|pl|  |pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}

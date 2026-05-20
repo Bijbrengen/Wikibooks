@@ -1,0 +1,28 @@
+{{Opmaak}}
+MediaWiki extensies bieden een breed scala aan mogelijkheden om de functionaliteit van de wiki uit te breiden, die verder gaan dan wat met Scribunto/Lua-modules mogelijk is. Een van de belangrijkste extensies voor een moderne wiki is de [[Onderwijswiki/Scribunto|Scribunto-extensie]], die het mogelijk maakt om volledige programmeertalen zoals Lua te gebruiken binnen de wiki. 
+
+Extensies kunnen bijvoorbeeld nieuwe parserfuncties, speciale pagina's, API-modules, en meer toevoegen aan MediaWiki. Specifiek met betrekking tot API calls, maken extensies het mogelijk om nieuwe API-modules te creëren en te registreren, die toegankelijk zijn via de MediaWiki API. Dit betekent dat, afhankelijk van de extensie, het mogelijk is om API calls te maken die verder gaan dan de standaardfunctionaliteit die door Scribunto/Lua wordt geboden.
+
+== Voordelen ==
+Extensies kunnen nieuwe actiemodules, formaatmodules en query-submodules introduceren, die allemaal verschillende functies en mogelijkheden toevoegen aan de MediaWiki API. Elke type module heeft zijn eigen registratiemethode en vereisten voor implementatie, waardoor ontwikkelaars de functionaliteit van hun wiki kunnen aanpassen aan specifieke behoeften.
+
+Het belangrijkste is dat, terwijl Scribunto/Lua bepaalde beperkingen heeft, zoals de beperkingen op het maken van externe API calls om circulaire bewerkingen en overbelasting van de server te voorkomen, extensies een mechanisme bieden om dergelijke functionaliteiten veilig te implementeren, mits correct ontworpen en gebruikt.
+
+Het is echter cruciaal om op te merken dat niet alle extensies gelijk zijn gemaakt. Sommige zijn ontwikkeld door de MediaWiki gemeenschap of door derden, en hun compatibiliteit, veiligheid, en onderhoud kunnen variëren. Daarom is het belangrijk om elke extensie zorgvuldig te beoordelen en te testen voordat deze in een productieomgeving wordt geïmplementeerd. Dit omvat het bekijken van documentatie, gebruikersfeedback, en compatibiliteit met de huidige versie van MediaWiki.
+
+In het algemeen kunnen extensies een krachtige manier zijn om de functionaliteit van MediaWiki uit te breiden, inclusief het mogelijk maken van API calls die anders niet mogelijk zouden zijn met alleen Scribunto/Lua-modules. Ontwikkelaars die geïnteresseerd zijn in het creëren van uitgebreide functionaliteiten of integraties met externe systemen, kunnen overwegen om bestaande extensies te gebruiken of nieuwe extensies te ontwikkelen als een manier om hun doelen te bereiken.
+
+== Bouw ==
+Bij het ontwikkelen van extensies voor MediaWiki in PHP, begin je met het vastleggen van je extensie in een extension.json bestand, waarin je details zoals naam, auteur, url, beschrijving, versie, licentie en type van je extensie specificeert. Dit is belangrijk voor de registratie van je extensie binnen het MediaWiki-systeem en voor de zichtbaarheid op de "Special:Version" pagina van je MediaWiki-installatie. Het gebruik van een extension.json bestand is standaard vanaf MediaWiki 1.25​​.
+
+Een PHP extensie kan variëren van het toevoegen van nieuwe parserfuncties, speciale pagina's, API-modules, en meer. Dit biedt een bredere scope van mogelijkheden vergeleken met Scribunto/Lua-modules die zich meer richten op het manipuleren van tekst en data binnen de context van wiki pagina's.
+
+Voor de ontwikkeling van een extensie is basiskennis van PHP noodzakelijk, en het is aan te raden om vanuit een bestaande extensie zoals "Extension:BoilerPlate" te beginnen. Deze boilerplate biedt een sjabloon voor het structureren van je extensie, inclusief voorbeelden voor het definiëren van speciale pagina's, het gebruik van hooks, en het toevoegen van configuratievariabelen​​.
+
+Voor het installeren van een extensie, download je eerst de extensie en plaats je deze in de extensions/ directory van je MediaWiki-installatie. Vervolgens activeer je de extensie door wfLoadExtension( 'ExtensionName' ); toe te voegen aan je LocalSettings.php. Dit proces kan variëren afhankelijk van de specifieke vereisten van de extensie, dus het is belangrijk om de bijgevoegde documentatie zorgvuldig te lezen​​.
+
+De procedure voor het lokaal ontwikkelen van een extensie omvat het opzetten van een MediaWiki-omgeving (lokaal of via een ontwikkelomgeving zoals MediaWiki-Vagrant), het schrijven en testen van je PHP-code binnen deze omgeving, en uiteindelijk het indienen van je wijzigingen voor beoordeling via Gerrit, de code review tool van MediaWiki. Dit zorgt ervoor dat je wijzigingen uiteindelijk kunnen worden samengevoegd met de hoofdcodebase en mogelijk geïntegreerd worden in de MediaWiki-software​​.
+
+Vergeleken met Scribunto/Lua bieden PHP-extensies de mogelijkheid om dieper in te grijpen in de functionaliteit en de werking van MediaWiki. Ze stellen ontwikkelaars in staat om complexe functionaliteiten en integraties te bouwen die verder gaan dan de mogelijkheden van Scribunto/Lua-modules. Het ontwikkelen van extensies vereist echter een goede kennis van PHP en het MediaWiki-framework, evenals een begrip van de best practices en beveiligingsmaatregelen die van toepassing zijn op MediaWiki-ontwikkeling.
+
+{{Opmaak | Voettekst}}

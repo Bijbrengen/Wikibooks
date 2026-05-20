@@ -1,0 +1,7 @@
+{{Hiddencat}}
+{{Cat
+|onderwerp= ''pagina's die de [[Module:Layout]] aanroepen''
+|detailomschrijving= Het betreft pagina's die fouten in de [[Module:Layout]] blootleggen.
+|broodkruimel= [[:Categorie:Wikibooks:Pagina's met scriptfouten|Scriptfouten]] of [[:Categorie:Module Layout Ontwerpfouten|ontwerpfouten]].
+|overig=
+}}

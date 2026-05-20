@@ -1,0 +1,15 @@
+﻿{{Opmaak
+| Titel = Entreprenasium
+| Object = Boek
+| Bron = Map You the Projects Schedule NL.png
+| Definitie = Van een entreprenasium kan men spreken als binnen een eigen afdeling leerlingen, docenten en de schoolleiding zich richten op ondernemend leren.
+| Beschrijving = Het entreprenasium stelt geen eisen aan hoe men doet! Wel streven de leerlingen naar de leerdoelen, de docenten naar de trainingsdoelen en de school naar de implementatiedoelen van ondernemend leren.
+| Formaat = html
+| Voortgang = 100
+| Support = Signaleer
+| Referentie = wikipedia
+| Collectie = Onderwijs
+| Onderdeel = Inleiding, Strategie, Projecten, Fasen, Onderbouw, Middenbouw, Bovenbouw, Rollen
+}}
+{{Boek}}
+{{Fase|4}}

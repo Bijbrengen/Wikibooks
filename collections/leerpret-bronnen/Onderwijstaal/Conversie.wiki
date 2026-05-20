@@ -1,0 +1,19 @@
+{{Opmaak}}
+Een krachtige manier om '''Freell''' te gebruiken is door het automatiseren van de conversie van beschrijvingen van leerarchitecturen naar '''Freell'''-statements.
+
+=== Hoe het werkt ===
+Het conversieproces wordt gefaciliteerd door een AI, die de verstrekte onderwijsbeschrijving interpreteert en vertaalt naar de '''Freell'''-taal.
+
+# '''Gebruikersinvoer''': De gebruiker voert een bestaand onderwijsontwerp in. Dit kan een document zijn, zoals "Geavanceerde Data-analyse", of een andere tekstuele beschrijving.
+# '''AI-interpretatie''': De AI scant het document en probeert de kerncomponenten te abstraheren om deze naar Freell-statements te vertalen.
+# '''Interactie''': De AI gaat een 'dialoog' aan met de Freell-interpreter en dient de geabstraheerde statements in voor validatie of verdere begeleiding.
+# '''Iteratieve Verfijning''': Freell beoordeelt elk statement en geeft indien nodig feedback of correcties. De AI gebruikt deze feedback om zijn begrip te verfijnen en nauwkeurigere statements te genereren.
+# '''Voltooiing''': Dit proces gaat door totdat het gehele ontwerp succesvol is vertaald naar geldige Freell-statements.
+
+=== Voordelen ===
+* '''Efficiëntie''': Het automatiseert het tijdrovende proces van handmatige vertaling, wat tijd en moeite bespaart.
+* '''Nauwkeurigheid''': De iteratieve feedbackloop met de '''Freell'''-interpreter zorgt ervoor dat de uiteindelijke output strikt voldoet aan de syntaxis en semantiek van de taal, waardoor fouten tot een minimum worden beperkt.
+* '''Gebruiksvriendelijk''': Deze functie maakt het gemakkelijker voor mensen die niet bekend zijn met '''Freell''' om de taal te gebruiken, omdat ze kunnen beginnen met een formaat waar ze vertrouwd mee zijn.
+* '''AI-leren''': Dit proces dient als een vorm van training voor de AI, waardoor deze zijn begrip van zowel onderwijsontwerpen als de Freell-taal kan verbeteren.
+
+{{Opmaak | Voettekst}}

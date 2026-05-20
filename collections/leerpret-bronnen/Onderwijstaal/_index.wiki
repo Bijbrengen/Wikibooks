@@ -1,0 +1,14 @@
+{{Opmaak
+| Titel = Onderwijstaal
+| Object = Boek
+| Bron = Onderwijstaal.webp
+| Definitie = Een onderwijstaal is een domeinspecifieke, declaratieve programmeertaal die is ontworpen om onderwijsprocessen en -concepten te beschrijven, ondersteunend aan [[vrij leren]] en [[zelf leren]].
+| Beschrijving = Een onderwijstaal maakt het mogelijk om educatieve inhoud en leerdoelen te formuleren zonder de exacte methoden voor het bereiken daarvan te specificeren, waardoor het flexibel inzetbaar is in diverse leeromgevingen, inclusief die met kunstmatige intelligentie.
+| Formaat = html
+| Voortgang = 100
+| Support = Signaleer
+| Referentie = 
+| Collectie = Onderwijsplatform
+| Onderdeel = Inleiding, Vrijheid, Definitie, Typen, Declaratief, Prompting, Interpreter, Testen, Conversie, Toepassing, Voorbeeld, Leren, Logica, Portfolio, Leerbox
+| Dit boek gaat over het ontwikkelen van een unieke onderwijstaal die gericht is op het faciliteren van [[vrij leren]]] en [[zelf leren]]. Het belicht hoe deze taal, door haar declaratieve aard en domeinspecifieke focus op vrij leren, kan dienen als een krachtig hulpmiddel voor zowel menselijke lerenden als kunstmatige intelligentiesystemen. Door een nadruk te leggen op 'prompting' als een natuurlijke wijze van communicatie, wordt de taal een brug tussen traditionele onderwijsmethoden en de mogelijkheden van moderne technologieën. Het boek verkent de principes van het ontwerpen van deze taal, de toepassing ervan in educatieve contexten, en hoe het de interactie met en tussen AI-systemen kan verrijken.
+}}

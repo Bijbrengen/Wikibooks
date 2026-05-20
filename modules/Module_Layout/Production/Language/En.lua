@@ -1,0 +1,63 @@
+local LANGUAGE = {};
+
+LANGUAGE.TEMPLATENAME = "Layout";
+
+local HOOK = {};
+HOOK.FORMAT         = { "Text", "HTML", "Header", "Footer" };
+HOOK.ORIENTATION    = { "Landscape",  "Portrait", "White", "Black" };
+HOOK.OBJECT         = { "Age", "Book", "Bookshelf", "Category", "Chapter", "Chess", "Concept", "Definition", "Description", "Gradient", "Infobox", "Logo", "Module", "Person", "Painting", "Progress", "Section", "Series", "Talk", "Template", "Toc", "User", "Wikijunior", "Wikipedia" };
+HOOK.PARAMETER      = { "Object", "Support", "Format", "Orientation", "Color", "Title", "Definition", "Description", "Progress", "Source", "Reference", "Collection", "Part" };
+HOOK.SUPPORT        = { "Ignore", "Signal", "Debug", "Help" };
+
+LANGUAGE.HOOK = HOOK;
+
+LANGUAGE.CHESS = {};
+LANGUAGE.CHESS.ABBREVIATION = {
+    kd = "black king",
+    kl = "white king",
+    qd = "black queen",
+    ql = "white queen",
+    rd = "black rook",
+    rl = "white rook",
+    bd = "black bishop",
+    bl = "white bishop",
+    nd = "black knight",
+    nl = "white knight",
+    pd = "black pawn",
+    pl = "white pawn",
+    ad = "black archbishop",
+    al = "white archbishop",
+    cd = "black chancelor",
+    cl = "white chancelor",
+    fd = "black upside-down king",
+    fl = "white upside-down king",
+    gd = "black upside-down queen",
+    gl = "white upside-down queen",
+    md = "black upside-down rook",
+    ml = "white upside-down rook",
+    ed = "black upside-down bishop",
+    el = "white upside-down bishop",
+    sd = "black upside-down knight",
+    sl = "white upside-down knight",
+    hd = "black upside-down pawn",
+    hl = "white upside-down pawn",
+    zd = "black champion",
+    zl = "white champion",
+    wd = "black wizard",
+    wl = "white wizard",
+    xx = "cross",
+    xo = "black circle",
+    oo = "white circle",
+    x0 = "zero",
+    x1 = "one",
+    x2 = "two",
+    x3 = "three",
+    x4 = "four",
+    x5 = "five",
+    x6 = "six",
+    x7 = "seven",
+    x8 = "eight",
+    x9 = "nine"
+}
+
+return LANGUAGE;

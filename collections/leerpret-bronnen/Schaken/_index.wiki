@@ -1,0 +1,9 @@
+{{Opmaak | 
+| Object = Reeks
+| Definitie = (Westers) [[w:Schaken|schaken]] is een strategisch spel voor twee spelers dat wordt gespeeld op een tevoren gemarkeerd oppervlak met 64 (8x8) velden.
+| Beschrijving = '''Schaken [[leren]] door [[Onbewust_leren|schakend leren]] en [[Leren_leren|lerend schaken]]!'''<br>Deze boekenserie is geschreven voor vier verschillende prestatieniveau's ([[w:FIDE-rating|FIDE-ratings]]).<br>'''Beginner''': ervaring tot 3 jaar.<br>'''Gevorderde''': ervaring tot 7 jaar.<br>'''Expert''': meer dan 7 jaar ervaring.<br>'''Meester''': een [[w:Fédération_Internationale_des_Échecs|FIDE]] titel behaald.
+| Referentie = wikipedia, wikijunior
+| Boekenplank = Spel
+| Voortgang = 60%
+| Onderdeel = Schaken &shy;voor &shy;beginners, Schaken &shy;voor &shy;gevorderden, Schaken &shy;voor &shy;experts, Schaken &shy;door &shy;meesters
+}}

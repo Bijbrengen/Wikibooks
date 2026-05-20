@@ -1,0 +1,551 @@
+[Event "Rated Rapid tournament https://lichess.org/tournament/jz70BdAq"]
+[Site "https://lichess.org/bqHScfFC"]
+[Date "2020.11.21"]
+[White "Bijbrengen"]
+[Black "maratkostrov"]
+[Result "0-1"]
+[WhiteElo "1108"]
+[BlackElo "1895"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit"]
+[StudyName "Openings"]
+[ChapterName "White 1. e4 c5 2. d4 cxd4 Sicilian Defense: Smith-Morra Gambit"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/RirxSsh9"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:05:00] } 2. d4 { [%clk 0:09:56] } 2... cxd4 { [%clk 0:04:58] } 3. Qxd4 { [%clk 0:09:52] } 3... Nc6 { [%clk 0:04:56] } 4. Qd3 { [%clk 0:09:29] } 4... d6 { [%clk 0:04:49] } 5. Be3 { [%clk 0:09:09] } (5. Nf3) 0-1
+
+
+[Event "Rated Rapid tournament https://lichess.org/tournament/PfUHcr2v"]
+[Site "https://lichess.org/MKckofqz"]
+[Date "2020.11.21"]
+[White "Bijbrengen"]
+[Black "JMK4"]
+[Result "1-0"]
+[WhiteElo "1117"]
+[BlackElo "1296"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[StudyName "Openings"]
+[ChapterName "White 1. e4 e5 2. Qh5 d6 - Westerinen - Kristinsson"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/WupHaKxs"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Qh5 { [%clk 0:09:55] } 2... d6 { [%clk 0:09:19] } 3. Bc4 { [%clk 0:09:48] } 3... g6 { [%clk 0:08:56] } 4. Qf3 { [%clk 0:09:44] } 4... Qe7 5. d3 Bg7 6. Nc3 Nf6 7. Bg5 c6 8. h4 h5 9. Nge2 Be6 10. O-O-O Nbd7 11. Rd2 O-O 12. Rhd1 b5 13. Bxe6 { Westerinen, Heikki MJ - Kristinsson, Jon, 1/2-1/2, Oslo CI, 1973, https://lichess.org/MTrzzTzv } 13... fxe6 14. Qg3 b4 15. Nb1 Qf7 16. Rf1 d5 17. f3 c5 18. Rdd1 Nh7 19. Be3 Rac8 20. Nd2 c4 21. dxc4 dxc4 22. c3 a5 23. Kb1 Rc6 24. Rc1 Rfc8 25. f4 bxc3 26. Nxc3 exf4 27. Bxf4 Qe7 28. e5 Nhf8 29. Nde4 Qb4 30. Rc2 Nc5 31. Bg5 Nd3 32. Bf6 Bh6 33. Ka1 Rb8 34. Nd6 Rc7 35. Bg5 Bg7 36. Bf6 Bh6 37. Bg5 Bg7 { Westerinen, Heikki MJ - Kristinsson, Jon, 1/2-1/2, Oslo CI, 1973, https://lichess.org/MTrzzTzv } 1-0
+
+
+[Event "Openings: White 1. e4 e5 2. Qh5 g6 King's Pawn Game: Wayward Queen Attack"]
+[Site "https://www.youtube.com/watch?v=o2ljGKyYuiE&t=628s"]
+[Date "2020.11.21"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[StudyName "Openings"]
+[ChapterName "White 1. e4 e5 2. Qh5 g6 King's Pawn Game: Wayward Queen Attack"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/rGU9gYjw"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2020.11.21"]
+[UTCTime "15:34:15"]
+
+1. e4 e5 2. Qh5 g6 3. Qxe5+ Be7 4. Qxh8 Bf6 (4... Kf8 5. Nc3 Bf6 6. Qxh7 d6) 5. Qxg8+ Ke7 6. Qxh7 *
+
+
+[Event "Openings: White 1. e4 e5 2. Qh5 Nc6 - Carlsen Perez"]
+[Date "2020.11.21"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[StudyName "Openings"]
+[ChapterName "White 1. e4 e5 2. Qh5 Nc6 - Carlsen Perez"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/cNhhoEL9"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2020.11.21"]
+[UTCTime "16:03:46"]
+
+1. e4 e5 2. Qh5 Nc6 3. Bc4 g6 4. Qf3 Nf6 5. Ne2 Bg7 6. d3 d6 7. h3 Na5 8. Nbc3 Nxc4 9. dxc4 Be6 10. Qd3 Nd7 11. b3 O-O 12. Be3 f5 13. f3 Qh4+ 14. Bf2 Qg5 15. Rg1 Nc5 16. Qe3 Qxe3 17. Bxe3 fxe4 18. Nxe4 Nxe4 19. fxe4 a6 20. Nc3 h5 21. Ke2 Kh7 22. Rgf1 Bh6 23. Bg1 Kg7 24. Nd5 Bxd5 25. cxd5 Rxf1 26. Rxf1 Rf8 27. Rxf8 Kxf8 28. Kd3 Ke8 29. Bf2 Bg5 30. Kc4 Kd7 31. a4 Kc8 32. b4 Kd7 33. b5 axb5+ 34. Kxb5 Bd2 35. c4 b6 36. Ka6 Kc8 37. g4 hxg4 38. hxg4 Bc3 39. Be3 Be1 40. Kb5 Kb7 41. Bc1 Bc3 42. Ba3 Be1 43. a5 Bxa5 44. c5 dxc5 45. Bb2 Be1 46. Bxe5 Bf2 47. Bf6 c4 48. Kxc4 c6 49. Be5 b5+ 50. Kb4 Kb6 51. Bd6 Be1+ 52. Kb3 cxd5 53. exd5 Kb7 54. Kc2 Kc8 55. Kd3 Kd7 56. Bc5 Bg3 57. Ke4 Bd6 58. Bd4 Ke7 59. Be3 Kd7 60. Kd4 Kc7 61. Bd2 Kb7 62. Kd3 Kb6 63. Kd4 Kb7 { Carlsen, M. - Dominguez Perez, L., 1/2-1/2, Saint Louis Blitz 2019, https://lichess.org/41H3T3wt } *
+
+
+[Event "Openings: White 1. e4 e5 2. Nf3 f6 - Damiano's Defense"]
+[Site "https://www.youtube.com/watch?v=XQuUHieJ2s0"]
+[Date "2020.11.19"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Damiano Defense, Damiano Gambit, Chigorin Gambit"]
+[StudyName "Openings"]
+[ChapterName "White 1. e4 e5 2. Nf3 f6 - Damiano's Defense"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/u9K7TmAv"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2020.11.19"]
+[UTCTime "07:04:36"]
+
+1. e4 e5 2. Nf3 f6 3. Nxe5 Qe7 (3... fxe5 { Now black steps into the trap. The variations that follow can lead to a winning advantage for white. } 4. Qh5+ g6 { This is the "best" move for white, but it still leads to serious material loss. } (4... Ke7 { This is the "wrong" move, it will end (except one escape with big loss for black) into mate. } 5. Qxe5+ Kf7 6. Bc4+ d5 (6... Kg6 7. Qf5+ Kh6 8. d4+ g5 9. h4 Be7 10. hxg5+ Kg7 11. Qf7#) 7. Bxd5+ Kg6 8. h4 h6 9. Bxb7 Bxb7 { Mate is inevitable. } (9... Bd6 { This is the only way for black to prevent mate. } 10. Qb5 (10. Qa5 Bxb7 11. Qf5#) 10... Nf6 11. Bxa8 Na6 12. Bb7) 10. Qf5#) 5. Qxe5+ { [%cal Ge5e8,Ge5h8] } 5... Qe7 6. Qxh8 Qxe4+ 7. Kd1 Qe6 (7... Qf4 8. f3 (8. Qxg8 Qxf2 (8... Qf7 9. Qxf7+ Kxf7) 9. Bb5 Nc6 10. Rf1 Qd4 11. Qxf8#) 8... Qf7 9. Qe5+) (7... Ne7 8. Nc3 Qf5 9. f3 d5 10. Qxh7) 8. Qxh7 Ne7 9. Qh8 d5) 4. Nf3 d5 (4... Qxe4+ 5. Be2 d5 6. O-O Ne7 7. Re1) 5. d3 dxe4 6. dxe4 Qxe4+ 7. Be2 $14 { Although this line does not lead to a real trap, white can still use its development speed as an advantage. } *
+
+
+[Event "TRAPS: trap 1 standard"]
+[Site "https://lichess.org/study/9itfAx1j/Yt7L4JPG"]
+[Date "2020.11.19"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Ahfms2027"]
+[Variant "Standard"]
+[ECO "C42"]
+[Opening "Petrov's Defense: Damiano Variation"]
+[StudyName "Openings"]
+[ChapterName "White 1. e4 e5 2. Nf3 Nf6 - Petrov's defence"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/XADTPFfo"]
+[UTCDate "2020.11.19"]
+[UTCTime "12:12:07"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 (3. d4 exd4 4. e5 Ne4 5. Qxd4) 3... Nxe4 (3... d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4) (3... Qe7 4. d4 d6 5. Nf3 Qxe4+ 6. Be2 Bf5 7. Na3 Qe7 8. O-O) 4. Qe2 Ng5 5. Nc6+ Qe7 6. Nxe7 Bxe7 7. d4 O-O 8. Qxe7 Nc6 9. Bc4 Re8 10. Qxe8# { 1-0 White wins by checkmate. } *
+
+
+[Event "Rated Rapid tournament https://lichess.org/tournament/NWUJwKhF"]
+[Site "https://lichess.org/mugaML4B"]
+[Date "2020.11.25"]
+[White "Bijbrengen"]
+[Black "Madfisher"]
+[Result "0-1"]
+[WhiteElo "1095"]
+[BlackElo "1824"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "C61"]
+[Opening "Ruy Lopez: Bird Variation"]
+[StudyName "Openings"]
+[ChapterName "White 1. e4 e5 2. Nf3 Nc6 - King's Knight Opening: Normal Variation"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/z820r81r"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:05:00] } 2. Nf3 { [%clk 0:09:58] } 2... Nc6 { [%clk 0:04:59] } 3. Bb5 { [%clk 0:09:51] } 3... Nd4 { [%clk 0:04:57] } 4. Nxe5 { [%clk 0:09:25] } (4. Nxd4 exd4 5. O-O) 4... Nxb5 { [%clk 0:04:53] } 5. Qh5 { [%clk 0:09:24] } 5... g6 { 0-1 White resigns. } { [%clk 0:04:46] } 0-1
+
+
+[Event "Openings: White 1. e4 g3 - d4 Bg7 - Robatsch (Modern) Defense"]
+[Site "https://www.youtube.com/watch?v=AtNlFBWBWPw"]
+[Date "2020.11.21"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Defense"]
+[StudyName "Openings"]
+[ChapterName "White 1. e4 g3 - d4 Bg7 - Robatsch (Modern) Defense"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/U4AP7TG2"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2020.11.21"]
+[UTCTime "18:32:31"]
+
+1. e4 g6 { Black does not care to not occupy the center but wants to have the a1 to h8 diagonal to put pressure on the center from the sides. } 2. d4 { So white uses the opportunity to further occupy the center. } 2... Bg7 { The Fianchetto is a fact. } 3. Nc3 { Protect the pawns } 3... d6 4. Be3 { Protect d4 against Knight on c6. } 4... c6 { Although black can bring it's Queen out, it is more likely that he goes for b5. } 5. a4 { Prevent black to occupy space on the Queen side. } 5... Nf6 { Opposite castling seems to occur. The black knight on f6 threatens to go to g4. This could be stoppen by h3 or with f3. The first has the advantage of not blocking development of the knight g1. The second that it protects the central pawn. } 6. f3 O-O { To reach to the black King at some point in the match we need to capture the Bishop on g7. } 7. Qd2 { Black tries to distract the threat on h6. } 7... e5 { Be careful not to go to h6. The pawn on d4 will be lost. } { [%csl Gd4] } 8. Nge2 { The pawn is protected but of course the white bishop on f1 is blocked. } 8... exd4 9. Nxd4 { Black should continuing distracting by playing d5. } 9... d5 { Taking means the center will open on the King file. } 10. e5 Nfd7 { We can push the pawn because our knight can fork on e6. } 11. e6 { He has to move the knight and that means we can get his f7 pawn, one of the three pawns defending the king } { [%cal Ge6f7,Ge6d7,Rf7e6] } 11... Ne5 12. exf7+ Rxf7 { He takes with the rook to keep it's knight in the center. The problem for white is that the e file is open. } 13. O-O-O { The fact that the pawn is out, is not really a problem because it is defended and you can not go through the hole in the defense easily by playing Kb1. } 13... c5 { We can put the knight back because the situation is different then before. The fork threatening pawn on d5 ihas the queen behind it which has a double attack by the white queen and rook. So when the pawn takes, the black queen is captured. When looking at the position it seems white has the advantage because it pieces are better developed. } 14. Nb3 { [%cal Gd4c3,Gd4e3,Rd2d8] } 14... c4 { Keep the knight active and keep the pressure on the d5 pawn. } 15. Nc5 { [%cal Gc5e4] } 15... b6 16. N5e4 Be6 { Black tries to defend it's pawn although it can still be captured. It woukld be better if the bishop would have moved to b7. Because now the bishop and rook are connected diagional and that offers the opportunity for a knight to make a fork. } 17. Ng5 Re7 18. Nxe6 Rxe6 19. Qxd5 (19. Nxd5 Nd3+ 20. Bxd3 cxd3 21. Qxd3 Qc8 22. Bd4 { We have to remove the black bishop } 22... Bxd4 23. Qxd4 { He has to develop } 23... Re2 24. Rd2 Qe6 25. Nc7 Nc6 26. Nxe6 Nxd4 27. Nxd4 Rxd2 28. Kxd2 Rd8 29. c3 Kf7 30. f4 Re8 31. g4) 19... Qxd5 20. Nxd5 $16 *
+
+
+[Event "Rated Rapid tournament https://lichess.org/tournament/NWUJwKhF"]
+[Site "https://lichess.org/XjWGrOTH"]
+[Date "2020.11.25"]
+[White "vscenev"]
+[Black "Bijbrengen"]
+[Result "1-0"]
+[WhiteElo "1759"]
+[BlackElo "1097"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "A40"]
+[Opening "Englund Gambit Declined"]
+[StudyName "Openings"]
+[ChapterName "Black 1. d4 e5 2. d5 Bc5 - Englund Gambit Complex Declined"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/yPFlMar5"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. d4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. d5 { [%clk 0:09:56] } 2... Bc5 1-0
+
+
+[Event "Openings: Black 1. d4 e5 2. d4xe5 Bc5 - Felbecker Gambit Trap"]
+[Site "https://www.youtube.com/watch?v=oksV18QmCwo"]
+[Date "2020.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A40"]
+[Opening "Englund Gambit"]
+[StudyName "Openings"]
+[ChapterName "Black 1. d4 e5 2. d4xe5 Bc5 - Felbecker Gambit Trap"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/oQfxltEm"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2020.11.18"]
+[UTCTime "16:14:08"]
+
+1. d4 e5 2. dxe5 Bc5 3. Nf3 d6 4. exd6 (4. Bf4 Ne7 5. exd6 Nbc6 6. dxe7 Bxf2+ 7. Kxf2 Qxd1) 4... Ne7 5. dxe7 Bxf2+ 6. Kxf2 Qxd1 *
+
+
+[Event "TRAPS: trap 1 standard"]
+[Site "https://lichess.org/study/9itfAx1j/Yt7L4JPG"]
+[Date "2020.11.19"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Ahfms2027"]
+[Variant "Standard"]
+[ECO "C42"]
+[Opening "Petrov's Defense: Stafford Gambit"]
+[StudyName "Openings"]
+[ChapterName "Black 1. e4 e5 2. Nf3 Nf6 - Petrov's defence - Marshall Trap - Stafford Gambit"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/AdZYnljV"]
+[UTCDate "2020.11.19"]
+[UTCTime "06:48:04"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 (3. Nc3 Nc6 4. Bb5 Bc5 5. Nxe5 (5. Bxc6 dxc6 6. Nxe5 Bd4 7. Nf3 Bxc3 8. bxc3 Nxe4) 5... Nxe5) 3... Nc6 4. Nxc6 dxc6 5. e5 { White pawn under attack does a counter attack on the black knight. } (5. d3 Bc5 6. Bg5 Nxe4 7. dxe4 (7. Bxd8 Bxf2+ 8. Ke2 Bg4#) (7. Be3 Bxe3 8. fxe3 Qh4+ 9. g3 Nxg3 10. hxg3 Qxh1) 7... Bxf2+ 8. Kxf2 Qxd1) 5... Ne4 { Black attacks the weak f2 pawn. } 6. d3 (6. d4 Qh4 7. g3 (7. Qe2 Ng5 8. Be3 Bg4 9. Qd3 Ne6 10. Nd2 O-O-O) 7... Nxg3 8. fxg3 (8. hxg3 Qxh1) 8... Qe4+ 9. Qe2 Qxh1) (6. Nc3 Qh4 7. Nxe4 Qxe4+ 8. Be2 Qxg2 9. Bf3) 6... Bc5 7. dxe4 { White falls in a Queen losing trap } 7... Bxf2+ 8. Kxf2 (8. Ke2 Bg4+ 9. Kxf2 Qxd1 10. Nc3) 8... Qxd1 *
+
+
+[Event "Rated Rapid tournament https://lichess.org/tournament/4SsA3v4U"]
+[Site "https://lichess.org/uaXe7nov"]
+[Date "2020.11.29"]
+[White "liamboogar"]
+[Black "Bijbrengen"]
+[Result "1-0"]
+[WhiteElo "1372"]
+[BlackElo "1094"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "C42"]
+[Opening "Petrov's Defense: Three Knights Game"]
+[StudyName "Openings"]
+[ChapterName "Black 1. e4 e5 2. Nf3 Nf6 - liamboogar - Bijbrengen"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/wl9VqZff"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:59] } 2... Nf6 { [%clk 0:09:54] } 3. Nc3 { [%clk 0:09:54] } 3... Bc5 { [%clk 0:09:26] } 4. d4 { [%clk 0:09:39] } 4... exd4 { [%clk 0:09:07] } 5. Nxd4 { [%clk 0:09:38] } 5... O-O { [%clk 0:08:26] } 6. h3 { [%clk 0:09:36] } 6... Qe7 { [%clk 0:08:20] } 7. f3 { [%clk 0:09:27] } 7... Nxe4 { [%clk 0:08:00] } 8. Nxe4 { [%clk 0:09:22] } 8... Qh4+ { [%clk 0:07:55] } 9. Nf2 { [%clk 0:09:09] } 9... Bxd4 { [%clk 0:07:48] } 10. g3 { [%clk 0:08:51] } 10... Bxf2+ { [%clk 0:07:36] } (10... Re8+ 11. Be2 Qe7 12. O-O) 11. Kxf2 { [%clk 0:08:46] } 11... Qf6 { [%clk 0:06:54] } 12. Bd3 { [%clk 0:08:33] } 12... d5 { [%clk 0:06:32] } 13. c3 { [%clk 0:08:17] } 13... Be6 { [%clk 0:05:40] } 14. h4 { [%clk 0:07:50] } 14... Bg4 { [%clk 0:05:06] } 15. Bg5 { [%clk 0:07:47] } 15... Qb6+ { [%clk 0:04:53] } 16. Kf1 { [%clk 0:07:19] } 16... Be6 { [%clk 0:03:58] } 17. Kg2 { [%clk 0:06:33] } 17... Qxb2+ { [%clk 0:03:46] } 18. Bc2 { [%clk 0:06:08] } 18... Qxc3 { [%clk 0:03:30] } 19. Bd2 { [%clk 0:06:07] } 19... Qc6 { [%clk 0:02:32] } 20. Rb1 { [%clk 0:05:50] } 20... Qd7 { 1-0 Black resigns. } { [%clk 0:01:59] } 1-0
+
+
+[Event "Rated Rapid tournament https://lichess.org/tournament/JNdqSN3t"]
+[Site "https://lichess.org/xrBTzZKA"]
+[Date "2020.11.22"]
+[White "Dasgm2000"]
+[Black "Bijbrengen"]
+[Result "0-1"]
+[WhiteElo "1458"]
+[BlackElo "1095"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[StudyName "Openings"]
+[ChapterName "Black 1. e4 e5 2. Qh5 Nc6 -  King's Pawn Game: Wayward Queen Attack"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/i8igTxSP"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Qh5 { [%clk 0:09:58] } 2... Nc6 { [%clk 0:09:42] } 3. Bc4 { [%clk 0:09:54] } 3... g6 4. Qe2 Nd4 5. Qd1 d5 6. exd5 Bf5 7. d3 b5 8. c3 bxc4 9. cxd4 0-1
+
+
+[Event "Rated Rapid tournament https://lichess.org/tournament/DF5Z2Vp4"]
+[Site "https://lichess.org/mfrLSARZ"]
+[Date "2020.11.19"]
+[White "Korbier"]
+[Black "Bijbrengen"]
+[Result "1-0"]
+[WhiteElo "1455"]
+[BlackElo "1135"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "C42"]
+[Opening "Petrov's Defense"]
+[StudyName "Openings"]
+[ChapterName "Korbier - Bijbrengen"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/L2JQUetO"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. Nf3 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. e4 { [%clk 0:09:59] } 2... Nf6 { [%clk 0:09:57] } 3. h3 { [%clk 0:09:57] } 3... Nxe4 { [%clk 0:09:53] } 4. Nxe5 { [%clk 0:09:49] } 4... Qe7 { [%clk 0:09:45] } 5. d4 { [%clk 0:09:41] } 5... Qh4 { [%clk 0:09:28] } 6. Qf3 { [%clk 0:09:24] } 6... Ng5 { [%clk 0:09:11] } 7. Qb3 { [%clk 0:09:03] } 7... Qe4+ { [%clk 0:08:55] } 8. Be3 { [%clk 0:08:54] } 8... d6 { [%clk 0:08:43] } 9. f3 { [%clk 0:08:18] } 9... Qh4+ { [%clk 0:07:55] } 10. Bf2 { [%clk 0:08:03] } 10... Qf4 { [%clk 0:06:37] } 11. Ng4 { [%clk 0:07:48] } 11... Bxg4 { [%clk 0:06:19] } 12. hxg4 { [%clk 0:07:36] } 12... Ne6 { 1-0 Black resigns. } { [%clk 0:05:30] } 1-0
+
+
+[Event "TRAPS: trap 4 racing kings"]
+[Site "https://lichess.org/study/9itfAx1j/4ZsZZneK"]
+[Date "2020.11.19"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Ahfms2027"]
+[Variant "Racing Kings"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Openings"]
+[ChapterName "Chapter 6"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/8vu7mIdx"]
+[FEN "8/8/8/8/8/8/krbnNBRK/qrbnNBRQ w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.11.19"]
+[UTCTime "06:48:04"]
+
+1. Rg3 Rb3 2. R1g2 Ka3 3. Kg1 Ka4 4. Rh3 Ka5 5. Rhh2 Ka6 6. Nxc2 Kb7 7. Nxc1 Ka8# { 0-1 Black wins the race. } *
+
+
+[Event "TRAPS: trap 5 3-check"]
+[Site "https://lichess.org/study/9itfAx1j/9vs4rgDT"]
+[Date "2020.11.19"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Ahfms2027"]
+[Variant "Three-check"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[StudyName "Openings"]
+[ChapterName "Chapter 7"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/fss7e2Xe"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 +0+0"]
+[SetUp "1"]
+[UTCDate "2020.11.19"]
+[UTCTime "06:48:04"]
+
+1. e4 e5 2. Bc4 (2. Qg4 f6 3. Qxd7+ Kxd7 4. Bb5+ Ke6 5. Bd7+) 2... Qf6 3. Bxf7+ Ke7 4. Qh5 Kd8 5. Qf5 Qxf7 6. Qxd7+ Kxd7 7. Nf3 Ke8 8. Nxe5 Qxf2+ (8... Qd5) 9. Kxf2 Bc5+ 10. Ke1 Bf2+ { 0-1 Black gives the third check. } *
+
+
+[Event "TRAPS: trap 6 3-check"]
+[Site "https://lichess.org/study/9itfAx1j/DKhQEFLD"]
+[Date "2020.11.19"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Ahfms2027"]
+[Variant "Three-check"]
+[ECO "B00"]
+[Opening "Pirc Defense"]
+[StudyName "Openings"]
+[ChapterName "Chapter 8"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/aueVqmVR"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 +0+0"]
+[SetUp "1"]
+[UTCDate "2020.11.19"]
+[UTCTime "06:48:04"]
+
+1. e4 d6 2. Bb5+ Qd7 3. Bxd7+ Kxd7 4. Qg4+ { 1-0 White gives the third check. } *
+
+
+[Event "TRAPS: trap 7 atomic"]
+[Site "https://lichess.org/study/9itfAx1j/C8pPX1ST"]
+[Date "2020.11.19"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Ahfms2027"]
+[Variant "Atomic"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Openings"]
+[ChapterName "Chapter 9"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/pbXF58jL"]
+[UTCDate "2020.11.19"]
+[UTCTime "06:48:04"]
+
+1. e4 e5 2. Qh5 g6 3. Qxe5 Qf6 4. f4 Qd4 5. Bd3 Qf2+ 6. Kd1 Qxd2# { 0-1 Game ends by variant rule. } *
+
+
+[Event "TRAPS: trap 8 koth"]
+[Site "https://lichess.org/study/9itfAx1j/TWuWBfiy"]
+[Date "2020.11.19"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Ahfms2027"]
+[Variant "King of the Hill"]
+[ECO "C20"]
+[Opening "Bongcloud Attack"]
+[StudyName "Openings"]
+[ChapterName "Chapter 10"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/9SF9NWbI"]
+[UTCDate "2020.11.19"]
+[UTCTime "06:48:04"]
+
+1. e4 e5 2. Ke2 d5 3. exd5 Qxd5 4. Ke3 Ke7 5. Nh3 Qd4+ 6. Ke2 Kd6 7. Ke1 Ke6 8. Qh5 Kd6 9. Bb5 Ke6 10. Kf1 Kd6 11. Ng5 Be7 12. Nxf7+ Ke6 13. Qh6+ Bf6 14. Qg6 c6 15. Qg5 Bxg5 16. h3 Bh4 17. Rh2 Qxf2# { 0-1 Black wins by checkmate. } *
+
+
+[Event "TRAPS: trap 9 antichess/from position"]
+[Site "https://lichess.org/study/9itfAx1j/gDiOSjQ4"]
+[Date "2020.11.19"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Ahfms2027"]
+[Variant "Antichess"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Openings"]
+[ChapterName "Chapter 11"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/CwJp07k5"]
+[FEN "rrrrrrrr/8/8/8/8/8/8/RRRRRRRR w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.11.19"]
+[UTCTime "06:48:04"]
+
+1. Rxh8 Rxh8 2. Rxc8 Rdxc8 3. Rxf8 Rexf8 4. Rxa8 Rxb1 5. Rxb1 Rxa8 6. Rb2 Ra1 7. Rxa1 Rf1 8. Rgxf1 Rh1 9. Rxh1# { 0-1 Game ends by variant rule. } *
+
+
+[Event "TRAPS: trap 10 atomic"]
+[Site "https://lichess.org/study/9itfAx1j/cKwdvm92"]
+[Date "2020.11.19"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Ahfms2027"]
+[Variant "Atomic"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Openings"]
+[ChapterName "Chapter 12"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/KdxwjviX"]
+[UTCDate "2020.11.19"]
+[UTCTime "06:48:04"]
+
+1. e3 (1. Nf3 f6 2. e3) 1... e6 2. Nf3 Qh4 3. Ng5 Qxf2# { 0-1 Game ends by variant rule. } *
+
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/LzL2MkaP"]
+[Date "2020.11.21"]
+[White "Bijbrengen"]
+[Black "Pam51"]
+[Result "0-1"]
+[WhiteElo "1127"]
+[BlackElo "1201"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "C42"]
+[Opening "Petrov's Defense"]
+[StudyName "Openings"]
+[ChapterName "Bijbrengen - Pam51"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/0GNeeCIo"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:58] } 2... Nf6 { [%clk 0:09:58] } 3. Nxe5 { [%clk 0:09:55] } 3... Qe7 { [%clk 0:09:56] } 4. d4 { [%clk 0:09:49] } 4... d6 { [%clk 0:09:55] } 5. Nf3 { [%clk 0:09:18] } 5... Nxe4 { [%clk 0:09:51] } 6. Qe2 { [%clk 0:09:08] } (6. Be2) 6... d5 { [%clk 0:09:46] } 7. Bg5 { [%clk 0:09:01] } 7... f6 { [%clk 0:09:35] } 8. Bf4 { [%clk 0:08:51] } 8... g5 { [%clk 0:09:24] } 9. Bxc7 { [%clk 0:08:49] } 9... Bg7 { [%clk 0:09:14] } 10. Qb5+ { [%clk 0:08:47] } 10... Nc6 { [%clk 0:09:10] } 11. Bg3 { [%clk 0:08:21] } 11... O-O { [%clk 0:09:05] } 12. Bd3 { [%clk 0:07:57] } 12... Nd6+ { 0-1 White resigns. } { [%clk 0:09:03] } 0-1
+
+
+[Event "Openings: White 1. h4 d5 2. f4 Bg4 - Kadas Opening"]
+[Date "2020.11.24"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A00"]
+[Opening "Kádas Opening"]
+[StudyName "Openings"]
+[ChapterName "White 1. h4 d5 2. f4 Bg4 - Kadas Opening"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/CyNep1dJ"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2020.11.24"]
+[UTCTime "14:14:11"]
+
+1. h4 d5 2. f4 Bg4 3. Nh3 e6 (3... Bxh3 4. Rxh3) (3... e5 4. fxe5) (3... Nf6 4. Nf2 h5 5. Nxg4 hxg4 (5... Nxg4 6. e3) 6. e3) 4. Nf2 h5 5. g3 Nc6 6. Nxg4 hxg4 7. d4 Nce7 8. e3 Nf6 9. Bd3 Nf5 10. Rg1 Be7 *
+
+
+[Event "Rated Blitz tournament https://lichess.org/tournament/JnZZDHCS"]
+[Site "https://lichess.org/g8m3Spp9"]
+[Date "2020.11.24"]
+[White "Bijbrengen"]
+[Black "dineshkchess"]
+[Result "0-1"]
+[WhiteElo "958"]
+[BlackElo "1369"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "A00"]
+[Opening "Kádas Opening"]
+[StudyName "Openings"]
+[ChapterName "White 1. h4 e4 2. f4 exf4"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/YSDPEOAx"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. h4 { [%clk 0:05:00] } 1... e5 { [%clk 0:05:00] } 2. f4 { [%clk 0:04:57] } 2... exf4 { [%clk 0:04:58] } 3. Nh3 { [%clk 0:04:54] } (3. d4 Bd6 4. Nc3 c6) 3... Bd6 { [%clk 0:04:56] } 4. d4 { [%clk 0:04:48] } 4... b6 { [%clk 0:04:54] } 5. Bxf4 { [%clk 0:04:44] } 5... Bxf4 { [%clk 0:04:53] } 6. Nxf4 { [%clk 0:04:42] } 6... Nf6 { [%clk 0:04:48] } 7. e3 { [%clk 0:04:20] } 7... d6 { [%clk 0:04:45] } 8. Qf3 { [%clk 0:03:44] } 8... c6 { [%clk 0:04:36] } 9. Bb5 { [%clk 0:03:35] } 9... Bd7 { [%clk 0:04:34] } 10. Nc3 { [%clk 0:03:15] } 10... O-O { [%clk 0:04:25] } 11. O-O-O { [%clk 0:03:06] } 11... d5 { [%clk 0:04:21] } 12. Bd3 { [%clk 0:02:53] } 12... Bg4 { [%clk 0:04:11] } 13. Bxh7+ { [%clk 0:02:43] } 13... Kxh7 { [%clk 0:04:07] } 14. Qg3 { [%clk 0:02:15] } 14... Bxd1 { 0-1 White resigns. } { [%clk 0:04:04] } 0-1
+
+
+[Event "Rated Blitz tournament https://lichess.org/tournament/JnZZDHCS"]
+[Site "https://lichess.org/aaOm8Z7l"]
+[Date "2020.11.24"]
+[White "Prespective"]
+[Black "Bijbrengen"]
+[Result "0-1"]
+[WhiteElo "1032"]
+[BlackElo "957"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Ware Defense"]
+[StudyName "Openings"]
+[ChapterName "Black 1.e4 a5 2. c3 c5"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/pcAfrdlN"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 { [%clk 0:05:00] } 1... a5 { [%clk 0:05:00] } 2. c3 { [%clk 0:04:50] } (2. d4 d5 3. exd5 Qxd5 4. Nc3 Qd6 5. Nf3 Bg4 6. h3 Bh5 7. g4 Bg6 8. Ne5 Nd7 9. Nb5 Qb6 10. Nc4 Qe6+ 11. Be3 Kd8 12. d5 Qe4 13. f3 Qxc2 14. Qxc2 Bxc2 15. Rc1 Bg6 16. Nxc7 Rc8 17. Ne6+ fxe6 18. dxe6 Nc5 19. Rd1+ Ke8 20. Nb6 Rc6 21. Bxc5 Rxc5 22. Na8 Re5+ 23. Kf2 Rxe6 24. Nc7+ Kf7 25. Bc4 Kf6 26. Nxe6 Bf7 27. g5+ Kf5 28. Rd5+ Kg6 29. Nf4# { Contin, Daniel - Larsen, Bent, 1-0, Buenos Aires CC Argentino Ruibal, 2008, https://lichess.org/khBWILyb }) 2... c5 { [%clk 0:04:57] } 3. Nf3 { [%clk 0:04:42] } 3... d5 { [%clk 0:04:42] } 4. e5 { [%clk 0:04:38] } 4... Nc6 { [%clk 0:04:28] } 5. d4 { [%clk 0:04:31] } 5... cxd4 { [%clk 0:04:22] } 6. cxd4 { [%clk 0:04:29] } 6... Bg4 { [%clk 0:04:18] } 7. h3 { [%clk 0:04:24] } 7... Bxf3 { [%clk 0:04:14] } 8. Qxf3 { [%clk 0:04:20] } 8... Nxd4 { [%clk 0:04:11] } 9. Qd3 { [%clk 0:03:54] } 9... Ne6 { [%clk 0:03:23] } 10. Nd2 { [%clk 0:03:50] } 10... Nf4 { [%clk 0:03:00] } 11. Qf5 { [%clk 0:03:37] } 11... Ng6 { [%clk 0:02:39] } 12. Nb3 { [%clk 0:03:35] } 12... e6 { [%clk 0:02:36] } 13. Qc2 { [%clk 0:03:29] } 13... Bb4+ { [%clk 0:02:21] } 14. Bd2 { [%clk 0:03:24] } 14... Nxe5 { [%clk 0:02:07] } 15. a3 { [%clk 0:03:10] } 15... Bxd2+ { [%clk 0:02:04] } 16. Kxd2 { [%clk 0:03:04] } 16... Nc4+ { [%clk 0:02:02] } 17. Ke1 { [%clk 0:03:01] } 17... Rc8 { [%clk 0:01:51] } 18. Nd4 { [%clk 0:02:33] } 18... Nf6 { [%clk 0:01:42] } 19. Rc1 { [%clk 0:02:17] } 19... Nb6 { [%clk 0:01:24] } 20. Qd2 { [%clk 0:02:02] } 20... O-O { [%clk 0:01:18] } 21. Rxc8 { [%clk 0:01:26] } 21... Qxc8 { [%clk 0:01:12] } 22. Qxa5 { [%clk 0:01:23] } 22... Qc1+ { [%clk 0:01:09] } 23. Ke2 { [%clk 0:01:22] } 23... Qxb2+ { [%clk 0:01:02] } 24. Ke1 { [%clk 0:01:19] } 24... Qxd4 { [%clk 0:00:54] } 25. g4 { [%clk 0:01:04] } 25... Qe4+ { [%clk 0:00:50] } 26. Be2 { [%clk 0:00:51] } 26... Qxh1+ { [%clk 0:00:48] } 27. Kd2 { [%clk 0:00:50] } 27... Nc4+ { 0-1 White resigns. } { [%clk 0:00:44] } 0-1
+
+
+[Event "Rated Rapid tournament https://lichess.org/tournament/BuwORgmk"]
+[Site "https://lichess.org/6kk4xSQ6"]
+[Date "2020.11.25"]
+[White "Bijbrengen"]
+[Black "Ata0031"]
+[Result "0-1"]
+[WhiteElo "1103"]
+[BlackElo "1465"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[StudyName "Openings"]
+[ChapterName "white 1. e4 b6 2. b4 Bb7 - Owen Defense"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/fHLGyJOu"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 { [%clk 0:10:00] } 1... b6 { [%clk 0:10:00] } 2. d4 { [%clk 0:09:51] } 2... Bb7 { [%clk 0:09:59] } 3. Bd3 e6 4. Nf3 0-1
+
+
+[Event "Rated Rapid tournament https://lichess.org/tournament/NWUJwKhF"]
+[Site "https://lichess.org/Jb01ojdd"]
+[Date "2020.11.25"]
+[White "th-centrum"]
+[Black "Bijbrengen"]
+[Result "1-0"]
+[WhiteElo "1369"]
+[BlackElo "1097"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation"]
+[StudyName "Openings"]
+[ChapterName "Black 1. Nf3 d5 2. d4 Nf6"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/3Cg02S9h"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. Nf3 { [%clk 0:05:00] } 1... d5 { [%clk 0:10:00] } 2. d4 { [%clk 0:04:56] } 2... Nf6 3. c4 e6 4. cxd5 exd5 1-0
+
+
+[Event "Mates: Bait Mate"]
+[Site "https://lichess.org/study/sz9C4Qyd/FKwJ0DrK"]
+[Date "2020.11.29"]
+[Result "*"]
+[Annotator "https://lichess.org/@/AntiGravitY2020"]
+[Variant "Standard"]
+[ECO "A00"]
+[Opening "Kádas Opening"]
+[StudyName "Openings"]
+[ChapterName "Chapter 27"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/2dhWQwIt"]
+[UTCDate "2020.11.29"]
+[UTCTime "07:33:50"]
+
+1. h4 Na6 2. Rh3 g6 3. a4 Bh6 4. Raa3 d5 5. Rh1 Bg7 6. h5 *
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/JbMJqVxh"]
+[Date "2020.12.22"]
+[White "AjulioZ"]
+[Black "Bijbrengen"]
+[Result "1-0"]
+[WhiteElo "1627"]
+[BlackElo "1335"]
+[TimeControl "1800+0"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo"]
+[StudyName "Openings"]
+[ChapterName "AjulioZ - Bijbrengen"]
+[ChapterURL "https://lichess.org/study/sNPxVVfS/o2TihkZe"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 { [%clk 0:30:00] } 1... e5 { [%clk 0:30:00] } 2. Nf3 { [%clk 0:29:59] } 2... Nc6 { [%clk 0:29:52] } 3. Bc4 { [%clk 0:29:55] } 3... Bc5 { [%clk 0:29:38] } 4. d3 { [%clk 0:29:45] } 4... h6 { [%clk 0:29:08] } 5. O-O { [%clk 0:29:40] } 5... d6 { [%clk 0:28:43] } 6. Nc3 { [%clk 0:29:37] } 6... Nf6 { [%clk 0:28:27] } 7. a3 { [%clk 0:29:33] } 7... O-O { [%clk 0:27:58] } 8. b4 { [%clk 0:29:31] } 8... Bb6 { [%clk 0:27:31] } 9. a4 { [%clk 0:29:29] } 9... a6 { [%clk 0:27:03] } (9... Nxb4 10. a5 Bc5 11. Na4 b6 12. axb6 axb6 13. c3 Nc6) 10. b5 { [%clk 0:29:19] } 10... axb5 { [%clk 0:26:54] } 11. Bxb5 { [%clk 0:29:05] } 11... Bg4 { [%clk 0:26:08] } (11... Nd4 12. Nxd4 Bxd4 13. Bd2 Be6 14. Qe2) 12. Bxc6 { [%clk 0:28:46] } 12... Bxf3 { [%clk 0:26:00] } 13. Qxf3 { [%clk 0:28:34] } 13... bxc6 { [%clk 0:25:12] } 14. Qg3 { [%clk 0:28:09] } 14... Nh5 { [%clk 0:23:34] } 15. Qg4 { [%clk 0:27:57] } 15... Nf4 { [%clk 0:23:30] } 16. Bxf4 { [%clk 0:27:40] } 16... exf4 { [%clk 0:23:26] } 17. Qxf4 { [%clk 0:27:36] } 17... Bd4 { [%clk 0:23:04] } 18. Ra3 { [%clk 0:27:09] } 18... Qf6 { [%clk 0:22:52] } 19. Qxf6 { [%clk 0:26:53] } 19... Bxf6 { [%clk 0:22:49] } 20. Ne2 { [%clk 0:26:32] } 20... Ra5 { [%clk 0:21:51] } 21. f4 { [%clk 0:26:24] } 21... Re8 { [%clk 0:21:10] } 22. f5 { [%clk 0:26:21] } 22... d5 { [%clk 0:21:01] } 23. Rb1 { [%clk 0:26:07] } 23... dxe4 { [%clk 0:20:53] } 24. d4 { [%clk 0:25:44] } 24... Rxf5 { [%clk 0:20:20] } 25. c3 { [%clk 0:25:33] } 25... e3 { [%clk 0:19:46] } 26. a5 { [%clk 0:25:29] } 26... Rf2 { [%clk 0:19:37] } 27. a6 { [%clk 0:25:25] } (27. Ng3 Rc2 28. a6 e2 29. Nxe2 Rexe2) 27... Rxe2 { [%clk 0:19:29] } 28. a7 { [%clk 0:25:21] } 28... Ra8 { [%clk 0:19:23] } 29. Rb8+ { [%clk 0:25:18] } 29... Rxb8 { [%clk 0:19:20] } 30. axb8=Q+ { [%clk 0:25:15] } 30... Kh7 { [%clk 0:19:18] } 31. Ra1 { 1-0 Black resigns. } { [%clk 0:25:00] } 1-0
+
+

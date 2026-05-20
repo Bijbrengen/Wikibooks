@@ -1,0 +1,178 @@
+﻿{{Opmaak|De module '''Layout''' werkt nauw samen met het [[Sjabloon:Opmaak|sjabloon Opmaak]]. Directe benadering door gebruikers van deze module wordt dan ook ontraden en ook tegengehouden waar mogelijk. Voor het gebruik van de module verwijzen we daarom naar de [[Sjabloon:Opmaak|sjabloonbeschrijving]] van het sjabloon Opmaak.}}
+
+== Subpagina's ==
+{{Speciaal:Prefixindex/Module:Layout/}}
+
+== Omgevingen ==
+{| class="wikitable"
+! colspan="7" style="text-align:center; color: black; background-color:#3C314D; color:#ffffff;" | Module Migratie
+|-
+! style="text-align:center; color: black; background-color:#BBAFD1;" | Sandbox
+! style="text-align:center; color: black; background-color:#BBAFD1;" | 
+! style="text-align:center; color: black; background-color:#BBAFD1;" | Development
+! style="text-align:center; color: black; background-color:#BBAFD1;" | 
+! style="text-align:center; color: black; background-color:#BBAFD1;" | Stage
+! style="text-align:center; color: black; background-color:#BBAFD1;" | 
+! style="text-align:center; color: black; background-color:#BBAFD1;" | Production
+|-
+| style="text-align:center; color: black; background-color:#E8E4EF;" valign="top" |
+* Module A
+* Module B
+| style="text-align:center; color: black; background-color:#ffffff;" valign="top" | '''<span style="font-size: large;">→</span><br>test'''
+| style="text-align:center; color: black; background-color:#E8E4EF;" valign="top" |
+* Module A
+* Module B
+| style="text-align:center; color: black; background-color:#ffffff;" valign="top" | '''<span style="font-size: large;">→</span><br>test'''
+| style="text-align:center; color: black; background-color:#E8E4EF;" valign="top" |
+* Module A
+* Module B
+| style="text-align:center; color: black; background-color:#ffffff;" valign="top" | '''<span style="font-size: large;">→</span><br>test'''
+| style="text-align:center; color: black; background-color:#E8E4EF;" valign="top" |
+* Module A
+* Module B
+|}
+
+== Opbouw ==
+{| class="wikitable"
+! colspan="3" style="text-align:center; color: black; background-color:#3C314D; color:#ffffff;" | MVC Pattern
+|-
+! style="text-align:center; color: black; background-color:#BBAFD1;" | Model
+! style="text-align:center; color: black; background-color:#BBAFD1;" | View
+! style="text-align:center; color: black; background-color:#BBAFD1;" | Controller
+|-
+| style="text-align:center; color: black; background-color:#E8E4EF;" valign="top" |
+[[Module:Layout/Production/Model|Model]]
+<br>[[Module:Layout/Production/Content|Content]]
+<br>[[Module:Layout/Production/Configuration|Configuration]]
+<br>[[Module:Layout/Production/Language|Language]]
+<br>[[Module:Layout/Production/Style|Style]]
+| style="text-align:center; color: black; background-color:#E8E4EF;" valign="top" |
+[[Module:Layout/Production/View|View]]
+| style="text-align:center; color: black; background-color:#E8E4EF;" valign="top" |
+[[Module:Layout|Layout]]
+<br>[[Module:Layout/Production/Interface|Interface]]
+<br>[[Module:Layout/Production/Library|Library]]
+|-
+| valign="top" colspan="3" style="text-align:center; color: black; background-color:#BBAFD1;" |
+[[Module:Layout/Production/Test|Test]]
+|}
+
+Deze module is gebouwd om via een interface de aanroeper door te sturen naar specifieke functionaliteit behorende bij het type Opmaak gegroepeerd onder [[Module:Layout/Production/View]]. Onder [[Module:Layout/Production/Test]] zijn alle testfuncties gebundeld. De library [[Module:Layout/Production/Library]] heeft verzameld alle functies die door meerdere modules worden gebruikt en geen andere modules aanroepen. Alle instellingen zoals de berichten en de structuur van deze module zijn ondergebracht bij [[Module:Layout/Production/Configuration]]. Ook is er een ontwikkelomgeving ingericht onder [[Module:Layout/Sandbox]]. Samengevat:
+{| class="wikitable"
+! colspan="3" style="text-align:center; color: black; background-color:#3C314D; color:#ffffff;" | Hoofdmodules onder Layout
+|-
+! style="text-align:center; color: black; background-color:#BBAFD1;" | Hoofdmodule
+! style="text-align:center; color: black; background-color:#BBAFD1;" | Activiteit
+! style="text-align:center; color: black; background-color:#BBAFD1;" | Omschrijving
+|-
+| style="color: black; background-color:#E8E4EF;" | '''[[Module:Layout]]'''
+| style="color: black; background-color:#E8E4EF;" | inrichten
+| style="color: black; background-color:#E8E4EF;" | module die juiste omgeving voor het systeem ''inricht''.
+|-
+| style="color: black; background-color:#ffffff;" | '''[[Module:Layout/Production/View]]'''
+| style="color: black; background-color:#ffffff;" | weergeven
+| style="color: black; background-color:#ffffff;" | modules die nieuwe ''wikibooks''-objecten '''weergeven'''.
+|-
+| style="color: black; background-color:#ffffff;" | '''[[Module:Layout/Production/Interface]]'''
+| style="color: black; background-color:#ffffff;" | communiceren
+| style="color: black; background-color:#ffffff;" | modules die de '''communicatie''' tussen de aanroepende wikipagina en de module Layout afhandelen.
+|-
+| style="color: black; background-color:#ffffff;" | '''[[Module:Layout/Production/Library]]'''
+| style="color: black; background-color:#ffffff;" | opbouwen
+| style="color: black; background-color:#ffffff;" | modules die '''bouwstenen''' vormen voor andere modules.
+|-
+| style="color: black; background-color:#ffffff;" | '''[[Module:Layout/Production/Content]]'''
+| style="color: black; background-color:#ffffff;" | creëren
+| style="color: black; background-color:#ffffff;" | modules die de speciale '''inhoud''' van bepaalde ''wikibooks''-objecten creëren.
+|-
+| style="color: black; background-color:#ffffff;" | '''[[Module:Layout/Production/Model]]'''
+| style="color: black; background-color:#ffffff;" | verrijken
+| style="color: black; background-color:#ffffff;" | modules die de bestaande gegevens verrijken zodat ze geschikt zijn voor '''wikibooks'''-objecten.
+|-
+| style="color: black; background-color:#ffffff;" | '''[[Module:Layout/Production/Configuration]]'''
+| style="color: black; background-color:#ffffff;" | configureren
+| style="color: black; background-color:#ffffff;" | modules die de werking van andere modules '''configureren'''.
+|-
+| style="color: black; background-color:#ffffff;" | '''[[Module:Layout/Production/Language]]'''
+| style="color: black; background-color:#ffffff;" | vertalen
+| style="color: black; background-color:#ffffff;" | modules die in de '''taal''' van de gebruiker communiceren.
+|-
+| style="color: black; background-color:#ffffff;" | '''[[Module:Layout/Production/Style]]'''
+| style="color: black; background-color:#ffffff;" | stijlen
+| style="color: black; background-color:#ffffff;" | modules die in de '''stijl''' van de weergave instellen.
+|-
+| style="color: black; background-color:#ffffff;" | '''[[Module:Layout/Production/Test]]'''
+| style="color: black; background-color:#ffffff;" | testen
+| style="color: black; background-color:#ffffff;" | modules die '''test'''en.
+|}
+
+== Hooks ==
+=== Objecten ===
+Om functionaliteit toe te voegen of aan te passen haken we de nieuwe of aan te passen module in met exact de naam (in Engels) van het wikiobject dat we toevoegen. Dat dient in ieder geval te gebeuren onder de view (we moeten toch iets laten zien). We moeten ook berichten in de geldende taal wat de naam van het wikiobject is door deze toe te voegen door de een module te zetten met dezelfde naam onder de language modules. Afgestemde inhoud zullen we meestal creëren door wederom met exact dezelfde naam (in het Engels) te plaatsen onder de topmodule content. Daarna kunnen we bij een nieuwe module in het configuratiebestand [[Module:Layout/Production/Configuration/Hook|Configuratie/Hook]] een haakje zetten (een extra element toevoegen aan de tabel HOOK.OBJECT) zodat het systeem onze nieuwe module opneemt. Ook passen we de bijbehorende test aan of maken een nieuwe. Hetzelfde doen we voor de [[Sjabloon:Opmaak|documentatie]]. Het aangepast of nieuwe object is zoveel mogelijk afgezonderd van andere objecten om onderlinge impact bij fouten te voorkomen.
+ 
+{| class="wikitable"
+! colspan="6" style="text-align:center; color: black; background-color:#3C314D; color:#ffffff;" | Wiki-objecten toevoegen of Wijzigen
+|-
+! style="text-align:center; color: black; background-color:#BBAFD1;" | [[Module:Layout/Production/Configuration/Hook|Configuratie/Hook]] (Vereist)
+! style="text-align:center; color: black; background-color:#BBAFD1;" | [[Module:Layout/Production/View|View]] (Vereist)
+! style="text-align:center; color: black; background-color:#BBAFD1;" | [[Module:Layout/Production/Language|Language]] (Vereist)
+! style="text-align:center; color: black; background-color:#BBAFD1;" | [[Module:Layout/Production/Content|Content]] (Optioneel)
+! style="text-align:center; color: black; background-color:#BBAFD1;" | [[Module:Layout/Production/Test|Test]] (Vereist)
+! style="text-align:center; color: black; background-color:#BBAFD1;" | [[Sjabloon:Opmaak|Sjabloon]] (Vereist)
+|-
+| valign="top" style="color: black; background-color:#E8E4EF;" |
+* Haak een nieuwe module of de gewijzigde module in de tabel HOOK.OBJECT
+| valign="top" style="color: black; background-color:#E8E4EF;" |
+* Koppel een nieuwe module of de gewijzigde module onder de bovenste module genaamd Weergave
+* Gebruik de WikiObjectNaam
+| valign="top" style="color: black; background-color:#E8E4EF;" |
+* Voeg berichten toe in de juiste talen onder de bovenste module Taal
+* Gebruik de WikiObjectNaam
+| valign="top" style="color: black; background-color:#E8E4EF;" |
+* Beheers de inhoud van het WikiObject door een module toe te voegen onder de bovenste module Inhoud
+| valign="top" style="color: black; background-color:#E8E4EF;" |
+* Voeg tests voor de nieuwe functionaliteit toe.
+| valign="top" style="color: black; background-color:#E8E4EF;" |
+* Beschrijf het gebruik van de nieuwe functionaliteit.
+|}
+=== Parameters ===
+Op dezelfde manier als bij de objecten kan men ook nieuwe parameters aanmaken of aanpassen. Indien mogelijk is het advies dat niet toe doen omdat dit wel meer impact heeft dan objecten en een te lange lijst van mogelijke parameters het overzichtelijk gebruik zal afremmen. Probeer zoveel mogelijk de bestaande parameters te gebruiken of de unnamed parameters. Als men toch een parameter nodig heeft dan haakt men die in eveneens in de configuratie module [[Module:Layout/Production/Configuration/Hook]] onder HOOK.PARAMETER. Zorg dat hij ook op de juiste plek in de language module komt ([[Module:Layout/Production/Language/Nl]]) in de naam van de geïnstalleerde taal. Daarna kan men door een functie aan te maken of aan te passen in [[Module:Layout/Production/Interface/Frisk]] de inhoud van deze parameter checken en de foutmelding met eventuele parameters teruggeven als return waarde. Bij een fout zal het programma vanzelf verder uitvoering voorkomen en op grond van ingestelde support een foutmelding weergeven. Daarna kan men de inhoud converteren en/of aanvullen zodat het voor verder gebruik veilig en volledig is als inventaris ([[Module:Layout/Production/Model/Inventory]]). Het streven is dat de gegevens uit het model zonder verdere modificatie zijn te gebruiken bij de weergave (view). Test de parameter zeer grondig als bouwsteen ook voor andere objecten en voeg de juiste documentatie toe aan het sjabloon.
+{| class="wikitable"
+! colspan="6" style="text-align:center; color: black; background-color:#3C314D; color:#ffffff;" | Wiki-objecten toevoegen of Wijzigen
+|-
+! style="text-align:center; color: black; background-color:#BBAFD1;" | [[Module:Layout/Production/Configuration/Hook|Configuratie/Hook]] (Vereist)
+! style="text-align:center; color: black; background-color:#BBAFD1;" | [[Module:Layout/Production/Interface/Frisk|Frisk]] (Vereist)
+! style="text-align:center; color: black; background-color:#BBAFD1;" | [[Module:Layout/Production/Language|Language]] (Vereist)
+! style="text-align:center; color: black; background-color:#BBAFD1;" | [[Module:Layout/Production/Model/Inventory|Inventory]] (Optioneel)
+! style="text-align:center; color: black; background-color:#BBAFD1;" | [[Module:Layout/Production/Test|Test]] (Vereist)
+! style="text-align:center; color: black; background-color:#BBAFD1;" | [[Sjabloon:Opmaak|Sjabloon]] (Vereist)
+|-
+| valign="top" style="color: black; background-color:#E8E4EF;" |
+* Haak een nieuwe parameter of de gewijzigde parameter in de tabel HOOK.PARAMETER
+| valign="top" style="color: black; background-color:#E8E4EF;" |
+* Koppel een nieuwe functie of de gewijzigde functie onder de veiligheidsmodule voor het fouilleren
+* Gebruik de WikiObjectNaam
+| valign="top" style="color: black; background-color:#E8E4EF;" |
+* Voeg berichten toe in de juiste talen onder de bovenste module Taal
+* Gebruik de WikiObjectNaam
+| valign="top" style="color: black; background-color:#E8E4EF;" |
+* Beheers de inhoud van de parameter door een functie toe te voegen onder de modelmodule voor de inventaris
+| valign="top" style="color: black; background-color:#E8E4EF;" |
+* Voeg tests voor de nieuwe functionaliteit toe.
+| valign="top" style="color: black; background-color:#E8E4EF;" |
+* Beschrijf het gebruik van de nieuwe functionaliteit.
+|}
+
+== Aanroep ==
+De interface van de module vindt men onderin de code en gebeurt via de aanroep ''<nowiki>{{#Invoke:Layout|main|...}}</nowiki>''
+en dan kiest of de gebruiker of het systeem zelf op grond van pagina-eigenschappen welke type pagina het is.
+
+== Tests ==
+[[Bestand:OOjs UI icon chem.svg|OOjs_UI_icon_chem]] <sup>In [[Module:Layout/Production/Test]] worden de tests gespecificeerd die zijn uitgevoerd.</sup><br>
+
+== Zie ook ==
+* Voor meer informatie over LUA modules zie de [https://www.mediawiki.org/wiki/Extension:Scribunto/Lua_reference_manual de extensie Scribunto].
+
+== Code ==
+<noinclude>[[Categorie:Moduledocumentatie]]</noinclude>
+{{#IfEq:{{PAGENAME}}|{{ROOTPAGENAME}}|{{#IfEq:{{NAMESPACE}}|Module|[[Categorie:Module]]}}}}

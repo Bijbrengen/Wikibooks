@@ -1,0 +1,4 @@
+{{Opmaak|Beschrijving=Als subpagina's staan hieronder de testcases voor de [[Module:Layout/Test|testmodule]] van de [[Module:Layout]]|
+== Subpagina's ==
+{{Speciaal:Prefixindex/Module:Layout/Test/Testcases/}}
+}}

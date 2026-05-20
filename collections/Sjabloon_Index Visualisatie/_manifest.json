@@ -1,0 +1,22 @@
+{
+    "source":  "https://nl.wikibooks.org/wiki/Sjabloon%3AIndex_Visualisatie",
+    "api":  "https://nl.wikibooks.org/w/api.php",
+    "title":  "Sjabloon:Index Visualisatie",
+    "fetched_at_utc":  "2026-04-24T07:38:24.0663308Z",
+    "page_count":  1,
+    "pages":  [
+                  {
+                      "title":  "Sjabloon:Index Visualisatie",
+                      "file":  "_module.wiki",
+                      "pageid":  46202,
+                      "contentmodel":  "wikitext",
+                      "revid":  421864,
+                      "parentid":  419142,
+                      "timestamp":  "2026-04-07T23:48:38Z",
+                      "user":  "Erik Baas",
+                      "comment":  "catsort",
+                      "sha1":  "cd8fce0ec70dfd1ba93396158cee488637c4eb71",
+                      "bytes":  103
+                  }
+              ]
+}

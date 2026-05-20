@@ -1,0 +1,7 @@
+{{Opmaak}}
+== Test ==
+Deze module wordt getest door [[Module:Layout/Production/Test/Color]]
+
+{{#invoke:Layout/Production/Test|main|color}}
+
+== Code ==

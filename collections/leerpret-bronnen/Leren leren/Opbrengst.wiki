@@ -1,0 +1,93 @@
+{{Opmaak}}
+Leeropbrengst richt zich op wat de lerende als waardevol ervaart. Het gaat om de persoonlijke betekenis en relevantie die een lerende toekent aan wat hij of zij heeft geleerd. Dit kan verschillen per persoon en situatie, omdat het afhangt van de interesses, motivatie en context van de lerende. Een leerdoel daarentegen is meestal wat de docent of onderwijsontwerper verwacht dat een lerende zal bereiken. Het beschrijft de intentie en focus van een leeractiviteit: wat de docent belangrijk vindt dat de lerende leert. Een leerresultaat is de waardering of beoordeling door de docent. Het laat zien in hoeverre de lerende het gestelde leerdoel heeft bereikt en wordt vaak uitgedrukt in cijfers, feedback of andere evaluatievormen. Het verschil zit dus in het klassieke perspectief. De lerende ervaart de leeropbrengst als waardevol. De docent bepaalt het leerdoel en beoordeelt het leerresultaat. Leeropbrengst is subjectief en gericht op betekenis, leerdoel is normatief en gericht op intentie, en leerresultaat is evaluatief en gericht op prestatie. Bij [[leren leren]], [[bewust leren]], [[vrij leren]] en bijvoorbeeld [[zelf leren]] is het belangrijk dat het leerdoel door de lerende zelf wordt bepaald om zijn eigen leren meer intentioneel te maken.
+
+== Leerdoel ==
+Een '''{{Wp|Leerdoel|leerdoel}}''' geeft aan wat men met het {{Wp|onderwijs|onderwijs}} of eigen [[leren]] wil bereiken. Een leerdoel specificeert duidelijk en concreet wat men beoogt zichzelf of anderen eigen te maken op het gebied van {{Wp|kennis|kennis}}, {{Wp|inzicht|inzicht}}en en {{Wp|vaardigheden|vaardigheden}}. Er is meestal in opgenomen hoe men zich dit eigen maakt en hoe men dit dient te tonen aan anderen. Leerdoelen beschrijven is vergelijkbaar met het formuleren van doelen voor onderzoek. Ze moeten bijvoorbeeld duidelijk en verifieerbaar zijn. Ze zijn SMART (specifiek, meetbaar, acceptabel, realistisch en tijdgebonden).
+
+Studenten hebben inzicht in .... is geen goed leerdoel. Inzicht kun je niet direct waarnemen. Als leerdoel dien je te verwoorden hoe de lerende dit inzicht kan tonen. Een leerdoel start met het vaststellen van het hoogste leerdoelniveau. Een leerdoelbeschrijving bevat in ieder geval: 
+* studenten kunnen/kennen of ik kan/ken
+* manier waarop ze/ik het doel kunnen/kan aantonen
+* het kunstje zelf
+* het niveau waarop
+
+Het is niet wenselijk, hoewel vaak de praktijk, dat wat wordt geroepen als zijnde de doelstellingen niet overeenstemt met wat de lerende oefent, laat staan hoe het uiteindelijk wordt getoetst. Omgekeerd betekent dit dat als de werkelijke doelen eenmaal bekend zijn de structuur van het onderwijsontwerp is gevormd. Bijvoorbeeld: wordt van de studenten verwacht dat ze uiteindelijk een populair wetenschappelijk artikel moeten kunnen schrijven over leerdoelen, dan is de hoofdactiviteit schrijven en de toetsvorm vanzelfsprekend een artikel.
+
+== Terminologie ==
+Wanneer een leerdoel betrekking heeft op een specifieke les van een docent noemt men dit een lesdoel. Als het gaat om eisen die gesteld worden aan het halen van een diploma voor een bepaalde opleiding of aan het slagen voor een cursus gebruikt men het woord eindterm. Algemeen geformuleerde leerdoelen, waar het basisonderwijs en de basisvorming in Nederland, volgens het Nederlands ministerie van Onderwijs, naar dienen te streven, worden kerndoelen genoemd. Wanneer men deze hiërarchie onderzoekt en relaties legt tussen leerdoelen op de verschillende niveaus van toepassing, ontstaat er een boomstructuur met toenemende specificering. Deze structuur noemt men een leerdoelhiërarchie. Een leerdoelhiërarchie ontstaat ook als men binnen een onderwijsblok de meerdere leerdoelen groepeert en koppelt van algemeen naar detail. Daarbij zijn er vaak impliciete relaties. Reflectie impliceert analyse, analyse impliceert ervaring, ervaring impliceert begrip en begrip impliceert kennis.
+
+Persoonlijke leerdoelen die rekening houden met de mogelijkheden van het individu worden ontwikkelingsdoelen genoemd. Het plan dat moet leiden tot die persoonlijke ontwikkelingsdoelen wordt een Persoonlijk Ontwikkelingsplan (POP<ref group="begrip">{{Begrippen|POP}}</ref>) genoemd. Het kan een onderdeel zijn van een Persoonlijk Prestatie Plan (PPP) waarin wordt afgesproken wat, wanneer en hoe een individu denkt bepaalde prestaties neer te zetten.
+
+Soms wordt leerdoel gebruikt als synoniem van de term {{Wp|eindterm|eindterm}}<ref name="HOOBROECKX">{{Citeer boek | Achternaam = Hoobroeckx, F. en  Haak, E. | Titel = '''Het ontwerp als basis voor leermiddelenontwikkeling''' | Datum = 2002 | {{ISBN|}}= 9031325422 | Uitgever = Bohn Stafleu van Loghum}}</ref>. Echter een eindterm heeft meer van een algemeen doel (ook wel hoofddoel of globaal doel genoemd) omdat het in algemene bewoordingen beschrijft wat een leerling aan kwalificaties verwerft tijdens de opleiding zonder dat daaruit is af te leiden wat de leerling precies heeft geleerd. In het Engels wordt een leerdoel een learning objective of een learning goal genoemd, maar deze Engelse begrippen zijn niet synoniem aan elkaar. Een learning objective is dan de specifieke gedetailleerde beschrijving terwijl een learning goal de algemenere versie is, meer zoals een eindterm.
+
+== Competentie ==
+Een '''competentie''' staat voor een cluster van samenhangende kennis, vaardigheden en houdingen. Een leerdoel kan zowel duiden op kennis, op een vaardigheid of een houding die is gewenst. Men zou zodoende kunnen stellen dat een competentie een cluster van samenhangende leerdoelen is. Een competentie kan weer bestaan uit deelcompetenties. Omdat een hoofdleerdoel kan bestaan uit subleerdoelen en de samenhang daartussen, kan men evengoed stellen dat een leerdoel gelijkstaat aan het begrip competentie. Een [[wikt:competentie|competentie]] wordt ook wel een bekwaamheid genoemd die nodig is voor adequate uitvoering van maatschappelijke en beroepsmatige taken.
+
+In het onderwijs ziet men steeds meer expliciete aandacht voor beroepscompetenties en gaat men er niet meer uit van dat leren alleen op school gebeurt. Ervaring in de praktijk die alleen met het ontwikkelen van persoonlijke vaardigheden en de juiste houding effectief leren oplevert. Men kan dit op twee manieren benaderen<ref name="SIMONS">{{Citeer boek | Achternaam = Simons, P.R.J | Titel = '''Competentiegericht leeromgevingen in organisaties en hoger beroepsonderwijs''' | Datum = 1999 | Plaats = Heerlen, Open Universiteit | Uitgever = Competentiegerichte leeromgeving | Bladzijdes = 31 - 45}}</ref>. Men kan kijken naar de beroepspraktijk, gaat daar vanuit beroepsprofielen opstellen en deze op hun beurt weer afleiden tot competentieprofielen. Dit veronderstelt, vanwege de duur van het opstellen, dat het werkveld niet erg veranderlijk is en zich niet interactief maar deductief zou vormen. Een andere benadering gaat daar juist wel van uit en leert de lerende met die veranderlijkheid in het werk om te gaan (levenslang leren) door de praktijk de school binnen te halen.
+
+== Beschrijving ==
+De “syntax” van een leerdoel zou als volgt kunnen worden opgeschreven:
+
+<wie> <kent/kan> <wat> <hoe toont “wie” “wat” aan> <welk niveau>
+
+“De student kan een artikel over leerdoelen schrijven die geschikt is voor opname in een populair-wetenschappelijk blad.”
+
+Een leerdoel moet dus niet alleen beschrijven wat iemand moet kennen of kunnen, maar ook hoe je dit kunt toetsen en welk vereist niveau men moet bereiken. Vaak zie je bijvoorbeeld in een leerdoel staan dat een student inzicht heeft in een bepaald onderwerp. Maar zolang we niet in iemands hoofd kunnen kijken is dit leerdoel niet toetsbaar en al zeker niet te kwalificeren of kwantificeren. Een leerdoel moet eenduidig en scherp zijn. Dus zinnen met "inzicht in", "kent de betekenis van", "begrijpt", "weet" of "kent" zijn daarvoor te vaag. ''De student heeft een beter begrip van leerdoelen'' is dus te vaag. Men weet niet wanneer de student voldoende begrip heeft en waaruit dit blijkt. Men dient aan te geven welk gedrag een student zichtbaar kan laten zien om indirect dit “begrip” aan te tonen. Vaak heeft men bij het formuleren eerst helder wat de leerling dient te weten. Leidt men vervolgens af welke relaties de leerlingen tussen deze weetjes dient te kunnen leggen (begrijpen), om uiteindelijk te beschrijven hoe men dit resultaat kan tonen in concreet gedrag.
+
+In het vermelde leerdoel zou een manier van toetsen kunnen zijn dat een student zijn artikel voorlegt aan de (fictieve of werkelijke) redactie van een populair wetenschappelijk blad. Mager <ref name="MAGER">{{Citeer boek | Achternaam = Mager, R.F. | Titel = '''Preparing Instructional Objectives: A Critical Tool in the Development of Effective Instruction''' | Datum = 1962 | Plaats = Palo Alto, CA | Uitgever = Fearon Publishers}}</ref> stelt dat een leerdoel waarneembaar eindgedrag, voorwaarden waaronder dit eindgedrag moet worden getoond en een concrete maatstaf voor beoordelen bevat. Bij het formuleren van leerdoelen krijgt men niet alleen de inhoud helder maar ook al een beeld van de omvang van de leeractiviteiten<ref group="begrip">{{Begrippen|Leeractiviteit}}</ref> om die doelen te bereiken. Daarnaast stelt men ook vast op welke wijze men gaat toetsen of de leerdoelen zijn gerealiseerd.
+
+== Soorten ==
+[[Afbeelding:Blooms rose.svg|right|thumb|350px|'''Bloom's Wheel''' vormt een basis voor zijn indeling van leerdoelen]]
+''Dat ik veel weet wil niet zeggen dat ik veel kan!''
+
+{| class="wikitable"
+! metacognitive !! affective !! social !! motoric
+|-
+| knowledge → || attention → || contact → || imagination →
+|-
+| understanding → || interest → || agreement → || imitation →
+|-
+| application → || appreciation → || relationship → || automation →
+|-
+| analysis → || empathy → || cooperation → || demonstration →
+|-
+| reflection || attitude || team || virtuosity
+|}
+
+Men onderscheidt leerdoelen op grond van de delen van de persoonlijkheid in de volgende soorten;
+* (meta-)cognitieve doelen (doelen met het hoofd),
+* affectieve doelen (met het hart),
+* sociale doelen (met anderen) of
+* motorische doelen (met de handen).
+In de praktijk zal men vooral (meta-)cognitieve of sociale leerdoelen tegenkomen. Toch heeft men juist deze indeling gemaakt om onderwijsontwikkelaars te motiveren een bredere kijk op onderwijs en haar doelen te ontwikkelen.
+
+Deze soorten kunnen verder worden ingedeeld naar niveau<ref name="NG">{{Citeer boek | Achternaam = Ng, E. en Bereiter C. | Titel = '''Three Levels of Goal Orientation in Learning''' | Datum = juli 1991 | Plaats = Boston | Uitgever = Journal of the Learning Sciences, Volume 1, Issue 3 & 4 | Bladzijdes = 243 - 271}}</ref>. Voor cognitieve leerdoelen is dit bijvoorbeeld opeenvolgend
+* [[Onderwijzer/Doel#Kennis|kennis]],
+* [[Onderwijzer/Doel#Begrip|begrip]],
+* [[Onderwijzer/Doel#Toepassing|toepassing]],
+* [[Onderwijzer/Doel#Analyse|analyse]] en
+* [[Onderwijzer/Doel#Reflectie|reflectie]].
+
+Voor affectieve leerdoelen is dit bijvoorbeeld
+* [[Onderwijzer/Doel#Aandacht|aandacht]],
+* [[Onderwijzer/Doel#Interesse|interesse]],
+* [[Onderwijzer/Doel#Waardering|waardering]],
+* empathie en
+* houding.
+
+Voor sociale leerdoelen kan men werken met
+* contact
+* afspraak
+* relatie
+* coöperatie en
+* team
+
+Voor motorische leerdoelen is een mogelijke indeling
+* imaginatie
+* imitatie
+* automatisme
+* demonstratie
+* virtuositeit
+Of eenvoudig gezegd we kunnen meedoen (imaginatie), na doen (imitatie), vanzelf doen (automatisch), voordoen (aan anderen demonstreren of instrueren) of zelf doen (eigen stijl van de meester) ontwikkelen.
+
+Bij alle indelingen geldt dat bij het hoogste niveau van elke soort er een discontinuïteit in de geleidelijk toename van de complexiteit ontstaat. Van analyse naar reflectie wordt er ineens een affectieve component ingebracht. Het is juist de bedoeling dat de leerling niet alleen zijn denken meer inschakelt maar ook zijn gevoelsmatige beleving toevoegt. Eenzelfde onderbreking zien we van inleven naar houding. Zijn alle affectieve leerdoelen tot en met inleven gebaseerd op een beweging van jou als persoon naar de ander toe, houding vraagt juist de omgekeerde beweging, namelijk de adoptie van waarden en normen. Zijn bij alle sociale leerdoelniveaus gericht op de individuele persoon en zijn soort interactie met een of meerdere anderen, het sociale leerdoelniveauteam gaat er juist van uit dat men in staat is als persoon op te gaan in een sociale eenheid. Tot voordoen of demonstreren blijft het aangeleerde handelen vast staan maar bij de creatie heeft men de handeling zelf veranderd rekening houdend met de persoonlijke talenten en voorkeuren.
+{{Opmaak | Voettekst}}

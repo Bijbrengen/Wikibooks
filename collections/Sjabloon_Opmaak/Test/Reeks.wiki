@@ -1,0 +1,18 @@
+{{Opmaak
+| Object = Reeks
+| Bron = Humanature logo.jpg
+| Definitie = Definitie text
+| Beschrijving = Dit is een test voor het opmaken van een boekenreeks
+| Formaat = html
+| Voortgang = 5
+| Collectie = Onderwijs en opleiding
+| Onderdeel = Boek&shy;1&shy;hier&shy;daar, Zelf leren,Boek 3
+| Support = Help
+| Kleur = #846dab, #f26522, #bd1a8d
+<!--
+| Titel = Ondernemend leren
+-->
+| Referentie = wikipedia, wikijunior
+| textregel 1
+| textregel 2
+}}

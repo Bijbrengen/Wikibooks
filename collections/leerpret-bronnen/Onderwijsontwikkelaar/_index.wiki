@@ -1,0 +1,496 @@
+{{bi}}{{Wiu2}}
+{{Onderwijsprofessional/Artikel|Titel= Onderwijsontwikkelaar}}
+
+== Inleiding ==
+Een '''onderwijsontwerper''' wordt ook wel een '''onderwijsontwikkelaar''' genoemd. Echter er is een verschil. De taken van de onderwijsontwikkelaar zijn gericht op het ontwerpen en ontwikkelen van onderwijsmaterialen, terwijl de onderwijsontwerper zich vooral richt op ontwerpen van het organiseren van het onderwijs (onderwijsvormen, onderwijsmethoden, werkvormen) waarbij onderwijsmaterialen een ondersteund middel voor hem zijn. Een onderwijsontwerper gaat dus verder dan het maken van leerboeken, lesbrieven, onderwijsfilms, software, websites, elo's en games. Toch komen veel competenties overeen. Zoals ervaring met [[Onderwijzer|onderwijzen]] aangevuld met een stevige [[Onderwijsdeskundige|deskundigheid]] op het gebied van onderwijs. Als deze deskundigheid zich richt op ICT dan kan de onderwijsontwerper zich ontwikkelen tot [[Onderwijstechnoloog|onderwijstechnoloog]].
+
+Een '''onderwijsontwikkelaar''' is iemand die producten voor het onderwijs voortbrengt. Het produceren van leerstof<ref>Leerstof = de verzameling van alle leermaterialen die een lerende dient te bestuderen</ref> is de taak van de [[onderwijsontwikkelaar]], het formuleren van de wensen en de structuur is het werk van de [[onderwijsontwerper]]. Een '''onderwijsontwerper''' is iemand die een opzet maakt voor het onderwijs. Van een onderwijsontwerper wordt door het veld vaak verwacht dat die minimaal zelf heeft [[Onderwijzer|onderwezen]] en [[Onderwijsdeskundige|deskundig]] is op het onderwijs dat hij schetst. Daarbovenop legt de onderwijsontwerper een grote doses creativiteit. Hij dient de uitdagingen waar het onderwijs voor staat te zien als een paradox. De sleutel is er, aan hem de taak die te vinden.
+
+== Onderwijsontwikkelaar ==
+De taken van de onderwijsontwikkelaar, niet te verwarren met [[onderwijsontwerper|leerplanontwikkelaar]], zijn gericht op het ontwerpen en ontwikkelen van onderwijsmaterialen. Hij houdt zich niet - zoals de [[onderwijsontwerper]] - bezig met het ontwerpen van het organiseren van het onderwijs (onderwijsvormen, onderwijsmethoden, werkvormen). De onderwijsmaterialen als een  ondersteund middel voor deze onderwijsontwerpen is het product van de onderwijsontwikkelaar. Deze onderwijsmaterialen kunnen bijvoorbeeld zijn: leerboeken, lesbrieven, onderwijsfilms, software, websites, elo's en games. De onderwijsontwikkelaar heeft ervaring met [[Onderwijzer|onderwijzen]] aangevuld met een stevige [[Onderwijsdeskundige|deskundigheid]] op het gebied van onderwijs. Als deze deskundigheid zich richt op ICT, dan kan de onderwijsontwikkelaar zich ontwikkelen tot [[Onderwijstechnoloog|onderwijstechnoloog]]. Als de onderwijsontwikkelaar zich meer en meer ook bezighoudt met het ontwerpen van onderwijs, dan kan hij zich ontwikkelen tot [[onderwijsontwerper]].
+
+=== Kwaliteit ===
+De onderwijsontwikkelaar start zijn werk soms vanuit het niets maar bij voorkeur vanuit een onderwijsontwerp. Omdat de eerste werkwijze in dit boek (en in de serie) niet als professioneel wordt beschouwd gaan we uit van een concreet onderwijsontwerp (met eventueel prototype) vanwaaruit de onderwijsontwikkelaar zijn producten, de onderwijsmaterialen, maakt.
+
+Een onderwijsontwikkelaar kan zijn werk professionaliseren door er al bij de bouw van uit te gaan dat hij al zijn onderwijsmaterialen uiteindelijk gaat "uitgeven". Hij gaat zich dan al vooraf bedenken aan welke eisen zijn producten moeten voldoen om een uitgever te bewegen de producten voor hem te produceren. Dit zal de kwaliteit van de producten alleen maar ten goede komen, dus stellen we als eis in dit boek dat de producten van de onderwijsontwikkelaar van voldoende kwaliteit zijn om uit te geven.
+
+Kwaliteitseisen in dit boek aan de onderwijsontwikkelaar:
+* De onderwijsontwikkelaar start altijd vanuit een onderwijsontwerp.
+* De producten van de onderwijsontwikkelaar zijn van een dusdanige kwaliteit dat een uitgever ze zou kunnen produceren.
+
+=== Ontwikkelmodellen ===
+Een van de zaken die een onderwijsontwikkelaar zal vaststellen is op welk medium hij zijn materialen het beste kan ontwikkelen. De zogenaamde mediamodellen geven hier op een antwoord. Het is van belang dat de ontwikkelaar hierbij niet op de stoel van de [[onderwijsontwerper]] gaat zitten in de zin dat de techniek ten dienste moet staan aan het ontwerp en niet andersom. De verleiding om mee te gaan met de nieuwste technische snufjes mag geen rol spelen. De vraag welk medium het beste het onderwijsontwerp dient wel. Door het hanteren van produktiemodellen zorgt de onderwijsontwikkelaar ervoor dat de doelstellingen zoals vastgesteld door de onderwijsontwerper voorop staan. 
+
+=== Werkwijze ===
+Als een onderwijsontwerper zijn werk goed heeft gedaan dan kan de onderwijsontwikkelaar volstaan met het volgen van een handboek of een kookboekmodel<ref name="SCHIFFMAN">{{Citeer boek | Achternaam = Schiffman, S.S. | Titel = '''Instructional systems design, five views of the field''' | Uitgever = Journal of instructional development, 9 | Datum = 1986 | Bladzijdes = 14-19}}</ref>. Door de onderwijsontwerper is er immers gegarandeerd dat er een gedegen analyse is gedaan van de wensen en dat de resultaten achteraf zorgvuldig, formatief,  worden geëvalueerd. 
+
+De onderwijsontwikkelaar start in de werkwijze met minimaal een beschrijving van de functies die het product moet bezitten. Vandaar dat men zegt dat een onderwijsontwikkelaar minimaal een functioneel ontwerp nodig heeft om zijn werk te organiseren. Zo'n functioneel ontwerp heeft wel de onderdelen van de oplossing en hun onderlinge samenhang geduid maar ze niet concreet uitgewerkt zoals bij een detail ontwerp of technisch ontwerp het geval is. Mist zo'n detailontwerp dan is het aan de onderwijsontwikkelaar om deze in afstemming met de onderwijsontwerpen alsnog op te stellen, voordat hij de onderwijsmaterialen gaat produceren. In plaats van of samen met een detailontwerp wordt ook vaak een prototype gebouwd om nog beeldender en daardoor concreter aan te tonen wat de uiteindelijke bedoeling is. Ook als de onderwijsontwikkelaar zelf een prototype bouwt, zal hij dit in nauw overleg met de onderwijsontwerper dienen te doen. Een prototype is voor de onderwijsontwerper een prachtig middel om de opdrachtgever, die vaak niet over de technische ontwerpkennis bezit om een functioneel ontwerp - laat staan een detailontwerp - te begrijpen en te beoordelen, te informeren.
+
+== Onderwijsontwerper ==
+Een onderwijsontwerper onderscheidt zich van een [[onderwijsontwikkelaar]] omdat hij zich bezighoudt met het oplossen van problemen met de organisatie of uitvoering van het onderwijs. Het gaat dan ook de situaties die zelfs voor een ervaren [[onderwijsprofessional]] problematisch zijn en niet routinematig kunnen worden aangepakt. Een onderwijsontwerper houdt zich bezig met die problemen die een onderwijsontwikkelaar als te complex ervaart. Het vraagt van de ontwerper om het probleem vanuit verschillende perspectieven te aanschouwen en dat vraagt een ruime ervaring in verschillende onderwijsrollen. Een onderwijsontwerper is in ieder geval een [[onderwijsdeskundige]] als het gaat om onderwijsvormen, -methoden en -middelen.
+
+Wanneer spreken van het onderwijskundig ontwerpen? Het gaat bij ontwerpen vooral om de strategie die men kiest om een probleem opgelost te krijgen. Een oplossing die natuurlijk zo goed mogelijk antwoord geeft op het probleem. Maar wat verstaan we dan onder onderwijskundige problemen? Bij een onderwijskundig probleem gaat het om een verschil tussen de gewenste onderwijssituatie en de bestaande onderwijssituatie<ref name="PLOMP">{{Citeer boek | Achternaam = Plomp, Tj. en Verhagen, P.W. | Titel = '''Onderwijstechnologie en onderwijskundige technologie, Onderwijskunde een inleiding''' | Plaats = Groningen | Uitgever = Wolters-Noordhoff | Datum = 1987}}</ref>. Het kan gaan om onderzoeken of veranderen of een combinatie van beiden<ref name ='''SWANBORN'''>{{Citeer boek | Achternaam = Swanborn, P.G. | Titel ='''Methoden van sociaal-wetenschappelijk onderzoek''' | Plaats = Meppel | Uitgever = Boom | Datum = 1987}}</ref>. Voor een onderwijsontwerper gaat het alleen om het veranderen van de ongewenste situatie, om iets nieuws te maken; de ontwerpproblemen.  Dit maken kan leiden tot een nieuwe procedure, werkwijze, systeem of product zoals een nieuwe opleiding, een onderwijsprogramma, een softwareprogramma, onderwijsprotocollen of een onderwijsmethode. 
+
+=== Terminologie ===
+In de Angelsaksische literatuur kom je het ontwerpen van onderwijs tegen onder verschillende namen als curriculum design, instructional systems design, instructional technology en het meest gangbaar als educational technology. Omdat de laatste term in het Nederlands vertaald wordt als onderwijstechnologie (door Plomp onderwijskundige technologie genoemd) maar men daar meestal het gebruik van ICT en nieuwe media aan koppelt, zullen we in dit boek spreken van onderwijsontwerp, onderwijsontwerpen en onderwijsontwerper. 
+
+Een onderwijsontwerper kan zijn werk structureren en vereenvoudigen door het hanteren van een model voor het onderwijsontwerpen. Er zijn zogenaamde procedurele onderwijsmodellen zoals het [[Onderwijsontwerper/Gereedschappen#IDI-model|IDI-model]] en conceptuele onderwijsmodellen zoals het [[Sjabloon:Onderwijsontwerper/Onderwijsvorm/Objectgeoriënteerd_onderwijs#Objectgeori.C3.ABnteerd_onderwijs|objectgeoriënteerde model]]. De procedurele modellen geven aan welke activiteiten in welke volgorde moeten worden uitgevoerd. De conceptuele modellen beschrijven een deel van de werkelijkheid in een vereenvoudigde weergave. Deze onderwijsmodellen komen voort uit de [[w:onderwijskunde|onderwijskunde]] of uit de onderwijspraktijk. De onderwijsontwerper begint altijd met het omzetten van de wensen van de opdrachtgever. De opdrachtgever is bijvoorbeeld een schooldirecteur of een team van docenten die tegen uitdagingen in het onderwijs aanlopen en een verandering wensen. Als er zaken moeten worden geproduceerd door een [[onderwijsontwikkelaar]] dan maakt de onderwijsontwerper een beschrijving van dat produkt.
+
+Een goede ontwerper is verder niet alleen creatief in het maken van eigen ontwerpen maar laat zich daarin ook inspireren door bestaande ontwerpen. Voor een onderwijsontwerper zijn onderstaande onderwijsvormen interessante gereedschappen voor in de gereedschapskist. De bouwsteen van een ontwerp is het leerobject.
+
+== Ontwerpmodellen ==
+
+=== Romiszowski ===
+'''Alexander Joseph  Romiszowski'''<ref>{{Persoon|Alexander Romiszowski}}</ref> benadert een probleem als een discrepantie tussen de bestaande en de gewenste situatie. In deze systematische benadering van het onderwijsontwerp kijkt hij op een heuristische wijze naar de aard, de fase en het niveau van ontwerpen. Dat doet hij zonder zijn benadering als kookboek te poneren om te komen van onderwijsprobleem tot onderwijsoplossing. Hij onderscheidt onderwijskundige (educational context) van opleidingskundige (training context) problemen op grond van zijn constatering dat bij de eerste categorie de doelen (en de mogelijkheden die doelen te bereiken) minder nauwkeurig zijn vastgesteld dan bij de laatste soort.
+
+Ontwerpen van onderwijs volgens Romiszowski 
+{|align=center width=100% style="margin:0 auto; width:100%; padding:1em 0; text-align:left; letter-spacing:5px; border:3px solid orange; color: black; background-color:orange; color:#9==78F; font-size: 10px; font-weight: bold; font: 'Helvetica Neue', Helvetica, Arial, sans-serif"
+|-
+| colspan="1" rowspan="1" style="width:3%;" | <span style="color: #ffffff;"></span>
+| colspan="1" rowspan="1" style="width:2%;" | <span style="color: #ffffff;"></span>
+| colspan="1" style="color: black; background-color:#F265==;width:17%;" | <span style="color: #ffffff;">''Defineer probleem''</span>
+| colspan="1" style="color: black; background-color:#F265==;width:17%;" | <span style="color: #ffffff;">''Analyseer probleem''</span>
+| colspan="1" style="color: black; background-color:#F265==;width:17%;" | <span style="color: #ffffff;">''Ontwerp oplossing''</span>
+| colspan="1" style="color: black; background-color:#F265==;width:17%;" | <span style="color: #ffffff;">''Implementeer''</span>
+| colspan="1" style="color: black; background-color:#F265==;width:17%;" | <span style="color: #ffffff;">''Beheer/evalueer''</span>
+|-
+| colspan="3" |<span style="color: #ffffff;">''niveau 1 ontwerp''</span>
+|
+|
+|
+|
+|-
+|style="color: black; background-color:#FFFFFF;"| analyse
+|
+|style="color: black; background-color:#FFFFFF;"| 
+wat moet gedaan worden/bekend zijn?
+wat is gedaan/bekend
+|style="color: black; background-color:#FFFFFF;"| 
+front-end-analyse
+is instructie een deel van de vereiste oplossing?
+|style="color: black; background-color:#FFFFFF;"|
+overdenk andere typen van oplossingen
+|style="color: black; background-color:#FFFFFF;"|
+|style="color: black; background-color:#FFFFFF;"|
+is het probleem echt opgelost
+|-
+|style="color: black; background-color:#FFFFFF;"| synthese
+|
+|style="color: black; background-color:#FFFFFF;"| 
+transformeer discrepantie in meetbare projectdoelen
+|style="color: black; background-color:#FFFFFF;"|
+voer een volledige job/onderwerp-analyse uit om de doelen na de instructie te verkrijgen
+|style="color: black; background-color:#FFFFFF;"|
+ontwerp evaluatie-instrumenten
+|style="color: black; background-color:#FFFFFF;"|
+besturende stappen om van het bestaande systeem gebruik te maken
+|style="color: black; background-color:#FFFFFF;"|
+voer een langetermijn-evaluatie uit van de effecten op de gemeenschap of organisatie
+|-
+|style="color: black; background-color:#FFFFFF;"| evaluatie
+|
+|style="color: black; background-color:#FFFFFF;"| 
+zijn de projectdoelen levensvatbaar?
+stop of reviseer
+|style="color: black; background-color:#FFFFFF;"|
+bestaat er al een geschikt instructiesysteem?
+|style="color: black; background-color:#FFFFFF;"|
+evalueer en selecteer het bestaande systeem
+|style="color: black; background-color:#FFFFFF;"|
+|style="color: black; background-color:#FFFFFF;"|
+produceer en evalueer de langetermijnevaluatie-instrumenten
+|-
+| colspan="3" |<span style="color: #ffffff;">''niveau 2 ontwerp''</span>
+|
+|
+|
+|
+|-
+|style="color: black; background-color:#FFFFFF;"| analyse
+|
+|style="color: black; background-color:#FFFFFF;"| 
+|style="color: black; background-color:#FFFFFF;"|
+voer een doelgroep/taak/onderwerpanalyse uit van wat relevant is voor instructie
+|style="color: black; background-color:#FFFFFF;"|
+wat zijn de kenmerken van de kennis en de vaardigheden?
+
+inhoud?
+|style="color: black; background-color:#FFFFFF;"|
+identificeer mogelijkheden voor implementatie
+|style="color: black; background-color:#FFFFFF;"|
+analyseer de effecten van de instructie
+|-
+|style="color: black; background-color:#FFFFFF;"| synthese
+|
+|style="color: black; background-color:#FFFFFF;"| 
+|style="color: black; background-color:#FFFFFF;"|
+leid gedetailleerde instructiedoelen af
+|style="color: black; background-color:#FFFFFF;"|
+ontwikkel het instructieplan
+* structuur/volgorde
+* strategieën/methoden
+* media
+* beheer/evaluatie
+|style="color: black; background-color:#FFFFFF;"|
+verspreiding van plan aan leerkrachten
+oriëntatie en voorbereiding
+|style="color: black; background-color:#FFFFFF;"|
+controleer en evalueer het gehele project
+|-
+|style="color: black; background-color:#FFFFFF;"| evaluatie
+|
+|style="color: black; background-color:#FFFFFF;"| 
+wat is het klimaat en de filosofie van het omgevingssysteem?
+|style="color: black; background-color:#FFFFFF;"|
+wat is de waarde en de praktische bruikbaarhied van het voorgestelde systeem?
+|style="color: black; background-color:#FFFFFF;"|
+welk ontwerpniveau is vereist?
+|style="color: black; background-color:#FFFFFF;"|
+|style="color: black; background-color:#FFFFFF;"|
+produceer en evalueer de eindtest
+|-
+| colspan="3" |<span style="color: #ffffff;">''niveau 3 ontwerp''</span>
+|
+|
+|
+|
+|-
+|style="color: black; background-color:#FFFFFF;"| analyse
+|
+| rowspan="3" style="color: black; background-color:#FFFFFF;"| 
+invoer gedefinieerd in eerder fases
+* doelen
+* inhoud
+* instructieplan
+* projectbronnen
+* bestaande materialen
+* doelgroep
+|style="color: black; background-color:#FFFFFF;"|
+analyseer de gedetailleerde instructiedoelen en inhoud
+|style="color: black; background-color:#FFFFFF;"|
+identificeer geschikte onderwijsactiviteiten
+|style="color: black; background-color:#FFFFFF;"|
+identificeer implementatie-moeilijkheden
+|style="color: black; background-color:#FFFFFF;"|
+analyseer het effect van iedere les/lesonderdeel
+|-
+|style="color: black; background-color:#FFFFFF;"| synthese
+|
+|style="color: black; background-color:#FFFFFF;"| 
+analyseer het instructieplan om een lessenvolgorde te definiëren 
+|style="color: black; background-color:#FFFFFF;"|
+ontwikkel gedetailleerde plannen voor ieder les, inclusief materiaalspecificatie
+|style="color: black; background-color:#FFFFFF;"|
+ontwikkel een evaluatieplan
+
+train de leerkrachten
+|style="color: black; background-color:#FFFFFF;"|
+pilot-project
+test het systeem onder realistische condities
+|-
+|style="color: black; background-color:#FFFFFF;"| evaluatie
+|
+|style="color: black; background-color:#FFFFFF;"|
+analyseer al het bestaande instructiemateriaal
+|style="color: black; background-color:#FFFFFF;"|
+voldoet bestaand materiaal aan deze specificaties?
+|style="color: black; background-color:#FFFFFF;"|
+hebben alle leerkrachten noodzakelijke vaardigheden/ervaring?
+|style="color: black; background-color:#FFFFFF;"|
+produceer en valideer de test
+|-
+| colspan="3" |<span style="color: #ffffff;">''niveau 4 ontwerp''</span>
+|
+|
+|
+|
+|-
+|style="color: black; background-color:#FFFFFF;"| analyse
+|
+|style="color: black; background-color:#FFFFFF;"| 
+|style="color: black; background-color:#FFFFFF;"|
+analyseer de kenmerken van de doelgroep gedetailleerd
+|style="color: black; background-color:#FFFFFF;"|
+voer een gedragsanalyse uit
+|style="color: black; background-color:#FFFFFF;"|
+identificeer geschikte steekproeven van de doelgroep
+|style="color: black; background-color:#FFFFFF;"|
+analyseer de effecten van iedere volgorde of oefening
+|-
+|style="color: black; background-color:#FFFFFF;"| synthese
+|
+|style="color: black; background-color:#FFFFFF;"| 
+|style="color: black; background-color:#FFFFFF;"|
+selecteer de structuur van elke oefening
+|style="color: black; background-color:#FFFFFF;"|
+ontwikkel materiaal
+* geprogrammeerde test
+* informatiekaarten
+* structureel
+* audiovisueel
+|style="color: black; background-color:#FFFFFF;"|
+ontwikkel een produktie- en validatierooster
+|style="color: black; background-color:#FFFFFF;"|
+test al ontwikkelende het materiaal in kleine groepen
+|-
+|style="color: black; background-color:#FFFFFF;"| evaluatie
+|
+|style="color: black; background-color:#FFFFFF;"| 
+|style="color: black; background-color:#FFFFFF;"|
+|style="color: black; background-color:#FFFFFF;"|
+evalueer voor accuratesse en consistentie (expertevaluatie)
+|style="color: black; background-color:#FFFFFF;"|
+implementeer en reviseer indien nodig
+|style="color: black; background-color:#FFFFFF;"|
+produceer en valideer de vragen van de criteriumtest
+|-
+|
+|
+|
+|
+|
+|
+|
+|}
+''Bron Romiszowski (1981)''<ref name="ROMISZOWSKI">{{Citeer boek | Achternaam = Romiszowski, A.J. | Titel = '''Designing instructional systems. Decision making in course planning and cuirriculum design''' | Uitgever = Kogan Page| Plaats = Londen | Datum = 1981}}</ref>
+
+=== AT&T Development-Model ===
+{{Onderwijsprofessional/Artikel|Titel=AT&T Development-Model}}
+Het '''AT&T Development-Model''' is een aanpak om onderwijs te ontwerpen ontwikkeld door het telecombedrijf [[w:American_Telephone_%26_Telegraph|American Telephone and Telegraph]] de voorganger van het huidige AT&T Inc. Het werd gebruikt voor opleidingen die binnen het bedrijf werden ontwikkeld en verzorgd. 
+
+Een van de redenen voor het ontwikkelen van een eigen model voor training- en onderwijsprogramma's was dat dit een onderdeel vormde in de overeenkomst met de Communications Workers of America (CWA), de grootste vakbond in de VS op het werkgebied van communicatie en media. Een andere reden was dat ze een van de grootste bedrijven in de VS was en daarmee een grote opleider, waarmee investeren in effectiever opleiden een significante return on investement opleverde.
+
+Het model bestaat uit acht fasen van ontwerpen:
+# ''Vooronderzoek en planning'': er komt een verzoek binnen die door een onderwijsontwerper wordt verkend en leidt tot een concrete opdracht voor de onderwijsontwikkelaars
+# ''Functieanalyse en schrijven van doelstelling'': de onderwijsontwerper stelt een team van ontwikkelaars samen, plant het project, achterhaalt de gewenste functies en formuleert ontwikkeldoelen
+# ''Taakanalyse, cursusontwerp en casus/-toetsontwikkeling'': de onderwijsontwerper specificeert de te leren taken, beschrijft het gewenste instapniveau en eindniveau, een aanpak om deze te overbruggen, welke casussen dienen te worden ontwikkeld en hoe de doelen kunnen worden getoetst.
+# ''Materiaalontwikkeling, technische validering en voorbereiding van proeftoetsing'': de onderwijsontwikkelaar schrijft de leerstof en de onderwijsontwerper ontwikkelt een test om de leerstof te toetsen.
+# ''Proeftoetsing en revisie'': de onderwijsontwerper doet de test en de onderwijsontwikkelaar wijzigt indien nodig de leerstof
+# ''Definitieve documentatie en overschakeling op uitvoering'': de onderwijsontwerper verzamelt alle documentatie en maakt die definitief alvorens deze over te dragen aan de opdrachtgever
+# ''Onderhoud'': de onderwijsontwerper houdt de resultaten van het onderwijsontwerp bij
+# ''Effectiviteitsonderzoek'': de onderwijsontwerper doet onderzoek naar de effectiviteit van het onderwijsontwerp en rapporteert deze aan de opdrachtgever
+
+Het model levert de volgende producten op:
+* een informatiepakket voor de definitie en planning van het project
+* een rapport over de functies van het te ontwerpen onderwijs
+* een ontwerp voor het onderwijs
+* een rapport voor de validering van de leerdoelen
+* een prototype van het ontwerp voor een praktijktest
+* een evaluatie van de praktijktest
+* de leerstof bij het onderwijsontwerp
+* een onderzoeksverslag naar de effectiviteit van het ontwerp
+
+Voorbeelden van cursussen die AT&T met dit model hebben ontwikkeld zijn: Business Sales Leadership Development Program, Retail Leadership Development Program, MAnagement TRansition Exchange (MATREX) Program, IT Internship,Network Engineering Technical Development Program (NETDP), Network Engineering Technical Development Program Internship (NETDP), Network Transition Exchange (NETREX) Program, AT&T Labs Internships, Leadership Development Program, Leadership Development Program Internship, Financial Leadership Program, Finance Summer Internship Program, General Business Opportunities en de Internship Opportunities.
+
+=== IDI-model ===
+{{Onderwijsprofessional/Artikel|Titel=IDI-model}}
+Het '''IDI-model''' is een schematische en lineaire procedure voor het ontwerpen van onderwijs. In 9 fasen wordt een stappenplan doorlopen voor het oplossen van onderwijskundige vraagstukken die vragen om een verandering van de bestaande situatie.
+
+'''IDI''' is een afkorting van het Instructional Development Institute  een programma voor nascholing, door de University Consortium for Instructional Development and Technology ontwikkeld, waar het model aan ten grondslag ligt. In dit consortium werkten de U.S. International University, Indiana University, Syracuse University, University of South California en de Michigan State University samen. Het programma was bedoeld om [[onderwijsprofessional|onderwijsprofessionals]] te helpen bij het ontwerpen van onderwijs.
+
+Een overzicht van het model uit Plomp (1992)<ref name="PLOMP2">{{Citeer boek | Titel = '''Ontwerpen van onderwijs en trainingen''' | Achternaam = Plomp, Tj., Feteris, A., Pieters J.M. en Tomic W. | Datum = 1992 | Plaats = Utrecht | Uitgever = Uitgeverij Lemma B.V. | {{ISBN|}}= 90-5189-104-0}}</ref>:
+{|align=center width=100% style="margin:0 auto; width:100%; padding:1em 0; text-align:left; letter-spacing:5px; border:3px solid orange; color: black; background-color:orange; color:#9==78F; font-size: 10px; font-weight: bold; font: 'Helvetica Neue', Helvetica, Arial, sans-serif"
+|-
+| colspan="1" rowspan="3" style="width:10%;" | <span style="color: #ffffff;">Definieer</span>
+| colspan="1" style="color: black; background-color:#F265==;width:30%;" | <span style="color: #ffffff;">''Stap 1:''<br>Stel het probleem vast</span>
+| colspan="1" style="color: black; background-color:#F265==;width:30%;" | <span style="color: #ffffff;">''Stap 2:''<br>Analyseer de omgeving en de context</span>
+| colspan="1" style="color: black; background-color:#F265==;width:30%;" | <span style="color: #ffffff;">''Stap 3:''<br>Organiseer te verrichten werkzaamheden</span>
+|-
+|
+|
+|
+|
+|-
+|style="color: black; background-color:#FFFFFF;"| 
+* Stel de behoeften vast 
+* Stel de prioriteiten vast 
+* Formuleer het probleem
+|style="color: black; background-color:#FFFFFF;"|
+* Betrokkenen
+* Randvoorwaarden
+* Relevante bronnen
+|style="color: black; background-color:#FFFFFF;"|
+* Taken
+* Verantwoordelijkheden
+* Tijdplanning en limieten
+|-
+|
+|
+|
+|
+|}
+
+
+{|align=center width=100% style="margin:0 auto; width:100%; padding:1em 0; text-align:left; letter-spacing:5px; border:3px solid orange; color: black; background-color:orange; color:#9==78F; font-size: 10px; font-weight: bold; font: 'Helvetica Neue', Helvetica, Arial, sans-serif"
+|-
+| colspan="1" rowspan="3" style="width:10%;" | <span style="color: #ffffff;">Ontwikkel</span>
+| colspan="1" style="color: black; background-color:#F265==;width:30%;" | <span style="color: #ffffff;">''Stap 4:''<br>Stel doelen c.q. doelstellingen vast</span>
+| colspan="1" style="color: black; background-color:#F265==;width:30%;" | <span style="color: #ffffff;">''Stap 5:''<br>Specificeer methoden</span>
+| colspan="1" style="color: black; background-color:#F265==;width:30%;" | <span style="color: #ffffff;">''Stap 6:''<br>Construeer prototypen</span>
+|-
+|
+|
+|
+|
+|-
+|style="color: black; background-color:#FFFFFF;"| 
+* Uiteindelijke doelen
+* Tussendoelen
+|style="color: black; background-color:#FFFFFF;"|
+* Voor leren
+* Voor onderwijzen
+* Media
+|style="color: black; background-color:#FFFFFF;"|
+* Instructiematerialen
+* Evaluatie-instrumenten
+|-
+|
+|
+|
+|
+|}
+
+
+{|align=center width=100% style="margin:0 auto; width:100%; padding:1em 0; text-align:left; letter-spacing:5px; border:3px solid orange; color: black; background-color:orange; color:#9==78F; font-size: 10px; font-weight: bold; font: 'Helvetica Neue', Helvetica, Arial, sans-serif"
+|-
+| colspan="1" rowspan="3" style="width:10%;" | <span style="color: #ffffff;">Evalueer</span>
+| colspan="1" style="color: black; background-color:#F265==;width:30%;" | <span style="color: #ffffff;">''Stap 7:''<br>Test de prototypen</span>
+| colspan="1" style="color: black; background-color:#F265==;width:30%;" | <span style="color: #ffffff;">''Stap 8:''<br>Analyseer de resultaten</span>
+| colspan="1" style="color: black; background-color:#F265==;width:30%;" | <span style="color: #ffffff;">''Stap 9:''<br>Reviseer en implementeer de oplossing</span>
+|-
+|
+|
+|
+|
+|-
+|style="color: black; background-color:#FFFFFF;"| 
+* Beproef prototypen
+* Verzamel evaluatiegegevens
+|style="color: black; background-color:#FFFFFF;"|
+* m.b.t. de doelen
+* m.b.t. de methoden
+* m.b.t. de evaluatiemethoden
+|style="color: black; background-color:#FFFFFF;"|
+* herzie
+* beslis
+* voer uit
+|-
+|
+|
+|
+|
+|}
+
+=== Seminar ===
+{{Onderwijsprofessional/Artikel|Titel=Seminar}}
+
+[[Bestand:Dialogue Seminar '09.jpg|thumb|right|Dialoog seminar tussen Joodse en Arabische Israeli's]]
+Een '''seminar''' is een omvangrijke bijeenkomst rond een bepaald onderwerp, waarin deskundigen, meestal via workshops en lezingen,  kennis met elkaar delen. Synoniem aan een seminar is het congres, dat in tegenstelling tot het seminar meerdere betekenissen kan hebben. Een seminar met een wetenschappelijk karakter wordt ook wel symposium of conferentie genoemd.
+
+[[Bestand:Scientific seminar.jpg|thumb|left|Wetenschappelijk seminar]] In Engelstalige Landen duidt een seminar op een academische instructie. Meestal bij een universiteit maar soms ook door een commerciële organisatie verzorgd. Het heeft in die betekenis als doel mensen bij elkaar te brengen voor terugkerende ontmoetingen, altijd gericht op hetzelfde onderwerp. Inbreng van een ieder wordt daarbij verwacht, meestal via een Socratische dialoog<ref name=''SOCRATES''>{{Citeer boek | Achternaam =CG Hawkins-Leon | Titel = '''Socratic Method-Problem Method Dichotomy: The Debate Over Teaching Method Continues''' | Datum = 1998 | Uitgever = BYU Educ. en LJ}}</ref> of een presentatie. Bij sommige Europese universiteiten wordt de term seminar gebruikt om een uitgebreid college, door een vaak externe expert, te duiden. In andere Europese landen doelt men met een seminar op een hele collegereeks of academisch project. In alle gebruikte betekenissen gaat men uit van een zekere deskundigheid van de deelnemers zodat uitwisseling en niet consumptie van kennis voorop staat. 
+Steeds vaker wordt de term gebruikt om een commercieel evenement te beschrijven. Deelnemers kunnen dan, soms gratis, informatie ontvangen over allerlei onderwerpen.
+
+[[Bestand:COLLECTIE TROPENMUSEUM Seminarium in Ombalata TMnr 10016579.jpg|thumb|right|Seminarium in de tropen, Ombalata]]
+Het woord seminar stamt af van het Latijnse woord seminarium wat kweekschool betekent. Een ''seminarium'', ook wel ''seminarie'', was een katholiek internaat waar predikanten werden opgeleid. Het is ontstaan in de 16e eeuw als onderdeel van de contrareformatie.
+
+{| class="wikitable" width="75%" 
+! Seminars
+|-
+| De Kamer van Koophandel hanteert het begrip seminar voor bijeenkomsten die startende ondernemers ondersteunen<ref name=''KVK''>{{Citeer boek | Achternaam = Kamer van Koopphandel | Titel = '''Seminars voor startende ondernemers''' | URL = https://www.kvk.nl/ondernemen_in_uw_regio/noord_nederland/actueel/seminars_kvk_noord/seminars_voor_startende_ondernemers/}}</ref>.
+|-
+| Seminars over finance en beleggen<ref name=''DFT''>{{Citeer boek | Achternaam = De Telegraaf | Titel = '''DFT Seminars''' | URL = https://onlineseminar.dft.nl/}}</ref> 
+|-
+| Seminars die onderwijsinstellingen tegen betaling aan derden aanbieden<ref name=''CIC''>{{Citeer boek | Achternaam = Customer Insights Center | Titel = '''Seminar Behavioral Targeting''' | URL = https://www.rug.nl/feb/onderzoek/onderzoekscentra/cic/activiteiten}}</ref>
+|-
+| Seminar over Onderzoek en Ondernemerschap in de Kunstvakopleidingen<ref name=''NVAO''>{{Citeer boek | Achternaam = NVAO | Titel = '''SSeminar Onderzoek en Ondernemerschap in de Kunstvakopleidingen''' | URL = https://www.nvao.net/seminar-kunstvakonderwijs}}</ref>
+|}
+
+=== Leerobject ===
+{{Onderwijsprofessional/Artikel|Titel=Leerobject}}
+
+Een '''leerobject''' is een logische ordening van herbruikbare bouwstenen uit het [[onderwijs]].<ref name=''DEFINITIE''>{{Citeer boek | Achternaam = Johnson, L. | Titel = '''Elusive vision: Challenges impeding the learning object economy''' | Datum = 2003 | Plaats = San Francisco | Uitgever = Macromedia Inc.}}</ref> De bouwstenen kunnen bijvoorbeeld bestaan uit teksten, geluiden of (bewegende) beelden. Een leerobject is een voorwerp dat een hulpmiddel is bij het [[leren]]; het is geen vorm of methode.<ref name=''VOORWERP''>{{Citeer boek | Achternaam = Mayer, R. E. | Titel = ''The promise of multimedia learning: using the same instructional design methods across different media'' | Datum = 2003 | Uitgever = Learning and Instruction, 13 | Bladzijdes = 125-139}}</ref>
+
+=== Geschiedenis ===
+De term '''leerobject''' wordt vaak ten onrechte toegeschreven aan M.D. Merrill,<ref name = ''MERRILL''>{{Citeer boek | Achternaam = Merrill, M. D. | Titel = '''Reflections on a four decade search for effective, efficient and engaging instruction''' | Datum = 2008 | Uitgever = Michael Allen's 2008 e-Learning Annual: Wiley Pfieffer | Bladzijdes = 141-167}}</ref> die dit begin jaren tachtig zou hebben geïntroduceerd. In onderwijskringen werd de term daarvoor ook al in beperkte mate toegepast.<ref name=''VOORHEEN'>{{Citeer boek | Achternaam = Van Mondfrans and Travers | Titel = '''Paired-Associate Learning Within and Across Sense Modalities and Involving Simultaneous and Sequential Presentations''' | Datum = 1965 | Uitgever = American Educational Research Journal, 1965, 2 | Bladzijdes = 89-99}}</ref> De term leerobject kwam vooral in gebruik toen in de jaren negentig [[elektronische leeromgeving]]en werden geïnstalleerd in het onderwijs.<ref name=''OPKOMST''>{{Citeer boek | Achternaam = Marcel Mirande | Titel = '''De onstuitbare opkomst van de leermachine: over de precaire verhouding tussen technologie en onderwijs in de periode 1925-2005''' | Datum = 2006 | Uitgever = Uitgeverij Van Gorcum | {{ISBN|}}= 9023242874}}, {{ISBN|9789023242871}}</ref> Dit leidde snel tot een grote hoeveelheid digitale [[onderwijsmateriaal|onderwijsmaterialen]].<ref name='' ''>{{Citeer boek | Achternaam = Susan Smith Nash | Titel = '''Learning Objects, Learning Object Repositories, and Learning Theory: Preliminary Best Practices for Online Courses''' | Datum = 2005 | Plaats = Excelsior College, Albany, NY, USA | Uitgever = Interdisciplinary Journal of Knowledge and Learning Objects, Volume 1, 2005}}</ref> Het opslaan en beheren van deze gegevens werd een uitdaging voor de [[Informatie- en Communicatietechnologie|ICT]]-wereld. De gegevens moesten worden gerubriceerd en geordend. De sets van elementen uit het onderwijs die ontstonden noemde men in de [[leertechnologie]] leerobjecten.<ref name=''LEERTECHNOLOGIE''>{{Citeer boek | Achternaam = Pierre Gorissen, Jocelyn Manderveld, Frank Benneker, Bas Cordewener | Titel = '''Leertechnologie in de Lage Landen''' | Datum = 2004 | Uitgever = Stichting SURF | {{ISBN|}}= 90-74256-28-7}}</ref>
+
+=== Metadata ===
+De karakteristieken die men als een label toevoegde aan de digitale leerobjecten noemt men [[metadata]]. In de wereld van [[e-learning]] ontstond zo de term leerobjectmetadata. Het model dat hieraan te grondslag ligt noemt men Learning Object Metadata.<ref>Zie hiervoor het [[:en:Learning_object_metadata|Engelstalige Wikipedia-artikel]].</ref> Dit model is door IMS<ref name=''IMS''>{{Citeer boek | Titel = '''Learning Resource Meta-data Specification''' | Uitgever = IMS Global Learning Consortium | URL= https://www.imsglobal.org/metadata/}}</ref> ontleend aan een model ontwikkeld aan de [[Open Universiteit]], genaamd EML.<ref name=''EML''>{{Citeer boek | Achternaam = Rob Koper and Jocelyn Manderveld | Titel = '''Educational modelling language: modelling reusable, interoperable, rich and personalised units of learning''' | Datum = 2004 | Uitgever = British Journal of Educational Technology, Vol 35 No 5 2004 | Bladzijdes = 537–551}}</ref> Later zijn er veel meer varianten ontwikkeld<ref = ''VARIANT''>{{Citeer boek | Achternaam = Katrien Verbert, Erik Duval | Titel = '''Towards a Global Component Architecture for Learning Objects: A Comparative Analysis of Learning Object Content Models''' | Datum = 2004 | Uitgever = Katholieke Universiteit Leuven}}</ref> en daarmee alternatieve definities. 
+
+=== LCMS ===
+Het verzamelen van al die leerobjecten heeft bij [[onderwijsinstelling]]en, onderwijs[[uitgeverij]]en en andere onderwijsorganisaties geresulteerd in grote [[database]]s met digitale onderwijsmaterialen, ook wel [[software repository|repository]] of leer(object)contentmanagementsysteem ([[LCMS]]) genoemd. Door de leerobjectmetadata kunnen deze partijen eenvoudig met hulp van [[zoekmachine]]s, de verzamelde leerobjecten uitwisselen en hergebruiken.
+
+== Casus ==
+Een docent wordt getraind in het maken van een onderwijsontwerp voor universitaire scheikunde vak. De afspraken zijn dat studenten verzwaarde leerdoelen bereiken die van kennis en begrip naar analyse niveau zijn gebracht. Daarnaast dienen de studenten blijk te geven van een grote waardering voor de docent en de schoonheid van het vak. De opleiding mag aan begeleiding door een ervaren onderwijsontwerper niet meer dan 20 uren bedragen. De docent kan bij de eigen onderwijsondersteuningsinstelling beroep doen op verder didactisch advies.
+
+=== Trainingsdoelen ===
+# Professionalisering docent in het onderwijskundige en didactische doorontwikkeling van het eigen onderwijs.
+# Training op specifieke vaardigheden die voor de uitvoering gevraagd zijn.
+# Opstellen en implementeren van een onderwijs ontwerp voor het vak
+
+=== Situatie ===
+* Er is een matig studieboek.
+* Studenten zijn 4de jaars.
+* Het vak omvat 5 ECTS.
+* Er zijn gemiddeld 15 deelnemers aan het vak.
+
+=== Ontwerp ===
+Studenten kunnen aan de hand van aangereikte scheikundecasussen beoordelen of - en zo ja, op welke manier - de methoden uit het vak een rol kunnen spelen bij het begrijpen, voorspellen en verifiëren van een oplossing.
+De docent kiest/bedenkt een reeks casussen die samen alle belangrijke ideeën en strategieën uit de discipline toelichten. De casussen dagen de studenten flink uit maar zijn met de middelen die hun beschikbaar staan, te begrijpen, te onderzoeken en op te lossen. De studenten bekijken de casus vanuit het perspectief van de discipline. Ze dienen zich af te vragen
+# of en waarom de casus een relatie heeft met het vak.
+# welke ideeën en strategieën uit de discipline een rol kunnen spelen?
+# hoe de casus kan worden herschreven in een beschrijving zoals een expert op het vakgebied de casus zou zien (perspectief)?
+# hoe de beschrijving kan worden vertaald in vraagstellingen?
+# welke oplossingsmethoden de vraagstelling kunnen beantwoorden?
+# hoe selecteert men de beste oplossingsmethode?
+# wat het antwoord is als deze beste oplossingsmethode wordt toegepast op de vraagstelling?
+# hoe het antwoord gecontroleerd kan worden?
+
+Deze hoofdvragen moeten leiden tot deelvragen. In het proces van het formuleren van vragen doet de student al voorspellingen. De deelvragen hebben tot doel de voorspellingen te bevestigen of te ontkrachten. Het zijn vooral de kwaliteit van de vragen die een student zichzelf stelt die bepalen in welke mate een student het leerdoel beheerst.
+
+=== Vragen stellen ===
+Om de casussen te kunnen oplossen is het nodig dat studenten over een goed gevulde gereedschapkist uit de discipline beschikken. Het is de wens van de docent er zeker van te zijn dat studenten minimaal over deze gereedschapkist bezitten. Een manier om te controleren of een student de stof diepgaand begrijpt, er mee kan werken en professioneler naar vaksituaties is gaan kijken, is de student er moeilijke vragen over te laten verzinnen. Vragen die analytisch, persoonlijk maar vooral [[w:casuïstiek|casusgericht]] van aard zijn en niet zondermeer kunnen worden opgelost. De docent bepaalt of hij een vraag van voldoende niveau vindt. Een suggestie is voorbeeldvragen aan de studenten te geven zodat ze weten welk niveau verwacht wordt. De vragen worden door studenten zo aangeboden dat andere studenten er naar kunnen kijken.
+
+De docent verdeelt de leerstof in delen die niet verder kunnen worden opgesplitst. Deze eenheden worden op een lijst gezet. Als een student een vraag verzint zal deze een aantal van deze eenheden moeten aanspreken. Hij of zij dient zelf aan te geven welke eenheden worden gebruikt. Uiteindelijk dient de student alle eenheden minimaal 1 keer in een goedgekeurde vraag aan te spreken. Een vraag wordt alleen goedgekeurd als de docent van oordeel is dat hij van voldoende niveau is en niet teveel lijkt op een andere ingeleverde vraag. In het laatste geval geldt het principe; wie het eerst komt wie het eerst maalt.
+
+De studenten moeten vragen stellen en beantwoorden; aan de hand van een aangereikte casus of aangereikte leerstof. Hierin worden ze ondersteund. Deze ondersteuning is zodanig gefaseerd dat de student uiteindelijk geheel zelfstandig ingewikkelde casussen kan oplossen in een beperkte tijd. Studenten worden verdeeld in groepen (4-5 studenten). Gezien de aantallen is de verwachting dat er twee tot drie groepen zullen ontstaan.
+
+=== Fasering ===
+Het onderwijsproces is verdeeld in drie fases. Een student of groep mag pas verder met een volgende fase indien een fase naar oordeel van de docent met een goed gevolg is doorlopen. De docent plant de fases bewust veel krapper dan de roosterplanning van zijn vak! We gaan immers ervan uit dat we de studenten verder helpen bij het leren leren dus dat ze nog niet aan het strakke leerschema zullen voldoen.
+
+In de eerste fase doet de docent voor hoe je goede deelvragen uit de eerder genoemde hoofdvragen kunt formuleren en oplossen aan de hand van een scheikundecasus. Daarna vraagt de docent de groepen hem na te doen tijdens en tussen de bijeenkomsten. Hij zal de groepen intensief begeleiden. De student maakt individueel vragen over de aangereikte leerstof. Deze vragen worden besproken in de eigen groep die de student meehelpt bij het beter formuleren of bedenken daarvan. Het is in deze fase de groepsverantwoordelijkheid dat alle leden voldoende vragen formuleren. De docent zal dus de groep stevig aanspreken als studenten achterblijven. De student dient na deze fase de helft van de leerstof eenheden gedekt te hebben.
+
+In de tweede fase doet de docent voor hoe je zelf goede casussen bedenkt. De groep doet hem na en maakt een of meerdere casussen die elk verschillen van elkaar en voorgaande casussen qua dekking van de leerstof. Deze casussen worden na goedkeuring door de docent  gegeven aan de individuele studenten van de andere groep. De studenten maken dan een casus, aangereikt door een groep, zelfstandig, maar krijgen daarbij wel alle hulp van de groep. Het
+maken van vragen over alle resterende leerstof eenheden doen de studenten nu geheel zelfstandig zonder hulp van de groep.
+
+In de derde fase heeft de student zijn gereedschapkist (soms dubbel; zowel vragen maken als casussen beantwoorden) gevuld en zou nu geheel zelfstandig aangereikte casussen moeten kunnen aanpakken. Deze aangereikte casussen zorgen ervoor dat de nog niet aangesproken leerstof uit eerdere casussen alsnog wordt benaderd. De student oefent tijdens een voorlaatste bijeenkomst zijn snelheid in het aanpakken (een oefententamen). De laatste bijeenkomst bestaat uit een individueel spreekuur (10 minuten) tussen de docent met elke student waarbij een student aangeeft op welke punten hij op welke manier zichzelf moet ontwikkelen om het eindtentamen te halen. Het zou zo moeten zijn dat alle studenten het gewenste niveau al op het proeftentamen hebben gehaald. Dit moet de docent vooral niet communiceren; alleen de bereikte groei, de openstaande hiaten en het vertrouwen geven dat de student met zijn plan van aanpak deze hiaten zal opvullen. Mocht onverhoopt een student het op het eindtentamen minder goed doen dan op het oefententamen dan kan de docent besluiten het resultaat op het oefententamen als uitgangspunt te nemen. Het kan ook blijken dat de docent voldoende vertrouwen in sommige studenten heeft nadat zij vragen hebben geformuleerd en beantwoord tijdens het onderwijs, dat een tentamen geen toegevoegde waarde heeft en men daarvan kan worden vrijgesteld.
+
+=== Onderbouwing ===
+Het zowel maken als beantwoorden van vragen zorgt voor krachtige twee richting aanpak; van (casus naar) vragen naar oplossen en van oplossen (leerstof) naar vragen. Verder bevat het ontwerp vele stimuleringstechnieken om de studenten aan te zetten tot op tijd en diepgaand leren. Wanneer de uitdaging wordt gecombineerd met geruststelling en vertrouwen zullen de studenten het vak als zwaar maar leuk en zinvol gaan ervaren. Zij zullen de docent waarderen voor zijn vertrouwen in hun kunnen, voor zijn bijdrage aan een zinvolle zelfontplooiing en het laten zien van de schoonheid van de discipline.
+
+=== Vaardigheden ===
+Van de docent wordt nogal wat gevraagd. Hij zal
+# een coachende rol moeten vertolken
+# bewust aansturen op metacognitieve en sociaal-emotieve leerprocessen
+# zich kwetsbaar durven opstellen
+# zich in een zwart gat durven werpen
+# goed kunnen improviseren
+# groepen moeten begeleiden
+# het leren bij de student moeten laten en niet overnemen
+# de schoonheid van het vak vinden
+# moeten reflecteren op zijn eigen mentale modellen en manier van kijken en oplossen
+# studenten ondersteunen en prikkelen tot zelfreflectie
+
+=== Acties ===
+# het opzetten van een leeromgeving waarin genoemd ontwerp wordt ondersteund
+# het opdelen van de leerstof in ondeelbare eenheden
+# het bedenken van casussen die samen de leerstof dekken
+# het opstellen van een proeftentamen en eindtentamen (wederom casussen dus)
+# een maken van een rooster dat het onderwijsproces organiseert
+# het opstellen van een voorbeelduitwerking van een casus
+# het opstellen van voorbeeldvragen
+
+== Bronnen ==
+<references/>
+
+{{boek}}
+{{fase|1}}

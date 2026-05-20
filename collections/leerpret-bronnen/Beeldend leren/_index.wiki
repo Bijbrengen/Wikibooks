@@ -1,0 +1,13 @@
+{{Opmaak
+| Titel = Beeldend leren
+| Object = Boek
+| Bron = Vintage Keystone 8mm Home Movie Camera, Model K-4C, Three Lens Turret, Made In USA, Circa 1959 (33124829026).jpg
+| Definitie = ''Beeldend leren'' duidt op het [[leren]] door het kijken naar (bewegende) beelden zoals in inspirerende films of schilderijen.
+| Beschrijving = In plaats van dat je mensen een beschrijving van iets geeft wat te leren valt, neem je een fragment bijvoorbeeld uit een film, 'wat alles zegt'.<br>Een beeld zegt immers meer dan duizend woorden.<br>In dit boek richten we ons vooral op het leren van wijsheden ([[Filosofisch onderwijs|filosofie]]).
+| Formaat = html
+| Voortgang = 25
+| Support = Signaleer
+| Referentie = 
+| Collectie = Leren
+| Onderdeel = Inleiding, Eyes Wide Shut, De Celestijnse &shy;Belofte, De Godfather, Fight Club, The Butterfly &shy;Effect, The Matrix, Little Buddha, Lord of the Rings, Star Trek
+}}

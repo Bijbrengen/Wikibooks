@@ -1,0 +1,224 @@
+__NEWSECTIONLINK__{{Lerarenkamer}}<!-- Bij archiveren deze regel laten staan aub. --><br style="clear: both;">
+
+==Technisch nieuws==  <!-- tbv. berichten die wat langer onder de aandacht moeten blijven -->
+* 8 onderwerpen verplaatst naar [[Wikibooks:Lerarenkamer/Technisch nieuws]]. - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 3 apr 2026 10:42 (CEST)
+
+== WSBN ==
+:Ook verplaatst, naar [[Overleg Wikibooks:Wiki Standaard Boeknummer#WSBN]]. - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 3 apr 2026 10:26 (CEST)
+
+== Over de plaats van [[Netwerken]] op Wikibooks ==
+[[Gebruiker:Effeietsanders|Effeietsanders]] en anderen: Het boek [[Netwerken]] staat nu op de voorpagina bij het onderwerp '''9 Diverse'''. Mij lijkt het eerder bij categorie '''6 Samenleving''' te horen. Mee eens? Het WSBN zou dan ook moeten veranderen. [[Gebruiker:JopkeB|JopkeB]] ([[Overleg gebruiker:JopkeB|overleg]]) 9 dec 2025 09:38 (CET)
+:Het past mi. niet onder een van de subcats, zie [[Wikibooks:Wiki_Standaard_Boeknummer#6:_Humane_samenleving]]. En: moet het "Samenleving" of "Humane samenleving" zijn? - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 9 dec 2025 11:50 (CET)
+::Wat mij betreft "Samenleving": dat is een breder begrip en staat ook op de voorpagina. Ik zou het op prijs stellen als alle begrippen op de voorpagina overeenkomen met die in het [[Wikibooks:Wiki Standaard Boeknummer]]. Bij "Humane samenleving" denk ik als eerste aan een samenleving die humaan is, menselijk, met respect voor de menselijke waardigheid. Niet aan "humaan" als in "van mensen", als tegenstelling tot dierlijk. Bij "Samenleving" denk ik als eerste aan een maatschappij waarin mensen samen leven, hoewel er natuurlijk ook dierlijke samenlevingen zijn. [[Gebruiker:JopkeB|JopkeB]] ([[Overleg gebruiker:JopkeB|overleg]]) 9 dec 2025 12:26 (CET)
+:::Wat  op de voorpagina staat is ook niet heilig, hoor. ;-) Maar inderdaad, zo'n titel moet op alle pagina's identiek zijn, en de vlag "Samenleving" dekt de lading beter. . Overigens past dit wel in het beeld wat ik van WSBN heb: kleine afwijkingen, net niet compleet, enz. - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 9 dec 2025 12:37 (CET)
+::::Twee issues:
+::::1) Kan het boek [[Netwerken]] worden overgebracht naar categorie '''6 Samenleving'''? Mij lijkt het daar goed te passen. Het gaat over het aangaan en onderhouden van contacten. Volgens {{Wp|Sociaal netwerk}} hoort het bij sociologie, dus ik zou zeggen bij Catalogus-code 6-1, sociologie & etniciteit. Mee eens? {{Done}} --[[Gebruiker:JopkeB|JopkeB]] ([[Overleg gebruiker:JopkeB|overleg]]) 31 mrt 2026 12:19 (CEST)
+:::::OK. - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 31 mrt 2026 15:28 (CEST)
+
+==WSBN/2==
+::::2) Wij beiden zijn het erover eens dat de coderingen en namen op de voorpagina van Wikibooks gelijk zouden moeten zijn aan de WSBN-codes en -naamgeving. Klopt dat? Zo ja, dan lijkt het mij dat daarvoor eerst een inventarisatie van beide pagina's gemaakt zou moeten worden waaruit de verschillen blijken (twee kolommen) en er daarnaast een derde kolom komt met voorstellen. Vervolgens moeten we het eens worden over de voorstellen en kunnen de uitkomsten worden geïmplementeerd. Vind je dit een goede aanpak? '''Pending.''' --[[Gebruiker:JopkeB|JopkeB]] ([[Overleg gebruiker:JopkeB|overleg]]) 31 mrt 2026 12:19 (CEST)
+:::: [[Gebruiker:JopkeB|JopkeB]] ([[Overleg gebruiker:JopkeB|overleg]]) 9 dec 2025 16:25 (CET)
+:::::Goed plan, maar wel erg veel werk; en er zijn al 2 (of 3?) lijsten met WSBN's met elk hun eigen afwijkingen, dat is juist een van de redenen dat ik er geen zicht meer op heb... Heb er al diverse malen naar zitten staren, maar heb nog steeds niet de moed kunnen opbrengen om er ook echt aan te ''beginnen''.
+:::::Als we waterdichte afspraken hebben betreffende het ''format'' van het WSBN, kunnen we zowel de lijst(en) als de [[:Categorie:Wikibooks:Boeken met infobox|360 infoboxen]] gaan bijwerken. Het is toch al geen project wat in één keer en snel afgerond kan of moet worden...
+:::::Ik zal ook nog eens zien of er iets te automatiseren valt, bv. het converteren van het format. 
+:::::Is [[Overleg Wikibooks:Wiki Standaard Boeknummer|dit]] een goede plek voor verder overleg over deze [[rijstebrijberg|klus]]? - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 31 mrt 2026 15:28 (CEST)
+::::::Deze discussie is verplaatst naar [[Overleg Wikibooks:Wiki Standaard Boeknummer#Coderingen en namen gelijk trekken op_Wikibooks-voorpagina en de WSBN-codes en -naamgeving]] en kan hier worden afgesloten. [[Gebruiker:JopkeB|JopkeB]] ([[Overleg gebruiker:JopkeB|overleg]]) 31 mrt 2026 17:52 (CEST)
+
+== Jullie mening gevraagd over leerboeken op maat ==
+Voorgeschiedenis/achtergrondinformatie:
+* [[Overleg:Besturingssystemen#Pagina naar meerdere deelpagina's]]
+* [[Wikibooks:Lerarenkamer/Archief_2025#Uitgeverij Neon gaat schoolboeken goedkoper maken|Wikibooks:Lerarenkamer#Uitgeverij Neon gaat schoolboeken goedkoper maken]]
+ 
+Het probleem: 
+* Steeds meer docenten willen het liefst leerboeken op maat, die naar hun situatie zijn aangepast. “One size fits all” is uit. Dit is waarschijnlijk ook één van de redenen dat [https://www.neon.nl/overons uitgeverij Neon] hierop inspeelt: “Met het systeem van Neon kan elke leraar eenvoudig onderdelen aanpassen, toevoegen of verwijderen.”
+Dit botst/schuurt met enkele uitgangspunten van Wikibooks:
+* Iedereen mag bestaande Wikiboeken en hoofdstukken naar eigen inzichten aanvullen en verbeteren, ook wie niet de hoofdauteur is. Op de voorpagina staat: “U kunt elk hoofdstuk uitbreiden of aanpassen, en wordt daartoe van harte uitgenodigd. ''Zolang uw wijzigingen constructief zijn, kunt u niets mis doen''.” Maar het is niet handig voor een docent die zo’n boek in de klas gebruikt, als jan en alleman zomaar van alles en nog wat kunnen veranderen.
+* Normaliter is er slechts één boek over een bepaald onderwerp, op zijn best één voor elk schooltype en klas (onderwerp X voor Vmbo/Havo/VWO (Nederland) klas N). Maar er zijn (nog) geen boeken voor elke school/opleiding of elke docent apart.
+* Boeken op Wikibooks bestaan uit een voorpagina, een inhoudsopgave en minimaal twee hoofdstukken (anders kun je er net zo goed een Wikipedia-artikel van maken), er is voor elk deelonderwerp een apart hoofdstuk en dus een aparte pagina. Maar er zijn docenten die het liefst één pagina met alle hoofdstukken hebben, zodat ze er gemakkelijk één pdf van kunnen maken en het hele boek gemakkelijk kunnen printen.
+ 
+Ik ben bang dat Wikibooks steeds minder relevant wordt als we hier geen oplossing voor bieden.
+ 
+Voorgestelde oplossing:
+* Er is per onderwerp één basisboek/moederboek (per schooltype en klas), of hoe je het ook wilt noemen. Docenten en andere geïnteresseerden kunnen die gebruiken en verbeteren.
+* Maar docenten kunnen ook een kopie maken, die naar hun eigen inzichten aanpassen en opslaan als nieuw Wikibook. Voor dergelijke min of meer persoonlijke kopieën gelden de hierboven vermelde uitgangspunten niet. Hierover wordt een boodschap vermeld op elke pagina van zo’n op-maat-boek.
+ 
+'''=> Vragen''' en aandachtspunten:<br>
+Ping: [[Gebruiker:De Wikischim|De Wikischim]], [[Gebruiker:Erik Baas|Erik Baas]], [[Gebruiker:Ellywa|Ellywa]], [[Gebruiker:Mattias.Campe|Mattias.Campe]], [[Gebruiker:T.vanschaik|T.vanschaik]], [[Gebruiker:Pbuddenberg|Pbuddenberg]]
+# Wat is jullie mening hierover? Weet je een andere oplossing?
+# Wat wordt het format voor de naam van het kopie-/op-maat-boek?
+# Hoe erg is het als het basis-/moeder-boek en de kopieën daarvan in de loop der jaren steeds verder van elkaar gaan afwijken?  Het gevaar is groot dat elke docent zijn/haar eigen boek steeds actualiseert, maar dat het basisboek achterblijft bij actuele ontwikkelingen, of andersom. Bij Neon zijn daarvoor schrijvers in dienst, hier alleen vrijwilligers die zelf kiezen wat ze wel en niet doen.
+[[Gebruiker:JopkeB|JopkeB]] ([[Overleg gebruiker:JopkeB|overleg]]) 20 dec 2025 05:02 (CET)
+:Wikibooks is niet primair bedoeld om te worden gebruikt in het onderwijs (zoals Wikipedia dat ook niet in de eerste plaats is voor èchte wetenschappers, aangezien die toch al alles weten over hun eigen vakgebied), al is een deel van de inhoud hier qua opzet idd. vergelijkbaar met onderwijsmateriaal. 
+:Er bestaat nu verder al bijvoorbeeld een [[Sjabloon:Verouderd]]. Dat kan best boven bepaalde teksten worden gezet waarin bijv. nog steeds staat dat je om te kunnen internetten een inbelverbinding nodig hebt (zie [[Veilig op het internet/Dialers]]). [[Gebruiker:De Wikischim|De Wikischim]] ([[Overleg gebruiker:De Wikischim|overleg]]) 20 dec 2025 11:47 (CET)
+::* Bij het schrijven van een wikibook over een ook in het reguliere onderwijs voorkomend onderwerp is, zeker als je zelf (langere tijd) in het onderwijs werkt(e), niet te voorkomen dat je je eigen ervaring meeneemt (leerjaar, schooltype: VMBO, HAVO, VWO, MBO) in de keuze en volgorde van de onderwerpen en de manier waarop je die bespreekt. Dat betekent dat het toch al niet mogelijk is om een “One size fits all” te realiseren.
+::* Een "moederboek" met een of meer gekopieerde "kinderen" zou ik mee kunnen leven. De groeiende discrepantie tussen "moederboek" en "kinderen", en daarmee ook tussen de "kinderen" onderling, zullen we voor lief moeten nemen. Ook nu al is het waar dat twee lessen op basis van hetzelfde boek over dezelfde paragraaf, zowel naar vorm, leerbeleving door leerlingen en zelfs op (detail)leerinhoud van elkaar verschillen.
+::* Een grotere uitdaging wordt gevormd door het feit dat om een en ander te realiseren een redelijk inzicht nodig is in de "achterkant" van wikibooks. Enerzijds wil je dat iedereen gebruik kan maken van al bestaande inhoud, anderzijds wil je iedereen de mogelijkheid geven zijn eigen draai aan een onderwerp te geven. Juist de hogere (relatief, maar toch) Wikikunde die je nodig hebt om dat te realiseren zullen volgens mij de grootste belemmering zijn voor het gebruik van Wikibooks als leerboek in regulier onderwijs.
+::* De vrije bewerkbaarheid van Wikibooks botst inderdaad met een "privé-kopie" van een docent, maar we kennen nu ook al "werk in uitvoering" met het verzoek geen inhoudelijke edits op de tekst toe te passen. Dat is geen beveiliging tegen echte lomperikken, maar werkt doorgaans vrij goed. Voor een botbouwer zou dit overigens betekenen dat een kopieer-functie (eventueel alleen na verzoek toegankelijk voor moderator) voor boeken een leuke uitdaging is.
+::[[Gebruiker:T.vanschaik|T.vanschaik]] ([[Overleg gebruiker:T.vanschaik|overleg]]) 20 dec 2025 13:25 (CET)
+
+=== Conclusies tot nu toe ===
+# Het is niet verboden om een kopie van een Wikibook te maken en die vervolgens aan te passen voor de eigen lessen. We willen "iedereen de mogelijkheid geven zijn eigen draai aan een onderwerp te geven."
+# Wel is een sjabloon nodig voor dergelijke kopieën om te voorkomen dat iedereen ongewenste aanpassingen doet (JopkeB: met de mogelijkheid de "eigenaar" van het kopie-boek in het sjabloon te noemen om vragen te kunnen stellen, en een verwijzing te maken naar het origineel).
+# JopkeB: Kopieën kunnen vooralsnog gemakkelijk worden gemaakt door op "Bewerken" in het moederboek te klikken en met copy-paste de inhoud in het nieuw Wikibook te kopiëren. # JopkeB: Mij lijkt het zinvol dit op de één-of-andere manier in een handleiding vast te leggen. Nieuwe '''vraag''': Wat is daarvoor de beste plek? In [[Help:Een nieuwe pagina aanmaken]]? Of een nieuwe Help-pagina en een verwijzing maken op geëigende plaatsen?
+# Openstaande '''vraag''': Wat wordt het format voor de naam van het kopie-/op-maat-boek? Mijn voorstel: eerst de naam van het moederboek gevolgd door de naam van de school, opleiding of vak zoals dat op de betreffende school wordt gegeven. Bijvoorbeeld: "Besturingssystemen voor CoSy" of Besturingssystemen voor CoSy in AD en ICW". Het voordeel hiervan is dat het kopie-boek in alle categorieën en andere lijsten direct onder het moederboek wordt gesorteerd en zo alle boeken over een onderwerp bij elkaar staan. Zijn jullie het hiermee eens?
+Ping: [[Gebruiker:De Wikischim|De Wikischim]], [[Gebruiker:T.vanschaik|T.vanschaik]], [[Gebruiker:Erik Baas|Erik Baas]], [[Gebruiker:Ellywa|Ellywa]], [[Gebruiker:Mattias.Campe|Mattias.Campe]]: Zijn jullie het eens met deze conclusies? Hebben jullie antwoorden op de onderste twee vragen? --[[Gebruiker:JopkeB|JopkeB]] ([[Overleg gebruiker:JopkeB|overleg]]) 29 dec 2025 09:58 (CET)
+
+:klinkt logisch [[Gebruiker:T.vanschaik|T.vanschaik]] ([[Overleg gebruiker:T.vanschaik|overleg]]) 29 dec 2025 13:18 (CET)
+:Mijn excuses voor het late antwoord. Maar ik ''denk'' dat ik het ermee eens ben 😉. Soms is het moeilijk in te schatten wat de concrete gevolgen zijn bij een specifieke situatie. Voor mij persoonlijk werkt bv. [[CoSy in AD en ICW|CoSy in AD en ICW - Wikibooks]] goed en het kan een inspiratie zijn voor iemand die ook die vakken moet geven in de de richtingen Applicatie- en Databeheer of Informatica- en Communicatiewetenschappen. Per hoofdstuk werk ik dan met leerplandoelen bovenaan, zodat iemand anders die aan het boek/hoofdstuk zou willen meewerken ergens het kader ziet waarin dat kan. [[Gebruiker:Mattias.Campe|Mattias.Campe]] ([[Overleg gebruiker:Mattias.Campe|overleg]]) 27 jan 2026 20:11 (CET)
+::Suggestie voor naam is logisch. Handleiding bouwen is nog even een dingetje. Verwijzing naar de handleiding voor speciale boeken kan misschien in het linksjabloon van de boekinfo. [[Gebruiker:T.vanschaik|T.vanschaik]] ([[Overleg gebruiker:T.vanschaik|overleg]]) 29 jan 2026 16:24 (CET)
+:::Wijzigingen in boekpagina's kun je opvangen door in de inhoudsopgave van het special-boek niet naar de kale pagina-naam te verwijzen maar gebruik te maken van een permanente link, op dezelfde manier als dat gebeurt in de vertaallink bij verwijzingen naar anderstalige Wiki's. [[Gebruiker:T.vanschaik|T.vanschaik]] ([[Overleg gebruiker:T.vanschaik|overleg]]) 30 jan 2026 03:15 (CET)
+::::Ergens is het logisch als er maar één boek over een onderwerp bestaat, maar tegelijkertijd ook niet (over hetzelfde onderwerp heb ik meerdere boeken in de kast staan). Een groep mensen kan er natuurlijk voor kiezen om slechts één boek te gebruiken, maar als iemand anders een tweede boek wil schrijven en aanmaken, lijkt me dat lastig tegen te houden. Hierbij ga ik er wel vanuit dat een tweede boek over hetzelfde onderwerp wel een bepaalde eigenheid heeft en niet grotendeels een kopie van een ander boek, dus simpelweg een 2e boek aanmaken in de hoofdnaamruimte lijkt me niet een goede optie. Dat zou op termijn betekenen dat we 100 boeken hebben die vrijwel hetzelfde zijn op een enkele paragraaf na gewijzigd. Het kopiëren van inhoud van Wikibooks mag, conform de licentie met aangave licentie en waarvan het vandaan komt. Op Wikibooks zelf zou je een kopie kunnen opslaan in de gebruikersnaamruimte van de gebruiker die een boek gebruikt. Bovenaan/onderaan zou ik dan vermelden dat de inhoud overgenomen is van een boek uit Wikibooks met link ernaar (vergelijkbaar met [[w:Sjabloon:Bronvermelding Nederlandstalige Wikipedia]] voor het vermelden van waar de tekst in dezelfde Wikipedia-taalversie vandaan kwam). Als een nieuw wikiboek in de hoofdnaamruimte geplaatst wordt, wordt de tekst conform de licentie vrijgegeven en mag eenieder de tekst op zich bewerken. In principe staat iedere pagina op een Wikimedia-wiki onder beheer van de gemeenschap en is er geen eigenaarschap. De plek waar de minste bewerkingen verwacht hoeven te worden is de gebruikersnaamruimte. Voor Wikibooks zou het wel goed zijn als de verbeteringen/uitbreidingen terug komen in het moederboek, zodat anderen er ook wat aan hebben.
+::::"''Boeken op Wikibooks bestaan uit een voorpagina, een inhoudsopgave en minimaal twee hoofdstukken (anders kun je er net zo goed een Wikipedia-artikel van maken)''" -> Een lesboek heeft in principe een andere schrijfstijl dan een Wikipedia-artikel, waarbij je verder ook vragen kunt stellen, opdrachten kunt geven, toetsen kunt laten maken.
+::::Ik geef zelf les aan een universiteit (in het Engels), waarbij ik de uitleg mondeling doe, maar ik heb op de Engelstalige Wikipedia een pagina aangemaakt die ik gebruik om studenten op te wijzen als het verhaal nog eens rustig willen doorlezen of iets willen opzoeken. Met iedere nieuwe klas voeg er nieuwe voorbeelden en andere informatie aan toe. [[Gebruiker:Romaine|Romaine]] ([[Overleg gebruiker:Romaine|overleg]]) 31 jan 2026 19:22 (CET)
+
+=== Eindconclusies ===
+# Er blijft per onderwerp één basisboek/moederboek (per schooltype en klas). Docenten en andere geïnteresseerden kunnen die gebruiken en verbeteren.
+# Er kan een kopie van zo'n Wikibook worden gemaakt, die vervolgens wordt aangepast voor de eigen lessen. 
+# Het format van de naam van het kopie-/op-maat-boek is: eerst de naam van het moederboek gevolgd door de naam van de school, opleiding of vak zoals dat op de betreffende school wordt gegeven. Bijvoorbeeld: "Besturingssystemen voor CoSy" of Besturingssystemen voor CoSy in AD en ICW". 
+# Wel is een sjabloon nodig voor dergelijke kopieën om te voorkomen dat iedereen ongewenste aanpassingen doet. Zie voor een voorbeeld: [[Besturingssystemen voor CoSy in AD en ICW]]. Als er meer kopie-boeken komen, kan dit worden omgezet in een echt sjabloon.
+# Kopieën kunnen vooralsnog gemakkelijk worden gemaakt door op "Bewerken" in het moederboek te klikken en met copy-paste de inhoud in het nieuw Wikibook te kopiëren. 
+# Dit zal voorlopig in [[Help:Een nieuwe pagina aanmaken]] als handleiding worden vastgelegd. 
+Zonder tegenbericht is deze discussie nu gesloten. --[[Gebruiker:JopkeB|JopkeB]] ([[Overleg gebruiker:JopkeB|overleg]]) 1 feb 2026 10:54 (CET)
+
+:Oké {{Smiley|3}} [[Gebruiker:T.vanschaik|T.vanschaik]] ([[Overleg gebruiker:T.vanschaik|overleg]]) 2 feb 2026 01:41 (CET)
+
+== Artikelen van Pvt pauline op Wikipedia ==
+Op Wikipedia loopt een project waarbij het plan is om alle (resterende) artikelen van [[w:gebruiker:Pvt pauline]] in één keer (botmatig) te verwijderen. Een deel is al weg, over de rest (nog <del>2014</del> <ins>1995</ins>) loopt tot 16 februari 2026 6.00 uur CET een [[w:Wikipedia:Stemlokaal/Methodiek voor het verwijderen van de overgebleven artikelen van Pvt pauline|stemming]]. Bij Opmerkingen -> Achtergrond op die pagina staan de redenen. Als de meerderheid van de stemmers ''voor'' is zijn er nog 28 dagen om eventueel pagina's naar Wikibooks te importeren, en dat is dan ook de reden dat ik dit schrijf; op [[w:Overleg Wikipedia:Stemlokaal/Methodiek voor het verwijderen van de overgebleven artikelen van Pvt pauline]] werd gevraagd of dat mogelijk was, ik heb als eerste reactie iets als "ja, mits..." etc. geschreven.
+
+Het gaat om:
+*8 á 900 golfers, zie bv. [[w:Categorie:Golfer naar nationaliteit]]
+*honderden golfbanen en -toernooien
+*vele gebouwen in Den Haag
+*artikelen over plaatsen en mensen tijdens WO II
+Al met al is er heel veel tijd en moeite in gestoken, en ik kan het slecht zetten dat dat waarschijnlijk allemaal gaat verdwijnen. Wat het extra pijnlijk maakt is dat Pvt pauline inmiddels niet meer onder ons is...
+
+Vanwege persoonlijke interesse <del>zou ik bv. deze pagina's willen behouden</del> <ins>heb ik inmiddels de volgende pagina's geïmporteerd</ins>:
+*[[w:Gibraltar tijdens de Tweede Wereldoorlog]]
+*[[w:Kweekschool voor de Zeevaart (Amsterdam)]]
+*<del>een aantal</del> <ins>7</ins> historische schepen, oa.:
+**[[w:François (schip, 1869)]]
+**[[w:Hoff van Zeelandt (schip, 1642)]]
+**[[w:Prinses Beatrix (schip, 1939)]]
+en wat dies meer zij.
+
+De actuele lijst: [[w:Categorie:Wikipedia:Nog na te lopen artikel van Pvt pauline]]
+
+De problemen:
+*ik zie deze collectie typische ''wikipedia-pagina's'' nog geen ''boek'' worden
+*het aantal pagina's is zo groot dat handmatig importeren ondoenlijk is
+*ook als dat door een bot gedaan wordt (als dat al mogelijk is) moeten alle pagina's nog bekeken, geredigeerd, gecategoriseerd en hernoemd worden, om van de vele rode links nog maar te zwijgen...
+
+Wie is ook geïnteresseerd en bereid er tijd in te steken? NB Na het importeren is er geen tijdsdruk meer; de pagina's komen in naamruimte "Transwiki" en kunnen dan stuk voor stuk bewerkt worden. - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 11 feb 2026 22:44 (CET)
+
+Update: 
+* De inhoud van de genoemde 1995 artikelen is gedownload. Helaas is het bestand te groot om hier te publiceren, importeren kan niet, en uploaden als *.xml-bestand is niet toegestaan. Ik probeer een oplossing te verzinnen...
+* Op [[Wikibooks:Lijst van artikelen van Pvt pauline op nl.wikipedia|deze pagina]] staat wel een lijst van alle titels.
+- [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 13 feb 2026 01:44 (CET)
+
+== archive.today ==
+"''In January 2026, archive.today added code into its website in order to perform a distributed denial-of-service attack against a blog. Some archives have also been altered. On 20 February, English Wikipedia became the first Wikimedia site to deprecate the archive service. Other communities are still discussing this issue. ''" (van [[m:archive.today incident]]).
+
+Uit voorzorg heb ik – vooruitlopend op de verwachte volgende discussie – links naar archive.today verwijderd, en de URL toegevoegd aan het spamfilter. 
+
+Zie ook:
+* [[w:archive.today|Wikipedia]] {{Nl}}
+* [[w:en:Wikipedia:Wikipedia Signpost/2026-03-10/Technology report|Wikipedia]] {{En}}
+* [https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/ arstechnica.com] {{En}}
+
+Gaarne uw commentaar. - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 12 mrt 2026 00:09 (CET)
+
+== 8! ==
+Van de 77. Op [[m:Wikibooks/Table/nl]]. Sinds vandaag. En daar mogen we best een beetje trots op zijn. '''{{Larger|:-)}}''' - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 23 mrt 2026 17:53 (CET)
+
+:Een schouderklopje dus. Verdiend! [[Gebruiker:Ellywa|Ellywa]] ([[Overleg gebruiker:Ellywa|overleg]]) 23 mrt 2026 18:00 (CET)
+
+==10.000!==
+En weer een mijlpaal: dankzij één van de subpagina's van het boek [[Informatievoorziening]] door [[User:JopkeB|JopkeB]] heeft de Nederlandstalige Wikibooks nu ruim [[Speciaal:Statistieken|10.000 pagina's]] die aan alle voorwaarden voldoen. Dat is, gezien het niet bepaald grote taalgebied van het Nederlands, niet gering! '''{{Larger|:-)}}''' - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 29 mrt 2026 19:30 (CEST)
+
+:Wow! Dank. [[Gebruiker:JopkeB|JopkeB]] ([[Overleg gebruiker:JopkeB|overleg]]) 30 mrt 2026 07:17 (CEST)
+::Dat is al mooi! Heb er tot mijn verwondering zelf blijkbaar al [https://xtools.wmcloud.org/pages/nl.wikibooks.org/J.Grandgagnage 1068] op mijn actief {{Smiley}} [[Gebruiker:J.Grandgagnage|Jules]] ([[Overleg gebruiker:J.Grandgagnage|overleg]]) 30 mrt 2026 23:43 (CEST)
+
+== <span lang="en" dir="ltr">Board of Trustees Approves Closure of Wikinews</span> ==
+<div lang="en" dir="ltr">
+Following [[:m:Public consultation about Wikinews|extended discussions]] within the Wikimedia movement about the Wikinews long-term sustainability, levels of community activity, and the availability of reliable news coverage on other platforms, the Board of Trustees of the Wikimedia Foundation has [[:m:Wikimedia Foundation Board noticeboard#Board of Trustees Approves Closure of Wikinews|approved the closure]] of Wikinews.</div>
+
+<div style="margin: 0 2em;">
+Google-vertaling:<br>
+'''Het bestuur van de Wikimedia Foundation keurt de sluiting van Wikinews goed'''<br>
+Na uitgebreide discussies binnen de Wikimedia-beweging over de duurzaamheid van Wikinews op de lange termijn, de mate van activiteit binnen de community en de beschikbaarheid van betrouwbare nieuwsberichten op andere platforms, heeft het bestuur van de Wikimedia Foundation de sluiting van Wikinews goedgekeurd.
+</div>
+
+Lees verder [[m:Wikimedia_Foundation_Board_noticeboard#Board_of_Trustees_Approves_Closure_of_Wikinews|op meta.wikimedia.org]].{{En}} - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 30 mrt 2026 20:55 (CEST)
+
+:Oeps, die had ik niet zien aankomen. Als ze aan Wikibooks en/of Wikivoyage toekomen om te stoppen (ook elk slechts een handvol editors per maand, maar wel meer raadplegers), kunnen we altijd nog voorstellen om beide samen te voegen (Wikivoyage als Wikibook ''Reizen ''of iets dergelijks); uitdaging is dan nog wel om beide culturen samen te voegen (Wikivoyage is veel strenger, daar kun je het bijna nooit goed doen, wat het plezier in bijdragen belemmert). [[Gebruiker:JopkeB|JopkeB]] ([[Overleg gebruiker:JopkeB|overleg]]) 31 mrt 2026 10:25 (CEST)
+
+::Zo'n ingrijpende maatregel had ik ook niet verwacht. Ik heb me wel al eens afgevraagd hoe zinvol zo'n project kan zijn, als je de inhoud toch moet vergaren vanuit andere nieuwsbronnen, en je dus eigenlijk altijd achterloopt. 't Lijkt me ook moeilijk te bepalen welke onderwerpen interessant zijn. Of zou je je moeten beperken tot nieuwsberichten met "eeuwigheidswaarde"? Dan denk ik toch eerder aan een nieuwe alinea op Wikipedia, die er dan waarschijnlijk toch al een artikel over heeft. En dan is er nog het probleem van onderbezetting, Wikinews heeft eigenlijk altijd al te weinig actieve medewerkers gehad om echt bovenop het nieuws te kunnen zitten, en voor een nieuwssite lijkt me dat toch een eerste vereiste. Enfin, toch jammer dat het ophoudt, en het spijt me vooral voor al die mensen die er al met al, in de loop der jaren, heel veel tijd ingestoken hebben. - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 31 mrt 2026 14:41 (CEST)
+:::Tenzij... Nee, dat zal toch niet? Hoewel... - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 1 apr 2026 12:22 (CEST)
+::::Als je mijn reactie bedoelt: je weet het maar nooit. Het gebruik van AI ontwikkelt zich razendsnel waardoor zelfs de Nederlandstalige Wikipedia veel minder geraadpleegd wordt en er ook minder donaties zijn (las ik pas in een interview). Persoonlijk vind ik het een kwetsbare situatie dat er één "hoofd-moderator" is, twee andere moderators met veel minder edits (géén verwijt! het is de situatie en ik ben blij dat er überhaupt nog twee achtervangen zijn) en minder dan 25 [[Speciaal:ActieveGebruikers|andere actieve gebruikers/editors]] waarvan het merendeel slechts 1-4 handelingen heeft verricht in de afgelopen maand. In organisaties die op de kleintjes moeten letten (bedrijven, organisaties met beperkte budgetten), zal men dan al snel naar oplossingen gaan zoeken. Nu zal het hier voorlopig niet zo'n vaart lopen (ik zag dat de betreffende projectgroep inmiddels is opgeheven), maar toch iets om in het achterhoofd te houden. [[Gebruiker:JopkeB|JopkeB]] ([[Overleg gebruiker:JopkeB|overleg]]) 1 apr 2026 16:58 (CEST)
+
+:::::Eens, maar ik vrees niet voor het voortbestaan; deze wiki heeft veel en interessante content en ''leeft''. Of en in welke mate AI concurrentie oplevert is iets waar ik me geen zorgen over wens te maken: we hebben er toch geen invloed op.
+:::::Mijn "tenzij..." werd veroorzaakt door de gedachte dat het wel eens een 1 aprilgrap zou kunnen zijn, maar dat kon ik gisteren natuurlijk niet schrijven.
+:::::Er bestaat niet zoiets als een "hoofd-moderator". Nl-Wikibooks heeft [[Wikibooks:Moderator|<del>7</del> <ins>5</ins> sysops]], waarvan er 2 tevens "bureaucraat" zijn (Ellywa en /me), maar dat is een bitje waar ik VZVIW nog nooit gebruik van heb hoeven maken. <span style="font-size: smaller;">(NB gecorrigeerd van 7 naar 5: MADe en KKoolstra stonden ten onrechte nog op de lijst) - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 4 apr 2026 16:27 (CEST)</span>
+:::::Op de <s>man</s> vrouw af gevraagd: wil jij ook moderator worden? Ik weet dat het je eerder gevraagd is, maar misschien kijk je er nu anders tegenaan? {{Nowrap|- [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 2 apr 2026 13:44 (CEST)}}
+::::::Ja, dat is ook beter, om je geen zorgen te maken over iets waar je toch geen invloed op hebt. 
+::::::Dank voor de uitnodiging om moderator te worden, maar mijn ambities zijn nog steeds niet veranderd. Laat mij maar content maken en af en toe iets aandragen dat weg kan of beter kan. [[Gebruiker:JopkeB|JopkeB]] ([[Overleg gebruiker:JopkeB|overleg]]) 2 apr 2026 17:00 (CEST)
+:::::::Zo denk ik er ook over. Voor onderhoudstaken zijn er voor dit kleine project al voldoende mensen die dat ter harte nemen, maar contentschrijvers zoals jij zijn erg dun gezaaid. Die kun je best hun ding laten doen zonder extra belasting. [[Gebruiker:J.Grandgagnage|Jules]] ([[Overleg gebruiker:J.Grandgagnage|overleg]]) 2 apr 2026 18:00 (CEST)
+:::::::Goed, ik respecteer dat. - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 3 apr 2026 10:11 (CEST)
+
+== Over commons... ==
+In de afgelopen twee weken zijn op '''commons''' vier van de '''afbeeldingen''' die ik volgde – waarvan er drie op nl.wikibooks en een op Wikivoyage gebruikt werden – '''verwijderd'''. In één geval was deze genomineerd wegens "AI-slop", en de sysop-van-dienst ging daar gewoon in mee. Een andere was zogezegd "van slechte kwaliteit". Nou, zo weet ik er nog wel een paar duizend...<br>
+De policy, die toch vastgelegd is op oa. [[c:COM:INUSE]], wordt dus door sommige arrogante sysops gewoon genegeerd. Protesteren helpt ook niet, als je al een reply krijgt kun je tussen de regels door lezen "''wij maken hier de dienst uit''".<br>
+Ergo: vertrouw niet blindelings op commons, en bewaar vooral een kopie van je uploads ''voor het geval dat''... - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 31 mrt 2026 15:59 (CEST)
+
+:Wellicht kun je ze terug laten zetten, zie [[c:Commons:Undeletion requests]]. [[Gebruiker:JopkeB|JopkeB]] ([[Overleg gebruiker:JopkeB|overleg]]) 31 mrt 2026 17:43 (CEST)
+::Ik ben admin op Commons, als je de links geeft naar de verwijderde foto's of naar de deletion requests, kan ik er in elk geval naar kijken. Groet, [[Gebruiker:Ellywa|Ellywa]] ([[Overleg gebruiker:Ellywa|overleg]]) 31 mrt 2026 18:05 (CEST)
+:::Het gaat om:
+::*[[:Bestand:Socrates looks a itself as a child.png]] - nu lokaal geupload, De Wikischim had zelf nog een kopie
+::*[[:Bestand:Unconscience learning.png]] - idem, ik had een kopie op iets lagere resulutie
+::*[[:Bestand:Social isolation.jpg]] - (nl.wiktionary) verwijderd, ondanks COM:INUSE "''and despite a decision to keep this picture per COM:INUSE last year''" ; een expliciet verzoek om deze te herstellen wordt afgedaan met ''"Make the request at COM:UDR and let the community decide''"; de arrogantie... :-(
+::::de vierde kan ik niet vinden, omdat mijn volglijst op commons al een paar weken kapot is. - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 31 mrt 2026 19:22 (CEST)
+::Een verzoek om ze terug te laten zetten wordt waarschijnlijk door dezelfde figuren beoordeeld en is dus bij voorbaat kansloos. Het is ook geen nieuw fenomeen, heeft in de afgelopen jaren al vaker plaatsgevonden, alleen gaat het nu om een handvol in korte tijd. Het begon met ene [[user:Dronebogus]], die - heel geniepig - eerst op alle wiki's de afbeeldingslinks verwijderde. Als zulke mensen voet aan de grond krijgen is er geen bestand meer veilig. - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 31 mrt 2026 19:36 (CEST)
+:::Inmiddels heb ik ernaar gekeken, en de drie die je noemde waren alledrie AI gegenereerde afbeeldingen. Dat wordt ontmoedigd op Commons. Je hebt twee ervan inmiddels lokaal geplaatst. De derde kan je hier nog zien: https://www.linkedin.com/pulse/what-five-days-without-my-phone-taught-me-laurie-wiegler-4vzre/. Als je wilt kan ik die hier ook nog neerzetten. Maar persoonlijk houd ik ook niet van AI afbeeldingen. Hebben we hier al beleid voor ontwikkeld? Ik denk dat we van boekauteurs mogen verwachten dat ze een duidelijk bijschrift geven dat het gaat om een AI afbeelding, als ze het al willen toepassen. Groet, [[Gebruiker:Ellywa|Ellywa]] ([[Overleg gebruiker:Ellywa|overleg]]) 4 apr 2026 01:50 (CEST)
+::::Ha, dank je! Ik heb het doorgegeven aan Lotje, die er op nl.wiktionary mee [https://nl.wiktionary.org/w/index.php?title=mobieletelefoonverslaving&diff=prev&oldid=4988494 bezig] was, hopelijk kan ze er iets mee aanvangen.
+::::*Ik ben ook geen fan van AI en vind mn. die laatste ook geen fraaie plaat, maar als een auteur ervoor kiest is het niet aan mij om dat af te keuren. Dat de mods op commons zich dat recht wel toeëigenen vind ik nogal benauwend... Vooral als je bedenkt dat zulke besissingen invloed kunnen hebben op de inhoud van ''alle'' wiki's in ''alle'' talen!
+::::*nl.wikibooks heeft hier voorzover ik weet nog geen beleid voor, [[Help:Afbeeldingen]] zegt er ook niets over. Ik voel me niet geroepen om regels betr. het gebruik van AI te gaan opstellen, maar denk wel dat een paar richtlijnen nuttig zouden kunnen zijn. Zou jij een voorstel willen doen? - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 4 apr 2026 09:03 (CEST)
+Dit verhaal heeft nog een staartje, zie [https://commons.wikimedia.org/wiki/Commons:Administrators%27_noticeboard/User_problems#COM:INUSE_not_a_suicide_pact? hier] - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 13 apr 2026 09:43 (CEST)
+
+:@[[Gebruiker:Erik Baas|Erik Baas]] Op je vraag nog over een voorstel. Ik zou het gebruik van AI niet willen verbieden, maar toestaan als het nuttig is voor ons educatieve doel. Wat denk je van zoiets als dit:
+::Het gebruik van sterk bewerkte of kunstmatig gegenereerde afbeeldingen (met AI of andere tools) wordt niet aangemoedigd, tenzij deze een duidelijk educatief doel hebben. Als een afbeelding de indruk kan wekken dat deze de werkelijkheid afbeeldt, maar in feite kunstmatig gegeneerd is, moet dit duidelijk in het bijschrift bij de afbeelding vermeld worden, met bijvoorbeeld de tekst ''Afbeelding gemaakt met AI.''
+:[[Gebruiker:Ellywa|Ellywa]] ([[Overleg gebruiker:Ellywa|overleg]]) 13 apr 2026 12:45 (CEST)
+::P.S. Het educatieve doel komt overeen met een van de doelstellingen van Commons. Ik verwijder daar regelmatig afbeelding zonder educatief doel, zoals fantasie wapenschilden. Maar In use geldt ook uiteraard. Het kan schuren.  [[Gebruiker:Ellywa|Ellywa]] ([[Overleg gebruiker:Ellywa|overleg]]) 13 apr 2026 12:48 (CEST)
+:::Ik sluit me aan bij je voorstel. Beleid maken is niet mijn ding... Wat commons betreft vind ik dat COM:INUSE heilig zou moeten zijn. Zeker als het niet gaat om zomaar-een-illustratie bij een artikel op wp, maar een afbeelding die ''door de auteur'' van een ''boek'' speciaal voor dat doel gemaakt is. - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 15 apr 2026 01:24 (CEST)
+
+== Wikinews wordt gesloten ==
+:"All Wikinews editions will be closed and switched to read-only mode on 4 May 2026. Content will remain accessible, but no new edits or articles can be added." - [[m:Wikimedia Foundation Board noticeboard#Board of Trustees Approves Closure of Wikinews|Lees verder...]]{{En}} - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 6 apr 2026 20:07 (CEST)
+
+== Nodig je oud-collega’s uit voor het verjaardagsfeest van Wikipedia ==
+
+[[File:Header Wikipedia 25 jaar 02.png|thumb]]
+
+Beste Wikibooks-collega,
+
+Als het goed is, staat het al in je agenda voor zaterdag 20 juni 2026, het verjaardagsfeest van Wikipedia.  
+
+Kom jij op het feest in Utrecht? Als gebruiker op Wikibooks ben je ook van harte welkom. En zou je het leuk vinden als je dan niet alleen huidige collega’s kan ontmoeten, maar ook mensen van vroeger? Mensen die je de laatste jaren niet meer ziet? Ook door hen zijn Wikipedia en Wikibooks gegroeid en sterk geworden. Help jij mee om hen uit te nodigen voor het feest, zodat we samen kunnen proosten op de toekomst?
+
+Ik zou je daarom willen vragen om oud-collega’s, mensen die de Nederlandstalige Wikipedia of Wikibooks om wat voor reden dan ook verlaten hebben, uit te nodigen. Mensen met wie jij het goed kon vinden. Heb je een mailadres? Stuur zo iemand een persoonlijk mailtje, waarin je zegt hoe leuk je het zou vinden als die persoon komt. [[:w:nl:Wikipedia:Feestjaar 2026/uitnodiging#Voorbeeld e-email|Hier]] kan je een voorbeeldmail vinden, maar pas het vooral aan, zodat het persoonlijk wordt. Heb je geen mailadres, dan kan je het natuurlijk ook sturen via de overlegpagina van die persoon, maar er bestaat natuurlijk een grote kans dat die niet gelezen wordt. 
+
+Heb je inspiratie nodig wie je wil uitnodigen? Dan hier wat tips:
+*Kijk in de geschiedenis van je eigen overlegpagina. Wie heeft jou welkom geheten? Wie heeft je aangemoedigd?
+*Kijk op de pagina met [[:w:nl:Wikipedia:Sterren voor bewezen diensten/Jubileumster|jubilea]] of op de andere pagina’s met [[:w:nl:Wikipedia:Sterren voor bewezen diensten/Inzet voor de inhoud van de encyclopedie|Wikipedia-sterren]]; zijn er mensen die je mist de laatste tijd?
+*Kijk naar je oudste boeken of modules: wie heeft die destijds verbeterd of aangevuld?
+*Kijk wie er allemaal vertrokken zijn via [https://nl.wikipedia.org/w/index.php?title=Speciaal:VerwijzingenNaarHier/Sjabloon:Vertrokken&namespace=2&limit=500 het sjabloon "vertrokken"]. 
+*En zoek natuurlijk in je eigen mailarchief met wie je ooit gecorrespondeerd hebt.
+
+Het is handig als je [[:w:nl:Wikipedia:Feestjaar 2026/uitnodiging#Uitgenodigd|hier aangeeft]] met welke Wikimediaan of Wikiboekenschrijver jij contact hebt opgenomen. Dan ontvangt de persoon niet al te veel dubbele uitnodigingen. 
+
+N.B. Van iedereen die deelneemt aan dit evenement wordt verwacht dat zij het Beleid Vriendelijke Ruimtes respecteren. Je kunt er [https://nl.wikimedia.org/wiki/BVR_-_startpagina hier] meer over lezen.
+
+P.S. Heb jij je zelf nog niet aangemeld? Je kan je [https://nl.wikimedia.org/wiki/Verjaardagsfeest_Wikipedia_25_jaar! hier nog inschrijven]. 
+
+Dank je wel alvast en hopelijk tot ziens 20 juni! Met feestelijke groet, [[Gebruiker:Ellywa|Ellywa]] ([[Overleg gebruiker:Ellywa|overleg]]) 12 apr 2026 21:38 (CEST)
+
+== Sjabloon:Portalen ==
+Op [[Sjabloon:Portalen]] ontbreken nog <del>twee</del> <ins>vier</ins> icoontjes (voor "Onderwijs" en "Esoterie"), die heb ik ook in [[c:Category:Wikipedia_portal_icons,_SVG]] niet kunnen vinden. Help, please? ;-) - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 19 apr 2026 14:03 (CEST)

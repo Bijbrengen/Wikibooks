@@ -1,0 +1,121 @@
+Misschien vond je de basisschool leuk, misschien niet, maar als je dit leest is het waarschijnlijk tijd voor verandering; de middelbare school. Het is een hele stap van groep 8 naar de brugklas. Hoe gaat het daar allemaal en wat zijn de verschillen? Wat zijn de kansen die zich aanbieden en hoe overleef je de brugklas? Geen vast gezicht meer voor de klas, maar elk lesuur of studieblok een andere docent. Dat kan verwarrend zijn, maar ook verfrissend. Allemaal uitdagingen die nogal wat van je kunnen vragen. Een beetje hulp kan daarbij geen kwaad. Dat is waar dit boek voor is bedoeld.
+
+== Organisatie ==
+Op de middelbare school krijg je voor een deel vakken die je al kent, maar ook nieuwe vakken. Sommige vakken hebben ook een andere naam gekregen. Het verschil is vaak dat je op de basisschool een of misschien een paar leraren hebt die alle vakken aanbieden. Op de middelbare school is dat anders, daar heb je meestal per vak een andere docent.
+
+Het Voortgezet Onderwijs heeft verschillende niveaus. Je zit met kinderen van hetzelfde niveau in een klas. Veel scholen geven meer dan één niveau. 
+De 3 hoofdniveaus zijn:
+*VMBO (Voorbereidend Middelbaar Beroepsonderwijs)
+*HAVO (Hoger Algemeen Vormend Onderwijs)
+*VWO (Voorbereidend Wetenschappelijk Onderwijs)
+
+== Niveaus ==
+=== VMBO ===
+Het VMBO bestaat uit 4 niveaus, ook wel leerwegen genoemd. Deze leerwegen zijn:
+* Basis Beroepsgerichte Leerweg (BL); Bij BL doe je vooral veel in de praktijk, en hoef je niet zo heel erg veel uit een boek te leren.
+* Kaderberoepsgerichte Leerweg (KL); Bij KL doe je ook meer in de praktijk, maar je leert meer uit boeken dan bij BL. KL is ook wat moeilijker.
+* Gemengde Leerweg (GL); GL is een combinatie van praktijk en algemene vakken. Je leert meer uit boeken dan bij KL en BL.
+* Theoretische Leerweg; Bij TL leer je veel uit boeken, en je krijgt ook het meeste huiswerk van de 4 leerwegen. Het is dan ook de moeilijkste leerweg.
+
+Alle niveaus van het VMBO duren 4 jaar.
+Lees meer in het hoofdstuk over beroepsonderwijs.
+
+=== HAVO ===
+Het HAVO bestaat niet uit verschillende niveaus. Het duurt 5 jaar en is nog wat moeilijker dan TL. Bijna alles wat je leert leer je uit boeken. Ook krijg je nog meer huiswerk dan bij TL.
+
+=== VWO ===
+Het VWO is het moeilijkste niveau. Het bestaat uit 2 niveaus:
+* Atheneum; Op het atheneum leer je alles uit boeken en krijg je ook veel huiswerk. 
+* Gymnasium; Het gymnasium is de hoogste vorm van middelbaar onderwijs. Het enige verschil met het atheneum is dat je hier ook nog de vakken Grieks en Latijn krijgt. Hierdoor krijg je dus ook nog wat meer huiswerk dan op het atheneum. 
+
+Daarnaast zijn nieuwe afdelingen toegevoegd voor technische leerlingen ([[w:technasium|technasium]]) en ondernemende leerlingen ([[w:entreprenasium|entreprenasium]])
+
+Alle niveaus van het VWO duren 6 jaar. Op sommige scholen is er na het 3e jaar geen verschil meer tussen atheneum en gymnasium, je moet dan een pakket kiezen. Je kunt dan een of beide klassieke talen kiezen als je op het gymnasium zit.
+
+== Vakken ==
+Op het voortgezet onderwijs krijg je tal van vakken. Van enkele vakken zoals [[Maatschappijleer]] en [[Economie]] is op Wikibooks een leerboek aanwezig.
+
+=== Overzicht ===
+{| class="wikitable" width="50%"
+! colspan="3" style="color: black; background-color:#B0B0B0;" | Vakken die je al kent
+|- 
+! style="text-align: left;" | Vak op de middelbare || style="text-align: left;" |Vak op de basisschool || style="text-align: left;" | Beschrijving
+|-
+| Engels || Engels || De Engelse taal leren
+|-
+| Nederlands || Taal, Spelling en Lezen || De Nederlandse taal leren
+|-
+| Gym || Gym || Bewegingsonderwijs
+|-
+| Aardrijkskunde || Aardrijkskunde || Leer over de aarde
+|-
+| Geschiedenis || Geschiedenis || Leer over historie
+|}
+{| class="wikitable" width="50%"
+! colspan="2" style="color: black; background-color:#B0B0B0;" | Nieuwe vakken
+|- 
+! style="text-align: left;" | Vak || style="text-align: left;" | Beschrijving
+|-
+| Biologie || Onderzoek dieren en planten
+|-
+| Natuurkunde || Onderzoek krachten, licht en elektriciteit
+|-
+| Scheikunde || Onderzoek chemische stoffen
+|-
+| Frans || Leer de Franse taal
+|-
+| Duits || Leer de Duitse taal
+|-
+| Latijn || De Latijnse taal en mythologie (alleen op gymnasium)
+|-
+| Grieks || De Griekse taal en mythologie (alleen op gymnasium)
+|-
+| Economie || Over geld
+|}
+
+=== Extra ===
+Op sommige scholen hebben ze ook enkele van deze vakken:
+{| class="wikitable" width="50%"
+! colspan="2" style="color: black; background-color:#B0B0B0;" | Extra vakken
+|- 
+! style="text-align: left;" | Vak || style="text-align: left;" | Beschrijving
+|-
+| Informatiekunde/Informatica || Leer werken met computer
+|-
+| Kunst || Tekenen, Muziek en Dans
+|-
+| Scheikunde || Onderzoek chemische stoffen
+|-
+| Godsdienst/Levensbeschouwing || Leer over een levensovertuiging
+|-
+| Chinees || Leer de Chinese taal
+|}
+
+=== Nederlands ===
+De eerste jaren dat je Nederlands krijgt beginnen met het je duidelijk maken wat het belang van dit vak is. Je kunt dan denken aan wat je ermee kunt, hoe de samenleving het waardeert als je de taal goed beheerst en hoe je beter met anderen kunt communiceren en wat daarvan de sociale voordelen zijn. Verder leer je inzien wat het verschil in karakter is tussen Nederlands als eerste en als tweede taal.
+
+Het vak Nederlands zal de eerste jaren je helpen om je vaardigheid in de Nederlandse taal te vergroten. Je wordt uitgedaagd om steeds complexere taal eigen te maken met als doel dat je je steeds beter leert uitdrukken.
+
+=== Geschiedenis ===
+* '''Tijdperken'''
+** Prehistorie
+** Romeinse Tijd
+** Middeleeuwen
+** Renaissance
+* '''Belangrijke personen'''
+** Renaissance
+** Prehistorie
+** Romeinse Tijd
+** Middeleeuwen
+* '''Wat weet je al?'''
+** Christoffel Columbus
+** Europa, Azië en Afrika
+** Eerste Wereldoorlog
+** Tachtigjarige oorlog
+** Scandinavië (Noorwegen, Denemarken en Zweden)
+
+== Huiswerk ==
+Huiswerk is iets wat sommige basisschool leerlingen niet of nauwelijks kennen. Op het voortgezet onderwijs is dit echter meer regel dan uitzondering. Er zijn ook scholen die als beleid hebben dat er geen huiswerk wordt meegegeven.
+
+Vaak is het zo dat als je tijdens de les goed je best doet het huiswerk meevalt. Anders gezegd, als je tijdens de les liever met andere zaken bezig bent, dan kom je vaak thuis op de koffie. Als je vaak veel thuis moet doen om bij te benen, terwijl je wel in de les volop meedoet, dan kan dat een teken zijn dat het niveau misschien te hoog voor je is. Sommigen willen dan toch graag op het niveau blijven, en nemen het extra huiswerk voor lief. Anderen doen het op een lagere niveau wat rustiger aan, zodat ze ook meer tijd hebben voor andere belangrijke zaken in het leven. Wat jij gaat doen in soort situatie is jouw keuze. Bedenk wel dat even een lager niveau volgen niet op de middelbare school voor altijd betekent. Je kunt in jouw tempo altijd weer opstromen als je dat wilt.
+{ {Sub}}

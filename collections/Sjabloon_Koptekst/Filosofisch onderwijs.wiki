@@ -1,0 +1,20 @@
+{|align=right width=300px style="margin: 1em 0 1em 1em;" class=toccolours 
+|
+{{Koptekst/Onderwijs}}
+----
+|-
+|[[File:Use Brain.gif|center|100px]]
+|-
+|style="text-align:center;font-size: 135%;"|[[Filosofisch onderwijs]]
+|-
+|style="font-size: 85%;" align=left|
+
+* [[Filosofisch onderwijs/Wijsheid|Wijsheid]]
+* [[Filosofisch onderwijs/Denken|Denken]]
+* [[Filosofisch onderwijs/Leren|Leren]]
+* [[Filosofisch onderwijs/Socrates|Socrates]]
+* [[Filosofisch onderwijs/Lao_Zi|Lao Zi]]
+----
+|}<noinclude>
+[[Categorie:Sjablonen voor een bepaald boek]]
+</noinclude>

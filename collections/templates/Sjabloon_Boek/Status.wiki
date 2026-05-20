@@ -1,0 +1,13 @@
+<includeonly>--{{{1|}}}--{{:{{{1|}}}/Boekinhoud | Status}}{{#If:{{:{{{1}}}/Boekinhoud | Status}} | [[Bestand:{{#Switch: {{:{{{1}}}/Boekinhoud | Status}}
+| 0 = 00
+| 0% = 00
+| 00% = 00
+| 25 = 25
+| 25% = 25
+| 50 = 50
+| 50% = 50
+| 75 = 75
+| 75% = 75
+| 100 = 100
+| 100% = 100
+}}_percent.svg|40px|link={{{1}}}/Boekinhoud ]] | }}</includeonly><noinclude>[[Categorie:Subsjablonen]]</noinclude>

@@ -1,0 +1,43 @@
+__NOTOC__ {{Kolommen automatisch|inhoud=
+== Ecologie ==
+* [[Alternatieve energie]] 
+* [[Huishouden/Energiebesparing]]
+* [[Energietransitie]]
+* [[Save Our Future Today, a SOFT revolution]]
+
+== Economie en handel ==
+* [[Economie]]
+* [[Kennismanagement]]
+
+== Onderwijs en opleiding ==
+Zie [[Boekenplank:Onderwijs en opleiding]]
+
+{{Bij elkaar houden|inhoud=
+== Politiek ==
+* [[Trotski voor beginners]]
+}}
+
+{{Bij elkaar houden|inhoud=
+== Psychologie ==
+* [[Hypnotherapie]] {{100%}}
+* [[Jungiaans woordenboek]] {{75%}}
+* [[Meditatie]] {{75%}}
+* [[Mindfulness]] {{75%}}
+* [[Parapsychologie]] {{75%}}
+* [[Visualisatie]] {{25%}}
+* [[Zelftherapie]] {{75%}}
+}}
+
+== Wonen ==
+* [[Erfdelen]] (collectieve woonvorm)
+* [[Huishouden]]
+* [[Kookboek]]
+}}
+
+== Zie ook ==
+* [[:Categorie:Mens en maatschappij]]
+
+{{Boekenplanken}}
+
+[[Categorie:Boekenplanken| ]]
+[[Categorie:Samenleving| ]]

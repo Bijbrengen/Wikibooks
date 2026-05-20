@@ -1,0 +1,36 @@
+{{Opmaak}}
+
+De laag **Content** (Inhoud) vormt de logische kern van de module.
+Hier wordt bepaald *wat* er precies moet gebeuren voor een specifiek type object.
+In de MVC-architectuur fungeert dit vaak als de '''Controller'''.
+
+== De Rol van Content ==
+Wanneer het [[Onderwijswiki/Model|Model]] de gegevens heeft verzameld, geeft de [[Onderwijswiki/Interface|Interface]] de controle over aan de Content-laag.
+Deze laag verwerkt de gegevens en bereidt ze voor op de weergave.
+
+== De Submodules van Content ==
+In de [[Module:Layout]] is de Content-laag opgedeeld in gespecialiseerde submodules.
+Elke submodule weet alles over een specifiek type pagina of onderdeel:
+
+* '''Book''': Logica voor het beheren van boeken, zoals hoofdstuklijsten en metadata.
+* '''Chapter''': Specifieke verwerking voor individuele hoofdstukken binnen een boek.
+* '''Series''': Behandelt reeksen van boeken.
+* '''Chess''': Een complexe submodule voor het renderen van schaakdiagrammen en PGN-data.
+* '''Infobox''': Verwerkt de data die in een infobox moet verschijnen.
+* '''Module''': Logica voor het documenteren en weergeven van informatie over andere Lua-modules.
+* '''Template''': Beheert de logica voor sjablonen.
+* '''Age''': Een kleine utiliteit om leeftijden te berekenen op basis van data.
+* '''Bookshelf''': Logica voor het organiseren van boekenplanken.
+
+== Hoe het werkt ==
+De `Interface` bepaalt op basis van de parameters welke submodule geladen moet worden.
+Bijvoorbeeld:
+
+<pre>
+local item = CFG.INCLUDE( environment, "content/book" );
+</pre>
+
+Deze modulaire opbouw zorgt ervoor dat de code voor schaakborden niet in de weg zit van de code voor boekhoofdstukken.
+Elke submodule is "expert" in zijn eigen domein.
+
+{{Opmaak | Voettekst}}

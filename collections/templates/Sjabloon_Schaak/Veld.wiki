@@ -1,0 +1,1 @@
+<includeonly><td style="background-color:#{{#IfEq:{{{color|light}}}|dark|d18b47|ffce9e}}; color: black; text-align:center;">[[File:Chess {{{piece}}}t45.svg|{{{size|26}}}|alt={{Schaak/Alt|{{{square}}}|{{{piece}}}}}]]</td></includeonly><noinclude>[[Categorie:Sjablonen schaken]]</noinclude>

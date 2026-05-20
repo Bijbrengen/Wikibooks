@@ -1,0 +1,16 @@
+﻿{{Bi}}{{Opmaak
+| Titel = Onderwijsarchitect
+| Object = Boek
+| Bron = 
+| Definitie = Een {{Wp|Onderwijsarchitect|onderwijsarchitect}} is een {{Wp|Adviseur|adviseur}} ({{Wp|en:Consultant|consultant}}) die ontwerpen maakt voor het [[leren]] en de uitvoering daarvan ondersteunt en bewaakt.
+| Beschrijving = In 2006 werd een Beroepsvereniging voor Onderwijsarchitecten opgericht, die het beroep als volgt omschrijft:<br>'''De onderwijsarchitect (OA) heeft zich gekwalificeerd<br>indien zij onomstotelijk heeft aangetoond dat zij geïmproviseerd een deskundig innovatief ontwerp van het onderwijs kan maken<br>dat een meetbare inspirerende meerwaarde op maat levert.'''<br>Voorbeelden van onderwijsarchitecturen zijn te vinden in de boekenserie [[onderwijsvorm]].
+| Formaat = html
+| Voortgang = 100
+| Support = Signaleer
+| Referentie = wikipedia
+| Collectie = Onderwijs
+| Onderdeel = Inleiding, Profiel, Visie, Doel, Theorie, Werkwijze, Opleiding, Opbrengst, Voorbeelden, Anekdotes
+|<br><br>[[Bestand:Interviews_over_werk_Onderwijsarchitect.png|600px|thumb|center|link=https://www.youtube.com/watch?v=xekCDOsrgpc|Interviews van onderwijsprofessionals over een onderwijsarchitect]]
+}}
+{{Fase|4}}
+{{Boek}}

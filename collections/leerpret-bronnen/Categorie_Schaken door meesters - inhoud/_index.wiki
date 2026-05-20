@@ -1,0 +1,8 @@
+{{Boekcat
+|onderwerp=[[Schaken door meesters]]
+|detailomschrijving= Een boek over inspirerende vernieuwende schaakmeesters.
+|broodkruimel= [[:Categorie:Alles|Alles]] &rarr; [[:Categorie:Boek|Boek]] &rarr; [[:Categorie:Boek naar thema|Boek naar thema]] &rarr; [[:Categorie:Onderwijs|Onderwijs]] &rarr;'''{{PAGENAME}}'''
+|overig=
+}}
+[[Categorie:Schaken]]
+[[Categorie:Inhoud]]

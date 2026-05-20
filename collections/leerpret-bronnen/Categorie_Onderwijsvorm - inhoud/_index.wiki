@@ -1,0 +1,8 @@
+{{Boekcat
+|onderwerp=[[Onderwijsvorm]]
+|detailomschrijving= Een boek waarin enkele [[vrij leren|vrij makende]] [[w:Onderwijsvorm|onderwijsvormen]] worden besproken bedacht door [[Onderwijsarchitect|onderwijsarchitecten]].
+|broodkruimel= [[:Categorie:Alles|Alles]] &rarr; [[:Categorie:Boek|Boek]] &rarr; [[:Categorie:Boek naar thema|Boek naar thema]] &rarr; [[:Categorie:Onderwijs|Onderwijs]] &rarr;'''{{PAGENAME}}'''
+|overig=
+}}
+[[Categorie:Onderwijs]]
+[[Categorie:Inhoud]]

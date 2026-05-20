@@ -1,0 +1,8 @@
+{{Boekcat
+|onderwerp=[[Onderwijsarchitect]]
+|detailomschrijving= Een boek over een onderwijsarchitect; een persoon die zijn eigen [[leren]] of voor anderen [[onderwijs]] ontwerpt.
+|broodkruimel= [[:Categorie:Alles|Alles]] &rarr; [[:Categorie:Boek|Boek]] &rarr; [[:Categorie:Boek naar thema|Boek naar thema]] &rarr; [[:Categorie:Onderwijs|Onderwijs]] &rarr;'''{{PAGENAME}}'''
+|overig=
+}}
+[[Categorie:Onderwijs]]
+[[Categorie:Inhoud]]

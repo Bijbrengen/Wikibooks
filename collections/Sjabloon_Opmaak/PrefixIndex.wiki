@@ -1,0 +1,1 @@
+{{Speciaal:Prefixindex/{{#if:{{{title|}}}|{{{title|}}}|{{FULLPAGENAME}}}}/}}

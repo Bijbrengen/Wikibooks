@@ -1,0 +1,2 @@
+﻿{{Opmaak|In deze module wordt een module opgemaakt zoals in [[Module:Layout]] is gebeurd.}}
+== Code ==

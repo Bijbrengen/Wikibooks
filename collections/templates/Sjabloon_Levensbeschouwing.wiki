@@ -1,0 +1,17 @@
+<div class="center">[[Bestand:P_psychology.png|30px]] <span style="font-size: large;">'''[[Boekenplank:Levensbeschouwing|7. Levensbeschouwing]]'''</span></div>
+
+'''{{Aut|71. Filosofie}}'''<br> 
+[[Filosofie]] {{100%|Datum=Volgens infobox}} - [[Filosofisch onderwijs]] {{100%|Datum=Volgens infobox}} - [[Filosofisch woordenboek]] {{75%|Datum=Volgens infobox}} - [[Geschiedenis van de filosofie]] {{100%|Datum=Volgens infobox}} - [[Plato]] {{100%|Datum=Volgens infobox}} - [[Spinoza Ethica]] {{100%|Datum=Volgens infobox}} - [[Michel de Montaigne]]{{75%|Datum=Volgens infobox}}
+
+'''{{Aut|72. Religie en esoterie}}'''<br>
+[[Alchemie]]{{100%|Datum=Volgens infobox}} -
+[[Heksenwoordenboek]]{{75%|Datum=Volgens infobox}} -
+[[Hekserij]]{{100%|Datum=Volgens infobox}} - 
+[[Magie]]{{100%|Datum=Volgens infobox}} -
+[[Tarot]]{{100%|Datum=Volgens infobox}} -
+[[Hermetische kabbala]]{{100%|Datum=Volgens infobox}} -
+[[Westerse astrologie]]{{100%|Datum=Volgens infobox}} -
+[[Westerse esoterie]]{{100%|Datum=Volgens infobox}} -
+[[Portaal:Esoterie]]{{100%|Datum=Volgens infobox}} -
+[[New age]]{{75%|Datum=Volgens infobox}}
+<noinclude>[[Categorie:Sjablonen hoofdpagina]]</noinclude>

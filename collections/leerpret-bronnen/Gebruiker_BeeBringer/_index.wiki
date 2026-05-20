@@ -1,0 +1,7 @@
+{{Opmaak
+| Kleur        = #92278F, orange, #F26522
+| Titel        = BeeBringer
+| Beschrijving = brengt graag mensen [[Bestand:UserIconTrust.svg|40px|link=https://www.bijbrengen.nl]] bij elkaar [[Bestand:Crystal_Clear_app_korn.png|40px|link=Speciaal:Emailuser/BeeBringer]]<span style="font-size: small; vertical-align: super;">[[Speciaal:Emailuser/BeeBringer|e-mail]]</span>, <br>en probeert zijn [[Bestand:Bitlbee logo.png|40px|link=:w:Gebruiker:Woudloper/Gedragscode]] naam eer aan te doen
+| Definitie    = '''Ik heb als doel initiatieven te steunen en te ontwikkelen waarbij mensen van elkaar leren door elkaar te ontmoeten. Mijn interesse ligt vooral op het gebied van [[leren]] en [[onderwijs]].'''
+| Onderdeel    = wikipedia, wikiwoordenboek, wikiquote, wikimedia, wikigroup, bijdrager
+}}

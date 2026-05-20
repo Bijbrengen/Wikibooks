@@ -1,0 +1,88 @@
+{{Opmaak}}
+== Variantie ==
+=== Ambitieniveau ===
+[[File:Ondernemend Leren Variantie.png|thumb|Variantie in implementatie van ondernemend leren]]
+De school kan ervoor kiezen om een geringe mate van ondernemend leren toe te staan aan relatief klein aantal studenten. Bijvoorbeeld het aanbieden van keuzemodule die onder de noemer ondernemend leren worden aangeboden, zoals bijvoorbeeld bij StartUp4kids of IBS het geval is. Dit kan ook voor een groter aantal leerlingen verplicht wordt gesteld als onderdeel van het curriculum, zoals bijvoorbeeld het project Jong Ondernemen. 
+
+Codeniacs of LEARN-games zijn voorbeelden waarbij voor de ondernemende leerlingen een hoge mate van ondernemend leren mogelijk is, terwijl andere leerlingen een bij de leerling passende mate van ondernemend leren wordt ingevoerd. Als de school voor alle leerlingen ondernemend leren invoert, dan spreken we van een ondernemende school zoals bijvoorbeeld de Scholen voor Ondernemend Leren (SOL). 
+
+Voorbeelden van een hoge mate van ondernemend voor alle leerlingen, omdat het bij de doelgroep van de school past, kan men vinden bij het Leerparadijs of het Niet-School-Welgeleerd initiatief. De school die ervoor kiest om deze zeer hoge mate van ondernemend leren voor een relatief klein aantal studenten als passend onderwijs aan te bieden, zoals bij de LOLmakers bijvoorbeeld, kan dit doen als schoolafdeling zoals bij het [[w:Entreprenasium|Entreprenasium]] het geval is.
+
+=== Maatwerk ===
+Het implementeren van ondernemend leren hoeft niet alles of niets te zijn. Een school kan ook besluiten om alleen bepaalde projecten of lessen te implementeren, om sommige modules te verzorgen, mee te doen met evenementen, meetups of om masterclasses aan te bieden. 
+
+=== Hulp ===
+Een school die ondernemend leren wil invoeren doet er goed aan hulp in te schakelen van een [[onderwijsarchitect]] die samen met de school het onderwijs passend inricht. Daarnaast helpt het als de school de invoering projectmatig oppakt met hulp van een ervaren [[Onderwijsprofessional|onderwijsentrepreneur]], die zijn ondernemendheid ten dienste van het opzetten van ondernemend onderwijs al vaker heeft inzet. Ondernemend leren vraagt leren op maat, elke ondernemende leerling volgt zijn eigen leerweg. Omdat te ondersteunen kan het gebruik maken van moderne technologieën uitkomst bieden. De inzet van een [[onderwijstechnoloog]] is dus ook een aanrader.
+
+== Strategie ==
+Tussen de leren ondernemen variant en de ondernemend leren variant zit een duidelijke scheidslijn. Wanneer een school ondernemend leren wil invoeren, is het van belang in de missie duidelijk te zijn of inhoud (ondernemen als vak) of vorm (ondernemendheid als houding) voorop staat. In het laatste geval is ondernemend leren in zijn werkelijke betekenis van toepassing. Men kan kiezen voor een groei in aantallen leerlingen of voor een groei in omvang van het onderwijsprogramma dat ondernemend leren als onderwijsvorm heeft. De volgende acties kunnen beide keuzes faciliteren
+* Trainingen aan voor vakdocenten en schoolleiders om ondernemend leren tijdens de reguliere lessen mogelijk te maken. Tijd hiervoor kan vrijkomen door bijvoorbeeld instructies vast te leggen op film (het Flipping the Classroom concept) of op een ander medium en aan te bieden via een Elektronische Leeromgeving (VLE). 
+* Schoolbrede ondernemende projecten die afzonderlijk gedurende een periode draaien en te samen een doorlopende leerlijn vormen.
+* Een aparte schoolafdeling voor de meest ondernemende leerlingen en docenten die bovenstaande acties op zich nemen.
+
+=== Kenmerken ===
+De kenmerken van een school die ondernemend onderwijs succesvol zal invoeren, zijn
+* Het eigenaarschap van het leren mag bij de lerende liggen
+* De lerende mag alternatieve [[w:leerproces|leerwegen]] bewandelen om [[Leren leren/Doel|leerdoelen]] te halen. 
+* Voorop staat passie, niet talent.
+* Schoolleiders, docenten stellen zich niet boven de lerende maar ernaast.
+
+=== Veranderingsmanagement ===
+In het implementeren van een verandering zoals ondernemend leren op een school kan men de volgende fasen herkennen:
+
+# Het verzamelen van gegevens (tijdens bijvoorbeeld workshops) met betrokkenen over onderstaande vragen uiteindelijk leidend naar voorwaarden waar een school aan moet (gaan) voldoen en draagvlak voor de verandering
+## Wie wensen de verandering en wie worden betrokken?
+## Wat wil de school bereiken door de verandering en wat kan men verwachten van de school?
+## Waarom zal de verandering dit opleveren?
+## Welke zaken er zijn nodig om de verandering door te voeren en welke scholing?
+## Hoe krijgt de verandering gestalte?
+## Waaraan moet de school voldoen om de verandering te realiseren?
+# Het maken van een implementatieplan (en hulpmiddelen voor het maken daarvan) op grond van de eerste fase die in ieder geval antwoord geeft op de volgende vragen
+## Wie is waarvoor verantwoordelijk? Met andere woorden hoe zijn de verantwoordelijkheden, taken en bevoegdheden over de betrokkenen verdeeld? En wie stuurt de implementatie en de evaluatie daarvan aan?
+## Wat zijn de uitgangspunten, verwachtingen en prestaties ten aanzien van de impact van de verandering op de (cultuur van) de school?
+## Waarom is het nodig en belangrijk dat de verandering wordt doorgevoerd?
+## Welke doelen worden uiteindelijk bereikt?
+## Hoe wordt er over de verandering gecommuniceerd en hoe wordt die ingebed in de schoolorganisatie?
+## Wanneer worden welke ijkpunten gezet?
+# Het verder uitwerken van de verandering door de verschillende onderdelen die gerealiseerd moeten worden en hun onderlinge relatie verder te detailleren en het formuleren van benodigde acties. 
+# De feitelijke implementatie kan gaan beginnen als het implementatieplan voldoende is gespecificeerd. Vooral moet iedereen steeds duidelijk zijn waar men naar toe wil en hoe men daar dient te komen. Deze verwachtingen moeten steeds opnieuw en preciezer worden verhelderd en bijgesteld tijdens het proces. Communicatie, reduceren van onzekerheid en het proces steeds meten, bijsturen weer meten en weer bijsturen zijn de sleutelwoorden. Steeds nagaan of de energie van het ontwerpproces niet verzandt doordat men niet meer aansluit bij de organisatie zelf. Men moet waken voor het te ver voorop lopen voor de troepen. Neem iedereen mee en leidt op en train waar men het anders niet bij kan benen. Elk stap moet worden verankerd maar ook verder verbeterd. 
+# Tot men bij het eindpunt is en dan moet men het veranderingsproject ook concreet en zichtbaar afronden en evalueren.
+
+=== Win win ===
+Bij de implementatie van ondernemend leren is het van groot belang dat de betrokkenen zélf vorm en inhoud gaan geven aan een nieuwe, eigen variant, die zo goed mogelijk aansluit bij de persoonlijkheden, competenties en wensen van alle betrokkenen. Soms zal de implementatie gepaard gaan met vallen en opstaan. Via scholing, gidsen, begeleiding en overleg kan men ondersteuning vragen; brijvoorbeeld in de vorm van (niet-dwingende) adviezen. Door samen te werken en in de samenwerking naar elkaar te luisteren en elkaar te zien functioneren, kan men veel van elkaar leren. Er kunnen aldus nieuwe ideeën ontstaan, en idealiter ontstaan er nieuwe situaties waarin zowel de ondernemende leerling als de samenwerkende maatschappelijke partij meer winst behalen, dan wanneer iedere partij afzonderlijk zou opereren. Het streven naar win-win opbrengsten voor elke partij is inherent aan ondernemen en zodoende meer regel dan uitzondering. Het ondernemend leren ontwikkelt met alle belanghebbende samen zijn eigen onderwijsorganisatie, onderwijsmethode, onderwijsprogramma en onderwijsklimaat.
+
+=== Winning team ===
+Een school die een ondernemend leren wil invoeren zal een team samenstellen dat vervolgens de verdere ontwikkeling op zich kan nemen. De uitdaging is om die teamspelers binnen de school te vinden en deze te ondersteunen in het samenstellen van dit “winning team”. Het doel is bereikt indien deze deelnemers een uitgebalanceerde ploeg vormen die in staat is gelijkgestemde docenten te stimuleren mee te doen in de ontwikkeling van ondernemend leren. Geschikte teamleden dienen over een grote passie voor het ondernemend leren te beschikken. Deze passie en het vertrouwen zelf ondernemend leren te kunnen ontwikkelen, ontstaat onder meer als men ervaringen uitwisselt met en meeloopt op verder gevorderde scholen die ondernemend leren hebben ingevoerd; halen en brengen.
+
+== Certificering ==
+=== Europa ===
+Er is in Europees verband geen algemene set van ondernemende leerdoelen opgesteld. Een school kan dus zijn eigen leerdoelen formuleren. Daarbij kan het aansluiten bij een aantal toonaangevende organisaties die uitgebreid onderzoek hebben gedaan naar competenties van ondernemende leerlingen. Deze organisaties zijn:
+* The Organisation for Economic Cooperation and Development (OECD)
+* De Europese Commissie (EC)
+
+=== Test ===
+Bepaalde talenten kunnen positief bijdragen aan het verwerven van vaardigheden, kennis en houding (competenties). Voor de mogelijke selectie van ondernemende leerlingen op basis van een persoonlijk profiel kan een ingangsniveautest nuttig zijn. Daaropvolgend zullen de ontwikkeling van deze competenties gedurende het leerproces dienen te worden gemonitord zodat de leerling effectief feedback ontvangt. Na afloop dient de school over de kwaliteit van het onderwijs verantwoording af te leggen door de leerling te toetsen. Deze toetsen zijn door de individuele leerpaden eveneens individueel. Dat vraagt doelen die SMART zijn geformuleerd voor elke individuele leerling, die los van de verschillen in inhoud ook nog eens kunnen verschillen in de wijze van bewijsvoering. 
+
+=== Portfolio ===
+Naarmate de lerende meer zelf het [[w:leerproces|leerproces]] en [[w:leerdoel|leerdoelen]] bepaalt, bestaande schoolvakken meer aansluiten bij het ondernemend gedrag, past een [[w:portfolio|portfolio]] daarom beter als vastlegging en monitoring van de ontwikkeling van de lerende. De school zal eisen stellen aan de minimale leerdoelen die door het portfolio worden aangetoond. Het leren van ondernemerschap en het leren ondernemend te leren zal daarin een vaste plek hebben. Het is afhankelijk van de implementatie (zie variantie) waar het accent zal liggen. Een eventueel diploma dat daaruit volgt, zal een optelsom zijn van het ‘gewone’ diploma - dat is behaald op basis van de reguliere toetsing - en het portfolio.
+
+=== Affectie ===
+Emotionele gebeurtenissen spelen een cruciale rol in hoe ondernemende mensen leren. Ze geven betekenis aan de leerervaringen. Hoewel niet erg gebruikelijk in het reguliere onderwijs, is het dus bij ondernemend leren van belang deze affectieve leerdoelen te expliciteren. Door regelmatig de lerende laten reflecteren kan men de ontwikkeling van die affectieve leerdoelen monitoren en met feedback ondersteunen.
+
+== Bronnen ==
+=== Referenties ===
+{{references}}
+
+=== Links ===
+* [https://20-80learning.nl/ IBS] (20-80-learning)
+* [https://www.codeniacs.nl/ Codeniacs]
+* [https://www.entreprenasium.nl Entreprenasium]
+* [https://www.jongondernemen.nl/ Jong ondernemen]
+* [https://le-network.nl/ LEARN-games]
+* [https://www.leerparadijs.nl/ Leerparadijs]
+* [https://www.lolmakers.nl/ LOLmakers]
+* [https://www.welgeleerd.nl/ Niet-School-Welgeleerd]
+* [https://www.ondernemendleren.org/ SOL]
+* [https://www.startup4kids.nl/ StartUp4kids]
+
+{{Opmaak | Voettekst}}

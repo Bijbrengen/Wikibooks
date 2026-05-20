@@ -1,0 +1,115 @@
+{{Opmaak}}
+Het avontuur van de onderwijstechnoloog gaat ook langs het bouwen van een onderwijsarchitectuur bijvoorbeeld in Minecraft, MediaWiki, en Moodle of een eigen platform.
+
+Een onderwijstechnoloog begint het avontuur door de principes van onderwijsarchitectuur te verkennen. Deze fase omvat het begrijpen van hoe leeromgevingen ontworpen kunnen worden om onderwijsdoelen te ondersteunen. Cruciaal hierbij is de integratie van technologische tools die het leerproces verbeteren en personaliseren.
+
+De reis van de onderwijstechnoloog in de wereld van onderwijsarchitectuur is een dynamisch en creatief proces. Door het gebruik van platforms als Minecraft, MediaWiki en Moodle, kunnen ze effectieve en boeiende leeromgevingen creëren. Geïnspireerd door historische visies op onderwijs, streven ze ernaar om onderwijs te transformeren in een ruimte voor creativiteit, zelfontdekking en onafhankelijk denken.
+
+Reflectie op uitspraken van historische figuren zoals Einstein en Twain over onderwijs biedt waardevolle inzichten. Hun kritiek op conventioneel onderwijs benadrukt het belang van creativiteit, vrijheid en zelfontdekking in het leerproces. Deze visies kunnen onderwijstechnologen inspireren om innovatieve en bevrijdende onderwijsmethoden te ontwikkelen.
+
+{| class="wikitable"
+! Naam !! Uitspraak
+|-
+| Albert Einstein || "Het is een wonder dat de moderne onderwijsmethoden de heilige nieuwsgierigheid naar onderzoek nog niet volledig hebben verstikt."
+|-
+| Alice Duer Miller || "We onderdrukken eerst de nieuwsgierigheid van het kind en bieden dan speciale coaching voor zijn academische moeilijkheden."
+|-
+| Alice James || "Ik vraag me af of ik meer of minder een dwaas zou zijn geweest als ik onderwijs had gehad."
+|-
+| Anne Sullivan || "Ik begin te vermoeden dat alle ingewikkelde en speciale onderwijssystemen gebouwd zijn op de aanname dat elk kind een soort idioot is die moet leren denken."
+|-
+| Benjamin Franklin || "Hij was zo geleerd dat hij een paard in negen talen kon benoemen; zo onwetend dat hij een koe kocht om op te rijden."
+|-
+| Bertrand Russell || "Mensen worden onwetend geboren, niet dom; ze worden dom gemaakt door onderwijs."
+|-
+| C. C. Colton || "Examens zijn formidabel, zelfs voor de best voorbereiden, want de grootste dwaas kan meer vragen dan de wijste man kan beantwoorden."
+|-
+| Chuang Tzu || "Beloning en straf is de laagste vorm van onderwijs."
+|-
+| David P. Gardner || "Veel van wat voor onderwijs doorgaat, is niet meer dan ritueel. Het feit is dat we worden opgevoed zonder dat we het weten."
+|-
+| Dolly Parton || "Ik haatte school. Zelfs vandaag de dag, als ik een schoolbus zie, word ik gewoon depressief. Die arme kleine kinderen."
+|-
+| Edward M. Forster || "Met lepeltjes voeden leert ons op lange termijn niets anders dan de vorm van de lepel."
+|-
+| Elbert Hubbard || "Je kunt een jongen naar de universiteit leiden, maar je kunt hem niet laten denken."
+|-
+| Emma Goldman || "Aangezien elke inspanning in ons onderwijsleven erop gericht lijkt te zijn om van het kind een wezen te maken dat vreemd is aan zichzelf, produceert het noodzakelijkerwijs individuen die vreemd zijn aan elkaar en in eeuwigdurende vijandschap met elkaar leven."
+|-
+| Finley Peter Dunne || "Het maakt niet veel uit wat je studeert, zolang je het maar niet leuk vindt."
+|-
+| Florence King || "Al kunnen lezen als je op school komt is als al gebalsemd aankomen bij de begrafenisondernemer: mensen beginnen zich zorgen te maken over hun baan."
+|-
+| George Bernard Shaw || "Er is niets op aarde bedoeld voor onschuldige mensen zo verschrikkelijk als een school."
+|-
+| George Saville, Markies van Hallifax || "De ijdelheid van het onderwijzen verleidt een man vaak om te vergeten dat hij een domkop is."
+|-
+| Gilbert K. Chesterton || "Onderwijs is de periode waarin je wordt geïnstrueerd door iemand die je niet kent, over iets wat je niet wilt weten."
+|-
+| H. H. Munro || "Maar, goede hemel, je moet hem eerst onderwijzen. Je kunt niet verwachten dat een jongen slecht is totdat hij naar een goede school is geweest."
+|-
+| H. L. Mencken || "De gemiddelde schooldirecteur is en moet altijd in essentie een ezel zijn, want hoe kan men zich een intelligent persoon voorstellen die zich bezighoudt met zo'n kinderachtige bezigheid."
+|-
+| Helen Beatrix Potter || "Gelukkig ben ik nooit naar school gestuurd; het zou wat van de originaliteit hebben weggevaagd."
+|-
+| Henry David Thoreau || "Wat doet onderwijs vaak? Het maakt een rechte sloot van een vrije, meanderende beek."
+|-
+| Ivan Illich || "De openbare school is de gevestigde kerk van de seculiere samenleving geworden."
+|-
+| John Dewey || "Het is onze huidige opvatting van onderwijs dat het niets is dan het vullen van een vat en dat het een vat is dat gevuld moet worden."
+|-
+| John Holt || "Omdat leraren bang zijn voor de emoties van de kinderen die zij onderwijzen, hebben zij geleerd hun eigen emoties te vrezen."
+|-
+| Jonathan Kozol || "Als we de muren van onze klaslokalen afbreken, zien we de muren van de gevangenissen die opdoemen op hun plaats."
+|-
+| Jules Henry || "Als de school een voorbereiding is op het leven, is het leven ook een voorbereiding op de school; als de school een model van het leven is, is het leven ook een model van de school."
+|-
+| Karl Kraus || "Kinderen spelen soldaatje. Dat bewijst niet dat soldaten kinderachtig zijn, maar dat kinderen soldaten zijn."
+|-
+| Karl Wilhelm Friedrich von Schlegel || "De school: een plaats waar Papa betaalt en Junior speelt."
+|-
+| Lillian Hellman || "Wat ik geleerd heb, heb ik geleerd door het af te kijken. Ik was nooit veel op school."
+|-
+| Lord Chesterfield || "In de school van de wereld leert men niet door de vinger te luisteren, maar door de ervaring te zien."
+|-
+| Mark Twain || "Ik heb nooit iemand enige geestelijke hulp zien vinden in het kunnen bewijzen dat anderen ongelijk hebben."
+|-
+| Martin H. Fischer || "Onderwijs is het proces van het onderscheiden van het nutteloze, om het waardeloze weg te gooien."
+|-
+| Michel de Montaigne || "Wij houden van de professor omwille van de kennis die wij hem toekennen; en kennis omwille van de professor die wij haar toekennen."
+|-
+| Nelson Algren || "Een Amerikaanse universiteit is gewoon een vierjarige kleuterschool voor knapen die te groot zijn voor kniebroeken."
+|-
+| P. J. O'Rourke || "Zelfs als u geen kinderen hebt, betaalt u toch voor scholen. Dit is oneerlijk. Als ik geen kinderen heb, waarom zou ik dan betalen voor uw kinderen?"
+|-
+| Ralph Waldo Emerson || "We zijn studenten van woorden: we worden begraven onder woorden, bedolven onder woorden, opgeblazen door woorden."
+|-
+| Robert Frost || "Onderwijs is het vermogen om naar bijna alles te luisteren zonder je kalmte of zelfvertrouwen te verliezen."
+|-
+| Robert Louis Stevenson || "Deze school ervaring heeft een blijvende indruk op mij achtergelaten. Het heeft een onuitwisbaar stempel op mijn geest achtergelaten."
+|-
+| Samuel Butler || "Een leraar moet een behoorlijk leeg hoofd hebben om er altijd in te slagen zich te vullen met de inhoud van andere hoofden."
+|-
+| Sydney J. Harris || "Het doel van onderwijs is om een lege geest te vervangen door een open geest."
+|-
+| Thomas Szasz || "Elke daad van bewuste leren vereist de bereidheid om iets van jezelf te verliezen en iets anders op te geven."
+|-
+| Tom Robbins || "Als we kleine kinderen naar school sturen, geven we ze allemaal dezelfde potloden, maar we zouden ze eigenlijk allemaal een andere kleur moeten geven."
+|-
+| Virginia Woolf || "Onderwijs is niet iets wat je kunt voltooien. Het is geen bad dat je neemt, het is een zee waar je in zwemt."
+|-
+| William Glasser || "Wat studenten op school leren is voornamelijk van geen enkel belang en is al bijna volledig vergeten tegen de tijd dat ze het schoolgebouw verlaten."
+|-
+| William Saroyan || "De meeste mensen moeten op de universiteit om te leren hoe onbeduidend ze zijn."
+|}
+
+== Minecraft == 
+Minecraft biedt een unieke kans om onderwijsarchitectuur te verkennen. Door het bouwen van virtuele werelden, kunnen onderwijstechnologen complexe concepten visualiseren en studenten een interactieve leerervaring bieden. Minecraft stimuleert creativiteit, probleemoplossing en samenwerking, waardoor het een krachtig hulpmiddel is in het onderwijs.
+
+== MediaWiki ==
+MediaWiki, het platform achter Wikipedia, kan worden gebruikt om educatieve inhoud te creëren en te delen. Door een eigen wiki te bouwen, met templates, extensies en LUA als script, kunnen onderwijstechnologen samen met leraren en leerlingen een rijke kennisdatabase ontwikkelen. Dit bevordert zelfgestuurd leren en maakt kennis toegankelijk voor een brede groep gebruikers.
+
+== Moodle ==
+Moodle is een veelzijdig leerbeheersysteem dat helpt bij het structureren van onderwijsmateriaal. Onderwijstechnologen kunnen Moodle gebruiken om cursussen te ontwikkelen die interactief, aanpasbaar en schaalbaar zijn. Dit platform ondersteunt blended learning en biedt tools voor beoordeling, samenwerking en communicatie. Maar vooral de mogelijkheid om plugins te bouwen voor de eigen onderwijsarchitectuur.
+
+{{Opmaak | Voettekst}}

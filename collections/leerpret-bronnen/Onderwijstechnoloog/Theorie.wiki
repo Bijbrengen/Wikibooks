@@ -1,0 +1,534 @@
+{{Opmaak}}
+== Wetenschap ==
+=== Virtual Action Learning ===
+'''Virtual Action Learning''' of VAL is een onderwijsmethode waarin de lerende met behulp van virtuele middelen op zijn eigen acties en ervaringen terugblikt, om zo zijn leerproces te bevorderen.
+
+[[Bestand:Questions feedback.PNG|thumb|250px|[[w:Questioning|Double questioning matrix]] : ''The limits of my language are the limits of my world.'' ([[w:Wittgenstein|Wittgenstein]])]]
+''Action Learning'' (dus zonder de virtuele middelen) is bedacht door Professor [[w:en:Reginald Revans|Reginald Revans]] in 1940 in Groot-Brittannië. Werkend in de mijnindustrie moedigde hij managers aan elkaar te ontmoeten in kleine groepen, hun ervaringen te delen en elkaar vragen te stellen over wat ze meemaakten. Het bleek dat deze aanpak de [[w:productiviteit|productiviteit]] met meer dan 30% liet toenemen. <ref name=''ALTOUNYAN''>{{Citeer boek | Achternaam = Caroline Altounyan | Titel=Revans | Datum = januari 2003 | URL = https://www.ils.salford.ac.uk/library/resources/special/revans.pdf}}</ref> Hij verwoordde dit effect later in zijn formule L = P + Q, waar L staat voor leren, P voor (ge)programmeerde kennis met simulaties en Q (questioning) voor vragen om inzicht te krijgen in wat mensen horen, zien of voelen. <ref name=''REVANS''>{{Citeer boek | Achternaam = Reg Revans | Titel = ABC of action learning | Datum = 1998 | Plaats = Londen | Uitgever = Lemos and Crane}}</ref>. Virtual Action Learning wordt sinds 2001 gebruikt door onderwijsinstellingen en bedrijven en is door de overheid in 2007 beloond met een landelijke innovatieprijs in kader van het actieprogramma Maatschappelijke sectoren & ICT<ref name=''MICT''>{{Citeer boek | Achternaam = M&ICT | Titel = Prijsvraag  actieprogramma Maatschappelijke sectoren & ICT | URL= https://www.m-ict.nl/index.php?option=com_content&task=view&id=177&Itemid=200}}</ref>.  In dat kader is het streven VAL uit te bouwen voor gebruik door alle 85 lerarenopleidingen in Nederland. 
+
+De VAL-methode is sterk gerelateerd aan methodes als leren door te doen en onderwijzen middels voorbeelden. Virtual Action Learning speelt vaak een belangrijke rol in leeromgevingen die de werkpraktijk zo goed mogelijk nabootsen.<ref name=''GRAY''>{{Citeer boek | Achternaam = David Gray | Titel = Work-based Learning, Action Learning and the Virtual Paradigm | Datum = oktober 2001 |Uitgever = Journal of Further and Higher Education, Volume 25, Issue 3, pagina 315 - 324}}</ref> De uitgangspunten van het concept zijn mede gebaseerd op het zogenaamde sociaal-constructivisme, namelijk dat een lerende zelf betekenis geeft aan wat hij ervaart en dat daarbij contacten met anderen ("samen leren") een centrale rol vervult.<ref name=''HEEMSKERK''>{{Citeer boek | Achternaam = Nico Heemskerk | Titel = Virtual action learning: theorie en praktijk | Datum = 2006 | Uitgever = Onderwijs en Gezondheidszorg, Volume 30, Number 6, 224-228}}</ref> De VAL-methode heeft sterke banden met [[w:filosofie|filosofiën]] die bij het leren uitgaan van zelfkennis en zelfontwikkeling en de sociale invloeden van de groep daarin ([[w:Existentialisme |existentialisme]]).
+
+=== Lexicon ===
+* '''ActiveX''': Techniek van Microsoft voor gegevensuitwisseling tussen softwarecomponenten. ActiveX is de opvolger van OLE/COM) en is ook geschikt voor gebruik in netwerken zoals Internet.
+* '''Broncode''': Wanneer een computerprogramma wordt ontworpen, zal het eerst geschreven worden door programmeurs in een programmeertaal (=broncode = source). Deze taal bepaalt de werking van het programma. Al wie deze broncode kan inzien, kan dus wijzigingen aanbrengen aan het programma.
+* '''Browser''': Een programma waarmee je op internet kunt surfen.
+* '''Cammen''': Via een webcam videobeelden naar een ander sturen.
+* '''C-learning''':  C-learning staat voor 'classroom learning'. Hiermee wordt het traditionele leren in een klaslokaal bedoeld. Het wordt als tegenhanger van e-learning gezien.
+* '''Closed source''' :  Wanneer je een closed source software gebruikt, heb je geen toegang tot de broncode van het programma. Aanpassingen aan het programma zijn dus niet meer mogelijk. Dit soort software wordt soms ook wel eens commerciële software genoemd. De ontwikkelaars proberen dus geld uit hun product te slaan. Enkele bekende voorbeelden van closed software zijn: N@tschool, smartschool, Teletop, Blackboard, enz... 
+* '''Com''':  Domeinnaam die staat voor commercieel.
+* '''CMS''':  CMS is de afkorting voor Content Management System. Een CMS is een soort prefab database gedreven website. De installatie gebeurt eenvoudig, door een aantal bestanden op een server te plaatsen die de programmeertalen PHP en SQL aankan. Daarna kan de inhoud van de website simpel en visueel ingevuld worden via een web browser. Het CMS is als het ware een skelet dat de gebruiker simpel verder kan aankleden.
+* '''DVD''':  Digital Versatile Disc, schijf waarop informatie kan opgeslagen worden.
+* '''DVI''':  Digital Visual Interface standaard in wording voor digitale gegevensoverdracht. Het hoofdkenmerk aan dit type interface is dat het een verbinding tot stand kan brengen tussen computer en monitor, met een zeer hoge bandbreedte.
+* '''Digitaal pesten''': Pesten via internet, zoals via e-mail, chat of messenger.
+* '''Domeinnaam''': Verwijst naar een deel van een server van een hostingprovider waar de website geplaatst is. Deze ruimte wordt eigenlijk aangegeven door een getallenreeks maar om het makkelijker te onthouden wordt er een naam aan gekoppeld.
+* '''E-learning''':  E-learning is de verzamelnaam voor het vormgeven van leersituaties met behulp van de mogelijkheden van ICT. De 'e' verwijst naar de elektronische component, in het bijzonder de internettechnologie.
+* '''ELO''': Een elektrische leeromgeving (ELO) is een elektronisch platform dat elektronisch leren mogelijk maakt. Tegenwoordig zijn ELO's erg in trek. Vele scholen, universiteiten en bedrijven maken gebruik van deze software. Zowel open source als closed source ELO's zijn beschikbaar. Enkele bekende voorbeelden zijn Dokeos, smartschool, blackboard en moodle.
+* '''eXe''': eXe is een klein programma waarmee je op een zeer makkelijke manier een elektronisch leerpakket op internet kan plaatsen. Je hoeft helemaal niets te kennen van HTML om je leerpakket op het internet te plaatsen. Het programma is aan een grote opmars bezig en wordt zeer veel gebruikt door leerkrachten.
+* '''FAQ''': FAQ is een afkorting die je op vele sites ziet verschijnen maar wat betekent het nu juist? FAQ staat voor 'Frequently Asked Questions'. 
+Wanneer je hier dus op klikt, opent je computer een document waar de antwoorden te vinden zijn van de meest gestelde vragen over een bepaald onderwerp.
+* '''FTP''': Staat voor File Transfer Protocol, is een manier om bestanden uit te wisselen tussen computers, wordt gebruikt om websites on line te plaatsen.
+* '''Freeware''': Freeware is gratis software waarvan je de broncode niet kan inzien. Aanpassingen of verbeteringen aan de software zijn dus ook niet mogelijk (itt. Open source Software). Het woord heeft een beetje een dubieuze betekenis. Free staat hier niet voor 'vrij' maar voor 'gratis'.
+* '''Gemini''' : Transatlantische glasvezelkabel tussen New York en Londen, gelegd in opdracht van WorldCom.
+* '''Gnutella''' : P2P-protocol genaamd naar GNU en Nutella. Gnutella werd oorspronkelijk ontwikkeld door Nullsoft (de makers van MP3 en WinAMP) en laat Internetgebruikers toe om allerlei bestanden uit te wisselen onder elkaar zonder gebruik te maken van een website als server.
+* '''HDMI''':  High-Definition Multi-media Interface: is een aansluiting voor audio- en videosignalen in ongecomprimeerde digitale vorm. HDMI biedt een interface tussen elke compatibele digitale bron van audio/video zoals een set-top box, dvd-speler, versterker en een compatibel scherm zoals een plasmascherm of een lcd-scherm en computers met DVI-aansluiting.
+* '''Helpdesk''':  Helpdesk is een plaats of persoon waar de computergebruiker vragen kan stellen ivm eventuele problemen of storingen.
+* '''Hoax''':  Een hoax is een nepbericht dat verstuurd wordt via e-mail.
+* '''HTML''':  HTML is de afkorting voor HyperText Markup Language. Het is de programmeertaal waarmee websites opgebouwd zijn. Een browser zet deze codes om naar een website zoals we hem op het computerscherm zien.
+* '''Hyperlink''':  Een hyperlink is een verwijzing naar een andere webpagina.
+* '''ICT''': Information and Communication Technology. De hoogtechnologische sector van computers en telecommunicatie, samengebracht door Internet.
+* '''Incremental backup''' : Backupsysteem waarbij enkel de nieuwe of gewijzigde bestanden worden gekopieerd sinds de laatste backup. Deze methode van backup is nog een stuk sneller dan een differential backup, maar een grotere restore wordt al gauw wat ingewikkelder en trager, vanwege de talrijke backupsets die nodig zullen zijn.
+* '''Java''' : Objectgeoriënteerde programmeertaal ontwikkeld door Sun Microsystems en gelanceerd in 1994. Java kent een syntax die lijkt op C++. Bekende webbrowsers hebben een Java interpreter waardoor ze Java applets kunnen uitvoeren die extra functionaliteit geven aan HTML-documenten.
+* '''Java-applet''' : Een klein Java-programma dat vanaf de server verstuurd wordt naar de client die het programma zal uitvoeren in een JVM. Java applets worden vaak toegepast om Webpagina's op te fleuren.
+* '''KB''' : De KiloByte is een maateenheid voor de opslagcapaciteit van een digitaal medium. Anno 2009 is een bestand van 1 KB is heel erg klein. Een eenvoudig tekstje van een duizendtal karakters neemt ongeveer één kilobyte geheugen in.
+* '''LaTeX''': LaTex is een tekstverwerkingsprogramma dat speciaal gemaakt is om vooral wetenschappelijke en wiskundige documenten van hoge typografische kwaliteit te produceren.
+* '''Lazarus''': Lazarus is een cross-platform-RAD-programma, dat gebruikt kan worden om software te ontwikkelen. Lazarus is een open-sourceproject, geïnspireerd door het RAD-programma Delphi van Borland. Software die met behulp van Lazarus is ontwikkeld mag commercieel worden aangeboden.
+* '''Malware''':  Malware is software die schadelijk of kwaadaardig is.
+* '''MB''': Een MegaByte is een eenheid van opslagcapaciteit. Het is een redelijk kleine hoeveelheid geheugen. 1MB = 1024KB. Een diskette heeft een capaciteit van 1,44MB. Op een CD (650MB) geraken ongeveer 450 diskettes. Op een DVD (4,7GB) kan je ongeveer 7,5 CD's kwijt. Op een middelmatige harde schijf (200GB) kan je ongeveer 42,5 DVD's zetten.
+* '''Multimedia''':  Multimedia is een informatica-toepassing die gebruik maakt van videobeelden en/of geluid.
+* '''Nickname''':  Een nickname is een bijnaam op internet.
+* '''OLPC''':  OLPC is de afkorting voor One Laptop Per Child. Het is een project van MIT-oprichter Nicholas Negroponte. Het doel is om een eenvoudige en duurzame basislaptop voor kinderen te maken die in ontwikkelingsgebieden de digitale kloof mee helpt te dichten.
+* '''Open source''':  Open Source Software is software waarvan je de broncode kan inkijken en veranderen. Eenmaal je deze software hebt gekocht of hebt verkregen, ben je niet meer gebonden aan de originele leverancier. Je kan de software dus aanpassen, verbeteren, kopiëren en aanvullen naar wens. Soms onterecht wordt deze software wel eens 'niet-commerciële software' genoemd. 
+Enkele bekende voorbeelden zijn: Dokeos, Moodle, Whiteboard, enz...
+* '''Org''':  Domeinnaam die staat voor organisation (niet commerciële of non-profit organisatie).
+* '''Parallelle poort''':  Een in/uitgang op de computer. Meestal gebruikt voor de printer.
+* '''Password''':  Wachtwoord om toegang te krijgen tot een website of een computer.
+* '''Payware''':  Software waarvoor men moet betalen.
+* '''PDA''' :  Ook palmtop genoemd: persoonlijke handcomputer.
+* '''PDF''':  PDF is de afkorting voor Portable Document Format. Dit is een bestandsformaat waarin je een document kan opslaan zodat je als auteur zeker bent dat er geen wijzigingen kunnen worden aangebracht en waarbij de layout systeem- en softwareonafhankelijk bewaard blijft.
+* '''PHP''':  Een scripttaal om dynamische webpagina's te creëren.
+* '''Pixel''':  Geeft de scherpte van uw beeld aan. Een monitorbeeld is opgebouwd uit verschillende puntjes (pixels).
+* '''Plugin''':  Een plugin is een stukje software dat de standaardfuncties van een programma uitbreidt. Een bekend voorbeeld van een plugin is een flash player die het mogelijk maakt om filmpjes in flash-formaat af te spelen in een web browser.
+* '''Pop-up''':  Een klein venster dat vanzelf opent als je naar een website surft. Een pop-up is meestal commercieel van aard.
+* '''Pop-up killer''':  Een programma dat pop-upvensters blokkeert.
+* '''Provider''' :  Verleent toegang tot het internet. Het World wide web is daar een onderdeel van.
+* '''Proxy server''':  Server die een bedrijfsnetwerk via één verbinding geeft tot het internet. M.a.w. een computer of server die namens een ander werkstation data over internet zendt en ontvangt en die vervolgens doorgeeft aan het juiste werkstation. De proxy kan meerdere verzoeken van verschillende werkstations aan, vermits de proxy de data gescheiden kan houden.
+* '''QWERTY''' : Layout van een Amerikaans, Engels en Nederlands toetsenbord.
+* '''Query''': Het opvragen van informatie uit een database die voldoet aan bepaalde criteria.
+* '''Router''' : Toestel dat subnetwerken met elkaar verbindt. Een router beslist welk pad een bepaalde netwerktrafiek dient te volgen.
+* '''Scart''':  Syndicat de Constructeurs des Appareils Radiorécepteur et Télévision: speciale gestandaardiseerde aansluiting op een televisietoestel of videorecorder voor video- en audiosignalen van goede kwaliteit.
+* '''Server''':  Een server is enerzijds de correctere manier om een programma aan te duiden dat communicatie met andere programma's mogelijk maakt, anderzijds om bepaalde computersystemen aan te duiden die speciaal gemaakt zijn om aan hoge verwerkingseisen te voldoen.
+* '''Sgml''':  Sgml is de afkorting voor Standard generalized markup language: ontwikkelde metataal waarmee data kunnen worden opgeslagen die voor zowel mens als computer leesbaar zijn.
+* '''Shareware''':  Shareware is de verzamelnaam voor software die vrij verspreid en gekopieerd mag worden. Als je de software wilt blijven gebruiken, is een bijdrage verplicht om de software te kunnen blijven ontwikkelen.
+* '''Software''':  Software zijn alle computerprogramma’s, bibliotheken en bijhorende data die op de computer kunnen geïnstalleerd worden na de aankoop van je computer. 
+* '''Spam''':  Spam is de verzamelnaam van ongewenst berichten zoals ongewenste mails, reclameboodschappen op websites, … Ook bekend als Unsolicited Commercial E-mail en Unsolicited Bulk E-mail. 
+* '''Spyware''':  Spyware zijn computerprogramma’s die informatie van een computergebruiker bekomen en deze naar een externe partij versturen met als doel geld te verdienen. ( spy > spion )
+* '''Trashware''':  Software die slecht geprogrammeerd is.
+* '''Upgrade''':  Verbetering van een computerprogramma.
+* '''Uploaden''':  Bestanden (programma, tekst, geluid, beeld) van een eigen computer kopiëren naar een andere computer.
+* '''URL''':  URL is de afkorting voor "Universal Resource Locator". Deze term is beter gekend als het ''internetadres'' van een website. De URL is gekoppeld aan het IP-adres van de server waar een bepaalde website op staat.
+* '''USB''':  USB staat voor Universal Serial Bus: standaard voor de aansluiting van randapparatuur aan de computer (muis, usb-stick (geheugen), printer,…).
+* '''VGA''':  Video Graphics Array is een standaard voor het weergeven van beelden op een computermonitor.
+* '''Virus''':  Virussen zijn kleine softwareprogramma's die van de ene op de andere computer kunnen overspringen en zo de computer beschadigen.
+* '''Vrije Software''':  Vrije software is een software die je vrij kan gebruiken, aanpassen (mits vrijgave van de broncode), verspreiden en verbeteren.
+* '''WAV''':  Bestandsformaat voor digitaal geluid.
+* '''Web browser''':  Een Web browser is het programma waarmee men webpagina’s kan bekijken.
+* '''Website''':  Een website is een verzameling van samenhangende webpagina’s met verschillende data die gehost worden op een server.
+* '''Webhosting''':  Het aanbieden van ruimte op de server waar mensen een website op kunnen plaatsen.
+* '''Wi-Fi''':  Wifi of Wi-Fi is een populaire technologie die het mogelijk maakt om over korte afstanden draadloos internet te verkrijgen. De technologie maakt gebruik van radiogolven. Het is een zeer handige uitvinding voor gebruik thuis of op kantoor. Velen denken onterecht dat Wi-Fi staat voor 'Wireless Fidelity'. Het woord is geen acroniem. Wi-Fi betekent Wi-Fi. 
+* '''Wishware''':  Software die aangekondigd is maar nog niet bestaat.
+* '''WWW''': kort voor "World Wide Web". Naast 'http' is 'www' noodzakelijk voor internet(adressen).
+* '''WYSIWYG''':  staat voor ''What You See Is What You Get''. Het is een typering van computerprogramma's die dienen om iets te ontwerpen, zoals bijvoorbeeld een website. Op deze manier kan je zonder veel technische voorkennis toch een goed uitziende website maken, waarbij het programma jouw visuele input omzet in de nodige html-codes.
+* '''XML''':  XML staat voor extensible markup language. Standaard voor het uitwisselen van data tussen computers. XML is erg handig om informatie door te geven die door mensen te snappen is en door computers te lezen is.
+* '''YouTube''':  een wereldwijd bekende website waar iedereen gratis video's kan uploaden, bekijken en delen.
+
+== Onderwijs ==
+=== Serious Game ===
+Serious games als begrip kreeg in 2002 bekendheid door het ''Serious Games Initiative'', met als bedoeling games die op het vlak van management en politiek afspelen te bevorderen. De term serious game is al veel ouder en duidde op een spel waarin meerdere beslissers binnen een beperkte context ''serieuze'' doelen nastreven<ref name=''ABT''>{{Citeer boek | Achternaam = Abt, C. | Titel = '''Serious Games''' | Datum = 1970 | Uitgever = Viking Press | Plaats = New York}}</ref>. De focus op serious games groeit steeds verder, van aandacht in de media tot eigen conferenties<ref name=''MICHAEL''>{{Citeer boek | Achternaam = Michael, D.R. en Chen, S.L. | Titel = '''Serious Games: Games That Educate, Train, and Inform''' | Datum = 2005 | {{ISBN|= 1592006221 | Uitgever = Muska & Lipman/Premier-Trade}}</ref>. Al bij de opkomst van de computerspellen werden deze gebruikt in het onderwijs (1980 Atari's "Army Battlezone"<ref name=''JONG''>{{Citeer boek | Achternaam = de Jong, A. en Schuilenburg, M. | Titel = '''Mediapolis: popular culture and the city''' | Datum = 2006 | {{ISBN|= 9064506280 | Uitgever = 010 Publishers}}</ref>).
+
+Een bekende toepassing van serious game in het onderwijs is de onderwijsfilm (ook ''edutainment'' genoemd). De onderwijsfilm is bedoeld om het leren gemakkelijker en aantrekkelijker te maken. Daarom is de de creatieve kwaliteit van de onderwijsfilm minder belangrijk dan de pedagogische en de didactische kwaliteit. De combinatie van didactiek en filmwetenschap noemen we de ''filmdidactiek''. De maker van onderwijsfilms wordt een [[wikt:Onderwijsfilmer|onderwijsfilmer]] genoemd.
+
+=== Interactieve computergames ===
+Door ontwerpers zijn spelvormen ontwikkeld, waarin door iedereen, ongeacht de maatschappelijke positie, in een vertrouwde, levensechte en tegelijk uitdagende leeromgeving elke rol die is geprogrammeerd kan worden gespeeld.<ref name=''ABT''>{{Citeer boek | Achternaam = Abt, C.C. | Titel = '''Serious Games''' | Datum = 1987 | {{ISBN|= 0819161489 | Uitgever = University Press of America}}</ref> Zo kunnen lastige processen, b.v. in de economie, spelenderwijs gesimuleerd worden. <ref name=''ROLLINGS''>{{Citeer boek | Achternaam = Rollings, A. en Adams, E. | Titel = '''Fundamentals of Game Design''' | Datum = 2006 | Uitgever = Prentice Hall}}</ref> Door de multiplayer rol kan aan iedere deelnemer een eigen rol en een eigen uitdaging toebedeeld worden, waarbij onderlinge interactie mogelijk is. Hulp op maat is vaak aanwezig in de vorm van computercoaches, personages in het spel zelf. Serious games geven adverteerders de kans om de producten en diensten die passen bij de aard of het onderdeel van het computerspel, te promoten (''gamevertising'').
+
+Voor het maken van een serious game zijn ontwerpers, vormgevers, gamedesigners, interactiondesigners, programmeurs, animatoren en projectmanagers nodig. Daarnaast moeten de spelprincipes en ontwikkelingstools gecombineerd worden met leermodellen en pedagogische uitgangspunten, zie als voorbeeld de productie van het Tactical Language Training System (TLTS)<ref name=''JOHNSON''>{{Citeer boek | Achternaam = Johnson, W.L., Vilhjalmsson, H. en Marsella, S. | Titel = '''Serious Games for Language Learning: How Much Game, How Much AI?''' | Datum = 2005 | Uitgever = Proceeding of the 2005 conference on Artificial Intelligence in Education: Supporting Learning through Intelligent and Socially Informed Technology}}</ref>.
+
+=== MUVE ===
+'''MUVE''' staat voor '''Multi-User Virtual Environments''' ook wel '''Virtuele Werelden''' genoemd. Het wordt meestal gebruikt om '''M'''assively '''M'''ultiplayer '''O'''nline ('''R'''ole '''P'''laying) '''G'''ames ([[w:MMO|MMO]],  [[w:MMOG|MMOG]] of [[w:MMORPG|MMORPG]]) te duiden die zich niet richten op het spelen zelf maar andere doelstellingen nastreven. 
+
+De term werd voor het eerst gebruikt bij een beschrijving van het spel Habitat<ref name=''MORNINGSTAR''>{{Citeer boek | Achternaam = Morningstar, C. en Farmer, F. R. | Titel = '''The Lessons of Lucasfilm's Habitat''' | Datum = 1990 | Plaats = Cambridge, Mass. | Uitgever = MIT Press}}</ref>(1987) dat samen met Club Caribe (1988) als de eerste grafische MUVE's kunnen worden beschouwd. De [[w:MUD|MUD]] (eerst Multi-User Dungeon, later Multi-User Dimension of Multi-User Domain) die voornamelijk tekstueel communiceerde, zou kunnen worden gezien als een voorloper. Dit geldt ook voor zijn objectgeoriënteerde variant, de [[w:MOO|MOO]].
+
+Tegenwoordig mag van een MUVE 3D graphics worden verwacht, dat het benaderbaar is via het internet en dat vele gebruikers simultaan mee kunnen doen. 
+
+Er is een toenemende aandacht vanuit het onderwijs voor de MUVE als effectief leermiddel<ref name=''DIETERLE''>{{Citeer boek | Achternaam = Dieterle, E. en  Clarke, J. | Titel = '''Multi-User Virtual Environments for Teaching and Learning''' | Datum = 2005 | Plaats = Encyclopedia of Multimedia Technology and Networking | Uitgever = Idea Group Publishing | {{ISBN|= 1591405610}}</ref>.
+
+Een MUVE kan in bedrijf worden genomen als de volgende onderdelen zijn ingericht:
+# Een server(park) waarop de applicatie wordt gedraaid.
+# Een interface die toestaat om een account aan te maken, toegang verleent en met de gebruiker informatie uitwisselt (bijvoorbeeld via het web).
+# De applicatie die de virtuele omgeving creëert.
+# Een gegevensbank die de specifieke elementen uit de virtuele wereld en de gebruikersgegevens vastlegt.
+
+Voor de professionele fabricage van een MUVE zijn (systeem en applicatie)programmeurs, technici en ontwerpers nodig. Bij de huidige grafische varianten worden ook vormgevers ingezet. Voor de amateur, zonder specialistische kennis, zijn er allerlei hulpmiddelen<ref>[https://usa.autodesk.com/maya/ Autodesk's Maya], [https://www.macnews.com/content/md1-vrml-internet3d-and-more-0 Virtual Home Space Builder, Internet3D Space Builder], [[w:VRML|Silicon Graphics Cosmo VRML]] en [https://www.caligari.com/ Truespace]</ref> om zelf een virtuele wereld te creëren.
+
+Voorbeelden:
+*[[w:Active Worlds|Active Worlds]]
+*[[w:Croquet Project|Croquet Project]]
+*[[w:Edusim|Edusim]]
+*[[w:Neverwinter Nights|Neverwinter Nights]]
+*[[w:OpenSimulator|OpenSimulator]]
+*[[w:Project Wonderland|Project Wonderland]]
+*[[w:Quest Atlantis|Quest Atlantis]]
+*[[w:Second Life|Second Life]]
+*[[w:There (Internet service)|There]]
+
+=== Online scriptieplatform ===
+De praktijk heeft uitgewezen dat met name studenten in de exacte wetenschap in de afstudeerfase langer over het schrijven van een scriptie doen of een lager niveau bereiken dan gezien hun voorgaande studieprestaties in de lijn der verwachting ligt. Zowel problemen met de begeleiding als gebrek aan contact met medestudenten en docenten kunnen hiervan de oorzaak zijn. Het doel van een digitaal schrijfplatform is het ondervangen van de bovengenoemde problemen, zodat studenten het schrijfproces sneller en beter kunnen afronden. Deze elektronische scriptieomgeving biedt mogelijkheden voor online begeleiding van de scriptieschrijvende student en online contact met medestudenten in community-verband. 
+
+==== Community ====
+Bij het ontwerp van een scriptieplatform is een overweging of men moet gaan voor samenwerking of een community. Op het gebied van scriptieplatformen bestaat er een continuüm tussen online samenwerken en online communities. Het is van groot belang dit onderscheid helder in gedachten te houden bij het ontwikkelen van een online scriptieplatform. Een online samenwerkingsverband gaat uit van een hiërarchische structuur tussen docent en student, waarbij beiden een gemeenschappelijk project hebben: ervoor zorgen dat de student een zo goed mogelijke scriptie schrijft binnen een bepaalde tijdsperiode. Een online community kent een veel lossere structuur waarbij studenten (en wellicht docenten) op voet van gelijkheid met elkaar overleggen vanuit een gemeenschappelijke interesse: het ‘in hetzelfde schuitje zitten’. 
+
+Onderzoek wijst uit dat beide vormen zowel sterke als zwakkere punten kennen: een online samenwerkingsverband zorgt voor automatische – want gedwongen – participatie van de student en betrekt deze dientengevolge nauw bij het platform. Het praktijkvoorbeeld is de Schrijfmarkt in Nijmegen. Een nadeel is echter dat de student, vanuit diens extrinsieke motivatie, zich passief op zal stellen en het platform alleen zal gebruiken als communicatiemiddel met de docent of eventuele groepsgenoten. De ware stimulans van het leren als sociaal proces blijft hierdoor uit. 
+
+Een online community biedt deze stimulans wél, daar de student in contact komt met medestudenten, van hen feedback krijgt en vanuit een gedeelde interesse en intrinsieke motivatie ook betrokken raakt bij de scripties van anderen. Het isolement waarin schrijvende studenten zich bevinden wordt op deze wijze verbroken en het schrijfproces gestimuleerd. De losse structuur van een community kent echter ook een aantal inherente nadelen: daar het proces vraaggestuurd is, zal een community uiteenvallen bij gebrek aan initiatief en betrokkenheid van de studenten. Twee praktijkvoorbeelden (Twente en Maastricht) tonen dit duidelijk aan: waar een oorspronkelijk actieve kern studenten de community deed opbloeien, kon deze snel teloorgaan bij gebrek aan input. Met name wanneer het aantal deelnemers toeneemt en dientengevolge anonimiteit haar intrede doet, ligt het gevaar op de loer dat een community een stille dood sterft. Studenten moeten niet alleen halen, zij moeten ook brengen. Dit kan niet van bovenaf worden gestimuleerd, daar studenten een community niet als verplichting maar als kans moeten zien.
+
+Het lijkt - gezien bovengenoemde overwegingen - dan ook raadzaam beide elementen in een scriptieplatform te combineren, opdat van de sterke punten gebruik kan worden gemaakt en de zwakke punten kunnen worden vermeden of gecompenseerd. Een samenwerkingsverband biedt een goed uitgangspunt om de studenten bij de elektronische scriptieomgeving te betrekken, door middel van een of meerdere van de volgende onderdelen:
+* Online aanmelding en verzoek om begeleiding
+* Communicatie: indienen van scriptievoorstel en hoofdstukken en feedback door begeleider
+* Online aanbieden van noodzakelijke informatie (aan scriptie gestelde eisen, tijdschema, procedure) en aanvullende informatie (waar vindt de student bronnen, schrijfhulp, etc.)
+
+==== Betrokkenheid ====
+Wanneer de student eenmaal is betrokken bij het scriptieplatform door bovengenoemde onderdelen, kan hem de mogelijkheid worden geboden te participeren in een of meerdere communities waar hij automatisch voor is aangemeld. Als uitgangspunt geldt dat communities kleinschalig moeten worden opgezet, waardoor studenten in contact komen met een klein aantal medestudenten die zich met vergelijkbare onderwerpen bezighouden (bijvoorbeeld alleen binnen de afstudeerrichting of als kring rondom dezelfde begeleider) en bij voorkeur reeds met elkaar bekend zijn. Uit de praktijk in Twente blijkt dat een community veel beter draait wanneer de deelnemers elkaar persoonlijk kennen. Een community kan dan de volgende functies vervullen:
+* Uitwisselen van ervaringen en problemen tussen studenten
+* Volgen van elkaars voortgang en feedback op elkaars werk (“kruisbestuiving”)
+* Toevoeging van sociaal element aan het individuele scriptieproces (psychosociale factor)
+
+Door deelname aan de community facultatief te maken werkt dit wel lust-, maar niet lastverhogend voor de studenten. De hoop is op een ‘spill-over’ van het samenwerkingsverband naar de community. Een serieuze mogelijkheid is dat géén van de studenten gebruik zal maken van de community, in welk geval het scriptieplatform uitsluitend als samenwerkingsverband zal worden gebruikt. Praktijkvoorbeelden tonen echter aan dat wanneer één spreekwoordelijk schaap over de dam is, er meerdere zullen volgen. De communities moeten dan ook zo aantrekkelijk mogelijk worden gepresenteerd. Daarbij kan worden gedacht aan een aantal ‘trucjes’, zoals een fun-gedeelte. In Maastricht is gebleken dat dit als lokkertje goed functioneert. 
+
+==== Begeleiding ====
+Naast begeleiding en stimulering van de studenten kan een elektronisch scriptieplatform ook een duidelijke ondersteunende rol voor scriptiebegeleiders vervullen. Begeleiders worden vaak geconfronteerd met dezelfde problemen. Ook hier staat het onderscheid tussen samenwerkingsverband en community centraal, maar wordt het op een andere wijze vormgegeven. Als samenwerkingsverband kan het scriptieplatform de volgende functies vervullen:
+* Management: overzicht van aankomende, lopende en afgesloten scripties. Een scriptiecoördinator kan zo duidelijkheid verkrijgen en eventueel taken verdelen onder begeleidende docenten.
+* Communicatie: stukken worden overzichtelijk gepresenteerd door studenten en zijn online toegankelijk voor de begeleider.
+
+Ook voor begeleidende docenten zou een community-dimensie overigens een toegevoegde waarde kunnen bieden. Daarbij valt te denken aan:
+* Overleg over veel voorkomende problemen
+* Gebruik maken van andermans expertise
+* Discussie over interessante thema’s die bovendrijven tijdens begeleidingsproces
+
+Wederom staat centraal dat de scriptieomgeving voor docenten lastverlagend (door effectieve en efficiënte communicatie) en lustverhogend moet werken. Het tijdrovende ‘moderaten’ van een community vol studenten moet dan ook bij voorkeur aan de studenten zélf worden overgelaten, waarbij de docent slechts een informerende of af en toe sturende rol vervult. De docent is in eerste instantie een begeleider (coach), in tweede instantie een expert en bron van kennis voor studenten. Ook de community tussen docenten moet deze lustverhogende en lastverlagende functie vervullen en een vraaggestuurd karakter kennen.
+
+==== Toepasbaarheid ====
+Het is van belang te benadrukken dat een scriptieplatform voor maximale efficiëntie een kleinschalig karakter dient te kennen. Bij voorkeur moet dan ook één scriptieplatform per afstudeerrichting worden opgestart, zodat het aantal begeleiders en deelnemende studenten klein en overzichtelijk blijft. Binnen een afstudeerrichting kan worden gedacht aan één, maar wellicht ook meerdere communities voor studenten. De praktijk in Twente leert dat een groepsgrootte van rond de 25-30 participanten een maximum is.
+
+Een scriptieplatform per afstudeerrichting kent behalve kleinschaligheid en overzichtelijkheid nog enkele andere voordelen. Studenten zullen binnen een afstudeerrichting met vergelijkbare onderwerpen bezig zijn, hetgeen kruisbestuiving en gemeenschappelijke interesses bevordert. Studenten zullen elkaar ook eerder persoonlijk kennen, hetgeen geen vereiste maar wel een belangrijke pré voor het vormen van online communities is. Ten derde staat het platform zo ook differentiatie per afstudeerrichting toe, waarbij de structuur aangepast kan worden aan de eisen die vanuit de richting zelf worden gesteld.
+
+Echter, het platform moet de mogelijkheid bieden om gebruik te maken van expertise op hoger niveau, zij het binnen de studierichting, de faculteit, de universiteit zelf of het Nederlands hoger onderwijs, waarbij gemeenschappelijke problemen en oplossingen kunnen worden gecombineerd en het wiel zo min mogelijk opnieuw wordt uitgevonden. Een aantal elementen kunnen vanaf een hoger niveau worden aangeboden. Op het niveau van de studierichting bijvoorbeeld de beschikbare bronnen, op facultair niveau de coördinatoren en op universitair niveau de ondersteunende instellingen  en schrijfhulp. 
+
+==== Moderator ====
+Een belangrijk element in het bovenstaande is de rol van de moderator, die sterk wisselt binnen de samenwerkings- en de communitydimensie. Op het vlak van samenwerking dient de moderator vooral zorg te dragen voor efficiëntie, effectiviteit en gebruikersvriendelijkheid, zodat communicatielijnen zo kort mogelijk zijn en de nodige documenten eenvoudig op de juiste plaats terecht komen. De lastverlagende functie staat hierbij centraal. Op het community-vlak dient de moderator een veel passievere functie aan te nemen en vooral stimulerend en licht sturend op te treden, met als doel het initiatief zo veel mogelijk in de handen van de community leden zelf te leggen. Attractiviteit is in deze een cruciaal element: de lustverhogende functie van het scriptieplatform.
+
+De moderator speelt een belangrijke rol bij het betrekken van studenten én docenten door de concrete voordelen van het gebruik van het scriptieplatform als samenwerkingsinstrument te benadrukken. Deze zijn o.a.:
+* Effectievere communicatie met begeleider, ongeacht tijd en plaats (met name van belang bij studierichtingen waar fysieke afstand ontstaat tussen begeleider en studenten)
+* Online opslag (en dientengevolge back-up en toegankelijkheid) van stukken
+* Duidelijkheid door beschikbaarheid van documenten over procedure, eisen etc.
+* Inspiratiebron: overzicht van begeleiders en hun expertises, door anderen geplaatste stukken, bronnen, tips & tricks etc.
+* Duidelijk overzicht van de te begeleiden studenten door online inschrijving: management en taakverdeling
+* Beschikbaarheid en categorisatie van ingeleverde stukken
+* Effectievere communicatie (voorkoming vollopende e-mailboxen) ongeacht tijd en plaats
+
+==== Spill-over ====
+Wanneer studenten en docenten eenmaal gebruik van het scriptieplatform als samenwerkingsinstrument maken, is er de hoop dat een "spill-over"-effect ontstaat waardoor de communitydimensie kan opbloeien, zowel onder studenten, onder docenten én onder docenten en studenten samen. Op deze wijze kan het project de positieve elementen van beide dimensies combineren en zo de gevaren van beide trachten te omzeilen. Het project kan dankzij de flexibiliteit van de kleinschaligheid worden ingezet bij een breed scala aan studies en is vraaggestuurd met voldoende mogelijkheden voor groei, wanneer daar behoefte aan blijkt te zijn. Hopelijk kan op deze wijze de elektronische leeromgeving worden ingezet om studenten duidelijk te maken dat zij er niet alleen voor staan en zowel de kwaliteit als de spoed van het scriptieproces bevorderen.
+
+====  Voorbeelden ====
+* '''Schrijfmarkt''' vormt een onderdeel van het project ‘World Wide Writing’, een online schrijfcentrum waar studenten kunnen leren schrijven in vijf talen: Nederlands, Engels, Spaans, Frans en Duits. Het project, dat overigens in 2002 is bekroond met de EU Award for “Innovative Foreign Languages Projects”, kent een aantal onderdelen waaronder ‘Textpert’, een standaard feedbackbestand, en ‘Schrijfhulp’, tips en adviezen ter ondersteuning van het schrijfproces. Schrijfmarkt kent meer het karakter van een online samenwerkingsverband dan van een community. De docent formuleert een opdracht en plaatst deze op de ELO, waarna de studenten onderling via mail of chat overleggen over de te volgen aanpak. Zij werken vervolgens in groepsverband aan een document en plaatsen dit op de ELO, waarna zij feedback van docenten en andere studenten ontvangen. De ELO dient in dit geval voornamelijk als communicatiemiddel om het gemeenschappelijke doel te bereiken.
+
+* De afdeling Marketing van de Universiteit Maastricht beheert sinds 2001 een virtuele gemeenschap getiteld '''Thesis''', ontwikkeld door de Duitse Caroline Wiertz en onderdeel van haar promotieonderzoek naar online communities. Het doel was het opbouwen van een online community waar studenten met hun vragen over het afstuderen terecht konden, waar zij elkaar konden vinden en ideeën voor scriptieonderwerpen konden vinden. Het beginsucces van Thesis leek enorm: in 2001 schreven de Telegraaf<ref>{{Citeer boek | Achternaam = Collard, Cristel | Titel = '''Internet verlicht het scriptieleed''' | Datum = zaterdag 19 mei 2001 | Uitgever = De Telegraaf, sectie "overmorgen"}}</ref> en de universiteitskrant The Observant er een artikel over (opgenomen in de bijlagen) en het aantal deelnemers groeide explosief. Thesis combineerde regelmatige chatsessies met een soort ‘billboard’ functie. Studenten leken ook elkaar te modereren: zogenaamde ‘flamers’ werden door de studenten zelf weggewerkt. Al snel bleek echter dat er een gebrek aan enthousiasme voor de chatsessies was. Deze zijn inmiddels afgeschaft. Een andere probleem waar online communities vaak mee te kampen hebben deed zich ook hier voor: de studenten haalden wel, maar brachten zelf weinig in. Dit heeft te maken met het massale karakter van Thesis, waardoor studenten de facto unaniem worden. Thesis kent de volgende elementen: een overzicht van huidige afstudeerprojecten, een aantal voorbeeldscripties, een aantal door docenten aangedragen afstudeeronderwerpen (georganiseerd per thema), een aantal nuttige links voor het schrijven van een scriptie (zeker aan te raden om over te nemen) en tenslotte, ook zeer nuttig, een ‘what to do if you’re done’ fun-gedeelte met als doel de studenten ook op een attractieve manier bij de site te betrekken. Studenten schrijven zich ook via Thesis in voor het afstuderen en voor scriptiebegeleiding.
+
+=== CSCL ===
+Computer Supported Collaborative Learning (CSCL) is een vorm van leren waarin leerlingen werken aan een taak waarbij de communicatie tussen de leerlingen gebeurt via het internet.
+Deze communicatie kan zowel synchroon als asynchroon gebeuren.
+Synchroon betekent dat de leerlingen op dat moment echt in gesprek zijn, bijvoorbeeld via MSN.  Asynchroon betekent dat het gesprek gespreid over de tijd plaatsvindt, bijvoorbeeld door middel van een forum of via e-mail.
+Het blijkt dat wanneer beide communicatievormen samen gebruikt worden, ze elkaar aanvullen. De synchrone vorm wordt dan vooral gebruikt om sociale informatie uit te wisselen, terwijl de asynchrone vorm aangewend wordt om meer ingewikkelde vragen en uitgebreide antwoorden te communiceren.
+
+Voordelen:
+* De basis in het denken over CSCL ligt in de sociaal-constructivistische visie.  Door ICT te gebruiken wordt er een flexibele, complexe en authentieke leeromgeving gecreëerd.
+* Samenwerkend leren heeft een positieve invloed op de cognitieve prestaties en sociale vaardigheden van leerlingen.  Dit geldt ook als de leerlingen samenwerken via computers.
+* Leerlingen die moeilijkheden hebben om zich uit te drukken in groep, hebben het gemakkelijker wanneer de communicatie via het internet verloopt.
+* De leerkracht heeft een duidelijker overzicht op ieders verricht werk.  Er kan gezien worden wie wat doet in een taak. Hierdoor wordt het voor leerlingen moeilijker om ‘mee te liften’ op iemand anders zijn werk.
+* Nieuwe technologische ontwikkelingen kunnen meer opties bieden voor samenwerking.
+* Het stimuleert taakgericht gedrag en reflectie.
+* Het heeft een positieve invloed op motivatie.
+
+Voorbeelden:
+* Web knowledge forum
+* Virtual collaborative Research Institute
+* Active worlds
+* Web 2.0
+* Weblog
+* Wikipedia
+
+Aandachtspunten:
+* Het onderwerp moet complex genoeg zijn om er met meerdere leerlingen aan te kunnen werken.
+* Doelen kunnen cognitief of sociaal zijn.
+* Houdt het uiteindelijke groepsproduct voor ogen.
+* Zorg ervoor dat de vijf kenmerken van samenwerkend leren vormgeving krijgen.
+* Moet de communicatie tussen de leerlingen synchroon of asynchroon verlopen?
+* Denk bij de groepsindeling aan onderlinge verschillen inzake ICT-kennis, inhoudelijke kennis en groepsgrootte.
+* Stel een planning op.
+* Bedenk vooraf hoe je gaat begeleiden.
+* Wordt de kennis getoetst?
+
+{{Bron|bronvermelding=
+* Rubens, W. ''Samenwerkend leren met behulp van ICT''
+* Stichting Kennisnet ICT op school, ''Wat weten we over samenwerkend leren met ICT?''
+* Van de Ven, M. ''Samenwerkend leren''
+* Valcke, M. (2007) "onderwijskunde als ontwerpwetenschap: een inleiding voor ontwikkelaars van instructie en voor toekomstige leerkrachten."
+}}
+
+
+=== VLC ===
+Een '''VLC''' is een onafhankelijk van plaats en/of tijd, door software gecreëerde samenwerking tussen een aparte groep mensen die zich verdiept in een bepaald onderwerp. Deelnemende lerenden en onderwijzers evenals betrokken derden hebben toegang tot de VLC. 
+
+==== Activiteiten ====
+Gangbare activiteiten binnen een VLC zijn het vormen van een gezamenlijke mening, het melden van berichten, het delen van documenten of andere informatie, discussiëren en het verlenen van ondersteuning. Het virtuele zit hem erin dat er geen fysieke materialen of personen aanwezig zijn, maar alle communicatie en andere uitwisselingen via de computer verloopt. Een moderator stuurt een VLC aan. Zijn activiteiten bestaan uit het toe laten of afsluiten van deelnemers, het stimuleren van deelname, het controleren van bijdragen en het motiveren van deelnemers.
+
+==== Leergemeenschap ====
+Een leergemeenschap wordt gevormd door een groep mensen die actief zijn op een gemeenschappelijk gebied. Zij informeren elkaar werpen vragen op, discussiëren, stellen elkaar vragen, geven elkaar feedback, consulteren elkaar en maken gezamenlijk producten. Afhankelijk van de samenstelling van de leergemeenschap kunnen binnen de gemeenschap verschillende typen relaties bestaan bijvoorbeeld de relatie tussen gelijkwaardige professionals, tussen senior en junior, coach en gecoachte. De vraag is nu: wat kan het virtuele bijdragen aan de leergemeenschap en onder welke condities zal een virtuele leergemeenschap productief zijn als gemeenschap als geheel en voor elk afzonderlijk lid? Men kan onder de gegeven definitie Wikipedia en andere Wikimediaprojecten als VLC beschouwen. In dat geval is het kijken naar de opzet van deze projecten voldoende om antwoord te krijgen op deze vragen. Een VLC kan een krachtig middel zijn om een activerende leeromgeving te creëren. Een activerende leeromgeving wordt gekenmerkt door het centraal stellen van de lerende en het aan hem geven van de verantwoordelijkheid voor het leren.
+
+==== Voordelen ====
+Een VLC heeft met name toegevoegde waarde als het samenwerkend leren niet of slechts deels kan worden gerealiseerd middels het face-to-face contact of als voorbereiding hierop. Het face-to-face contact kan bemoeilijkt worden doordat deelnemers niet of moeilijk aanwezig kunnen zijn voor onderling contact. De aanwezigheidsbeperking kan ontstaan door de beschikbaarheid (een lastig af te stemmen agenda) en/of een grote fysieke afstand tussen de deelnemers. De VLC kan zorgen voor een plaats- en tijdonafhankelijke uitvoering. De fysieke afstand kan worden overbrugd door moderne communicatiefaciliteiten (telefonisch vergaderen, chatten, video conferencing, webcams). De computer als communicatiemiddel heeft als onderscheidend voordeel dat het beheer en organiseren van de communicatie flexibeler kan worden opgezet en eenvoudiger geadministreerd. De beschikbaarheid kan worden vergroot door asynchrone communicatie. Asynchrone communicatie tussen een groep is beheersmatig zonder hulp van de computer een omslachtige bezigheid. Wederom geldt dat de computer als communicatiemiddel het onderscheidend voordeel heeft dat het beheer en organiseren van de communicatie flexibeler kan worden opgezet en eenvoudiger geadministreerd.
+
+Een VLC zal het actieve leergedrag bevorderen, dit baserend op het feit dat er ervaring is op het terrein van VLC’s en de mogelijkheden binnen een VLC voor studenten voor samenwerking en ontplooiing van eigen activiteiten (individueel en als groep). De rol van de docent zal bepalend zijn voor een goed werkende VLC. Deze rol zal zich concentreren op reflecteren op, begeleiding van en activering van leeractiviteiten.
+
+==== Voorwaarden ====
+Voorwaarden voor een goede werkende VLC zijn:
+* Het beheer van de communicatie is eenvoudiger,
+* Affiniteit en bekendheid met digitale communicatie,
+* Functie en voordelen zijn helder en overtuigend,
+* Ondersteunende software moet stimuleren maar mag bovenal niet remmend werken!
+
+=== Vook ===
+Een vook is een digitaal boek waarin video, internetlinks en tekst worden samengevoegd.  Het boek kan beschikbaar zijn op het internet of als applicatie<ref name="RICH">{{Citeer boek | URL = https://www.nytimes.com/2009/10/01/books/01book.html?_r=1&src=twt&twt=nytimes | Titel = '''Curling Up With Hybrid Books, Videos Included''' | Uitgever = The New York Times | Achternaam = Rich, M. | Datum = 30 september 2009}}</ref>. 
+
+==== Achtergrond ====
+Vook is als een bedrijf dat digitale boeken publiceert opgericht in 2009 door internetondernemer Bradley Inman<ref name="STONE">{{Citeer boek | URL = https://www.nytimes.com/2009/04/05/business/05stream.html | Titel = '''This the Future of the Digital Book?''' | Uitgever = The New York Times | Achternaam = Stone, B. | Datum = 4 april 2009}}</ref>.
+
+==== Toepassing ====
+Een geschikt medium om vooks op af te spelen zijn iPads. In tegenstelling tot traditionele E-readers zoals de Kindle heeft een iPad het voordeel van een dynamische en interactieve weergave van audiovisuele content. Het open ePub maakt het bovendien mogelijk dat iedereen gemakkelijk en zonder extra kosten vooks kan publiceren. Dit is voor het onderwijs een boeiende mogelijkheid als aanvulling op die van een elektronische leeromgeving. En zou op den duur bij voldoende content de traditionele boeken geheel kunnen vervangen en daarmee een kostenbesparing voor het onderwijs kunnen opleveren, mits uiteraard een vook eenvoudig zelf is te fabriceren. Door de interactieve mogelijkheden van een vook wordt het eenvoudiger om lessen ongebonden aan plaats aan te bieden.
+
+
+
+== Technologie ==
+Als een leek onderwijs ontwerpt gaat die meestal uit van de inhoud. Een plek om inhoud te  beheren is een wiki. MediaWiki levert open source software om een wiki in te richten en is marktleider op dit vlak. Een [[onderwijsarchitect]] kan een leek helpen om deze inhoud te verrijken met een effectief ontwerp van het leerproces. Een onderwijstechnoloog kan dit via extensions en een wiki script taal mogelijk maken. Een van de meest gebruikte open source leeromgevingen is Moodle. Het inrichten van  Moodle is een hele klus voor een leek, vooral als hij of zij dit wil doen op een eigen manier.  Een onderwijstechnoloog kan een plugin voor Moodle ontwikkelen om de leek te helpen een eigen onderwijsarchitectuur te  realiseren in Moodle. 
+
+=== Webserver ===
+[[File:Architecture Hosting Education Design server.png|thumb|Example of the architecture of Hosting Education Design server]]
+Om een website te bekijken moet je een browser hebben. Firefox, Opera, Safari en Internet Explorer zijn browsers. Aan je browser geef je de Uniform Resource Identifier van de website (zijn 'webadres') die je wilt lezen en als alles goed verloopt krijg je de website gepresenteerd. Die informatie wordt als data aangereikt door software die op een server draait. Typisch zijn de servers computers die altijd aan staan en die een directe toegang hebben tot het internet. Het zal hier niet gaan over de technologie die gebruikt wordt om dat internet te realiseren, maar wel over servers en software die draait op servers om dynamische websites te leveren.
+
+Vooreerst: de informatie die aan je browser gepresenteerd zal worden bestaat meestal uit html code, samen met nog wat andere code die geïnterpreteerd kan worden door je browser. Veel van de  data wordt vandaag geleverd als xml.<br>
+Eenvoudige spelletjes kunnen als programma's uitgevoerd worden door de browser op jouw computer als die browser tenminste in staat is die taal te begrijpen. Scripttaaltjes zoals perl worden tegenwoordig door de courante browsers begrepen. Ook animaties zoals flash worden in de browser uitgevoerd.
+
+Al die informatie moet dus door software op de server verstuurd worden naar je browser en dat gebeurt meestal door een Apache server. Apache is een OpenSource-project dat in samenwerking met andere programma's op de server de code, die nodig is om een website weer te geven door een browser, kan opmaken en naar de browser versturen.
+
+=== Dynamische websites ===
+Een puur statische website zou voldoende kunnen hebben aan Apache. Zodra je een dynamische website wilt maken, heb je meer nodig.
+
+Wat bedoelen we met een dynamische website? Een website wordt dynamisch genoemd als de informatie die aan de browser geleverd zal worden niet gekend is op het moment dat die website aangemaakt (geschreven) wordt, maar aangemaakt is op het moment dat die website gebruikt wordt.<br>
+De informatie die naar de browser verstuurd zal worden hangt (meestal) af van data die gegeven worden door de gebruiker van de website en data die door de serversoftware opgehaald worden.
+
+Een voorbeeld: als je als gebruiker een vliegtuigticket wilt kopen, geef je op een website de datum van vertrek aan, de terugreis, de bestemming, je kiest voor economie klasse of business en dan vraag je aan de website of er vluchten beschikbaar zijn en tegen welke prijs.<br>
+De gegevens die je via je browser meegeeft worden door de code die op de server draait gebruikt om informatie op te zoeken
+in databases en die gevonden informatie zal verwerkt worden tot html-code die aan je browser geleverd zal worden.<br>
+Uiteraard zal de bekomen informatie afhankelijk zijn van de vraag, de beschikbare gegevens en het moment waarop die aanvraag is gedaan.
+
+Een blog is een ander voorbeeld van een dynamische website: als een blog start is er niet veel meer dan de vormgeving van de blog gekend. De gebruiker(s) van de blog vullen die aan. Meestal komt de tekst en andere data die aan de blog toegevoegd worden in een databasis terecht.<br>
+Een poll is een voorbeeld van een dynamische component aan een website. Bij het opstellen van een poll kent men de resultaten (uiteraard) nog niet. Naarmate er meer mensen meedoen aan een poll wordt een databasis aangevuld en kunnen die data gebruikt worden om de resultaten van de poll te presenteren aan de gebruiker van de website.<br>
+[https://www.meteox.be/ Buienradar] is dan een voorbeeld van een dynamische website die geen input van de gebruiker nodig heeft.
+
+Niet alle dynamische websites gebruiken dezelfde combinatie van server software, maar meestal zie je toch dat dynamische websites berusten op L.A.M.P. Wat staat voor Linux, Apache, MySQL en PHP.<br>
+Alle vier zijn dat OpenSource-projecten. Apache hebben we daarnet al gezien, Linux kennen jullie als de naam van de kernel van de meeste Linux-distributies (Debian, Ubuntu, SuSe…), MySQL is een databasis technologie en PHP is een script taal die gebruikt wordt om typisch html code te maken aan de hand van informatie die opgezocht wordt in de databases.
+ 
+Wil je een dynamische website maken, dan kan je dat doen door een server op te starten die deze OpenSource-software draait.<br>
+Het vinden van die OpenSource-software is niet zo moeilijk en het is bovendien gratis, maar dan moet je nog een server vinden waar je die software op wilt doen draaien.
+
+=== WebHosting ===
+Meestal kiest men dan voor een webhostingdienst die betalend is. Een webhostingbedrijf heeft servers (of huurt er) die rechtstreeks aangesloten zijn aan het internet. Op die servers kan je, mits je betaalt, dan jouw software installeren, krijg je een hoeveelheid ruimte op de harde schijven, ruimte die je kan opvullen met de code voor je dynamische website en met databases. Het webhostingbedrijf garandeert dan van zijn kant dat jouw website online komt en blijft.<br>
+Prijzen variëren naargelang de garantie dat een webhosting bedrijf kan geven dat je website nooit offline komt, de grootte van de schrijfruimte die je krijgt voor je website en de hoeveelheid data die uitgewisseld mag worden tussen het internet en de server waar je website op draait.
+
+Als je een account hebt bij een webhostingdienst, kun je ervoor kiezen om alle software die je nodig hebt zelf te installeren op hun servers. Maar vaak is dat al niet meer nodig. Bij de meeste webhostingbedrijven zul je gebruik kunnen maken van installatiescripts.<br>
+Het voordeel daarvan is dat het jou moeite uitspaart… maar dan heb je ook vaak ietsje minder controle over de componenten van je installatie. 
+
+Men moet trouwens niet altijd zelf een gratis webhostingdienst opzoeken en zelf software installeren om een dynamische website te krijgen. Zo kun je bijvoorbeeld gebruik maken van [https://www.wordpress.com www.wordpress.com] en daar een account starten.
+Met die (gratis) account kun je vervolgens een dynamische website maken met WordPress.
+
+[[w:WordPress|WordPress]] is vooral gericht op het maken van blogsites. Het enige nadeel van zo'n account op www.WordPress.com is dat je alleen maar websites kunt maken via WordPress. Wil je andere dynamische componenten toevoegen aan je website (een spel dat op de server draait als PHP-script, of een 'poll' dienst die door je blogsite gebruikt wordt) dan zal je dat daar niet kunnen doen, omdat je geen schrijfrechten hebt op de servers van www.WordPress.com.
+
+=== Content Management Systems ===
+WordPress is niet het enige OpenSource software project om dynamische websites aan te maken.<br>
+[https://nl.wikipedia.org/wiki/Drupal Drupal] en [https://nl.wikipedia.org/wiki/Joomla! Joomla!] zijn twee andere Content Management Systemen die erg veel gebruikt worden. Van die drie is WordPress de eenvoudigste om te gebruiken en Drupal (OpenSource-project opgestart door de Belg [https://nl.wikipedia.org/wiki/Dries_Buytaert Dries Buytaert]) de krachtigste qua mogelijkheden.
+
+Alle drie hebben L.A.M.P. nodig als support. Of een variant van L.A.M.P. :<br>
+[https://www.mamp.info/en/index.html M.A.M.P.] (Mac A.M.P.) en [https://www.wampserver.com/en/ W.A.M.P.] (Windows A.M.P.)<br>
+Die kan je downloaden indien je je eigen computer wilt gebruiken als webserver. Dat kan nuttig zijn als je je website wilt tonen op een plaats waar geen internettoegang is.
+
+=== Open source ===
+Interessante open source-softwarepakketten voor [[Onderwijsarchitect|onderwijsarchitectuur]] zijn
+* Moodle
+* Mediawiki
+
+=== Blockchain ===
+''Blockchain is een gedeelde, online, verbonden en chronologische reeks van schakels die gestructureerde gegevens en de tijd van creatie bevatten. Deze schakels worden blokken genoemd. Deze blokken worden veilig bij elkaar gehouden door ook een gecodeerde (versleutelde) verwijzing naar een vorig blok op te slaan.''
+
+[[Bestand:Git-logo.svg|thumb|alt=Git-logo|Git-logo|100px]]
+In deze brede definitie kan een [https://nl.wikipedia.org/wiki/Git Git-repository] worden beschouwd als een blockchain. In feite kan elk gedistribueerd versiebeheersysteem worden beschouwd als een blockchain. Vooral als de verwijzing naar de vorige revisie is gecodeerd in de revisie zelf. De gedeelde eigenschap betekent dat (zoals bij [https://nl.wikipedia.org/wiki/BitTorrent BitTorrent]) het onderhouden van de inhoud gedecentraliseerd is. Belangrijk is dat elke replica identiek is, dus er moet overeenstemming zijn over de inhoud (consensusmechanisme) tussen de knooppunten.
+
+[[Bestand:SwordSaga Icon.jpg|thumb|right|alt=SwordSaga|SwordSaga|150px]]
+De blockchain is een gedistribueerd systeem zoals een massaal multiplayer online spel. Op verschillende genetwerkte computers (nodes) communiceren bepaalde componenten met elkaar door berichten door te geven. Voor het spel zijn de knooppunten de computers van de spelers. Hun doel is om samen te spelen en om dat te doen moeten ze communiceren en hun acties coördineren. Het gemeenschappelijke doel voor blockchain-knooppunten is om de blockchain te onderhouden. Elke deelnemende blockchain-knooppunt kan een waarde krijgen en/of instellen die geassocieerd is met een bepaalde sleutel, wat betekent dat een blockchain ook kan worden bekeken als een [https://nl.wikipedia.org/wiki/Distributed_hash_table gedistribueerde hash-tabel], zoals het [https://nl.wikipedia.org/wiki/Domain_Name_System Domain Name System (DNS)].
+
+[[Bestand:Bitcoin blocks linking.svg|thumb|Bitcoin blocks linking|200px]]
+Het creëren van blokken wordt beveiligd door computationele beperkingen en stimuleringsschema's. Elk blok in een blockchain is "geketend" aan het vorige blok. Deze verwijzing naar het vorige blok wordt versleuteld met behulp van een speciale functie genaamd [[hash]]. Deze versleuteling voorkomt dat de transacties in de vorige blokken worden gewist of gewijzigd zonder de keten te verbreken. De creatieregels samen met de versleuteling voorkomen manipulatie en herziening van informatie opgeslagen in de blockchain.
+[[Bestand:Public-Key-Infrastructure.svg|thumb|Public-Key-Infrastructure|alt=Public-Key-Infrastructure|150px]]
+Een openbare sleutelinfrastructuur (PKI) die steunt op een cryptografische standaard genaamd X.509 wordt gebruikt om te bewijzen dat u bent wie u zegt dat u bent (authenticatie). Om de werkelijke identiteit te extraheren, heeft u de bijbehorende geheime sleutel nodig.
+
+De gegevens in een blockchain kunnen eerlijk worden benaderd en gemanipuleerd met '''gewogen rechten''' en zijn daarom '''transparant'''. De cryptografisch ondertekende gegevens in een blockchain komen eigenlijk neer op '''onveranderlijkheid''' nadat consensus is bereikt. De gegevens worden '''niet-herroepelijk''', de auteurschap of geldigheid kan niet meer worden aangevochten. De cryptografie van de gegevens zorgt ook voor '''integriteit'''. De '''blootstelling''' van de gegevens is een eigenschap van de blockchain die gebruikers zorgen baart. Evenals de beperkte omvang van de gegevens, de vertraging om consensus te bereiken en de verwerkingssnelheid, wat we kunnen samenvatten onder de noemer '''prestaties'''. Het onaangepaste gebruik van een blockchain kan ook leiden tot het overtreden van wetten en daarmee tot '''compliance''' problemen.
+
+Blockchain-technologie heeft veel toepassingen. Hieronder volgen enkele voorbeelden:
+* '''Cryptocurrencies''': [[Bestand:Bitcoin explained in 3 minutes.webm|miniatuur|Bitcoin uitgelegd in 3 minuten]] Cryptocurrencies zoals [[Bitcoin]] zijn de meest bekende toepassingen van blockchain-technologie. Ze gebruiken de blockchain om transacties te registreren en om duplicatie van uitgaven te voorkomen.
+* '''Smart Contracts''': [[Bestand:Ethereum logo 2014.svg|miniatuur|alt=Ethereum logo|Ethereum logo|100px]] Een andere populaire toepassing zijn [[smart contracts]] die draaien op platforms zoals [[Ethereum]]. Deze contracten zijn zelf-uitvoerende contracten met de voorwaarden van de overeenkomst direct geschreven in code.
+* '''Supply Chain Management''': Blockchain kan worden gebruikt in supply chain management om de productie, verzending en ontvangst van producten te traceren. Dit verbetert de transparantie en efficiëntie van de supply chain.
+* '''Stemsystemen''': Er wordt geëxperimenteerd met blockchain voor stemsystemen om een veiligere en transparante manier van stemmen te bieden, waarbij het moeilijk is om stemmen te manipuleren.
+
+Blockchain-technologie biedt verschillende voordelen:
+* '''Transparantie:''' Alle transacties zijn zichtbaar voor iedereen met toegang tot het systeem.
+* '''Veiligheid:''' Door de versleuteling en gedecentraliseerde aard is het moeilijk om blockchain-netwerken te hacken.
+* '''Efficiëntie:''' Vermindert de noodzaak van tussenpersonen, wat resulteert in snellere en goedkopere transacties.
+* '''Onveranderlijkheid:''' Eenmaal toegevoegd, kunnen gegevens in een blockchain niet gemakkelijk worden gewijzigd.
+
+Ondanks de vele voordelen, zijn er ook uitdagingen:
+* '''Schaalbaarheid:''' Blockchain-netwerken hebben moeite om met grote hoeveelheden transacties om te gaan.
+* '''Energieverbruik:''' Sommige blockchains, zoals die van Bitcoin, vereisen veel energie voor mijnbouwactiviteiten.
+* '''Regulering:''' Het gebrek aan een duidelijk regelgevend kader kan leiden tot juridische onzekerheden.
+* '''Adoptie:''' De complexiteit en het nieuwe karakter van de technologie kunnen de adoptie vertragen.
+
+Blockchain is een revolutionaire technologie met het potentieel om vele industrieën te transformeren. Echter, zoals elke technologie, komt het met zowel voordelen als uitdagingen die moeten worden aangepakt om het volledige potentieel te realiseren.
+
+==== IOTA ====
+IOTA is een toestemmingsloze gedistribueerde grootboek wiens structuur is gebaseerd op een Gerichte Acyclische Grafiek (de DAG of Tangle).
+
+IOTA is blockchaintechnologie omdat het niet afhankelijk is van blokken die aan elkaar zijn geketend. In plaats daarvan verwijst elke afzonderlijke transactie (ondertekend met privésleutels) naar twee willekeurig gekozen eerdere transacties die het moet goedkeuren als een bijdrage aan het netwerk. Met deze aanpak helpt elke knooppunt als een soort mijnwerker het netwerk consensus te bereiken. Deze aanpak lost problemen op met traditionele blockchains zoals snelheid (schaalbaarheid) en kosten (geen transactiekosten).
+
+In plaats van een binair talstelsel (0 of 1) gebruikt IOTA een ternair talstelsel (0, 1 of 2). Met andere woorden, IOTA heeft drie cijfers (de trit) in plaats van twee cijfers (de bit) als basis. Binaire computers gebruiken een reeks van acht bits, de byte, als het kleinste bruikbare machinewoord. Het ternaire equivalent van een byte wordt een tryte genoemd. Voor een compactere weergave in plaats van de binaire, worden soms de octale (8 cijfers variërend van 0 tot 7) en hexadecimale (16 cijfers variërend van 0-9 samen met A-F) talstelsels gebruikt. Voor het ternaire talstelsel worden het nonaire (9 cijfers) of septemvigesimale stelsel, dat 27 cijfers heeft beginnend met 9 gevolgd door alle letters in het Latijnse alfabet, gebruikt voor compacte weergave.
+
+=== Certificatie ===
+Certificatie beschrijft een proces waarbij een certificaat wordt uitgegeven als verificatie van een claim. Deze claim kan gaan over bepaalde prestaties. Digitale badges zijn gevalideerde claims van prestaties, vaardigheden, kwaliteit of interesse die behaald kunnen worden in verschillende leeromgevingen (zie Badgr of Mozilla Open Badge). Open Badges (IMS Global Learning Consortium) beschrijft een methode voor het creëren en een gegevensstandaard voor deze badges. In dit artikel worden twee projecten besproken die het concept van Open Badges gebruiken en dit realiseren met blockchain-technologie: Blockcerts en OpenBlockchain.
+
+Blockcerts, een initiatief van het MIT Media Lab en Learning Machine, geeft certificaten uit voor (micro-)credentials, zoals academische kwalificaties, professionele certificeringen, ontwikkeling van arbeidsvaardigheden, licenties en burgerlijke gegevens op de Bitcoin of Ethereum blockchain. Het bestaat uit een verzameling open-source bibliotheken, tools en mobiele apps op GitHub voor verifieerbare claims gebaseerd op Open Badges.
+
+Blockcerts streeft naar een zelf-soevereine identiteit waarbij mensen hun belangrijke digitale gegevens zelf kunnen bezitten, delen en het eigendom ervan kunnen bewijzen, waarbij blockchain-technologie helpt om manipulatie van deze gegevens te voorkomen. Het gebruikt de voordelen van blockchain door open software (gratis open-source op GitHub), datastandaarden (IMS Open Badges, W3C Verifiable Claims, W3C Linked Data Signatures) en eigenaarschap van data te bieden.
+
+Bij het uitgeven van een certificaat vraagt een student dit aan bij zijn school, werkgever of een andere partij die kan getuigen van een bepaalde prestatie. Het uitgevende instituut plaatst het versleutelde certificaat op de Bitcoin of Ethereum blockchain door een transactie te creëren van de instelling naar de student. In de Bitcoin Blockchain kan niet-financiële data worden opgeslagen met de OP_RETURN code, wat aangeeft dat de transactie niet uitgeefbaar is.
+
+Bij het aanvragen van een certificaat wordt een hash van het certificaat in de transactie opgeslagen. Deze hash is permanent, fraudebestendig en kan niet worden teruggehaald. De student kan hiermee zijn officiële certificaten onmiddellijk met anderen delen en de authenticiteit ervan bevestigen. Iedereen die een certificaat ontvangt, kan de echtheid ervan altijd verifiëren via een onafhankelijke verificatiedienst, die de opgeslagen hash, het adres van de uitgever en de tijdstempel controleert.
+
+Enkele voorbeelden zijn:
+
+* MIT’s Digital Diploma: het digitaal delen van diploma's door studenten.
+* Federation of State Medical Boards: medische kwalificaties.
+* Republic of Malta: professionele trainingscredentials.
+
+OpenBlockchain van de Open University gebruikt slimme contracten om Open Badges toegekend door het OpenLearn-platform om te zetten naar de Ethereum blockchain. Het gebruik van slimme contracten maakt het mogelijk om bij elk credential het bewijs en de feedback te tonen en credits over te dragen. De ontwikkelaars schrijven momenteel ook een Moodle-plugin die Moodle Badges omzet naar slimme contracten.
+
+=== Hash ===
+Een hashfunctie is een wiskundige relatie die invoer van willekeurige grootte omzet naar precies één uitvoer van een vaste grootte.
+
+Als een hashfunctie keer op keer op haar eigen uitvoer wordt toegepast, ontstaat een 'hashketen'. Hashketens kunnen worden gebruikt voor het snel beveiligen van netwerkroutering, authenticatie en datastreaming met lichte berekeningen vergeleken met andere methoden. Een blockchain is een voorbeeld van een hashketen die een 'cryptografische hashfunctie' gebruikt.
+
+Een cryptografische hashfunctie is een hashfunctie waarbij het kennen van de uitvoer en de afbeeldingsprocedure niet voldoende is om de invoer te achterhalen. Het is niet mogelijk om de cryptografische algoritme om te keren (zoals bij decoderen), zelfs niet als men een geheime sleutel kent (zoals bij versleuteling). Bovendien, als de invoer slechts lichtjes wordt gewijzigd, verandert de uitvoer drastisch (lawine-effect). Dus de cryptografische hashfunctie werkt eenrichtingsverkeer; de enige manier om de originele invoer te vinden is door invoer te proberen en te kijken of deze resulteren in de bekende uitvoer. Dit zoeken kan erg tijdrovend zijn als het aantal mogelijke uitvoeren hoog is.
+
+De Secure Hash Algorithm (SHA) is een reeks cryptografische hashfuncties ontwikkeld door de NSA (United States National Security Agency) waarbij de leden verschillen in het aantal bits dat wordt gebruikt voor de uitvoer (hashwaarde). SHA wordt gebruikt om online verbindingen tussen een gebruiker (browser) en een server te beveiligen. Bitcoin of Hyperledger (blockchain) gebruiken voor hun versleuteling een SHA hashfunctie die hashwaarden van 256 bits (SHA256) uitvoert.
+
+Een andere veelgebruikte hashalgoritme is MD5, dat een 128-bits hashwaarde produceert. De tijd die moderne computers nodig hebben om een invoer te vinden die de hashwaarde produceert (collision attack) is slechts seconden en om de originele invoer te vinden (2^40 evaluaties) slechts enkele uren (chosen-prefix collision attack). Daarom is deze cryptografische hashfunctie niet meer veilig.
+
+== Sociale netwerksites ==
+
+=== Inleiding ===
+De jeugd van tegenwoordig groeit op in een leefwereld omgeven met een groot gamma aan communicatiemiddelen. Een van deze communicatiemiddelen zijn sociale netwerksites waarvan veel jongeren tegenwoordig een profiel bezitten. De sociale netwerksites worden gebruikt ter ontspanning, hoewel het ook informatief ingeschakeld kan worden in het onderwijs. Op de universiteit van Minnesota heeft een onderzoek aangetoond dat het gebruik van sociale netwerksites een positieve invloed heeft op vlak van technologie, creativiteit en communiceren met anderen. Het aanmaken van een profiel spoort de leerlingen aan om creatief te werk te gaan met zelf gemaakt muziek, foto's en video's. Hier wordt op gereageerd door anderen waardoor er interactie ontstaat en leren ze veilig om te gaan met informatie en technologie.
+
+=== Nadelen ===
+* Niet altijd relevante berichten
+* Microbloggen zouden snel afleiden
+* Je krijgt niet altijd reactie op je vraag
+* Jongeren willen grens tussen school en privé, 
+* Lastig om echte kennis in 140 tekens te verwoorden (sommige sites)
+* Deze internettoepassing blijkt minder stabiel dan voor professioneel gebruik gewenst is
+* Er is een limiet in posten van berichten/uur (sommige artikels)
+* Spammers hebben sociale netwerksites gevonden
+* Onmogelijk indien: geen internet aanwezig, of personen die geen internet thuis hebben
+
+=== Didactische toepassingen ===
+* Informeel karakter
+* Geschikt instrument voor niet-taalgebonden communicatie
+* Mogelijkheid om presentaties en hoorcolleges te verwerken en vervolgens te delen
+* Geattendeerd op nieuwe relevante informatie (online artikels, bijeenkomsten,…)
+* Leren informatie filteren en patronen herkennen
+* Door de beperkte 140 leestekens leer je kort en bondig formuleren (sommige sites)
+* Met groep een verhaal schrijven
+* Mensen vinden met zelfde interesses
+* Vragen stellen aan grote groepen mensen
+* Gebruiken als backchannel tijdens presentaties of colleges
+* Na leersessie contact bewaren tussen docent en lerende
+* Contact met studenten uit andere landen
+* Overal waar internet is, kan het gebruikt worden
+
+Er moet gezocht worden naar welke soort van curriculum-gebaseerde activiteiten er door middel van sociale netwerksites bereikt kunnen worden. Er zijn veel tools beschikbaar en men moet proberen de theorie van sociaal constructivisme te hanteren. Verder is het belangrijk dat men van een sociale netwerksite een sociaal lerend netwerk maakt. Dit bevat vernieuwende pedagogie door internet met elkaar verbonden communities of gemeenschappen, digitale bronnen en een serie van Web 2.0 tools dat de leerlingen zal helpen te voldoen aan de eindtermen.
+Een goed omschreven voorbeeld is ePals. Dit is een sociale netwerksite speciaal ontworpen voor scholen. ePals biedt samenwerkende projecten aan dat klassen met mekaar verbindt over meer dan 200 landen. Er wordt gewerkt rond biodiversiteit, zwarte geschiedenis en menselijke rechten. Er zijn ook projecten rond global warming, gewoontes, mappen, natuurrampen, water en weer. Het is de bedoeling dat leraars de vragen stellen, onderwerpen kiezen waarrond gewerkt moet worden en de gezamenlijke opdrachten opstellen. De leerlingen krijgen de kans om het volgende te ontwikkelen:
+* computer geletterdheid
+* kritisch denken
+* multiculturele vriendschappen
+* schrijfvaardigheid
+* leren samenwerken
+* op de hoogte houden van de actualiteit
+
+=== Leerkrachten ===
+Facebook komt soms negatief in het nieuws i.v.m. schending van de privacy en ontoelaatbare vriendschappen. Zo was er een leerkracht die het risico liep geen verlenging van haar contract te krijgen omwille van haar vriendschap met leerlingen. 
+Als sociale netwerksites geïntegreerd worden in het onderwijs is het genoodzaakt dat de leraars er achter staan en geschoold zijn in dit onderwerp. Het is dan aan de leerkrachten om de leerlingen de sites te leren hanteren en vooral veilig te leren gebruiken.
+Hier enkele cijfers uit een onderzoek voor KlasCement, dat door de media beschouwd wordt als de “facebook voor leerkrachten”, over hoe leerkrachten staan t.o.v. sociale netwerksites:
+* Hoe sta je ten opzichte van sociale netwerksites:
+34%: gebruikt het bewust niet/ 66% gebruikt sociale netwerksites
+* Welk sociaal netwerk:
+70% facebook/ 11% netlog/ 5% Twitter/ 3% Hyves/ 3% Myspace/ 7% Linked In/ 26% Geen
+* Toevoegen van leerlingen:
+79% nooit/ 10% iedereen/ 11% selectief
+* Educatief nut:
+7% nuttig, gebruikt het/ 56% nuttig, gebruikt het niet/ 37% niet nuttig
+* Afspraken op school omtrent gebruik van sociale netwerksites
+11% ja/ 89% nee
+* Moet er regelgeving komen:
+41% ja / 59% nee
+
+Enkele cijfers over een onderzoek van twee studenten informaticamanagement aan de Lessiushogeschool in Mechelen bij 250 katholieke secundaire scholen in verband met gebruik van sociale netwerksites:
+* Verschaf van uitleg aan leerlingen (over Facebook, Netlog of MySpace)
+Minder dan 30% ja 
+* Richtlijnen rond het gebruik van sociale netwerksites op school
+39% ja
+* De sites worden geblokkeerd tijdens de lessen
+40% ja
+
+De onderzoekers noemen het voor een stuk de verantwoordelijkheid van de school om leerlingen, leraren en ouders te wijzen aan de gevaren die verbonden zijn aan het gebruik van sociale netwerksites. Amper 15,3% van de scholen hecht er belang aan om de  leraren op de hoogte te brengen van de risico’s. De ouders krijgen in  minder dan een tiende van de scholen voldoende informatie en vier op de tien scholen voorziet niet in de scholen van ICT-coördinatoren.
+
+Voor leerkrachten is hier een informatief filmpje over veilig gebruik van facebook omtrent de leerkracht leerling relatie:
+
+https://www.youtube.com/watch?v=n9QUgQsb3l4&feature=player_embedded#!
+
+=== Voorbeelden ===
+* Zakelijke sites ([https://www.linkedIn.com LinkedIn], [https://www.plaxo.com Plaxo], [https://www.onebizz.nl OneBizz], [https://www.flametree.com Flametree], [https://www.twitter.com Twitter], [https://www.ning.com Ning])
+* Datingsites ([https://www.relatieplanet.nl RelatiePlanet], [https://www.lexa.com Lexa])
+* Vriendensites ([https://www.hyves.com Hyves], [https://www.facebook.com Facebook], [https://www.netlog.com Netlog])
+* Special interest sites (over [https://www.heymam.nl Zwangerschap], [https://www.happymoms.nl Kinderen het huis uit])
+* Onderwijs ([https://www.maxclass.nl MaxClass], [[schoolplein.winkwaves.nl|Nieuwe Schoolplein]], [https://www.schoolpagina.nl Schoolpagina.nl], [https://www.epals.com/ epals], [https://www.flatclassroomproject.org/ Flat Classroom Project])
+
+=== MaxClass ===
+MaxClass is een gratis communicatieplatform waarmee leerlingen, hun ouders en de school kunnen communiceren. Het is dus een soort sociaal netwerk voor privégebruik.
+
+De leerlingen kunnen een profiel aanmaken, mekaar berichten sturen en natuurlijk ook allerlei zaken downloaden voor hun huiswerk. Ouders kunnen met mekaar en de school contact houden en kunnen gemakkelijk o.a. nieuwsbrieven raadplegen. De leerkrachten kunnen zowel met leerlingen als ouders communiceren en lesmateriaal uploaden. Ten slotte kan de school relevante info online zetten en contact houden met ouders. Verder kunnen educatieve uitgeverijen en voorlichters reclame maken.
+
+MaxClass is in november 2010 gestart met een private beta. Als je je registreert als ouder of leerkracht van een basisschool of middelbare school krijg je een beta code toegestuurd. Meer dan 100 scholen kunnen zo experimenteren met een veilige sociale omgeving. N.a.v. reacties en ervaringen willen ze MaxClass blijvend verbeteren. Het is dus een recent project en nog wel volop in ontwikkeling (vandaar de beta-versie), maar ze zijn er volop mee bezig.
+
+MaxClass is ontwikkeld met behulp van de open source taal Erlang, wat door bv. Twitter en Facebook ook gebruikt wordt. De open source componenten die MaxClass zelf ontwikkelt worden terug gegeven aan de Erlang gemeenschap. Verder hebben ze een milieuvriendelijk hostingcentrum uitgekozen.
+
+Link: https://www.maxclass.com/
+
+=== Twitter ===
+Hoewel het er oorspronkelijk niet voor ontworpen is, zou Twitter zeker ook gebruikt kunnen worden in het onderwijs. De Vlaamse Vereniging van Studenten (VVS) pleit er zelfs voor om dit en andere multimedia en sociale media te gebruiken in het hoger onderwijs ([https://www.vvs.ac/files/PERSBERICHT%20twitter.pdf Vlaamse studenten pleiten voor Twitter in het hoger onderwijs]). Zo kunnen studenten tijdens de lessen vragen stellen aan de docenten en is er veel meer interactie mogelijk dan nu het geval is wanneer er aan grote groepen studenten lesgegeven wordt. Studenten zullen ook veel actiever bezig zijn.
+
+Uit een onderzoek in de Verenigde Staten<ref>[https://twittermania.nl/2010/11/twitterende-student-haalt-betere-cijfers/?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed:+twittermanianl+%28Twittermania.nl%29&utm_content=news&utm_term=Twittermania Twitterende student haalt betere cijfers]</ref>) bleek zelfs dat de betrokkenheid van de studenten geneeskunde die Twitter gebruikten voor opdrachten en discussies dubbel zo groot was als de betrokkenheid van de studenten die niet twitterden. Bovendien haalden ze ook iets betere resultaten.
+
+Link: https://twitter.com/
+
+=== Second life ===
+Second life is een driedimensionele virtuele wereld waar je vrij kan rondlopen en oneindig veel mogelijkheden hebt. Men kan in deze wereld stappen door middel van een ‘avatar’ die je aanmaakt en aanpast naar hoe je het zelf wil. Je kan ook huizen, gebouwen of andere voorwerpen ontwerpen. Second life is dus geen realiteit, maar men spreekt echter van een interrealiteit. Dat wil zeggen de reële wereld omgezet naar een virtuele wereld.
+Avatars kunnen zich in de virtuele wereld verplaatsen door te lopen, te zwemmen, te vliegen en ook door teleportatie. Avatars kunnen met elkaar communiceren via tekstchat, voicechat en instant messaging. Ze kunnen elkaar ook afbeeldingen of objecten doorsturen. 
+Er bestaan ook groepen, die dan informatie sturen of voordelen verlenen. Zogenaamde  landeigenaren kunnen webradiostream en video’s tonen.
+
+Second life is niet enkel een ‘spelletje’ dat kinderen of volwassenen kunnen spelen. Het kan veel verder gaan dan dat. Vele bedrijven en instellingen hebben er al virtuele vestigingen of gebruiken het voor andere professionele doeleinden. Zo ook het onderwijs. 
+Veel scholen werken op dit moment  al met verschillende digitale leerplatformen. Dat is nodig omdat Real life bijeenkomsten soms niet of moeilijk te organiseren zijn. Het probleem van tijd en ruimte kan weggewerkt worden door ICT tools als email, pointcarre of blackboard. Maar op andere vlakken schieten deze dan weer tekort. Dan denk ik bv aan het ontbreken van onmiddellijke feedback of ‘presence’, wat onontbeerlijk is voor een goed leerproces.
+Hiervoor kan second life dus een oplossing bieden. Er zijn al heel wat instellingen van het Hoger Onderwijs die experimenteren met second life als elektronische leeromgeving. Een onderzoeksrapport over het gebruik van second life in het onderwijs door Dr. W.J. Trooster van het Lectoraat ICT en Onderwijsinnovatie toont aan dat er verschillende voordelen zijn:
+ * SL bevordert de sociale interactie,  
+ * SL bevordert zelfsturing door de studenten,  
+ * SL geeft studenten meer het gevoel de leertaken aan te kunnen,  
+ * SL bevordert de intrinsieke motivatie van de studenten,  
+ * SL bevordert de leerresultaten van de studenten. “ (Trooster 2010)
+
+=Referenties=
+* Droste, J., ''Het kiezen van een elektronische leeromgeving: Advies 2003'', Cinop, Den Bosch, 2003
+* Stichting Surf, ''Open Source Elektronische Leeromgevingen Over de gebruiksmogelijkheden in het Nederlandse hoger onderwijs '', Utrecht, 2007
+* Droste, Joke (2000). Advies keuze Teleleerplatform 2000. Utrecht: Stichting Surf. 
+* Benschop, Albert (2002). Learning apart together. Samenwerken in een elektronische leeromgeving. Ongepubliceerd manuscript. 
+* Connie, Menting (2003). Elektronische leeromgevingen en diversiteit. Amsterdam: EXCELO
+* Ministerie van OC en W (2002). "Zin en onzin over het rendement van ICT in het onderwijs."
+* Dulm, Ph. van (2008). Virtuele Werelden. Iets voor uw onderwijs? Surfnet/Kennisnet: Utrecht/Zoetermeer. 
+* W.J. Trooster (2010) “Het gebruik van Second Life in het onderwijs”
+* Schie, J. van (2008). “Leren in Second Life : Onderzoek naar de meerwaarde van Second Life voor het onderwijs.” Kennisnet: Zoetermeer. 
+* Warburton,  S. (2009). “Second Life in higher education : Assessing the potential for and the bariers to deploying virtual worlds in learning and teaching.” British Journal of Educational Technology, 40(3), 414-426. 
+
+== Bronnen ==
+* [https://archive.is/9qQp8 Scholen amper bezig met sociale netwerksites], lerarendirect.be, 28 september 2010
+* [https://www.paljasken.be/enquete-sociale-netwerken-en-onderwijs-de-resultaten/ paljasken.be] (dode link)
+* [https://news.cnet.com/8301-19518_3-10459983-238.html Social networking belongs in school], CNET, 25 februari 2010
+* [https://thejournal.com/Articles/2009/09/16/Social-Networking-in-Schools-Incentives-for-Participation.aspx?Page=2 Social Networking in Schools: Incentives for Participation], THE Journal, 16 september 2009
+* [https://sociale-netwerken.wikispaces.com/Nut+van+sociale+netwerken Nut van sociale netwerken], Wikispaces
+* [https://wilfredrubens.typepad.com/files/twitterinonderwijs.pdf Twitter in het onderwijs], Wilfred Rubens, september 2009
+* [https://www.impulscentrum.be/static/tips/januari2010.htm Impulscentrum], januari 2010 (dode link)
+* [https://www.te-learning.nl/blog/meer-sociale-netwerksites-voor-het-onderwijs-in/ Meer sociale netwerksites voor het onderwijs (#in)], Wilfred Rubens oktober 2010
+* [https://secondlife.com Second Life], homepage
+<references/>
+
+{{Opmaak | Voettekst}}

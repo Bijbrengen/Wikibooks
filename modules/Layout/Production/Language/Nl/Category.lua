@@ -1,0 +1,8 @@
+﻿local CATEGORY = {};
+
+CATEGORY.NAME = "Categorie";
+CATEGORY.MODULE_LAYOUT = "Module Layout";
+CATEGORY.WIKIPEDIA_LINK_MISSING = CATEGORY.MODULE_LAYOUT .. " Wikipedia link ontbreekt";
+CATEGORY.DESIGN_ERRORS          = CATEGORY.MODULE_LAYOUT .. " Ontwerpfouten";
+
+return CATEGORY;

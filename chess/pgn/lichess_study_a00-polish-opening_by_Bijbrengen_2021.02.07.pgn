@@ -1,0 +1,160 @@
+[Event "A00 Polish Opening: 1. b4 b6 2. c4 Nf6"]
+[Date "2021.02.14"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A00"]
+[Opening "Polish Opening"]
+[StudyName "A00 Polish Opening"]
+[ChapterName "1. b4 b6 2. c4 Nf6"]
+[ChapterURL "https://lichess.org/study/fObXM70G/GA2RzNlR"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.14"]
+[UTCTime "18:43:35"]
+
+1. b4 b6 2. c4 Nf6 3. e3 *
+
+
+[Event "A00 Polish Opening: 1. b4 d5 2. Bb2 e6"]
+[Date "2021.02.14"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A00"]
+[Opening "Polish Opening, with d5"]
+[StudyName "A00 Polish Opening"]
+[ChapterName "1. b4 d5 2. Bb2 e6"]
+[ChapterURL "https://lichess.org/study/fObXM70G/Uq8XlSvD"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.14"]
+[UTCTime "18:54:45"]
+
+1. b4 d5 2. Bb2 e6 3. a4 Nf6 4. b5 *
+
+
+[Event "A00 Polish Opening: 1. b4 e5 2. Bb2 d6"]
+[Date "2021.02.14"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A00"]
+[Opening "Polish Opening: Czech Defense"]
+[StudyName "A00 Polish Opening"]
+[ChapterName "1. b4 e5 2. Bb2 d6"]
+[ChapterURL "https://lichess.org/study/fObXM70G/hlvF5lhv"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.14"]
+[UTCTime "17:26:21"]
+
+1. b4 e5 2. Bb2 d6 3. c4 Nf6 4. e3 Be7 5. Nc3 O-O 6. Nf3 *
+
+
+[Event "A00 Polish Opening: 1. b4 e5 2. Bb2 f6 - Bugayev Advance Variation"]
+[Date "2021.02.22"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A00"]
+[Opening "Polish Opening: Bugayev Advance Variation"]
+[StudyName "A00 Polish Opening"]
+[ChapterName "1. b4 e5 2. Bb2 f6 - Bugayev Advance Variation"]
+[ChapterURL "https://lichess.org/study/fObXM70G/Qv4Ch8gc"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.22"]
+[UTCTime "16:19:17"]
+
+1. b4 e5 2. Bb2 f6 3. b5 d5 4. d4 a6 5. a4 axb5 6. axb5 *
+
+
+[Event "A00 Polish Opening: 1. b4 e5 2. Bb2 Bxb4"]
+[Date "2021.02.26"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A00"]
+[Opening "Polish Opening"]
+[StudyName "A00 Polish Opening"]
+[ChapterName "1. b4 e5 2. Bb2 Bxb4"]
+[ChapterURL "https://lichess.org/study/fObXM70G/OWweKmfB"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.26"]
+[UTCTime "19:59:47"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 (3... Nc6 { Looses the rook on h8 }) 4. e3 d5 5. c3 Bc5 (5... Bd6 6. Bxd6) 6. d4 *
+
+
+[Event "A00 Polish Opening: 1. b4 e5 2. Bb2 Bd6"]
+[Date "2021.02.14"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A00"]
+[Opening "Polish Opening"]
+[StudyName "A00 Polish Opening"]
+[ChapterName "1. b4 e5 2. Bb2 Bd6"]
+[ChapterURL "https://lichess.org/study/fObXM70G/mMhj6lqr"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.14"]
+[UTCTime "17:47:23"]
+
+1. b4 e5 2. Bb2 Bd6 3. Nf3 Nf6 4. Nxe5 *
+
+
+[Event "A00 Polish Opening: 1. b4 e5 2. Bb2 Nc6 - Mistake loses the rook"]
+[Date "2021.02.14"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A00"]
+[Opening "Polish Opening"]
+[StudyName "A00 Polish Opening"]
+[ChapterName "1. b4 e5 2. Bb2 Nc6 - Mistake loses the rook"]
+[ChapterURL "https://lichess.org/study/fObXM70G/yveKCjYE"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.14"]
+[UTCTime "17:03:35"]
+
+1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nc6 *
+
+
+[Event "A00 Polish Opening: 1. b4 e5 2. Bb2 Qf6"]
+[Date "2021.02.14"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A00"]
+[Opening "Polish Opening"]
+[StudyName "A00 Polish Opening"]
+[ChapterName "1. b4 e5 2. Bb2 Qf6"]
+[ChapterURL "https://lichess.org/study/fObXM70G/BPYMXrrq"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.14"]
+[UTCTime "17:08:18"]
+
+1. b4 e5 2. Bb2 Qf6 3. Nf3 d6 4. c4 *
+
+
+[Event "A00 Polish Opening: 1. b4 e6 2. a3 a5"]
+[Date "2021.02.14"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A00"]
+[Opening "Polish Opening"]
+[StudyName "A00 Polish Opening"]
+[ChapterName "1. b4 e6 2. a3 a5"]
+[ChapterURL "https://lichess.org/study/fObXM70G/uIPWBvxP"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.14"]
+[UTCTime "17:36:42"]
+
+1. b4 e6 2. a3 a5 3. b5 Nf6 4. Nf3 *
+
+
+[Event "A00 Polish Opening: 1. b4 e6 2. Bb2 Nf6 - Main line"]
+[Date "2021.02.07"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A00"]
+[Opening "Polish Opening"]
+[StudyName "A00 Polish Opening"]
+[ChapterName "1. b4 e6 2. Bb2 Nf6 - Main line"]
+[ChapterURL "https://lichess.org/study/fObXM70G/aVCMxBP2"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.07"]
+[UTCTime "08:52:24"]
+
+1. b4 { This is the move that indicates the Polish opening or Orang Oetan or Sokolsky. } 1... e6 { The best respons for black. Attacking the pawn on b4 without being counter attacked on e5 after Bb2. Black still takes the opportunity to attack some space in the centre instead of grabbing it with e5. } 2. Bb2 { Strangely enough rejecting the pawn offer is preferable for black because development seems more relevant than an important pawn. } 2... Nf6 3. a3 { Defending b4. } 3... b6 { The beste move for black. Opening the diagonal a8 - h1 for the black bishop and preventing c5 when black starts building up his pawn structure. } 4. e3 { Opening the diagonal for the white bishop and building up a pawn structure from f2 up to c5. To prevent this black has already played b6. } 4... c5 { Black attacks the pawn structure of black. } 5. b5 d5 6. Nf3 { Also c4 is possible if white wants to start attacking the black defenses right away. } *
+
+

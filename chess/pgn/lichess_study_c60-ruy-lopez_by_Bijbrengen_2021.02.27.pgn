@@ -1,0 +1,164 @@
+[Event "C60 Ruy Lopez: 1. e4 e5 2. Nf3 Nc6 3. Bb5 - Main line"]
+[Date "2021.02.27"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[StudyName "C60 Ruy Lopez"]
+[ChapterName "1. e4 e5 2. Nf3 Nc6 3. Bb5 - Main line"]
+[ChapterURL "https://lichess.org/study/PhmAcyl6/ZKyLqSzu"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.27"]
+[UTCTime "07:08:38"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 *
+
+
+[Event "C60 Ruy Lopez: Breyer variation"]
+[Date "2021.02.27"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C95"]
+[Opening "Ruy Lopez: Closed, Breyer Defense, Zaitsev Hybrid"]
+[StudyName "C60 Ruy Lopez"]
+[ChapterName "Breyer variation"]
+[ChapterURL "https://lichess.org/study/PhmAcyl6/xYmZa3fO"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.27"]
+[UTCTime "07:10:14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 { For the knight on b1 to go to g3 } 6... b5 7. Bb3 d6 8. c3 O-O { White wants to play d4 so he has to pawns in the center. To prepare this mostly h3 is played to prevent Bg4 } { [%cal Gd2d4,Gc8g4] } 9. h3 { [%cal Gc6a5,Gc8b7,Gf8e8,Gf6d7] } (9. d4 Bg4 10. Be3 Nxe4 { Blunder } 11. Bd5) 9... Nb8 { This knight retreat is starting the Breyer. He wants to answer d4 with Nd7 } { [%cal Gd2d4,Gb8d7] } 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 (12... g6 { Preventing the knight from infiltrating }) 13. Nf1 Bf8 14. Ng3 { Preventing the knight from infiltrating } 14... g6 15. a4 c5 (15... Bg7 16. Bd3 c6) 16. d5 c4 { [%cal Gd7c5,Gc1g5] } 17. Bg5 { Provoking h6 } 17... h6 { [%cal Gd1d2,Ga1a3,Ge1a1] } 18. Be3 Nc5 19. Qd2 h5 20. Ra3 *
+
+
+[Event "C60 Ruy Lopez: Exchange variation"]
+[Date "2021.02.27"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C69"]
+[Opening "Ruy Lopez: Exchange Variation, Normal Variation"]
+[StudyName "C60 Ruy Lopez"]
+[ChapterName "Exchange variation"]
+[ChapterURL "https://lichess.org/study/PhmAcyl6/BvEfDnlC"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.27"]
+[UTCTime "07:15:07"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 (4. Ba4 Nf6) 4... dxc6 5. O-O (5. Nxe5 Qe7 (5... Qd4 6. Ng4 (6. Nf3 Qxe4+ 7. Qe2 Qxe2+ 8. Kxe2) 6... Qxe4+ 7. Qe2 (7. Ne3) 7... Qxe2+ 8. Kxe2)) *
+
+
+[Event "C60 Ruy Lopez: Morphy Defense"]
+[Date "2021.02.27"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C78"]
+[Opening "Ruy Lopez: Morphy Defense"]
+[StudyName "C60 Ruy Lopez"]
+[ChapterName "Morphy Defense"]
+[ChapterURL "https://lichess.org/study/PhmAcyl6/2ywzyIAW"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.27"]
+[UTCTime "07:19:27"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O (5. d3 { This limits the possibilitieds for black altough castling would have been better if you like more dynamic. } 5... b5 6. Bb3 Na5 (6... d6 7. a4) 7. Nxe5) *
+
+
+[Event "C60 Ruy Lopez: Anderssen Variation"]
+[Date "2021.02.27"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C77"]
+[Opening "Ruy Lopez: Morphy Defense, Anderssen Variation"]
+[StudyName "C60 Ruy Lopez"]
+[ChapterName "Anderssen Variation"]
+[ChapterURL "https://lichess.org/study/PhmAcyl6/GNPfW1X5"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.27"]
+[UTCTime "07:20:33"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 *
+
+
+[Event "C60 Ruy Lopez: Closed"]
+[Date "2021.02.27"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C84"]
+[Opening "Ruy Lopez: Closed"]
+[StudyName "C60 Ruy Lopez"]
+[ChapterName "Closed"]
+[ChapterURL "https://lichess.org/study/PhmAcyl6/joPnFIiR"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.27"]
+[UTCTime "07:24:37"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 *
+
+
+[Event "C60 Ruy Lopez: Marshall Attack"]
+[Date "2021.02.27"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C89"]
+[Opening "Ruy Lopez: Marshall Attack, Modern Variation"]
+[StudyName "C60 Ruy Lopez"]
+[ChapterName "Marshall Attack"]
+[ChapterURL "https://lichess.org/study/PhmAcyl6/lEQbYxSh"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.27"]
+[UTCTime "07:30:03"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 { The gambit results in much pressure on white King side } { [%csl Gd6][%cal Ge7d6,Gd6e5,Gc8h3,Gd8h4,Ga8e8,Gf7f5] } *
+
+
+[Event "C60 Ruy Lopez: Bogoljubov Variation"]
+[Date "2021.02.27"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C91"]
+[Opening "Ruy Lopez: Closed, Bogoljubow Variation"]
+[StudyName "C60 Ruy Lopez"]
+[ChapterName "Bogoljubov Variation"]
+[ChapterURL "https://lichess.org/study/PhmAcyl6/oaJZV6qX"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.27"]
+[UTCTime "07:38:08"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. d4 Bg4 10. Be3 exd4 (10... Nxe4 11. Bd5) 11. cxd4 Na5 { [%cal Ga5c4,Gc7c5] } *
+
+
+[Event "C60 Ruy Lopez: Zaitsev Hybrid"]
+[Date "2021.02.27"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C95"]
+[Opening "Ruy Lopez: Closed, Breyer Defense, Zaitsev Hybrid"]
+[StudyName "C60 Ruy Lopez"]
+[ChapterName "Zaitsev Hybrid"]
+[ChapterURL "https://lichess.org/study/PhmAcyl6/7d1ROwhA"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.27"]
+[UTCTime "07:49:17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Nb8 10. d4 Nbd7 { [%cal Gb1d2,Gd2f1,Gf1g3,Ga2a4,Gc8b7,Gb7d5,Gg7g6,Ge7f8,Gf8e8] } *
+
+
+[Event "US Chess Championship"]
+[Site "St. Louis, MO USA"]
+[Date "2016.04.14"]
+[Round "1"]
+[White "Wesley So"]
+[Black "Gata Kamsky"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2678"]
+[Variant "Standard"]
+[ECO "C95"]
+[Opening "Ruy Lopez: Closed, Breyer Defense, Zaitsev Hybrid"]
+[StudyName "C60 Ruy Lopez"]
+[ChapterName "Wesley So - Gata Kamsky"]
+[ChapterURL "https://lichess.org/study/PhmAcyl6/urvHyhpv"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6 15. Bg5 h6 16. Bd2 Bg7 17. a4 c6 18. axb5 axb5 19. Rxa8 Qxa8 20. Nh4 Qd8 21. Qc1 Kh7 22. Nhf5 gxf5 23. Nxf5 Re6 24. Bxh6 Ne8 25. Bg5 Bf6 26. Bxf6 Qxf6 27. d5 Re7 28. g4 { 1-0 Black resigns. } 1-0
+
+

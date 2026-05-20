@@ -1,0 +1,13 @@
+{|align=right style="text-align: center; font-size: larger;" class="toccolours" width=100%
+|[[Bestand:P_Architecture.png|center|75 px]]
+|-
+|'''[[Boekenplank:Vrije expressie|84. Spel]]'''
+|-
+|style="font-size: smaller; line-height: 1.3;" align=left|
+
+* [[Schaken]]{{75%|Datum=Volgens infobox}}
+* [[Schaken voor beginners]]{{50%|Datum=Volgens infobox}}
+* [[Schaken voor gevorderden]]{{50%|Datum=Volgens infobox}}
+* [[Schaken voor experts]]{{25%|Datum=Volgens infobox}}
+* [[Schaken door meesters]]{{25%|Datum=Volgens infobox}}
+|}<noinclude>[[Categorie:Sjablonen voor een bepaald boek]]</noinclude>

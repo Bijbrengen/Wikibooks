@@ -1,0 +1,14 @@
+{{Opmaak
+| Titel = Onderwijstechnoloog
+| Object = Boek
+| Bron = Educationtechnology.png
+| Definitie = Een [[w:nl:Onderwijstechnoloog|onderwijstechnoloog]] is een onderwijsexpert met als specialisatie de inzet van technologische leermiddelen en ICT.
+| Beschrijving = '''Onderwijstechnologie''' is een discipline die de mogelijkheid van de inzet technologie in het ondersteunen van het [[leren]] onderzoekt.<br>Een onderwijstechnoloog beheerst naast deze onderzoeksvaardigheden ook de technieken die voor het realiseren noodzakelijk zijn.<br>Een onderwijstechnoloog is in ieder geval een onderwijs(des)kundige, maar bij voorkeur ook een [[onderwijsarchitect]].<br>Als zij of hij daarnaast ook nog onderwijstechnologische producten succesvol op de markt weet te brengen, dan is de onderwijstechnoloog ook een [[Onderwijsprofessional/Onderwijsentrepreneur|onderwijsentrepreneur]].
+| Formaat = html
+| Voortgang = 75
+| Support = Signaleer
+| Referentie = wikipedia
+| Collectie = Onderwijs
+| Onderdeel = Inleiding, Profiel, Theorie, Omgeving, Praktijk, Hosting, Onderwijs, Ontwerp, Opleiding, Ontwikkelaar, Auteursrecht, Toegankelijkheid, Toetsing, Leermiddelen
+}}
+{{Fase|3}}

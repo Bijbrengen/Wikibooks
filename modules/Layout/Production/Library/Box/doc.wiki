@@ -1,0 +1,5 @@
+﻿{{Opmaak|Beschrijving=In deze module wordt een box opgemaakt zoals in [[Humanature]] is gebeurd.|
+== Tests ==
+Deze functionaliteit wordt getest in [[Module:Layout/Test/Box]]:
+
+{{#invoke:Layout/Production/Test|main|box}}}}

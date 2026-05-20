@@ -1,0 +1,12 @@
+{{Babel|nl-N|en-3}}
+
+==Bookmarks==
+<div style="font-size:90%;">
+{{Special:Prefixindex/User:Erik Baas}}
+</div>
+
+===Overlegpagina's===
+{{Special:Prefixindex/User talk:Erik Baas}}
+
+===Shortcuts===
+{{Wikibooks:Lijst van shortcuts}}

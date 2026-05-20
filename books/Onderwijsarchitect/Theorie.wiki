@@ -1,0 +1,123 @@
+{{Opmaak}}
+{{TOC links}}
+==Onderwijskunde==
+Een onderwijsarchitect kan bij de beschrijving van zijn onderwijsarchitectuur stoelen op de kennis van een onderwijsdeskundige. Deze begrippen zijn de elementen van een structuur die de onderwijsarchitect gaat ontwerpen. Een algemene structuur voor het onderwijs kunnen we vinden bij het Learning Object Metadata, een datamodel. Het maken van een vakkundige onderwijsarchitectuur, dat recht doet aan de bekwaamheden  en wensen van de deelnemers en tegelijkertijd de beoogde prestaties waarborgt, is het werk van een specialist, namelijk de onderwijsarchitect. Een  deel van zijn deskundigheid is echter te “programmeren” zie de pogingen daartoe in het boek over de [[onderwijstechnoloog]. Als het gaat om ondernemendheid,  creativiteit en coaching blijft dit mensenwerk. 
+[[Bestand:LOM base schema.png|thumb|right|LOM model]]
+
+===Persoon===
+''Van een docent ZIJN word je slachtoffer; van een docent SPELEN word je dader!''
+
+Binnen het (her)ontwerp van onderwijs, worden activiteiten worden uitgevoerd door personen die een bepaalde onderwijsrol vertolken (docent, student, tutor, instructor, begeleider, mentor, adviseur, moderator, projectleider, notulist, voorzitter .....). De onderwijsarchitect zal in zijn ontwerp meestal niet spreken van de persoon zelf maar van de rol. Van deze regel wordt afgeweken als de docent wiens effectiviteit vergroot moet worden een rol dient te vervullen; die zal met naam en rol worden genoemd. Immers zijn rol binnen het ontwerp is alleen hem letterlijk op het lijf geschreven. De onderwijsarchitect koppelt met het concreet noemen van de docent die specifieke persoon aan de rendementsafspraken.
+
+===Project===
+''Om iets af te kunnen ronden moet het eindigen!''
+
+Een onderwijsarchitect werkt met projecten met een duidelijk begin en eind. Er worden vooraf doelen afgesproken, bereikt en gemeten. Zijn werk heeft een heldere fasering. De projecten kunnen zijn ontstaan uit leads. Leads zijn kansen: uitgesproken problemen waar onderwijsarchitectuur een rol in de oplossing kan vertolken.
+
+===Individueel===
+''Waarom hangt er aan jullie kapstok confectiekleding in plaats van maatpakken?''
+
+Hoewel een ontwerpproject kan bestaan uit veel gesprekken en acties betreffende de gehele of een deel van de organisatie, teams, vakken gegeven door meerdere personen, is dit altijd een kapstok voor een individuele maatwerkbegeleiding; het ontwerptraject. Hoe aantrekkelijk de opdracht soms ook is, zonder een ontwerptraject zal een onderwijsarchitect het project niet aannemen omdat hij zijn methodiek dan niet voldoende zal kunnen profileren.
+
+===Doelgericht===
+''Wie een vak maakt voor een ander vult het zelf in!''
+
+Het verbeteren van de effectiviteit van de docent door het herontwerpen van zijn onderwijs staat voorop. Doelgericht zijn kan alleen als je zeer helder de de wensen, verwachtingen, knelpunten, vooroordelen, voorkeuren, stijlen, opvattingen van de direct betrokkenen bij het eigen onderwijs genoemd, formuleert. Deze doelen zijn alleen goed te bereiken als de onderwijsontwerper ook uitvoerder is en voldoende autonomie bezit. Een onderwijsarchitect zal dat vooraf en ook tijdens verifiëren en afdwingen indien noodzakelijk. Het zijn voor gegarandeerde rendementsafspraken onmisbare voorwaarden.
+
+===Leereenheid===
+''Je verwijt de ketel met studenten dat ze meeliften terwijl de pot met docenten nog zwarter oogt.''
+
+De ontwerptrajecten slaan altijd op concreet onderwijs waarin de betrokkenen een afgebakende of af te bakenen verantwoordelijkheid heeft. Dat betekent dat men ook in teams functioneert en gezamenlijke verantwoordelijkheden draagt, maar dat gaat alleen goed als men binnen het team kan worden aangesproken op eigen deelverantwoordelijkheid. Een stuk onderwijs dat als op zichzelf staand kan worden beschouwd, dat als los onderdeel binnen een groter geheel kan worden uitgevoerd, wordt een leereenheid genoemd. 
+
+Een leereenheid is een compleet stuk onderwijs dat zonder aanvulling los kan worden gegeven. Leereenheden kunnen worden samengesteld en samengevoegd. Je kunt denken aan een opdracht maar evenzo goed aan een compleet curriculum of alles wat daartussen zit (practica, cursussen, stages). Als een onderwijsarchitect ontwerpt voor een groep professionals streeft hij er eerst naar afhankelijk van de situatie en de aard van de personen het onderwijs onder te verdelen in zelfstandige leereenheden of beter gezegd deelverantwoordelijkheden die gekoppeld zijn aan de best daarbij passend persoon. Hij is als een architect die een prachtig gebouw voor een organisatie neerzet met, zonder geweld aan het geheel te doen, kamers inricht rekening houdend met de personen die de ruimtes gaan bewonen.
+
+===Leerobjecten===
+''Ik zit er niet mee dat je een docent als object beschouwt maar hem als zodanig inzetten gaat me te ver!''
+
+De leeractiviteiten kunnen worden ondersteund door een leeromgeving gevormd door leerobjecten (hieronder vallen ook diensten). Leerobjecten zijn de concrete elementen van een leeromgeving. Gedacht wordt bijvoorbeeld aan kennisobjecten (boeken, artikelen, hoofdstukken, websites, dictaten, geprogrammeerde instructies, presentaties), toolobjecten (computerprogramma's, instrumenten, computers), toetsobjecten (tentamens, diagnostische toetsen, adaptieve toetsen, portfolio), communicatieobjecten (e-mail, chat, ''virtual classroom'', 
+videoconferencing, telefoon). Kenmerkend voor leerobjecten is dat ze zonder aanpassing als losstaand onderdeel kunnen worden hergebruikt.
+
+===Werkvormen===
+''Na een stevige stoeipartij dacht ik; “als ze dit werk zouden noemen, zou ik het dan net zo lekker vinden?”''
+
+Al deze leerobjecten kunnen in werkvormen terugkomen. Werkvormen zijn daarmee naast een organisatie van leeractiviteiten ook abstracte beschrijvingen hoe deze leerobjecten samenwerken om een didactische of onderwijskundige methode te bereiken. De werkvormen moeten worden in de tijd worden gestructureerd om te komen tot een plan(ning) van de leereenheid.
+
+=== Leeromgeving ===
+Een '''leeromgeving''' is het totaal aan objecten rondom de lerende en de onderlinge relaties daartussen. De architectuur van het onderwijs wordt grotendeels beschreven door het formuleren van de leeromgeving. Maar dat is niet alles, want die architectuur is gevormd door meningen, wensen, theorieën en de creativiteit van de onderwijsarchitect.
+
+===Standaardisering===
+''Als we allemaal dezelfde taal spreken, hoe breiden we dan onze woordenschat uit?''
+
+Om informatie-uitwisseling intern te effectueren is het wenselijk dat we een gemeenschappelijke eenduidige structuur (dit model) en typering (de gebruikte taxonomie) gebruiken voor bijvoorbeeld werkvormen, onderwijsrollen, leerobjecten, leeractiviteiten, onderwijsactiviteiten, leerdoelen en ingangseisen.
+
+== Psychologie ==
+Onderstaande meningen helpen een onderwijsarchitect buiten de reguliere kaders te denken en steunen de creativiteit nodig voor het oplossen van paradoxen.
+
+===Menseigen===
+''De beste leeromgeving ligt buiten het onderwijs!''
+
+Het onderwijs kijkt weinig naar mensen. Immers, de natuurlijke manier waarop mensen leren wordt nauwelijks gebruikt, terwijl een baby en peuter zich gemotiveerder en gerichter op de maatschappij ontwikkelen dan een kind als dat eenmaal op school belandt. Studenten bezitten nog over een sterk intuïtieve en daardoor meer effectieve manier van leren. Met deze manier van denken, voelen en ervaren kunnen ze schijnbaar moeiteloos met de complexiteit van de alledaagse situatie omgaan. In een onderwijsomgeving zien we hiervan slechts weinig terug. Blijkbaar staat de manier van leren in het onderwijs ver af van die buiten het onderwijs. Omdat studenten zich van hun intuïtieve leren weinig bewust zijn, kunnen ze deze kloof maar moeilijk overbruggen.
+
+===Voelen===
+''Ik voel dus ik ben!''
+
+Studenten blijken hun gevoelens moeilijk te kunnen differentiëren. Zonder je gevoelens precies onder woorden te brengen is het lastig doelgericht iets opbouwend met je gevoelens te doen. Emoties zijn de spil in het leren; ze zorgen dat ons brein ontvankelijk wordt voor verandering. Door bewuster met gevoelens om te gaan kun je het leren beïnvloeden. Aandacht voor gevoelens zien we in zeer beperkte mate in het onderwijs terug; dit terwijl juist de emotionele intelligentie van studenten veel meer dan de cognitieve intelligentie van leerlingen het succes van het leren bepaalt. Hoewel er in het onderwijs sprake is van een groeiende oriëntatie op interessegebieden van leerlingen, wordt er maar in beperkte mate aandacht besteed aan het trainen van emotionele intelligentie. Deze vorm van training is echter een zeer bruikbaar middel om de motivatie van studenten te stimuleren.
+
+===Ervaren===
+''We hebben als student een schat aan voor het onderwijs schijnbaar waardeloze ervaringen.'' 
+
+Ze worden immers nauwelijks gebruikt! Nieuwe structuren worden in onze hersenen met veel moeite ingeplant, terwijl met het veranderen van een klein schakeltje een veel grotere structuur blijvend kan worden aangepast. In het onderwijs zien we te weinig aandacht voor het effectief gebruik maken van ons geheugen als opslagplaats voor onze ervaringen. Geheugentrainingen zijn onderdelen die we in het onderwijsprogramma slecht kunnen terugvinden. Deze trainingen die het opslaan en het terughalen van ervaringen in onze langetermijngeheugen bevorderen zijn erg bruikbaar. We zien dat het onbewuste veel meer ervaringen in zich heeft dan het bewuste. We zijn ons onbewust van ons geheugen bewust. In het onderwijs wordt door het redenerend denken, gekopieerd uit de wetenschap, alleen het bewuste benaderd. 
+ 
+
+===Motivatie===
+''Studenten zijn homo economici''
+
+Zij proberen met minimale inspanning een maximale beloning te bereiken. Dit op zich is efficiënt. Probleem is dat dit teveel leidt tot denken op korte termijn. De student ziet en voelt niet duidelijk genoeg de beloning op lange termijn; het maatschappelijke en persoonlijke nut. Dit wordt versterkt als de onderwerpen niet aansluiten bij de interesses en de belevingswereld van de leerling. Leren vraagt een diepte- investering. De echte beloning komt pas veel later. Alleen emotioneel intelligente leerlingen zijn bereid een directe kleine beloning voor een verre grote beloning op te offeren. Dus train de EQ van de student of beloon het doen van diepte-investeringen in het leerproces en stop met het belonen van het kortetermijnresultaten.
+ 
+===Prestatie===
+''Ik knap als ik buig voor jouw overwicht''
+
+In het onderwijs werken we gezamenlijk mee aan het opbouwen van een systematische druk op de leerling tot presteren. Het leren van houdingen en gewoonten om met deze druk om te gaan worden, zijn geen onderdeel van het curriculum. De druk kan verminderd worden door geen schuldgevoelens, oftewel het gevoel van falen, bij de leerling te wekken. Onze westerse cultuur wordt nog steeds geplaagd door demotiverende opvattingen. Zo beschouwt  men – ten onrechte -,  het bijstellen van iemands opvattingen naar aanleiding van een discussie als een verlies. Toch is er duidelijk een resultaat bereikt en dus is er iets gewonnen. Zo zijn er meer eigenaardigheden in onze prestatiegerichte cultuur die leiden tot ontwikkelingsremmende situaties. 
+ 
+
+===Maatschappij===
+''De maatschappij vraagt het onderwijs om nu eens eindelijk te integreren''
+
+Onderwijs moet steeds meer worden aangepast aan de eisen van de moderne maatschappij; het moet effectiever, toegankelijker, uitnodigende en studeerbaarder worden. Onderwijsinstellingen moeten zich profileren middels kwalitatief, aantrekkelijk en boeiend onderwijs. Studenten moeten zelfstandig een brede multidisciplinaire opleiding doorlopen, waarmee ze direct in de maatschappij aan de slag kunnen. Vaardigheden als samenwerken, presenteren, creatief en kritisch denken en communiceren dienen geïntegreerd te worden in de vakspecifieke vaardigheden. Vanuit de maatschappij wordt ook gevraagd om meer aandacht voor Informatie- en Communicatietechnologie (ICT) in het onderwijs.
+
+===Wetenschap===
+''Wetenschap doet de student en het onderwijs stilstaan!''
+
+De wetenschap heeft een grote invloed gehad op de didactiek van het onderwijs. Daarbij komt het veel voor dat de indeling van de stof een afspiegeling is van (universitaire) specialismen. Ook zien we dat de universitaire cultuur, werkwijzen en methodieken vaak een op een worden overgenomen. Het bezwaar hier tegen is dat men het leerproces van de student buitensluit. Integendeel, het middel (techniek) wordt boven het doel (inzicht) geplaatst. Er wordt geen aandacht besteed aan de verwerving, verwerking en het onthouden van de aangeboden informatie. De huidige gevestigde wetenschappelijke orde houdt nog steeds door traditionele werkwijzen belangrijke hervormingen tegen. Men eist conformisme. 
+ 
+===Onderwijsinstellingen===
+''Onderwijsinstellingen wip-wappen tussen reagerend en initiërend denken.''
+
+Maatschappelijke ontwikkelingen komen zelden voort uit conformistisch handelen. Toch worden instellingen voornamelijk beloond als ze zich gedragen volgens de in de leefgemeenschap geldende richtlijnen: de wensen van de huidige machthebbers van het intellectuele erfgoed. Toch verlangt de maatschappij tegelijkertijd aspecten van denken die anders zijn dan het reagerend denken. Bij initiërend denken gaat het veel eerder om (het ontwikkelen van) creatieve denkpatronen, die moeten resulteren in het vinden van alternatieven voor het oplossen van een conflict of een probleem. Denken waarbij de meningen van anderen op de juiste waarde worden geschat. Maar ook het denken dat voor een objectieve afweging van deze alternatieven zorgt en leidt tot de beslissing te kiezen voor een van deze alternatieven. Het denken dat gebruikt wordt voor het inschatten of onderbouwd gissen van de consequenties van deze keuze. Het denken dat ons helpt bij het formuleren van duidelijke doelen en het stellen van prioriteiten op weg naar deze doelen.
+
+== Community ==
+=== Waarde ===
+Een community of leergemeenschap wordt gevormd door een groep mensen die actief zijn op een gemeenschappelijk gebied. Zij informeren elkaar werpen vragen op, discussiëren, stellen elkaar vragen, geven elkaar feedback, consulteren elkaar en maken gezamenlijk producten. Afhankelijk van de samenstelling van de leergemeenschap kunnen binnen de gemeenschap verschillende typen relaties bestaan bijvoorbeeld de relatie tussen gelijkwaardige professionals, tussen senior en junior, coach en gecoachte. De relaties tussen elkaar kunnen worden gezien als interpersoonlijk cement.
+
+Een online community heeft met name een toegevoegde waarde als het samenwerkend leren niet of slechts deels kan worden gerealiseerd middels het face-to-face contact of als voorbereiding hierop. Het face-to-face contact kan bemoeilijkt worden doordat deelnemers niet of moeilijk aanwezig kunnen zijn voor onderling contact. De aanwezigheidsbeperking kan ontstaan door de beschikbaarheid (een lastig af te stemmen agenda) en/of een grote fysieke afstand tussen de deelnemers. De online community kan zorgen voor een plaats- en tijdonafhankelijke uitvoering. De fysieke afstand kan worden overbrugd door moderne communicatiefaciliteiten (telefonisch vergaderen, chatten, video conferencing, webcams). De computer als communicatiemiddel heeft als onderscheidend voordeel dat het beheer en organiseren van de communicatie flexibeler kan worden opgezet en eenvoudiger geadministreerd.  De beschikbaarheid kan worden vergroot door asynchrone communicatie. Asynchrone communicatie tussen een groep is beheersmatig zonder hulp van de computer een omslachtige bezigheid. 
+
+=== Mogelijkheden ===
+Wanneer u als onderwijsarchitect in het onderwijs online samenwerken willen vormgeven in een duidelijke structuur dan kunt u kiezen uit een scala van mogelijkheden binnen een continuüm dat bestaat tussen online samenwerken en online communities. In het onderwijs is sowieso altijd een oneindig variatie aan werkvormen en werkstructuren te bedenken tussen uitersten die voortkomen uit randvoorwaarden of voorkeuren. Een online samenwerkingsverband gaat uit van een hiërarchische structuur tussen docent en student, waarbij beiden een gemeenschappelijk project hebben: ervoor zorgen dat de student het doel zo goed mogelijk bereikt binnen een bepaalde tijdsperiode. Een online community kent een veel lossere structuur waarbij studenten (en wellicht docenten) op voet van gelijkheid met elkaar overleggen vanuit een gemeenschappelijke interesse: het ‘in hetzelfde schuitje zitten’. 
+
+Het is van groot belang dit onderscheid helder in gedachten te houden bij het ontwikkelen van samenwerken. Beide vormen kennen namelijk sterke en zwakkere punten. Een online samenwerkingsverband zorgt voor automatische – want gedwongen – participatie van de student en betrekt deze dientengevolge nauw bij het platform. Een online community biedt de stimulans van leren als sociaal proces, daar de student in contact komt met medestudenten, van hen feedback krijgt en vanuit een gedeelde interesse en intrinsieke motivatie ook betrokken raakt bij het werk van anderen. Het isolement waarin studenten zich bevinden wordt op deze wijze verbroken en het proces gestimuleerd. Een nadeel van online samenwerken is dat de student, vanuit diens extrinsieke motivatie, zich passief op zal stellen en het platform alleen zal gebruiken als communicatiemiddel met de docent of eventuele groepsgenoten. De losse structuur van een community kent echter ook een aantal inherente nadelen: daar het proces vraaggestuurd is zal een community uiteenvallen bij gebrek aan initiatief en betrokkenheid van de studenten. 
+
+=== Praktijk ===
+Het praktijkvoorbeeld van online samenwerken is de Schrijfmarkt in Nijmegen. Twee praktijkvoorbeelden (Twente en Maastricht) uit hetzelfde gebied maar dan van online communities tonen aan dat waar een oorspronkelijk actieve kern studenten de community deed opbloeien, deze snel teloor kon gaan bij gebrek aan input. Met name wanneer het aantal deelnemers toeneemt en dientengevolge anonimiteit haar intrede doet, ligt het gevaar op de loer dat een community een stille dood sterft. Studenten moeten niet alleen halen, zij moeten ook brengen. Dit kan niet van bovenaf worden gestimuleerd, daar studenten een community niet als verplichting maar als kans moeten zien. Het lijkt gezien bovengenoemde overwegingen dan ook raadzaam beide elementen in het  ontwerp te combineren, opdat van de sterke punten gebruik kan worden gemaakt en de zwakke punten kunnen worden vermeden of gecompenseerd. Een samenwerkingsverband biedt een goed uitgangspunt om de studenten bij de elektronische te betrekken. Wanneer de student eenmaal is betrokken bij het platform, kan hem de mogelijkheid worden geboden te participeren in een of meerdere communities, waar hij automatisch voor is aangemeld.
+
+Als uitgangspunt dient dat communities kleinschalig moeten worden opgezet, waardoor studenten in contact komen met een klein aantal medestudenten die zich met vergelijkbare onderwerpen bezighouden (bijvoorbeeld alleen binnen de afstudeerrichting of als kring rondom dezelfde begeleider) en bij voorkeur reeds met elkaar bekend zijn. Uit de praktijk in Twente blijkt dat een community veel beter draait wanneer de deelnemers elkaar persoonlijk kennen. Een community kan dan de volgende functies vervullen:
+* Uitwisselen van ervaringen en problemen tussen studenten
+* Volgen van elkaars voortgang en feedback op elkaars werk (“kruisbestuiving”)
+* Toevoeging van sociaal element aan het individuele leerproces (psychosociale factor)
+
+Door deelname aan de community facultatief te maken werkt dit wel lust-, maar niet lastverhogend voor de studenten. De hoop is op een ‘spill-over’ van het samenwerkingsverband naar de community. Een serieuze mogelijkheid is dat géén van de studenten gebruik zal maken van de community, in welk geval het platform uitsluitend als samenwerkingsverband zal worden gebruikt. Praktijkvoorbeelden tonen echter aan dat wanneer één spreekwoordelijk schaap over de dam is, er meerdere zullen volgen. De communities moeten dan ook zo aantrekkelijk mogelijk worden gepresenteerd. Daarbij kan worden gedacht aan een aantal ‘trucjes’, zoals een fun-gedeelte. In Maastricht is gebleken dat dit als lokkertje goed functioneert. Naast begeleiding en stimulering van de studenten kan een samenwerkingsplatform ook een duidelijke ondersteunende rol voor begeleiders vervullen. Begeleiders worden vaak geconfronteerd met dezelfde problemen. Centraal staat dat de omgeving voor docenten lastenverlichtend (door effectieve en efficiënte communicatie) en lustverhogend moet werken. Het tijdrovende ‘moderaten’ van een community vol studenten moet dan ook bij voorkeur aan de studenten zélf worden overgelaten, waarbij de docent slechts een informerende of af en toe sturende rol vervult. De docent is in eerste instantie begeleider (coach), in tweede instantie expert en bron van kennis voor studenten. Ook de community tussen docenten moet deze lustverhogende en lastenverlichtende functie vervullen en een vraaggestuurd karakter kennen.
+
+Het is van belang te benadrukken dat het platform voor maximale efficiëntie een kleinschalig karakter dient te kennen. De praktijk in Twente leert dat een groepsgrootte van rond de 25-30 participanten een maximum is. Echter, het platform moet de mogelijkheid bieden om gebruik te maken van expertise op hoger niveau, zij het binnen de afdeling, de opleiding, de instelling zelf of zelfs daarbuiten. Waarbij gemeenschappelijke problemen en oplossingen kunnen worden gecombineerd en het wiel zo min mogelijk opnieuw wordt uitgevonden. Een belangrijk element in bovenstaande is de rol van de moderator, die sterk wisselt binnen de samenwerkings- en de communitydimensie. Op het samenwerkende vlak dient de moderator vooral zorg te dragen voor efficiëntie, effectiviteit en gebruikersvriendelijkheid, zodat communicatielijnen zo kort mogelijk zijn en de nodige documenten eenvoudig op de juiste plaats terecht komen. De lastverlagende functie staat hierbij centraal. Op het communityvlak dient de moderator een veel passievere functie aan te nemen en vooral stimulerend en licht sturend op te treden, met als doel het initiatief zo veel mogelijk in de handen van de communityleden zelf te leggen. Attractiviteit is in deze een cruciaal element: de lustverhogende functie van het platform.
+
+Wanneer studenten en docenten eenmaal gebruik van het platform als samenwerkingsinstrument maken, is de hoop dat een spill-over effect ontstaat waardoor de community-dimensie kan opbloeien, onder studenten, onder docenten én onder docenten en studenten samen. Op deze wijze kan het project de positieve elementen van beide dimensies combineren en zo de gevaren van beide trachten te omzeilen. Het platform kan door de flexibiliteit van de kleinschaligheid worden ingezet bij een breed scala aan studies en is vraaggestuurd met voldoende mogelijkheden voor groei, wanneer daar behoefte aan blijkt te zijn. Hopelijk kan op deze wijze de elektronische leeromgeving worden ingezet om studenten duidelijk te maken dat zij er niet alleen voor staan en zowel de kwaliteit als de spoed van het leerproces bevorderen.
+
+{{Opmaak | Voettekst}}

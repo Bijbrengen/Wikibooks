@@ -1,0 +1,59 @@
+{{ModuleDoc|Inhoud=
+'''Doel'''
+Deze module geeft toegang tot enkele basis-stringfuncties.
+
+De meeste functies die hier worden aangeboden, kunnen worden aangeroepen met benoemde parameters,
+naamloze parameters of een combinatie daarvan. Als benoemde parameters worden gebruikt, zal Mediawiki automatisch alle voorloop- of achterloopspaties uit de parameter verwijderen.<br>
+Afhankelijk van het beoogde gebruik kan het voordelig zijn om ofwel te conserveren of dergelijke witruimte te verwijderen.
+
+
+'''Globale opties:'''
+* ignore_errors: indien ingesteld op 'true' of 1, resulteert elke foutconditie in er wordt een lege string geretourneerd in plaats van een foutmelding.
+* error_category: Als er een fout optreedt, geeft u de naam van een categorie op toevoegen aan de foutmelding. De standaardcategorie is [Categorie: fouten gemeld door modulereeks].
+* no_category: indien ingesteld op 'true' of 1, wordt er geen categorie toegevoegd als er een fout optreedt is gegenereerd.
+<!-- Eenheidstests voor deze module zijn beschikbaar op Module:String/tests. -->
+
+
+'''Functies''' met beknopte beschrijving
+* '''len''' - geeft de lengte van de string in het eerste argument
+<pre style="margin-left: 20px;">
+{{#Invoke:String|len|target_string}} of {{#Invoke:String|len|s=target_string}}
+</pre>
+
+* '''sub''' - geeft een bepaald deel van de string
+<pre style="margin-left: 20px;">
+{{#Invoke:String|sub|target_string|start_index|end_index}}
+</pre>
+::NB Een negatieve waarde in <code>start_index</code> of <code>end_index</code> doet de functie ''vanaf het eind van de string'' tellen.
+
+<!-- nog te vertalen vanaf hier -->
+
+* '''match''' - This function returns a substring from the source string that matches a specified pattern.
+<pre style="margin-left: 20px;">
+{{#Invoke:String|match|source_string|pattern_string|start_index|match_number|plain_flag|nomatch}}
+</pre>
+
+* '''pos''' - This function returns a single character from the target string at position pos.
+<pre style="margin-left: 20px;">
+{{#Invoke:String|pos|target_string|index_value}}
+</pre>
+::NB Een negatieve waarde in <code>index_value</code> doet de functie ''vanaf het eind van de string'' tellen.
+
+* '''find''' - Returns the first index in "source_str" that is a match to "target_string". 
+<pre style="margin-left: 20px;">
+{{#Invoke:String|find|source_str|target_string|start_index|plain_flag}}
+</pre>
+
+* '''replace''' - This function allows one to replace a target string or pattern within another string.
+<pre style="margin-left: 20px;">
+{{#Invoke:String|replace|source_str|pattern_string|replace_string|replacement_count|plain_flag}}
+</pre>
+
+
+;Bron
+* Deze module is op 10 november 2022 gekopieerd van [https://www.mediawiki.org/wiki/Module:String www.mediawiki.org].
+
+}}
+
+<noinclude>[[Categorie:Moduledocumentatie]]</noinclude>
+<includeonly>[[Categorie:Module]]</includeonly>

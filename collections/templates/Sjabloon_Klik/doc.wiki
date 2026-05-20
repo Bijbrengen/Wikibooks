@@ -1,0 +1,10 @@
+<pre>
+{{Klik
+ | Afbeelding = <bestandsnaam>
+ | Link       = <paginatitel>
+ | Grootte    = <breedte vd. afbeelding> (max. 1200px)
+}}
+</pre><noinclude>
+
+[[Categorie:Sjabloondocumentatie]]
+</noinclude>

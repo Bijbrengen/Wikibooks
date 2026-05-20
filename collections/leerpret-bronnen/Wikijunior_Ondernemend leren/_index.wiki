@@ -1,0 +1,435 @@
+__NOTOC__
+<hr>
+{{Bi}}
+<div style="text-align: center;" style="-webkit-border-radius: 0% 0% 100% 100% / 0% 0% 8px 8px; -webkit-box-shadow: rgba(0, 0, 0,.30) 0 2px 3px;"><div style=" margin: 0 auto; margin-top: 50px; height: auto; color: inherit; background-color: #F2F2F2; border: 1px solid #ccc; box-shadow: 1px 1px 2px #fff inset, -1px -1px 2px #fff inset; border-radius: 3px/6px;"><br>'''[[w:nl:Ondernemend leren|Ondernemend leren]] is een vorm van leren die jou vrij laat in het zelf bedenken en bepalen hoe je wilt leren. '''<br><br></div></div>
+<br>
+<div style="text-align: center;">''Die vrijheid is voor veel kinderen een fantastische ervaring. Maar hoe ga je met die vrijheid om? Hoe zorg je dat je leren succesvol is en dat anderen dat ook zo zien? Dat lijkt eenvoudig, maar blijkt in de praktijk veel lastiger dan het lijkt. In veel projecten waarin kinderen op een school ondernemend leren, liepen zowel de leerlingen als de docenten hier tegen aan. Dit boek is bedoeld om je daarin te helpen.''</div>
+<br>
+<hr>
+<br>
+<table style=
+"
+	margin:0 auto;
+	text-align: center;
+	zoom: 1;
+">
+	<tr>
+		<td style=
+			"
+				font: 13px 'Lucida Sans', 'trebuchet MS', Arial, Helvetica;
+				color: inherit; background-color: #fff;
+				border: 2px solid #ddd;
+				color: #333;
+				padding: 20px;
+				width: 180px;
+				float: left;
+				_display: inline;
+				position: relative;
+				margin: 0 5px;
+				-moz-box-shadow: 0 2px 2px -1px rgba(0,0,0,.3);
+				-webkit-box-shadow: 0 2px 2px -1px rgba(0,0,0,.3);
+				box-shadow: 0 2px 2px -1px rgba(0,0,0,.3);
+			">
+
+				<div style=
+				"
+					position: relative;
+					font-size: 20px;
+					font-weight: normal;
+					text-transform: uppercase;
+					padding: 40px;
+					margin: -20px -20px 20px -20px;
+					border-bottom: 8px solid;
+					color: inherit; background-color:  #eee;
+					background-image: -moz-linear-gradient(#fff,#eee);
+					background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#eee));
+					background-image: -webkit-linear-gradient(#fff, #eee);
+					background-image: -o-linear-gradient(#fff, #eee);
+					background-image: -ms-linear-gradient(#fff, #eee);
+					background-image: linear-gradient(#fff, #eee);
+					border-bottom-color: #0B0080;
+				">
+				    Waardevol
+			    </div>
+
+				<div style=
+				"
+					font-size: 13px;
+					margin-bottom: 20px;
+					text-transform: uppercase;
+					color: #999;
+				">
+				    Hoofdstuk
+				</div>
+
+				<div style=
+				"
+					font-size: 45px;
+				">
+				    1
+				</div>
+
+				<ul style=
+				"
+					margin: 20px 0;
+					padding: 0;
+					list-style: none;
+				">
+					<li style=
+					"
+						padding: 10px 0;
+					">
+					    <b>1.</b> Solidariteit
+					</li>
+					<li style=
+					"
+						padding: 10px 0;
+					">
+					    <b>2.</b> Samenwerking
+					</li>
+					<li style=
+					"
+						padding: 10px 0;
+					">
+					    <b>3.</b> Burgerschap
+					</li>
+				</ul>
+
+				<div style=
+				"
+					position: relative;
+					padding: 10px 20px;
+					color: #fff;
+					font: bold 14px Arial, Helvetica;
+					text-transform: uppercase;
+					text-decoration: none;
+					display: inline-block;
+					color: inherit; background-color:  #e7e5ff;
+					-moz-border-radius: 3px;
+					-webkit-border-radius: 3px;
+					border-radius: 3px;
+					text-shadow: 0 -1px 0 rgba(0,0,0,.15);
+					opacity: .9;
+				">
+				    [[Wikijunior:Ondernemend leren/Waardevol|Lees]]
+			    </div>
+        </td>
+		<td style=
+			"
+				font: 13px 'Lucida Sans', 'trebuchet MS', Arial, Helvetica;
+				color: inherit; background-color: #fff;
+				border: 2px solid #ddd;
+				color: #333;
+				padding: 20px;
+				width: 180px;
+				float: left;
+				_display: inline;
+				position: relative;
+				margin: 0 5px;
+				-moz-box-shadow: 0 2px 2px -1px rgba(0,0,0,.3);
+				-webkit-box-shadow: 0 2px 2px -1px rgba(0,0,0,.3);
+				box-shadow: 0 2px 2px -1px rgba(0,0,0,.3);
+			">
+
+				<div style=
+				"
+					position: relative;
+					font-size: 20px;
+					font-weight: normal;
+					text-transform: uppercase;
+					padding: 40px;
+					margin: -20px -20px 20px -20px;
+					border-bottom: 8px solid;
+					color: inherit; background-color:  #eee;
+					background-image: -moz-linear-gradient(#fff,#eee);
+					background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#eee));
+					background-image: -webkit-linear-gradient(#fff, #eee);
+					background-image: -o-linear-gradient(#fff, #eee);
+					background-image: -ms-linear-gradient(#fff, #eee);
+					background-image: linear-gradient(#fff, #eee);
+					border-bottom-color: #040034;
+				">
+				    Passievol
+			    </div>
+
+				<div style=
+				"
+					font-size: 13px;
+					margin-bottom: 20px;
+					text-transform: uppercase;
+					color: #999;
+				">
+				    Hoofdstuk
+				</div>
+
+				<div style=
+				"
+					font-size: 45px;
+				">
+				    2
+				</div>
+
+				<ul style=
+				"
+					margin: 20px 0;
+					padding: 0;
+					list-style: none;
+				">
+					<li style=
+					"
+						padding: 10px 0;
+					">
+					    <b>1.</b> LOL
+					</li>
+					<li style=
+					"
+						padding: 10px 0;
+					">
+					    <b>2.</b> Vakken vervangen
+					</li>
+					<li style=
+					"
+						padding: 10px 0;
+					">
+					    <b>3.</b> Creativiteit
+					</li>
+				</ul>
+
+				<div style=
+				"
+					position: relative;
+					padding: 10px 20px;
+					color: #fff;
+					font: bold 14px Arial, Helvetica;
+					text-transform: uppercase;
+					text-decoration: none;
+					display: inline-block;
+					color: inherit; background-color:  #e7e5ff;
+					-moz-border-radius: 3px;
+					-webkit-border-radius: 3px;
+					border-radius: 3px;
+					text-shadow: 0 -1px 0 rgba(0,0,0,.15);
+					opacity: .9;
+				">
+				    [[Wikijunior:Ondernemend leren/Passievol|Lees]]
+			    </div>
+        </td>
+		<td style=
+			"
+				font: 13px 'Lucida Sans', 'trebuchet MS', Arial, Helvetica;
+				color: inherit; background-color: #fff;
+				border: 2px solid #ddd;
+				color: #333;
+				padding: 20px;
+				width: 180px;
+				float: left;
+				_display: inline;
+				position: relative;
+				margin: 0 5px;
+				-moz-box-shadow: 0 2px 2px -1px rgba(0,0,0,.3);
+				-webkit-box-shadow: 0 2px 2px -1px rgba(0,0,0,.3);
+				box-shadow: 0 2px 2px -1px rgba(0,0,0,.3);
+			">
+
+				<div style=
+				"
+					position: relative;
+					font-size: 20px;
+					font-weight: normal;
+					text-transform: uppercase;
+					padding: 40px;
+					margin: -20px -20px 20px -20px;
+					border-bottom: 8px solid;
+					color: inherit; background-color:  #eee;
+					background-image: -moz-linear-gradient(#fff,#eee);
+					background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#eee));
+					background-image: -webkit-linear-gradient(#fff, #eee);
+					background-image: -o-linear-gradient(#fff, #eee);
+					background-image: -ms-linear-gradient(#fff, #eee);
+					background-image: linear-gradient(#fff, #eee);
+					border-bottom-color: #0B0080;
+				">
+				    Succesvol
+			    </div>
+
+				<div style=
+				"
+					font-size: 13px;
+					margin-bottom: 20px;
+					text-transform: uppercase;
+					color: #999;
+				">
+				    Hoofdstuk
+				</div>
+
+				<div style=
+				"
+					font-size: 45px;
+				">
+				    3
+				</div>
+
+				<ul style=
+				"
+					margin: 20px 0;
+					padding: 0;
+					list-style: none;
+				">
+					<li style=
+					"
+						padding: 10px 0;
+					">
+					    <b>1.</b> Ondernemendheid
+					</li>
+					<li style=
+					"
+						padding: 10px 0;
+					">
+					    <b>2.</b> Ondernemer
+					</li>
+					<li style=
+					"
+						padding: 10px 0;
+					">
+					    <b>3.</b> Onderneming
+					</li>
+				</ul>
+
+				<div style=
+				"
+					position: relative;
+					padding: 10px 20px;
+					color: #fff;
+					font: bold 14px Arial, Helvetica;
+					text-transform: uppercase;
+					text-decoration: none;
+					display: inline-block;
+					color: inherit; background-color:  #e7e5ff;
+					-moz-border-radius: 3px;
+					-webkit-border-radius: 3px;
+					border-radius: 3px;
+					text-shadow: 0 -1px 0 rgba(0,0,0,.15);
+					opacity: .9;
+				">
+				    [[Wikijunior:Ondernemend leren/Succesvol|Lees]]
+			    </div>
+
+		</td>
+		<td style=
+			"
+				font: 13px 'Lucida Sans', 'trebuchet MS', Arial, Helvetica;
+				color: inherit; background-color: #fff;
+				border: 2px solid #ddd;
+				color: #333;
+				padding: 20px;
+				width: 180px;
+				float: left;
+				_display: inline;
+				position: relative;
+				margin: 0 5px;
+				-moz-box-shadow: 0 2px 2px -1px rgba(0,0,0,.3);
+				-webkit-box-shadow: 0 2px 2px -1px rgba(0,0,0,.3);
+				box-shadow: 0 2px 2px -1px rgba(0,0,0,.3);
+			">
+
+				<div style=
+				"
+					position: relative;
+					font-size: 20px;
+					font-weight: normal;
+					text-transform: uppercase;
+					padding: 40px 40px 40px 30px;
+					margin: -20px -20px 20px -20px;
+					border-bottom: 8px solid;
+					color: inherit; background-color:  #eee;
+					background-image: -moz-linear-gradient(#fff,#eee);
+					background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#eee));
+					background-image: -webkit-linear-gradient(#fff, #eee);
+					background-image: -o-linear-gradient(#fff, #eee);
+					background-image: -ms-linear-gradient(#fff, #eee);
+					background-image: linear-gradient(#fff, #eee);
+					border-bottom-color: #040034;
+				">
+				    Betekenisvol
+			    </div>
+
+				<div style=
+				"
+					font-size: 13px;
+					margin-bottom: 20px;
+					text-transform: uppercase;
+					color: #999;
+				">
+				    Hoofdstuk
+				</div>
+
+				<div style=
+				"
+					font-size: 45px;
+				">
+				    4
+				</div>
+
+				<ul style=
+				"
+					margin: 20px 0;
+					padding: 0;
+					list-style: none;
+				">
+					<li style=
+					"
+						padding: 10px 0;
+					">
+					    <b>1.</b> Diploma
+					</li>
+					<li style=
+					"
+						padding: 10px 0;
+					">
+					    <b>2.</b> Bedrijf
+					</li>
+					<li style=
+					"
+						padding: 10px 0;
+					">
+					    <b>3.</b> Maatschappij
+					</li>
+				</ul>
+
+				<div style=
+				"
+					position: relative;
+					padding: 10px 20px;
+					color: #fff;
+					font: bold 14px Arial, Helvetica;
+					text-transform: uppercase;
+					text-decoration: none;
+					display: inline-block;
+					color: inherit; background-color:  #e7e5ff;
+					-moz-border-radius: 3px;
+					-webkit-border-radius: 3px;
+					border-radius: 3px;
+					text-shadow: 0 -1px 0 rgba(0,0,0,.15);
+					opacity: .9;
+				">
+				    [[Wikijunior:Ondernemend leren/Betekenisvol|Lees]]
+			    </div>
+
+		</td>
+	</tr>
+</table>
+
+{{Juniorboek}}
+
+<br>
+{{Wikipedia|Pagina=Ondernemend leren|Naam=Ondernemend leren}}
+{| class="toccolours" style="width:100%; clear:both; margin:1em 0px -0.5em 0px;" 
+|-
+|width="40" align="center"|[[Afbeelding:Wikibooks-logo.png|25px|Wikibooks]]
+|[[Hoofdpagina|Wikibooks]] heeft een boek over  '''''[[Ondernemend leren|Ondernemend leren]]''''' voor volwassen
+|}
+{| class="toccolours" style="width:100%; clear:both; margin:1em 0px -0.5em 0px;" 
+|-
+|width="40" align="center"|[[Bestand:Ambigram kids spin.png|25px|Wikikids]]
+|[https://wikikids.nl/Ondernemend_leren Wikikids] heeft een artikel over  '''''[https://wikikids.nl/Ondernemend_leren Ondernemend leren]''''' voor kinderen
+|}

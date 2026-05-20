@@ -1,0 +1,7 @@
+[[File:OOjs UI icon chem.svg|OOjs_UI_icon_chem]]
+
+== Acceptatie ==
+Dit is de hoofdpagina waaronder een aantal testpagina's voor het testen van de [[Module:Layout]] worden gebruikt:
+{{Speciaal:Prefixindex/Sjabloon:Opmaak/Test/}}
+
+{{#invoke:Layout/Production/Test|total}}

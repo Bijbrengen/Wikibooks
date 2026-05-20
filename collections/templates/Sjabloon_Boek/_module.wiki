@@ -1,0 +1,58 @@
+<includeonly><!--
+
+-->{{#IfExist:Wikibooks:Infobox/{{PAGENAME}}<!--                   heeft infobox?
+  -->|[[Categorie:Wikibooks:Boeken met infobox]]<!--                 ja
+  -->|[[Categorie:Wikibooks:Boeken zonder infobox]]<!--              nee
+-->}}<!--                                                          ----
+
+-->{{#IfExist:{{PAGENAME}}/Printversie<!--                         bestaat xxx/Printversie ?
+  -->|[[Categorie:Boeken met printversie]]<!--                       ja
+-->}}<!--                                                          ----
+
+
+-->{{#IfEq: {{SUBPAGENAME}}|Printversie<!--                        is printversie?
+  -->|<!--                                                           ja, niet in cat
+  -->|<!-- [[Categorie:Voorblad]]--><!--                             nee
+
+**onlogisch: eerst sort, dan woordenboek/lijst?
+
+  -->{{#If:{{{1|}}}<!--                                              parameter "sort"?
+
+    -->|[[Categorie:Boek|{{{1}}}]]<!--                                 ja
+    -->{{#IfExpr:{{Instr|{{Lc:{{PAGENAME}}}}|woordenboek}}>0<!--       is woordenboek?
+      -->|[[Categorie:Woordenboek|{{{1}}}]]<!--                          ja
+    -->}}<!--                                                          ----
+
+    -->{{#IfExpr:{{Instr|{{Lc:{{PAGENAME}}}}|woordenlijst}}>0<!--      is woordenlijst?
+      -->|[[Categorie:Woordenlijst|{{{1}}}]]<!--                         ja
+    -->}}<!--                                                          ----
+
+    -->|[[Categorie:Boek]]<!--                                         nee
+    -->{{#IfExpr:{{Instr|{{Lc:{{PAGENAME}}}}|woordenboek}}>0<!--       is woordenboek?
+      -->|[[Categorie:Woordenboek]]<!--                                  ja
+    -->}}<!--                                                          ----
+
+    -->{{#IfExpr:{{Instr|{{Lc:{{PAGENAME}}}}|woordenlijst}}>0<!--       is woordenlijst?
+      -->|[[Categorie:Woordenlijst]]<!--                                 ja
+    -->}}<!--                                                          ----
+
+  -->}}<!--                                                          ----
+-->}}<!--                                                          ----
+
+-->{{Categorieën Wikidata}}<!--
+
+--></includeonly><noinclude>{{Sjablooninfo|1=
+
+;Doel
+:Dit sjabloon zet pagina's in [[:Categorie:Boek]]. Boeken waarvan een printversie bestaat komen bovendien in [[:Categorie:Boeken met printversie]].
+
+;Opties
+:Gebruik <nowiki>{{</nowiki>{{PAGENAME}}<nowiki>|Sort}}</nowiki> om te sorteren op ''Sort''.
+
+;Zie ook
+*{{Tl|Sub}} voor het sjabloon dat gebruikt wordt op subpagina's en hoofdstukken
+*{{Tl|Juniorboek}} als het gaat om een juniorboek.
+}}
+
+[[Categorie:Sjablonen]]
+</noinclude>

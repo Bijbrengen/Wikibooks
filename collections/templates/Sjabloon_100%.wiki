@@ -1,0 +1,5 @@
+&#8202;<span class="voortgang" style="position: relative; top: -3px;">[[Afbeelding:100 percent.svg|Zeer goed ontwikkeld. Revisiedatum: {{{Datum|onbekend}}}|link=]] </span><noinclude>
+
+[[Categorie:Sjablonen voortgang| 9]]
+  <!-- 9 vanwege _alfabetisch_ sorteren! -->
+</noinclude>

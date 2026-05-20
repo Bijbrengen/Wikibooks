@@ -1,0 +1,27 @@
+{{Opmaak}}
+De onderwijstechnoloog is een interdisciplinaire professional die de wereld van ICT en onderwijs verenigt. In tegenstelling tot een pure IT-beheerder, begrijpt de onderwijstechnoloog de pedagogische impact van technische keuzes.
+
+== De Onderwijsarchitect ==
+Een belangrijk aspect van het profiel is de rol van [[onderwijsarchitect]]. De technoloog ontwerpt de systemen niet alleen op basis van technische specificaties, maar op basis van een visie op leren.
+* '''Systeemdenken''': Het platform zien als een samenhangend geheel van modules, data en interacties.
+* '''Standaardisatie''': Het bewaken van formaten zoals de [[Onderwijstaal/Leerbox|Leerbox]] om interoperabiliteit te garanderen.
+* '''Vrijheid''': De technische voorwaarden scheppen voor [[Onderwijstaal/Vrijheid|vrij leren]], waarbij de leerder regie heeft over het eigen proces.
+
+== Digitale Kloof en Inclusie ==
+De onderwijstechnoloog is zich bewust van de '''digitale kloof'''. Dit is niet alleen een kwestie van toegang tot hardware (1e graad), maar vooral van vaardigheden en de mogelijkheid om technologie effectief te gebruiken (2e graad).
+* '''Toegankelijkheid''': Zorgen dat het platform inclusief is (zie [[Onderwijstechnoloog/Toegankelijkheid]]).
+* '''Emancipatie''': Technologie inzetten als middel voor zelfontplooiing, ook in ontwikkelingslanden of voor kwetsbare groepen.
+
+== Competenties ==
+Een moderne onderwijstechnoloog beheerst de volgende domeinen:
+# '''Onderwijsplatform Management''': Het beheren van de levenscyclus van het [[Onderwijstechnoloog/Platform]].
+# '''[[Onderwijstaal|Onderwijstaal]] Specialist''': Het kunnen lezen en schrijven van pedagogische scripts (Freell).
+# '''Full-stack Development''':
+#* '''Front-end''': [[HTML]], [[Cascading Style Sheets|CSS]] en [[Programmeren in JavaScript|Javascript]] om de [[Onderwijswiki/View|View]]-laag te bouwen.
+#* '''Back-end''': Servers, databases (MariaDB, PostgreSQL) en [[Onderwijswiki/Lua|Lua]] scripts binnen [[Onderwijswiki/Scribunto|Scribunto]].
+# '''Data & Analytics''': Werken met LRS en xAPI om leerprocessen in kaart te brengen.
+
+== Ethiek en Veiligheid ==
+De technoloog bewaakt de veiligheid van de leeromgeving. Dit omvat niet alleen cybersecurity, maar ook het beschermen van de integriteit van de leerder tegen zaken als cyberpesten of onethisch gebruik van data.
+
+{{Opmaak | Voettekst}}

@@ -1,0 +1,24 @@
+<includeonly><!--
+--><div style="position: relative; height: {{{Grootte}}}; width: {{{Grootte}}}; overflow: hidden;"><!--
+--><div style="position: absolute; top: 0; left: 0; height: {{{Grootte}}}; width: {{{Grootte}}}; 
+        overflow: hidden; font-size: 1200px; line-height: 1200px; z-index: 3;"><!--
+-->[[:{{{Link}}}|&nbsp;&nbsp;&nbsp;]]<!--
+--></div><!--
+--><div style="position: absolute; top: 0; left: 0; z-index: 2;"><!--
+-->[[Afbeelding:{{{Afbeelding}}}|{{{Grootte}}}|{{{Link}}}]]<!--
+--></div><!--
+--></div></includeonly><noinclude>{{Sjabdoc}}
+
+===Doel===
+Aanklikbaar maken van een afbeelding in combinatie met de opening van een wikilink. 
+
+<!-- testcode:
+{{Klik
+ | Afbeelding = Test.jpg
+ | Link       = CSS
+ | Grootte    = 1000px
+}}
+-->
+
+[[Categorie:Sjablonen]]
+</noinclude>

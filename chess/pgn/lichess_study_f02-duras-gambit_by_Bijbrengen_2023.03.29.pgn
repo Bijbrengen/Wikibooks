@@ -1,0 +1,40 @@
+[Event "F02 Duras Gambit: Main line"]
+[Date "2023.03.29"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "F02 Duras Gambit"]
+[ChapterName "Main line"]
+[ChapterURL "https://lichess.org/study/jYJiDTqC/MflHKybO"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.29"]
+[UTCTime "07:08:09"]
+[ChapterMode "gamebook"]
+
+1. e4 { Because e4 is the most common opening move for white, when black persists in responding with the Dutch, it will lead to the Duras gambit } 1... f5 { White has a decisive advantage but should beware of Black playing fxe4 } { [%cal Rf5e4] } 2. exf5 { exf5 is beneficial because it threatens to play Qh5+ and prevents taking the white pawn on e4 (fxe4). Besides that it discourage playing e6 or e5 by guarding square e6 and forces Nf6. It intends to play d4. } { [%cal Re7e6,Re7e5,Gd1h5,Gf5e6,Gg8f6,Gf5g6,Bd2d4] } 2... Nf6 { This is the only good move although Magnus Carlsen played Kf7 once. } { [%cal Re8f7] } (2... Kf7 { This is the move Magnus Carlsen played in one of his online games during the Lichess "Titled Arena May '19" on 04.05.2019. He managed to win although this is a bad move. }) 3. d4 { d4 is good because it guards e5 and allows playing Bd3. But watch for d5 which allows the bishop to attack the white pawn at f5 (Bxf5) by making way through d7. } { [%cal Gd4e5,Gf1d3,Gd3f5,Bd7d5,Bc8f5] } 3... e6 { fxe6 is good because it prevents taking the white pawn on f5 (exf5)
+and captures the black pawn and deflects the black pawn away from d7 when it recaptures and rules out playing d5 and creates an isolated pion. } { [%cal Gf5e6,Bd7e6,Rd7d5,Re6f5] } 4. Nf3 { Nf3 is good because it vacates g1 and enables O-O later on. Furtermore it enables Ng5. Maybe white intends to play fxe6 as the following move but black can take of course first. Most players will normally have taken fxe6. } { [%cal Ge6f5] } (4. fxe6 { fxe6 is good because it prevents taking the white pawn on f5 (exf5)
+and captures the black pawn and deflects the black pawn away from d7 when it recaptures and rules out playing d5 and creates an isolated pion. } { [%cal Rd7e6] }) 4... exf5 { exf5 gets back the pawn and prevents white from taking the black pawn on e6 (fxe6). } 5. Bd3 { White has two intentions with this move. It intends to play O-O
+and threatens the black pawn on f5. But black has Nc6 to guard e5
+and can Bb4+ } { [%cal Bf8b4,Gf6e4,Rd3f5,Re1g1,Rh1f1] } 5... d6 { d6 is fine because it supports the f5-pawn through the bishop on Bc8 and prevents the knight to attack in the center. } { [%cal Gc8f5,Rd3f5,Rf3e5] } 6. O-O Be7 { Be7 is beneficial because it supports playing O-O. This could be challenged by Ng5 and Bc4. When that happens black however can defend that easily. } { [%cal Rf3g5,Rd3c4,Bd6d5,Bh7h6] } 7. c4 Na6 { Na6 helps Black develop the queenside knight, which was still on its starting square. Moving this pieceprepares for possible future moves like c5 or Nb4, attacking the White's d3 bishop.
+Flexibility: Na6 is a flexible move that does not commit Black to any particular pawn structure or plan. It keeps the option to play f5-f4 later, or to support the pawn push d6-d5 in the center.
+Control of key squares: The knight on a6 can support a pawn advance to c5, contesting the central d4 square and potentially opening lines for Black's pieces. } { [%cal Ga6b4,Gc7c5,Ga6c5,Gd6c5] } 8. a3 O-O 9. Nc3 c6 10. Re1 Nc7 *
+
+
+[Event "F02 Duras Gambit: Alternatives"]
+[Date "2023.04.16"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[StudyName "F02 Duras Gambit"]
+[ChapterName "Alternatives"]
+[ChapterURL "https://lichess.org/study/jYJiDTqC/pLJah7oW"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.04.16"]
+[UTCTime "16:18:41"]
+[ChapterMode "gamebook"]
+
+1. e4 f5 2. exf5 Nf6 { The arrows indicate the variance in the different lines by white. Of course the Queen move is a blunder ;). Interesting is to see that players who play the best line d4 only use limited variations afterwards. So this is easy to anticipate. } { [%cal Gg2g4,Bf1e2,Bf1d3,Bd2d3,Rd1h5] } 3. g4 { Let's learn how black should react on the most divers response, g4. } *
+
+

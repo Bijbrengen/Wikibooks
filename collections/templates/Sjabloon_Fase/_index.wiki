@@ -1,0 +1,28 @@
+<includeonly><!--
+-->{{#Switch:{{{1|}}}
+ |0
+ |1
+ |2
+ |3
+ |4={{#IfEq:{{SUBPAGENAME}}|Printversie||[[Categorie:Fase {{{1}}}]]}}
+ |?=[[Categorie:Fase onbekend]]
+ |#default={{Fout|Ongeldige waarde in Sjabloon:Fase; (0 t/m 4 is toegestaan)}}
+}}<!--
+
+--></includeonly><noinclude>{{Sjablooninfo|1=
+
+;Doel
+:Het plaatsen van een boek in [[:Categorie:Fase 0]] t/m 4, afhankelijk van de mate van ontwikkeling van het boek. Een eventueel aanwezige [[Help:Afdrukken|printversie]] van het boek wordt niet in de categorie opgenomen.
+
+;Gebruik
+:Plaats deze code op de hoofd- of voorpagina van elk boek:
+<pre>
+{{Fase|n}}
+</pre>
+:waarbij ''n'' het niveau aangeeft. Toegestane waarden zijn:
+:*0 t/m 4
+:*? voor boeken waarvan de fase (nog) niet bekend is; boeken komen in [[:Categorie:Fase onbekend]].
+
+}}
+[[Categorie:Sjablonen voortgang]]
+</noinclude>

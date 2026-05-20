@@ -1,0 +1,48 @@
+{{Opmaak}}
+== Onderwijsontwikkelaar ==
+
+E-learning is een moeilijke stiel. Het schrijven van cursusmateriaal voor het web vereist immers een heel aantal specifieke competenties. Denk daarbij maar aan volgende zaken:
+* Het cursusmateriaal moet inherent interessant worden geschreven (webtekst-cursustekst).
+* De cursus moet er aantrekkelijk uitzien.
+* De cursus moet vlot navigeerbaar zijn op verschillende manieren.
+* Er moet voldoende webcontent voorzien worden (animaties, filmpjes, audio, interactieve webapplets,...).
+* ...
+De centrale vraag voor elke cursus blijft immers wat de meerwaarde van de e-learningcursus is t.o.v. het printen van de cursus op papier. Het is belangrijk dat de leerkracht dit doel dan ook steeds voor ogen houdt.
+
+Daarnaast dient de leerkracht steeds de motivatie en sturingsvaardigheden van de leerlingen kunnen managen. Daarenboven moet er didactisch worden omgegaan met de verschillende niveaus en de verschillende leerstijlen (zie ook [[Onderwijstechnologie/ICT_en_leerstoornissen|ICT en leerstoornissen]], [[Onderwijstechnologie/ICT_en_mindervalide_leerlingen|ICT en mindervalide leerlingen]], [[Onderwijstechnologie/ICT_en_sekse|ICT en sekse]]).
+
+=== Leerkracht ===
+
+Leerkrachten hebben soms een ambivalente houding tegenover e-leren. Zij zien dat e-leren de mogelijkheid biedt een aantal dingen te doen (performance) die ze niet voor de klas kunnen realiseren en ze worden aangezet tot het verder denken over (nieuwe) onderwijswerkvormen. Aan de andere kant hebben ze hun reserves en veel leerkrachten zijn veranderingsmoe.
+Het ontbreekt de collega’s aan zicht op het verloop van het (nieuwe)leerproces van de leerling en de effecten van digitale communicatie. Bovendien ligt hun adaptief vermogen ten aanzien van ICT lager dan dat van hun leerlingen.(Digital native versus digital immigrant) Daarom hebben zij veel behoefte aan bijscholing, maar ontbreekt het hen aan tijd om dit daadwerkelijk op te pakken.
+
+De impact van e-leren op de werkverdeling en de tijdsbelasting van de leerkracht wordt vaak slecht ingeschat. De taakbelasting van leerkrachten verschuift naar voren (voorbereiden, maken leer- en toetsopdrachten) en naar achteren (beoordelen van leerling). Opvallend is dat goede digitale leerkrachten worden afgestraft doordat zij via e-mail nog meer door hun leerlingen worden
+benaderd dan hun collega’s die slecht reageren op digitale verzoeken van leerlingen. De planning staat daarmee haaks op de planning van onderwijs zonder e-leren.
+
+Het ontwikkelen van elektronische leertrajecten en digitale content  voor de doorsnee leerkracht op individuele basis is wellicht een overschatting van de mogelijkheden. Nochtans is het ontwikkelingswerk en de aanmaak van leerobjecten een centraal gegeven binnen het e-leren omdat de ELO een lege doos is waarbij erg veel beroep gedaan wordt op de vakinhoudelijke, mediathieke en agogische deskundigheid van de leerkracht. De taakconceptie van ‘lesgeven in een klaslokaal aan een groep leerlingen’, maakt stilaan plaats voor didactische teams, die medeverantwoordelijk zijn voor het leerproces van de leerling. Onderwijs ontwikkelen en uitvoeren is dus teamwerk. Niet iedere leerkracht hoeft in dezelfde mate over dezelfde vaardigheden te beschikken om ICT-rijk onderwijs te creëren. De teamleden doen dit in samenwerking en doen best beroep op de gevarieerde expertise binnen het team.
+
+Het is evident dat bovenstaande visie op teamwerking samengaat met de professionaliteit van de leerkrachten. Deze vernieuwingen vereisen nieuwe kennis en vaardigheden. Eisen die aan de leerkrachten worden gesteld situeren zich op vier niveaus: Leerkrachten en teams dewelke e-leren integreren in hun onderwijs dienen:
+* expert te zijn (via een didactisch team) om instructiemateriaal te ontwikkelen;
+* meester te zijn in een didactiek die gericht is op het opbouwen van kennis;
+* leerprocesgerichte begeleiding te kunnen verzorgen;
+* persoonlijke feedback op maat te kunnen aanreiken;
+* moderator in discussies te zijn.
+
+=== Competenties ===
+
+De volgende algemeen digitaal-didactische competenties zijn binnen elke opleiding wenselijk (Simons, 2002):
+* webbased studiemateriaal aanmaken dat voldoet aan didactische criteria en aan webdesign principes;
+* het kunnen gebruiken van een leeromgeving, het kennen van de gebruiksmogelijkheden en rollen in de leeromgeving;
+* op het juiste moment en op de juiste plaats kunnen kiezen voor en tegen inzet van ICT in het onderwijs;
+* het leiding kunnen geven aan een elektronische discussie van leerlingen en het opzetten ervan;
+* op het eigen vakgebied de weg weten op het internet (o.a. online cursussen, vakspecifiek leermateriaal), in elektronische databases en in bibliografische informatie, om op grond daarvan het leren van de leerling te bevorderen;
+* gebruik van ICT voor de eigen professionele ontwikkeling van de leerkracht.
+
+Dit betekent niet dat alle leerkrachten over al deze competenties moeten beschikken!
+
+=== In-house support ===
+
+Een goede ondersteuning van leerkrachten is een kritische factor bij de invoering van e-leren. In het verleden is deze ondersteuning vaak georganiseerd door middel van centraal aangeboden cursorische training. Ervaringen met dit soort cursorische scholing en training hebben geleerd dat de transfer van het geleerde naar de dagelijkse praktijk slechts beperkt plaatsvindt. Dat komt onder andere doordat na de cursus geen ondersteuning wordt geboden en doordat hetgeen wordt getraind niet aansluit op wat de leerkracht in zijn onderwijspraktijk nodig heeft. Een kennismakingscursus kan een goede oriëntatiefunctie vervullen. Voor de
+implementatie van e-leren op de werkvloer is echter een ander concept van scholing en training nodig. Dat concept is ‘in house support’ en ‘on the job’, een ondersteuning op de werkplek van individuele of groepen leerkrachten die vraaggestuurd is.
+
+{{Opmaak | Voettekst}}

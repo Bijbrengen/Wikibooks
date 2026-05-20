@@ -1,0 +1,10 @@
+<includeonly><!--
+
+     Gebruikt op de titelpagina van een boek. 
+
+-->{{#IfEq:{{SUBPAGENAME}}|Printversie||{{Bi/sub|{{#Switch:{{NAMESPACENUMBER}}|0=Wikibooks|104=Wikijunior|fout!}}}}}}</includeonly><!--
+
+--><noinclude>{{Sjabdoc}}
+
+[[Categorie:Sjablonen infobox| ]] 
+</noinclude>

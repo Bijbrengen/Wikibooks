@@ -1,0 +1,12 @@
+{{Opmaak}}
+== Auteursrecht en onderwijs ==
+
+Auteursrechten in het onderwijs vormen een essentieel juridisch kader voor de onderwijstechnoloog. Het gaat hierbij om de balans tussen de rechten van de maker en de behoeften van het onderwijs.
+
+=== Vergoedingen en Afspraken ===
+Scholen maken vaak gebruik van collectieve regelingen (zoals de reprorechtvergoeding) om beschermd materiaal te mogen kopiëren en verspreiden. Voor audiovisueel materiaal in de klas gelden specifieke uitzonderingen voor educatief gebruik, mits dit binnen de muren van de instelling gebeurt en geen commercieel oogmerk heeft.
+
+=== Vrije Licenties (OER) ===
+Open Educational Resources (OER) maken gebruik van vrije licenties zoals Creative Commons. Dit stelt docenten en technologen in staat om materiaal legaal te delen, aan te passen en te hergebruiken, wat cruciaal is voor de innovatie van digitaal leermateriaal.
+
+{{Opmaak | Voettekst}}

@@ -1,0 +1,17 @@
+{|align=right style="text-align:center;font-size: 135%;" class=toccolours width=100%
+|[[Bestand:P_Education.png|center|100 px]]
+|-
+|'''[[Boekenplank:Samenleving|67. Onderwijs en opleiding]]'''
+|}
+|-
+|style="font-size: 85%;" align=left|
+
+* [[Leren]]{{100%|Datum=Volgens infobox}}
+* [[Ondernemend leren]]{{100%|Datum=Volgens infobox}}
+* [[Onderwijs]]{{100%|Datum=Volgens infobox}}
+* [[Onderwijsarchitect]]{{100%|Datum=Volgens infobox}}
+* [[Speels leren]]{{100%|Datum=Volgens infobox}}
+* [[Vrij leren]]{{100%|Datum=Volgens infobox}}
+
+<!-- [[Categorie:Samenleving]] -->
+<noinclude>[[Categorie:Sjablonen voor een bepaald boek]]</noinclude>

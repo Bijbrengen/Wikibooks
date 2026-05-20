@@ -1,0 +1,80 @@
+{{Beheerpagina's}}
+[[Categorie:Wikibooks:Beheer|Moderator]]
+
+Hoewel we dit project met z'n allen maken, is er een aantal personen als [[Wikibooks:moderator|moderator]]en met speciale taken, verantwoordelijkheden en mogelijkheden.
+<br style="clear: both;">
+{|
+|valign=top width=50%|
+'''Als moderator heb je de volgende extra mogelijkheden:'''
+
+* met één druk op de knop de laatste wijziging van een pagina ongedaan maken
+* een pagina (of een bepaalde versie ervan) verwijderen
+* een volledig verwijderde pagina of afbeelding weer terughalen
+* een pagina beveiligen zodat alleen moderatoren die kunnen wijzigen en/of hernoemen
+* de beveiliging van een pagina opheffen
+* een gebruiker of ip-adres blokkeren
+* een geblokkeerde gebruiker of ip-adres weer deblokkeren
+|valign=top|
+'''We verwachten van moderatoren dat ze:'''
+
+* Zich zullen houden aan de [[Wikibooks:Richtlijnen voor moderatoren]]
+* De nodige basiskennis hebben, te vinden in [[Handleiding moderatoren|de handleiding voor moderatoren]]
+* Meehelpen met de huishoudelijke werkzaamheden als de dagelijkse verwijderingen, vandalen waarschuwen en evt. blokkeren
+* Meehelpen met het beantwoorden van e-mails van bezoekers
+* Contact houden met de overige moderatoren
+* Zich ook verder inzetten voor het algemene nut van WikibooksNL
+|}
+Mocht je belangstelling hebben om moderator te worden, geef dat dan hieronder aan. De andere gebruikers kunnen dan gedurende 2 weken hun mening geven. Bij voldoende steun wordt een verzoek voor het moderatorschap door een van de bureaucraten ingewilligd.
+
+<h2 style="color: #000000; font-size: 17px; background-color: #FFFFCC; padding: 5px; margin: 10px 0; border: 1px black solid;">Nuttige links i.v.m. moderatorstatuut</h2>
+* [[Wikibooks:Regelingen rond moderatoren|Regelingen rond moderatorrechten]].
+* [[Wikibooks:Aanmelding moderatoren/archief|Archief met eerdere moderatoraanvragen]]
+* [[Wikibooks:Verlenging of opzegging moderatorrechten|Verlenging of opzegging van moderatorrechten.]]
+* <s>[[Wikibooks:Aanmelding moderators/Inactiviteit moderator|Opzegging moderatorrechten wegens inactiviteit.]]</s>
+* [[Wikibooks:Afzetting moderatoren|Motie van wantrouwen tegen een moderator indienen.]]
+
+<!-- Nieuwe aanmeldingen hieronder -->
+== Nieuwe aanmeldingen moderator ==
+==={{Lg|Julien Grandgagnage}}===
+Ik was een beetje een zwerver tussen allerlei samenwerkingsprojecten online, maar kwam steeds terug naar Wikibooks, waar ik al sinds 2007 aan meewerk. Het is hier fijn (samen)werken, en nu ik wat tot rust ben gekomen ga ik hier in de toekomst zeker actief blijven. Ik ben vooral bezig in de hoofdnaamruimte, maar - als jullie dat zien zitten - wil ik best mee op de winkel letten als moderator als dat nodig is. Bovendien moeten mijn edits dan niet meer afgevinkt worden door anderen :)
+
+====Looptijd====
+:De peiling loopt tot twee weken na 19 maart 2017
+
+==== Voor ====
+# Daar ben ik heel erg voor. Ook gezien je geweldige bijdragen. --{{Gebruiker:Vangelis/Handtekening}} 19 mrt 2017 14:58 (CET)
+# [[Gebruiker:De Wikischim|De Wikischim]] ([[Overleg gebruiker:De Wikischim|overleg]]) 19 mrt 2017 15:16 (CET) aanvullend: mijn eigen activiteit hier op Wikibooks zal de komende tijd wellicht iets lager zijn, onder meer omdat ik druk bezig ben een ander Wikiproject te helpen herstarten. Dan is een extra moderator hier dus helemaal mooi meegenomen. [[Gebruiker:De Wikischim|De Wikischim]] ([[Overleg gebruiker:De Wikischim|overleg]]) 23 mrt 2017 21:56 (CET)
+# Prima! [[Gebruiker:Ellywa|Ellywa]] ([[Overleg gebruiker:Ellywa|overleg]]) 20 mrt 2017 09:10 (CET)
+# [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 20 mrt 2017 13:16 (CET)
+
+====Tegen ====
+#..
+
+==== Vragen aan xxxxx ====
+:*..
+
+====Conclusie====
+De evaluatieperiode is afgesloten, 100% van de uitgebrachte stemmen was voor de benoeming van J.G.G. tot moderator; de bijbehorende gebruikersrechten zijn zojuist ingesteld. Gefeliciteerd! En mijn excuses voor de vertraging, ik was het vergeten... :-( - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 15 apr 2017 02:04 (CEST)
+:@iedereen - Bedankt voor het vertrouwen! [[Gebruiker:J.G.G.|Jules]] ([[Overleg gebruiker:J.G.G.|overleg]]) 15 apr 2017 11:09 (CEST)
+
+----
+==={{Lg|BeeBringer}}===
+Beste collegae, ik merk dat het onderhoud op de schouders ligt van enkelingen en dat de controles op wijzigingen begint achter te lopen. Aangezien ik toch regelmatig wat bijdraag, en daarmee een extra beroep doe op moderatoren om die wijzigen te checken, is het een kleine en redelijke tegenprestatie daarin te assisteren indien gewenst.
+
+====Looptijd====
+:De peiling loopt tot twee weken na 16 september 2022
+
+==== Voor ====
+# Prima, door mijn afnemende gezondheid kan het geen kwaad. --{{Gebruiker:Vangelis/Handtekening}} 16 sep 2022 17:20 (CEST)
+# Natuurlijk, zeer productieve en bekwame medewerker. [[Gebruiker:J.G.G.|J.G.G.]] ([[Overleg gebruiker:J.G.G.|overleg]]) 16 sep 2022 17:47 (CEST)
+# [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 16 sep 2022 23:33 (CEST)
+# Ik ben nauwelijks actief op Wikibooks momenteel. Alle vertrouwen in het oordeel van de drie personen hierboven. [[Gebruiker:Ellywa|Ellywa]] ([[Overleg gebruiker:Ellywa|overleg]]) 17 sep 2022 20:58 (CEST)
+
+==== Tegen ====
+#..
+
+==== Vragen aan BeeBringer ====
+:*..
+
+====Conclusie====
+De evaluatieperiode is afgesloten, 100% van de uitgebrachte stemmen was voor de benoeming van BeeBringer tot moderator; de bijbehorende gebruikersrechten zijn zojuist ingesteld. Gefeliciteerd! - [[Gebruiker:Erik Baas|Erik Baas]] ([[Overleg gebruiker:Erik Baas|overleg]]) 2 okt 2022 10:44 (CEST)

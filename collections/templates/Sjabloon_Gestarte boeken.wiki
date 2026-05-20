@@ -1,0 +1,207 @@
+<!-- NIEUWE BOEKEN op ALFABET invoegen - Zet er het VOORTGANGSSJABLOON en de DATUM bij (bijvoorbeeld 0, 25, of 50%|Datum=01 maart 2010). De bedoeling is de laatst eraan gewerkte datum. Dat hoeft niet elke keer, maar is wel handig om te zien DAT er nog steeds aan gewerkt wordt. Boeken die voor 75% of meer 'af' zijn verplaatsen naar de kolom 'Wiki Boeken'-->
+<h3>'''Lijst van wikiboeken die voor minder dan 75% klaar zijn. Uw goede aanvullingen zijn welkom. (In de linkerkolom staan boeken die al verder zijn.)'''</h3>
+<div class="plainlinks" style="margin-bottom: 0.6em;">''Voeg als u een nieuw boek begint de titel aan deze lijst toe: [https://nl.wikibooks.org/w/index.php?title=Sjabloon:Gestarte_boeken&action=edit klik hier.]''</div>
+'''A'''
+[[Abstracte algebra]]{{25%|Datum=16 februari 2010}} -
+[[Portaal:Allochtone talen in Nederland]]{{0%|Datum=19 oktober 2005}} -
+[[Amélie Nothomb]]{{50%|Datum=19 augustus 2017}} -
+[[Analyse]]{{50%|Datum=14 februari 2010}} -
+[[Anaximander over de natuur]]{{25%|Datum=29 maart 2010}} -
+[[Aquaristiek]]{{50%|Datum=16 februari 2010}} -
+[[Archeologie]]{{00%|Datum=24 april 2010}} -
+[[Arduino]]{{00%|Datum=30 juli 2013}} -
+[[Astronomisch woordenboek]]{{00%|Datum=26 juli 2010}} -
+[[Atlas van Europa]]{{25%|Datum=13 februari 2010}}
+<br>
+'''B'''
+[[Basiskennis chemie]]{{00%|Datum=06 september 2014}} -
+[[Basisstructuur van de kosmos]]{{25%|Datum=3 september 2010}} -
+[[Bekende filosofen uit de geschiedenis]]{{25%|Datum=17 maart 2016}} -
+[[Belgische Franstalige literatuur]]{{25%|Datum=1 december 2019}} -
+[[Beroemde jazzmuzikanten]]{{25%|Datum=28 augustus 2010}} - -
+[[Biochemie]]{{25%|Datum=13 februari 2010}} -
+[[Biologie]]{{25%|Datum=13 februari 2010}} - 
+[[Bitcoin voor beginners]]{{25%|Datum=20 februari 2018}}
+<br>
+'''C'''
+[[Catalaans]]{{25%|Datum=15 februari 2010}} -
+[[Chemie Centraal]]{{25%|Datum=13 februari 2010}} -
+[[Chemisch rekenen]]{{25%|Datum=15 februari 2010}} -
+[[Cascading Style Sheets|CSS]]{{25%|Datum=15 februari 2010}} -
+[[Chillipepers.nl]]{{00%|Datum=13 juni 2011}} -
+[[Computernetwerken]]{{25%|Datum=10 dec 2010}} -
+[[Computerspellen]]{{25%|Datum=Volgens infobox}} -
+[[Computersystemen]]{{25%|Datum=23 november 2012}} -
+[[Cursusboek Marifonie]]{{50%|Datum=15 februari 2010}} -
+[[Cursus noten lezen]]{{25%|Datum=12 december 2013}} 
+<br>
+'''D'''
+[[Dammen]]{{25%|Datum=15 februari 2010}} -
+[[Datacommunicatie in informatica]]{{50%|Datum=15 februari 2010}} - 
+[[Decamerone]]{{50%|Datum=21 augustus 2011}} -
+[[Deens]]{{50%|Datum=25 september 2006}} -
+[[Portaal:Dierengids|Dierengids]]{{25%|Datum=16 februari 2010}} -
+[[Dominobouwen]]{{25%|Datum=29 maart 2010}} -
+[[Duits]]{{25%|Datum=16 februari 2010}} -
+[[Dwengo]]{{25%|Datum=6 december 2012}}
+<br>
+'''E'''
+[[EHBO]]{{25%|Datum=15 februari 2010}} -
+[[Elektriciteit]]{{25%|Datum=15 februari 2010}} -
+[[Elektronica]]{{25%|Datum=15 februari 2010}} -
+[[Engels]]{{25%|Datum=16 februari 2010}} -
+[[Etiquette voor het internationaal zakendoen|Etiquette voor het internationaal zakendoen]]{{25%|Datum=16 februari 2010}} -
+[[Evolutie]]{{50%|Datum=23 mei 2025}}
+<br>
+'''F'''
+[[Farmacologie]]{{50%|Datum=15 februari 2010}} -
+[[Filmmontage]]{{00%|Datum=3 juni 2010}} -
+[[Fourieranalyse]]{{25%|Datum=14 februari 2010}} -
+[[Frans]]{{25%|Datum=16 februari 2010}} -
+[[Fries]]{{50%|Datum=16 februari 2010}} -
+[[Wikibooks:Fysica|Fysica (project onderwijs)]]{{25%|Datum=14 februari 2010}}
+<br>
+'''G'''
+[[Gebruik van de opdrachtprompt]]{{25%|Datum=15 februari 2010}} -
+[[Gedichten uit de wereldliteratuur]] -
+[[Geheimschrift]]{{00%|Datum=8 maart 2010}} -
+[[Gender en diversiteit]]{{25%|Datum=20 juni 2005}} -
+[[Geneeskunde]]{{25%|Datum=15 februari 2010}} -
+[[Genieten van Seks]]{{50%|Datum=23 oktober 2015}} -
+[[Georges Simenon]]{{25%|Datum=8 september 2016}} -
+[[Gitaar]]{{50%|Datum=16 februari 2010}} -
+[[Gotisch]]{{25%|Datum=16 februari 2010}} -
+[[Griekse mythologie]]{{25%|Datum=21 september 2008}} -
+[[Gronings]]{{25%|Datum=15 februari 2010}}
+<br>
+'''H'''
+[[Handboek practica onderwijs|Handboek practicaonderwijs]]{{25%|Datum=15 februari 2010}} -
+[[Handige Harry]]{{50%|Datum= 29 september 2008}} -
+[[Hengelsport]]{{25%|Datum=16 februari 2010}} -
+[[Heraclitus over de natuur]]{{50%|Datum=15 februari 2010}}
+[[Hermetische kabbala]]{{50%|Datum=24 augustus 2010}} -
+[[Houtzaagmolens praktijkhandboek]]{{25%|Datum=31 oktober 2010}} -
+[[HTML]]{{50%|Datum=15 februari 2010}} -
+[[Portaal:Huisdierengids|Huisdierengids]]{{25%|Datum=15 februari 2010}} -
+[[Victor Hugo]]{{25%|Datum=7 juli 2024}}
+<br>
+'''I'''
+[[Ido]]{{25%}} -
+[[Inleiding Oude en Nieuwe Testament]]{{25%|Datum=15 februari 2010}} -
+[[In mensentaal]]{{25%|Datum=16 februari 2010}}
+<br>
+'''J'''
+[[Jazz standards]]{{25%|Datum=30 augustus 2010}} -
+<br>
+'''K'''
+[[Kaartspel|Kaartspelen]]{{50%|Datum=15 februari 2010}} -
+[[Kantoorsoftware]]{{50%|Datum=15 februari 2010}} -
+[[Kennisbank keramiek]]{{25%|Datum=27 april 2019}} -
+[[Koningen aan de Nijl]]{{25%|Datum=9 juli 2006}} -
+[[Kostprijsberekening en interne informatievoorziening]]{{50%|Datum=16 februari 2010}} -
+[[Kunstgeschiedenis]]{{25%|Datum=16 februari 2010}}
+<br>
+'''L'''
+[[Latijn (scholierenversie)]]{{25%|Datum=15 februari 2010}} -
+[[Leerboek Wikipedia]]{{25%|Datum=24 april 2011}} -
+[[Leer jezelf ecologisch tuinieren]]{{50%|Datum=23 augustus 2017}} -
+[[Litouws]]{{25%|Datum=15 februari 2010}}
+<br>
+'''M'''
+[[Maatschappijleer]]{{50%|Datum=23 augustus 2017}} -
+[[Magische wetenschap|Magische wetenschappen]]{{25%|Datum=15 februari 2010}} -
+[[Manifest van de angst]]{{50%|Datum=9 december 2011}} -
+[[Mechanica van materialen]]{{50%|Datum=15 februari 2010}} -
+[[Melkwinning]]{{25%|Datum=9 juni 2010}} -
+[[Meten en onzekerheid]]{{25%|Datum=15 februari 2011}} -
+[[Mineralen verzamelen]]{{25%|Datum=18 december 2007}} -
+[[Modelspoorwegbouw]]{{25%|Datum=22 maart 2009}}
+<br>
+'''N'''
+[[Nederlands]]{{25%|Datum=16 februari 2010}} -
+[[Nederlandse geschiedenis]]{{50%|Datum=20 juni 2005}} - 
+[[Nederlandse jazz]]{{50%|Datum=28 augustus 2010}} -
+[[Noors]]{{25%|Datum=4 april 2013}}
+<br>
+'''O'''
+[[Omrekenen van eenheden]]{{50%|Datum=15 februari 2010}} -
+[[Onderwijs in relatie tot P2P]]{{50%|Datum=23 september 2014}} -
+[[Ontdekkingsreizen]]{{00%|Datum=23 april 2017}} -
+[[Ontwerp en bouw een besturingssysteem]]{{25%|Datum=15 februari 2010}} -
+[[OpenOffice.org]]{{25%|Datum=15 februari 2010}} -
+[[OpenStreetMap]]{{25%|Datum=15 februari 2010}} -
+[[Oracle]]{{50%|Datum=15 februari 2010}} -
+[[Organische chemie]]{{25%|Datum=13 februari 2010}} -
+[[Oudgrieks]]{{25%|Datum=16 februari 2010}} -
+[[Over beroemde personen]]{{25%|Datum=16 februari 2010}}-
+[[Opfriscursus literatuur]]{{25%|Datum=23 augustus 2010}}
+<br>
+'''P'''
+[[Papiamento]]{{00%|Datum=16 februari 2010}} -
+[[Periodiek systeem]]{{25%|Datum=15 februari 2010}} -
+[[Personenzorg I]]{{25%|Datum=15 februari 2010}} -
+[[Perzisch]]{{00%|Datum=16 februari 2010}} -
+[[Pinnacle Studio]]{{25%|Datum=15 februari 2010}} -
+[[Edgar Allan Poe]] - {{25%|Datum=14 juli 2024}}
+[[Pools]]{{50%|Datum=16 februari 2010}} -
+[[Portugees]]{{25%|Datum=16 februari 2010}} -
+[[Programmeren, de basis]]{{50%|Datum=15 februari 2010}} -
+[[Programmeren in C]]{{50%|Datum=15 februari 2010}} -
+[[Programmeren in C++]]{{25%|Datum=15 februari 2010}} -
+[[Programmeren in C Sharp|Programmeren in C#]]{{25%|Datum=15 februari 2010}} -
+[[Programmeren in COBOL]]{{50%|Datum=15 februari 2010}} -
+[[Programmeren in Java]]{{25%|Datum=15 februari 2010}} -
+[[Programmeren in JavaScript]]{{25%|Datum=15 februari 2010}} -
+[[ Programmeren in Just Basic]]{{25%|Datum=4 augustus 2012}} -
+[[Programmeren in Pascal]]{{50%|Datum=15 februari 2010}} -
+[[Programmeren in Python]]{{50%|Datum=15 februari 2010}} -
+[[Programmeren in Ruby]]{{25%|Datum=15 februari 2010}} -
+[[Programmeren in VB & VBA]]{{25%|Datum=15 februari 2010}} -
+[[Programmeren in x86 assembler]]{{25%|Datum=15 februari 2010}}
+<br>
+'''R'''
+[[Religieus woordenboek]]{{25%|Datum=19 januari 2011}} -
+[[Roemeens]]{{25%|Datum=16 februari 2010}} -
+[[Russisch]]{{50%|Datum=16 februari 2010}} 
+<br>
+'''S'''
+[[Saterfries]]{{25%|Datum=15 februari 2010}} -
+[[Scheepsstabiliteit]]{{00%|Datum=06 augustus 2011}} - 
+[[Scheikunde]]{{25%|Datum=13 februari 2010}} -
+[[Scheikunde Opgaven]]{{50%|Datum=Volgens infobox}} - 
+[[Schrijven]]{{00%|Datum=10-04-2026}} -
+[[Shakespeares toneelstukken]]{{25%|Datum=16 april 2017}} -
+[[Shakespeare van A tot Z]]{{25%|Datum=11 november 2021}} -
+[[Sindarijns]]{{50%|Datum= 13 aug 2010}} -
+[[Sloveens]]{{00%|Datum=16 februari 2010}} -
+[[Songbook]]{{00%|Datum=16 juli 2015}} -
+[[Spaans]]{{25%|Datum=16 februari 2010}} -
+[[Sterkteleer]]{{50%|Datum=20 juli 2010}} -
+[[Sterren kijken]]{{25%|Datum=11 december 2013}}
+<br>
+'''T'''
+[[Tekstverwerking]]{{25%|Datum=15 februari 2010}} -
+[[Toetsenbank]]{{25%|Datum=30 september 2006}} -
+[[Toevalsprocessen]]{{50%|Datum=22 jul 2011}} -
+[[Trucs met de diabolo]]{{50%|Datum=16 februari 2010}} -
+[[Tsjechisch]]{{00%|Datum=16 februari 2010}} -
+[[Turks]]{{25%|Datum=16 februari 2010}} -
+[[Transfusiegeneeskunde]]{{25%|Datum=06 oktober 2011}}
+<br>
+'''V'''
+[[Verteltechnieken]]{{25%|Datum=16 februari 2010}} - 
+[[Vietnamees]]{{25%|Datum=4 november 2010}}
+<br>
+'''W'''
+[[Welsh]]{{50%|Datum=20 augustus 2010}} -
+[[Werken met MKVToolnix]]{{50%|Datum=15 februari 2010}} -
+[[West-Vlaams]]{{50%|Datum=15 februari 2010}} -
+[[William Wordsworth]]{{25%|Datum=14 november 2019}} -
+[[Windows]]{{25%|Datum=15 februari 2010}} - 
+[[Woordenboek&nbsp;literatuur]]{{25%|Datum=12 feb 2018}}
+<br>
+'''Z'''
+[[Zeeuws]]{{25%|Datum=15 februari 2010}} -
+[[Zeilen met een open kielboot op Gooi- en Eemmeer]]{{25%|Datum=15 februari 2010}} -
+[[Zweeds]]{{25%|Datum=16 februari 2010}}
+<noinclude>[[Categorie:Sjablonen hoofdpagina]]</noinclude>

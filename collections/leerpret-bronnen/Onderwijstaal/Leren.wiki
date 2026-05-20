@@ -1,0 +1,28 @@
+{{Opmaak}}
+Freell maakt gebruik van bestaande Large Language Models (LLM's) om menselijke taal naar '''Freell''' te vertalen, maar voegt daar een cruciale extra laag aan toe.
+
+== LLM's ==
+'''Freell''' benut de kracht van bestaande LLM's vanwege hun efficiëntie in taalverwerking.
+Deze modellen zijn al getraind in meerdere talen, wat hen zeer effectief maakt voor de doeleinden van '''Freell'''.
+
+== De Freell Interpreter ==
+In tegenstelling tot traditionele LLM's bevat Freell een interpreter die taalfouten kan identificeren en markeren.
+Dit garandeert dat vertalingen door het LLM naar Freell nauwkeurig en betrouwbaar zijn.
+
+== Feedbackloop ==
+De interpreter speelt een cruciale rol in het leerproces van de AI:
+* Wanneer de AI menselijke taal naar '''Freell''' vertaalt, beoordeelt de interpreter de vertaling.
+* Bij onnauwkeurigheden wordt deze feedback teruggekoppeld naar de AI.
+* Dit proces vindt plaats op grote datasets, waardoor de AI continu zijn nauwkeurigheid in het vertalen naar '''Freell''' verbetert.
+
+== Expertregels ==
+Wanneer een communicatie in '''Freell''' resulteert in een actie die door de gebruiker als effectief wordt beschouwd, wordt deze gecodeerd als een hard-coded expertregel binnen '''Freell'''.
+Dit zorgt ervoor dat succesvolle acties consistent worden herhaald in vergelijkbare toekomstige scenario's.
+De toevoeging van deze regels bouwt een groeiende database op van betrouwbare acties, waardoor de afhankelijkheid van de interpretatieve vermogens van de AI voor elk individueel geval afneemt.
+
+== Promptingtaal ==
+Het ontwerp van '''Freell''' is erop gericht een ondubbelzinnige promptingtaal voor de AI te zijn.
+Deze helderheid zorgt ervoor dat instructies die door de AI worden verwerkt, eenduidig zijn.
+Hoe duidelijker de structuur van '''Freell''', hoe effectiever het kan dienen als brug tussen menselijke taal en AI-gestuurde acties.
+
+{{Opmaak | Voettekst}}

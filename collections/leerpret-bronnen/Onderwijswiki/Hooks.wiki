@@ -1,0 +1,12 @@
+{{Opmaak}}
+Hooks in MediaWiki stellen ontwikkelaars in staat om in te haken op specifieke momenten van de verwerkingscyclus van de software om aangepaste functionaliteit toe te voegen of de standaardfunctionaliteit te wijzigen. 
+
+== Inhaken ==
+Hooks zijn aangepaste punten binnen de MediaWiki-software waarop extensies kunnen "inhaken" om de functionaliteit uit te breiden of aan te passen. Ze bieden een krachtig mechanisme om de werking van MediaWiki aan te passen zonder de kerncode te wijzigen. Wanneer een bepaalde gebeurtenis in MediaWiki plaatsvindt (bijvoorbeeld het weergeven van een pagina of het bewerken van tekst), controleert het systeem of er hooks zijn geregistreerd voor die gebeurtenis. Als er een hook is geregistreerd, wordt de bijbehorende functie aangeroepen en kan deze de uitvoering aanpassen of aanvullen.
+
+== Bouw ==
+Om een eigen hook te maken in een extensie:
+# Registreer de hook in je extensiecode, gewoonlijk in het extension.json bestand of in je PHP-bestand met behulp van de Hooks::register methode.
+# Implementeer de logica die je wilt uitvoeren wanneer de hook wordt geactiveerd.
+
+{{Opmaak | Voettekst}}

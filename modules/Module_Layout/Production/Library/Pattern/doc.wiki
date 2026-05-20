@@ -1,0 +1,1 @@
+{{Opmaak|Patronen om strings te analyseren of te manipuleren zijn lastig te doorgronden en foutgevoelig. Daarom worden ze indien ze complex en cruciaal zijn apart in deze bibliotheek gezet en afzonderlijk grondig getest in [[Module:Layout/Test/Pattern]]}}

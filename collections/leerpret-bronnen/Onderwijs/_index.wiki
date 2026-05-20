@@ -1,0 +1,13 @@
+{{Opmaak
+| Titel = Onderwijs
+| Object = Reeks
+| Bron = Onderwijs logo.webp
+| Definitie = [[w:nl:Onderwijs|Onderwijs]] is het op iemand overbrengen van kennis, vaardigheden of een houding.<br>Met onderwijs wordt ook de plek (school of opleiding) of de methode van onderwijs ([[ondernemend onderwijs]]) of het proces uitgevoerd door de [[Onderwijsprofessional/Algemeen|onderwijsgevende]] geduid.<br>Onderwijs kan ook worden gezien als de organisatie van het leren. Met die definitie kan men "zichzelf onderwijzen".
+| Beschrijving = In deze boekenserie boek wordt uitgelegd hoe in Nederland het onderwijs is georganiseerd in de tijd en over verschillende [[Onderwijsniveau|niveau's en richtingen]].<br>Ook worden enkele [[w:Onderwijsvorm|onderwijsvormen]] besproken.<br>In deze boekserie worden enkele [[vrij leren|vrij makende]] [[w:Onderwijsvorm|onderwijsvormen]] in aparte boeken besproken.<br>In de boekenserie [[onderwijsprofessional]] worden de verschillende rollen die men in het onderwijs kan innemen, toegelicht.<br>De rollen van [[onderwijsarchitect]] en [[onderwijstechnoloog]] worden in aparte boeken besproken.<br>Onderwijs staat niet gelijk aan [[leren]] en er vaak zelfs tegenover.<br>Onderwijs richt zich namelijk vaak op de kwaliteit van de organisatie van het leren in plaats van [[Leren_leren/Kwaliteit|de kwaliteit van het leren]] zelf.
+| Formaat = html
+| Voortgang = 100
+| Collectie = Onderwijs en opleiding
+| Onderdeel = Onderwijs&shy;niveau, Onderwijs&shy;vorm, Entreprenasium, Leer&shy;paradijs, Humanature, Filosofisch &shy;onderwijs, Onderwijs&shy;professional, Onderwijs&shy;architect, Onderwijs&shy;technoloog
+| Support = Signaleer
+| Referentie = wikipedia
+}}

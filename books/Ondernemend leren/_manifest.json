@@ -1,0 +1,74 @@
+{
+    "source":  "https://nl.wikibooks.org/wiki/Ondernemend_leren",
+    "api":  "https://nl.wikibooks.org/w/api.php",
+    "title":  "Ondernemend leren",
+    "fetched_at_utc":  "2026-04-27T09:00:46.5475722Z",
+    "page_count":  5,
+    "pages":  [
+                  {
+                      "title":  "Ondernemend leren",
+                      "file":  "_module.wiki",
+                      "pageid":  39735,
+                      "contentmodel":  "wikitext",
+                      "revid":  424033,
+                      "parentid":  405809,
+                      "timestamp":  "2026-04-25T04:02:22Z",
+                      "user":  "BeeBringer",
+                      "comment":  "",
+                      "sha1":  "7464b3bb7eb85a3cb6aa883ef8e816c9bd988bc1",
+                      "bytes":  1786
+                  },
+                  {
+                      "title":  "Ondernemend leren/Productief",
+                      "file":  "Productief.wiki",
+                      "pageid":  39747,
+                      "contentmodel":  "wikitext",
+                      "revid":  424505,
+                      "parentid":  424295,
+                      "timestamp":  "2026-04-26T18:02:05Z",
+                      "user":  "BeeBringer",
+                      "comment":  "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+                      "sha1":  "ce59e67b8f0e626c8a67abd09d883cecbc59ffe1",
+                      "bytes":  11962
+                  },
+                  {
+                      "title":  "Ondernemend leren/Doelgroep",
+                      "file":  "Doelgroep.wiki",
+                      "pageid":  39748,
+                      "contentmodel":  "wikitext",
+                      "revid":  424502,
+                      "parentid":  424240,
+                      "timestamp":  "2026-04-26T18:01:47Z",
+                      "user":  "BeeBringer",
+                      "comment":  "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+                      "sha1":  "621f4cabb6b8019824e1a92f1039a37847268c39",
+                      "bytes":  10744
+                  },
+                  {
+                      "title":  "Ondernemend leren/Methode",
+                      "file":  "Methode.wiki",
+                      "pageid":  39749,
+                      "contentmodel":  "wikitext",
+                      "revid":  424504,
+                      "parentid":  424242,
+                      "timestamp":  "2026-04-26T18:01:59Z",
+                      "user":  "BeeBringer",
+                      "comment":  "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+                      "sha1":  "f2890327ac15d4c9d3656d49d09bfa460c1bddc8",
+                      "bytes":  15440
+                  },
+                  {
+                      "title":  "Ondernemend leren/Implementatie",
+                      "file":  "Implementatie.wiki",
+                      "pageid":  39752,
+                      "contentmodel":  "wikitext",
+                      "revid":  424503,
+                      "parentid":  424241,
+                      "timestamp":  "2026-04-26T18:01:53Z",
+                      "user":  "BeeBringer",
+                      "comment":  "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+                      "sha1":  "1c0128cd8e6175616b31c25d085802ba6f209772",
+                      "bytes":  11378
+                  }
+              ]
+}

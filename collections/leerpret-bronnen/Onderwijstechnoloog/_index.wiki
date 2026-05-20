@@ -1,0 +1,13 @@
+{{Opmaak
+| Titel = Onderwijstechnoloog
+| Object = Boek
+| Bron = Educationtechnology.png
+| Definitie = Een [[w:nl:Onderwijstechnoloog|onderwijstechnoloog]] is de architect en beheerder van een [[Onderwijsplatform|onderwijsplatform]], gespecialiseerd in de technische implementatie van een [[Onderwijstaal|onderwijstaal]].
+| Beschrijving = Dit boek behandelt de rol van de onderwijstechnoloog bij het ontwerpen, bouwen en beheren van digitale leeromgevingen. De focus ligt op het creëren van een robuuste infrastructuur voor [[Onderwijstaal/Vrijheid|vrij leren]], waarbij gebruik wordt gemaakt van de [[Onderwijstaal/Leerbox|leerbox]] als centraal formaat. Een onderwijstechnoloog slaat de brug tussen pedagogische behoeften (het 'wat') en technologische realisatie (het 'hoe').
+| Formaat = html
+| Voortgang = 100
+| Support = Signaleer
+| Referentie = wikipedia
+| Collectie = Onderwijsplatform
+| Onderdeel = Inleiding, Profiel, Platform, Onderwijstaal, Leerbox, Toegankelijkheid, Hosting, Ontwerp, Theorie, Praktijk, Auteursrecht
+}}

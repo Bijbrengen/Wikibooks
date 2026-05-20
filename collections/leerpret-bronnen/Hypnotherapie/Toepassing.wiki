@@ -1,0 +1,26 @@
+{{Opmaak}}
+== Lichamelijk ==
+Hypnotherapie is volgens wetenschappelijk onderzoek effectief bij 
+* bij de behandeling van het {{Wp|Prikkelbaredarmsyndroom|Prikkelbaredarmsyndroom}}&nbsp;<ref>Miller, V. , Carruthers, H. R., Morris, J. , Hasan, S. S., Archbold, S. and Whorwell, P. J. (2015), Hypnotherapy for irritable bowel syndrome: an audit of one thousand adult patients. Aliment Pharmacol Ther, 41: 844-855. doi:10.1111/apt.13145</ref> en andere
+* {{Wp|Somatisch onvoldoende verklaarde lichamelijke klachten|somatisch onvoldoende verklaarde lichamelijke klachten}}&nbsp;<ref>Erich Flammer & Assen Alladin (2007) The Efficacy of Hypnotherapy in the Treatment of Psychosomatic Disorders: Meta-analytical Evidence, International Journal of Clinical and Experimental Hypnosis, 55:3, 251-274, DOI: 10.1080/00207140701338696</ref>),
+* {{Wp|Afvallen|afvallen}}.&nbsp;<ref>Cochrane, G., & Friesen, J. (1986). Hypnotherapy in weight loss treatment. Journal of Consulting and Clinical Psychology, 54(4), 489–492. https://doi.org/10.1037/0022-006X.54.4.489</ref>
+
+== Psychisch ==
+Hypnotherapie is volgens wetenschappelijk onderzoek effectief bij 
+* {{Wp|Angst|angst}}&nbsp;<ref>William L. Golden (2012) Cognitive Hypnotherapy for Anxiety Disorders, American Journal of Clinical Hypnosis, 54:4, 263-274, DOI: 10.1080/00029157.2011.650333</ref>,
+* {{Wp|Depressie|depressie}}&nbsp;<ref>Assen Alladin (2012) Cognitive Hypnotherapy for Major Depressive Disorder, American Journal of Clinical Hypnosis, 54:4, 275-293, DOI: 10.1080/00029157.2012.654527</ref>
+* {{Wp|Verslaving|verslavingen}} ({{Wp|Roken (tabak)|roken}}&nbsp;<ref>Abbot NC, Stead LF, White AR, Barnes J. Hypnotherapy for smoking cessation" ''Cochrane Database of Systematic Reviews'' 2005, Issue 1. Art. No.: CD001008.</ref>)
+
+== Sociaal ==
+Hypnotherapie is volgens wetenschappelijk onderzoek effectief bij 
+* de zelfwaardering bij jongeren met {{Wp|Autisme|autisme}}.&nbsp;<ref>Janssen, Mariëlle. [https://www.metherapy.nl/doc/autisme_onderzoek.pdf EncompASS: Effecten van hypnotherapie op de zelfwaardering van jongeren met autisme]. Hypnotherapie en integrale psychosociale therapie (augustus 2018).</ref>
+
+{{Opmaak 
+ | Voettekst 
+ | wiki ; MeTherapy ; https://wiki.metherapy.nl/index.php/Afvallen ; Wiki Afvallen ; Deze wikipagina geeft aan hoe hypnotherapie werkt als virtuele maagband.
+ | wiki ; Nederlandse Beroepsvereniging van Hypnotherapeuten ; https://hypnotherapie.nl/recept/ ; Pagina over Autisme en PDS ; Deze pagina legt uit hoe een jongere met ASS en PDS door zelfhypnose te leren wordt behandeld.
+ | cursus ; Wellness Institute ; https://web.wellness-institute.org/blog/bid/266024/five-ways-to-treat-depression-with-hypnotherapy ; Hypnotherapy Training ; Deze cursus leert je in 6 dagen om depressie te behandelen als hypnotherapeut.
+ | cursus ; Gratis na aanmelding ; https://elo.metherapy.nl/enrol/index.php?id{{=}}6 ; ELO Lichamelijke Klachten ; In deze gratis cursus leer je hoe lichamelijke klachten kunnen worden behandeld met hypnotherapie
+ | wiki ; Martini Ziekenhuis ; https://www.martiniziekenhuis.nl/Behandelingen--onderzoeken/Overig/PDS/Medische-hypnose/ ; Pagina PDS ; Deze wikipagina legt uit hoe hypnotherapie wordt ingezet voor het Prikkelbaredarmsyndroom.
+ | wiki ; Nationaal register voor hypnose & hypnotherapie ; https://hypnose.nl/category/verslaving/ ; Informatie Verslaving ; Deze pagina toont hoe verslaving en verslavingsproblematiek door hypnose en hypnotherapie opgelost kunnen worden.
+}}

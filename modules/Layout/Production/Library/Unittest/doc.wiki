@@ -1,0 +1,8 @@
+﻿{{Opmaak}}
+== Inleiding ==
+Dit is de test-bibliotheek van de [[Module:Layout]]. Deze bibliotheek is gebaseerd op de [https://www.mediawiki.org/wiki/Module:ScribuntoUnit Module:ScribuntoUnit].
+
+== Subpagina's ==
+{{Speciaal:Prefixindex/Module:Layout/Library/Test}}
+
+== Code ==

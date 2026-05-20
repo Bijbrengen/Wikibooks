@@ -1,0 +1,55 @@
+<includeonly><!--
+
+*** Categorie:<titel> - inhoud: ***
+
+-->{{#IfEq:{{SUBPAGENAME}}|Printversie<!--                                                                         is printversie?
+  -->|<!--                                                                                                           ja, niet in cat                                              
+  -->|{{#IfEq:{{BASEPAGENAME}}|Programmeren in PL/1<!--                                                              nee; uitzondering?
+    -->|[[Categorie:Programmeren in PL/1 - inhoud|{{#titleparts:{{Replace|{{PAGENAME}}|?|}}|-0|2}}]]<!--              ja
+    -->|[[Categorie:{{#titleparts:{{PAGENAME}}|1}} - inhoud|{{#titleparts:{{Replace|{{PAGENAME}}|?|}}|-0|2}}]]<!--    nee
+  -->}}<!--                                                                                                          ----
+-->}}<!--                                                                                                          ----
+
+*** Categorie:Hoofdstuk: ***
+
+-->{{#Switch:{{ROOTPAGENAME}}<!--                                                             uitzonderingen:
+  -->|Basiskennis chemie=[[Categorie:Basiskennis chemie/Sub|1]]<!--                             Basiskennis chemie
+  -->|Basiskennis chemie 2=[[Categorie:Basiskennis chemie/Sub|2]]<!--                           Basiskennis chemie 2
+  -->|Basiskennis chemie 3=[[Categorie:Basiskennis chemie/Sub|3]]<!--                           Basiskennis chemie 3
+  -->|Basiskennis chemie 4=[[Categorie:Basiskennis chemie/Sub|4]]<!--                           Basiskennis chemie 4
+  -->|Basiskennis chemie 5=[[Categorie:Basiskennis chemie/Sub|5]]<!--                           Basiskennis chemie 5
+  -->|Basiskennis chemie 6=[[Categorie:Basiskennis chemie/Sub|6]]<!--                           Basiskennis chemie 6
+  -->|Kookboek=[[Categorie:Kookboek/Sub|{{SUBPAGENAME}}]]<!--                                   Kookboek
+  -->|Leer jezelf ecologisch tuinieren=[[Categorie:Leer jezelf ecologisch tuinieren/Sub|<!--    LJET
+  -->{{#IfEq:{{Left|{{SUBPAGENAME}}|3}}|De |&#32;|{{SUBPAGENAME}}}}<!--                           tbv. [[LJET/De ...]]
+  -->]]<!--
+  -->|#default=[[Categorie:Hoofdstuk]]<!--                                                    alle andere pagina's
+-->}}<!--
+
+-->{{#IfExpr:{{Instr|{{Lc:{{PAGENAME}}}}|woordenlijst}}>0<!--                                 is woordenlijst?
+  -->|[[Categorie:Woordenlijst]]<!--                                                            ja: -> cat
+-->}}<!--                                                                                     ----
+
+--><!-- {{#IfEq:{{ROOTPAGENAME}}|Maatschappijleer| {{Safesubst:Links}}}}--><!-- dit geeft lintfouten!
+
+--></includeonly><noinclude>{{Sjablooninfo|1=
+
+Deze sjabloon wordt gezet op (sub)pagina's van boeken en zorgt ervoor dat ze in een categorie komen volgens [[:Categorie:Boeknaam - inhoud]].
+De inhoud van de categorie kan met het [[Handboek MediaWiki/Magische woorden|magische woord PAGESINCATEGORY]] automatisch worden geteld, zodat het aantal pagina's van het boek kan worden weergegeven op het boek zelf, in de inleiding van het boek, of op de [[Wikibooks:Infobox|infobox]] over het boek. 
+
+Ook worden de pagina's in de [[:Categorie:Hoofdstuk]] geplaatst, zodat makkelijk te zien is welke pagina's er nog niet van een sub-sjabloon zijn voorzien.<br>
+'''NB ''' Voor pagina's uit de reeksen " Basiskennis chemie", "Kookboek" en "Leer jezelf ecologisch tuinieren" geldt een uitzondering, deze komen in Categorie:<titel>/Hoofdstuk.
+
+Gebruik voor alle niveau's simpelweg {<nowiki>{Sub}}</nowiki>.
+*Een boek met 2 niveaus in de titel A/B wordt gecategoriseerd in categorie:A - inhoud met de sortering B
+*Een boek met 3 niveaus in de titel A/B/C wordt gecategoriseerd in categorie:A - inhoud met de sortering B/C
+*Een boek met 4 niveaus in de titel A/B/C/D wordt gecategoriseerd in categorie:A - inhoud met de sortering B/C/D
+*enzovoort
+
+Zie ook {{Tl|Boek}} voor het sjabloon dat gebruikt wordt op de hoofdpagina of kaft van een boek.
+
+NB Pagina's waarvan de titel eindigt op "/Printversie" worden niet in de categorie opgenomen.
+}}
+
+[[Categorie:Sjablonen]]
+</noinclude>

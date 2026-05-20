@@ -1,0 +1,13 @@
+{{Opmaak
+| Titel = Onderwijsniveau
+| Object = Boek
+| Bron = 
+| Definitie = {{Wp|Onderwijs|Onderwijs}} is het op iemand overbrengen van kennis, vaardigheden of een houding.<br>Met '''onderwijsniveau'''  wordt bedoeld de variatie In Nederland ingedeeld naar niveau waarop je onderwijs kunt volgen.
+| Beschrijving = In 2017 werd het leerparadijs opgericht door ondernemers uit de regio Zuid-Oost Drenthe voor kinderen met autisme. De ondernemers maakten zich zorgen over deze kinderen omdat ze buiten de boot vielen in het regulier onderwijs. Op dat punt scoorde namelijk de gemeente Emmen, waar de meeste initiatiefnemers woonachtig waren, bij de slechtste drie gemeenten van Nederland.
+| Formaat = html
+| Voortgang = 75
+| Support = Signaleer
+| Referentie = wikipedia
+| Collectie = Onderwijs
+| Onderdeel = Basis&shy;onderwijs, Voortgezet &shy;onderwijs, Beroeps&shy;onderwijs, Universitair &shy;onderwijs
+}}

@@ -1,0 +1,26 @@
+<includeonly><tr style="vertical-align:middle;">
+{{#Switch:{{{numbers|both}}}
+ |left|both=<td style="background-color:white; color: black; text-align:center">{{{row}}}</td>
+}}{{#Switch:{{{row}}}
+|1|3|5|7=<!--
+-->{{Schaak/Veld|size={{{size|}}}|color=light|piece={{{1|}}}}}<!--
+-->{{Schaak/Veld|size={{{size|}}}|color=dark|piece={{{2|}}}}}<!--
+-->{{Schaak/Veld|size={{{size|}}}|color=light|piece={{{3|}}}}}<!--
+-->{{Schaak/Veld|size={{{size|}}}|color=dark|piece={{{4|}}}}}<!--
+-->{{Schaak/Veld|size={{{size|}}}|color=light|piece={{{5|}}}}}<!--
+-->{{Schaak/Veld|size={{{size|}}}|color=dark|piece={{{6|}}}}}<!--
+-->{{Schaak/Veld|size={{{size|}}}|color=light|piece={{{7|}}}}}<!--
+-->{{Schaak/Veld|size={{{size|}}}|color=dark|piece={{{8|}}}}}
+|2|4|6|8=<!--
+-->{{Schaak/Veld|size={{{size|}}}|color=dark|piece={{{1|}}}}}<!--
+-->{{Schaak/Veld|size={{{size|}}}|color=light|piece={{{2|}}}}}<!--
+-->{{Schaak/Veld|size={{{size|}}}|color=dark|piece={{{3|}}}}}<!--
+-->{{Schaak/Veld|size={{{size|}}}|color=light|piece={{{4|}}}}}<!--
+-->{{Schaak/Veld|size={{{size|}}}|color=dark|piece={{{5|}}}}}<!--
+-->{{Schaak/Veld|size={{{size|}}}|color=light|piece={{{6|}}}}}<!--
+-->{{Schaak/Veld|size={{{size|}}}|color=dark|piece={{{7|}}}}}<!--
+-->{{Schaak/Veld|size={{{size|}}}|color=light|piece={{{8|}}}}}
+}}{{#Switch:{{{numbers|both}}}
+ |right|both=<td style="background-color:white; color: black; text-align:center">{{{row}}}</td>
+}}
+</tr></includeonly><noinclude>[[Categorie:Sjablonen schaken]]</noinclude>

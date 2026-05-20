@@ -1,0 +1,10 @@
+{{Opmaak
+| Object = Reeks
+| Definitie = [[w:nl:Filosofie|Filosofie]] is het streven naar wijsheid. 
+| Beschrijving = In deze boekenserie wordt de geschiedenis van, de begrippen uit en [[onderwijs]] in de filosofie uitgelegd.<br>Zowel de academische als de alledaagse context wordt gehanteerd. 
+| Referentie = wikipedia
+| Wikipedia = Filosofie
+| Boekenplank = Filosofie
+| Voortgang = 20%
+| Onderdeel = Filosofisch &shy;onderwijs, Geschiedenis &shy;van de filosofie, Bekende &shy;filosofen &shy;uit de geschiedenis, Filosofisch &shy;woordenboek, Plato, Spinoza &shy;Ethica, Humanature
+}}

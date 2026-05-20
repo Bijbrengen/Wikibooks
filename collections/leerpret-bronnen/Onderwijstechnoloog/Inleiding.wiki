@@ -1,0 +1,262 @@
+{{Opmaak}}
+Een onderwijstechnoloog is de architect en beheerder van een [[Onderwijsplatform|Onderwijsplatform]]. In een moderne onderwijsomgeving gaat de rol van de onderwijstechnoloog verder dan het simpelweg ondersteunen bij ICT-gebruik; het is de persoon die de digitale infrastructuur ontwerpt waarin het leren plaatsvindt. 
+
+De kernopdracht van de onderwijstechnoloog is het implementeren van een [[Onderwijstaal|Onderwijstaal]] (zoals '''Freell''') om leerdoelen en processen om te zetten in werkende systemen. Hierbij staat de [[Onderwijstaal/Leerbox|Leerbox]] centraal als het standaardformaat voor de uitwisseling en presentatie van leermiddelen.
+
+Hosting, Onderwijs en Ontwerp zijn de kernvaardigheden. Hosting verwijst naar het beheren van de servers en platforms die de [[Onderwijstaal/Leerbox|Leerbox]] ontsluiten. Onderwijs behelst de kennis van didactische methoden die vertaald moeten worden naar algoritmes. Ontwerp focust op de [[Onderwijswiki/Architectuur|Architectuur]] van het platform om [[Onderwijstaal/Vrijheid|vrij leren]] technisch mogelijk te maken.
+
+De onderwijstechnoloog moet zichzelf trainen in competenties die nodig zijn om met ICT een leerarchitectuur te creëren. Dit betekent: leren om leren te definiëren door middel van algoritmes.
+
+Belangrijke technologieën en concepten voor de onderwijstechnoloog:
+* '''[[Onderwijsplatform|Onderwijsplatform]]''': De overkoepelende omgeving waarin alle componenten samenkomen.
+* '''[[Onderwijstaal/Leerbox|Leerbox]]''': Het modulaire formaat voor leereenheden.
+* '''[[Onderwijstaal/Freell|Freell]]''': De declaratieve taal voor het beschrijven van leerpaden.
+* '''[[Onderwijswiki/Scribunto|Scribunto (Lua)]]''': Voor het bouwen van complexe logica binnen de wiki-omgeving.
+* '''LRS (Learning Record Stores)''': Voor het beheren en analyseren van leerdata via de Experience API (xAPI).
+* '''LTI (Learning Tools Interoperability)''': Voor de naadloze integratie van externe tools in het platform.
+* '''Moodle''': Een voorbeeld van een open-source platform dat vaak als basis dient.
+* '''Sandbox''': Een experimentele omgeving voor het testen van nieuwe algoritmes en ontwerpen.
+* '''Blockchain''': Voor het veilig en gedecentraliseerd vastleggen van certificaten en resultaten.
+
+== Waarde ==
+ICT kent een breed toepassingsdomein en vele mogelijkheden. Hoe wordt ICT concreet gebruikt in het onderwijs? Hoe kan men ICT gebruiken in het onderwijs? Hoe wordt ICT in de eindtermen opgevat? Waarom zou onderwijstechnologie gebruikt  moeten worden in ons onderwijs. Dat zijn vragen waarop dit boek een antwoord tracht te geven.
+
+De voordelen van het gebruik van technologie in het onderwijs zijn legio. Onderwijstechnologie wordt bijvoorbeeld gezien als de manier bij uitstek om in te spelen op de leefwereld van de leerlingen. Met ICT trek je met andere woorden de aandacht van de leerlingen en motiveer je hen. Het gebruik van ICT maakt een les voor de leerlingen aantrekkelijker en boeiender. Daarom is het een goed idee een theoretisch vak in een digitaal jasje te steken. Aangezien leerlingen zich slechts korte tijd kunnen concentreren, is het afwisselen van werkvormen en het daarin verwerken van ICT een manier om leerlingen aandachtig te houden. Daarnaast werkt het gebruik van digitale leermiddelen voor sommige leerlingen zeker drempelverlagend. Het gebruik van technologie biedt eveneens de mogelijkheid om leerstof concreter te maken bijvoorbeeld aan de hand van audiovisuele ondersteuning. Als leerkracht kan je ook verder gaan: onderwijstechnologie biedt de mogelijkheid het leerproces in handen van de leerlingen te geven. Dan kunnen ze werken aan hun persoonlijke kennisontwikkeling en dit op hun eigen tempo. Dit verhoogt de zelfstandigheid en de zelfredzaamheid van de leerlingen. ICT in het onderwijs biedt dus meer dan een medium voor praktische informatie. Door technologie te implementeren in het onderwijs leren leerlingen daarenboven op verschillende manieren om te gaan met informatie: hun technologische en creatieve geesten krijgen de nodige stimulans. Bovendien bieden sommige toepassingen de leerlingen de mogelijkheid tot zelfevaluatie, bvb. door videoanalyse of onlinetestjes.
+
+=== 21st century ===
+Een ander voordeel is dat het gebruik van onderwijstechnologie vernieuwend kan werken voor de leerkracht. Als gevolg daarvan kunnen zowel leerkrachten als leerlingen ervaren dat er een zekere overbrugging van de generatiekloof, die hen doorgaans scheidt, tot stand komt. De leerkracht kan digitaal leermateriaal ook gemakkelijk aanpassen en actualiseren.
+
+De overgang naar een kennismaatschappij plaatst de scholen bovendien voor een grote uitdaging. De leerlingen
+moeten niet langer enkel kennis assimileren maar moeten leren omgaan met enorme hoeveelheden informatie. Dat
+vraagt bijgevolg een vernieuwing van het onderwijsproces. ICT kan dit veranderingsproces mee op gang brengen.
+
+Ten slotte speelt technologie in al haar vormen een belangrijke rol in de huidige samenleving. Door op vroege leeftijd - en bijgevolg op school - gebruik te maken van ICT, worden de technologische vaardigheden van de leerlingen verbeterd. Zo worden ze voorbereid op de arbeidsmarkt. 
+
+Belangrijk hierbij is de notie 'technologische vaardigheden'. Vaak blijkt dat ICT in het onderwijs gekoppeld is aan bepaalde platformen zoals bijvoorbeeld Windows, die duur zijn in aankoop en in updates. Dit terwijl er kosteloze alternatieven bestaan: Open Source Software. De technologische vaardigheden die worden beoogd, dienen om de leerlingen in staat te stellen om ook met deze OSS om te gaan en om te vermijden dat hun vaardigheden gekoppeld blijven aan een bepaalde toepassing van een bepaalde producent. Over de Open Source Software volgt meer in een later hoofdstuk.
+
+=== Leerefficiëntie ===
+De implementatie van technologie in het onderwijs biedt de leerlingen de mogelijkheid tot actief (vb. door de leerlingen tijdens het jaar actief te laten bezig zijn met de leerstof), constructief (vb. aan de hand van het gebruik van een discussieforum), coöperatief, authentiek (dat is beter dan fictieve voorbeelden in een boek: de leerlingen zoeken échte sites met voorbeelden), zelfgestuurd en informeel leren.
+
+=== Individualisatie  ===
+Naast een verhoging van de leerefficiëntie kan onderwijstechnologie tevens een onderwijs op maat bieden voor elke student. Niet iedereen heeft dezelfde leerstijl, leertempo en sturing van het leerproces nodig. Onderwijstechnologie kan dan ook de mogelijkheid bieden om deze drie factoren op de individuele leerling af te stemmen, waarbij elke leerling de voor hem of haar gepaste leerstijlondersteunende middelen – zoals audio-, visueel- en/of tekstmateriaal – en het voor hem of haar gepaste tempo kan uitkiezen en volgen. Zo zorgt men ervoor dat de differentiatie binnen de klas niet uit het oog verloren wordt.
+
+=== Faciliteren ===
+Een van de andere voordelen is dat het leren niet langer tijds- en plaatsgebonden is. Leerlingen kunnen waar en wanneer ze maar willen bezig zijn met de schoolse activiteiten. Hierdoor wordt ook tegemoet gekomen aan de verschillende leertempo's van leerlingen. Dit kan ook handig zijn wanneer leerlingen bijvoorbeeld wegens opname in het ziekenhuis gedurende een langere termijn de lessen niet kunnen bijwonen. Daarnaast biedt het ook een versterking van communicatie zowel tussen leerlingen en leerkrachten als tussen leerlingen onderling. Hierbij kan het zowel gaan om asynchrone communicatie, zoals bijvoorbeeld e-mail, fora en leerplatvormen, alsook om synchrone communicatie, zoals de chat. Hierdoor kunnen documenten doorgespeeld worden, wat tijd spaart bij het schrijfwerk van de leerling. Maar niet alleen leerling of leerkracht is er bij gebaat. Ook het contact tussen leerkracht - leerling en ouders wordt door deze ICT vormen versterkt.
+
+=== Toegankelijkheid ===
+Onderwijstechnologie kan tevens ingezet worden om leerlingen met beperkingen de mogelijkheid te bieden om samen met leeftijdsgenoten dezelfde leerstof te verwerken. Leerlingen met visuele beperkingen kunnen geholpen worden door audio-ondersteuning van de leerstof en leerlingen met auditieve beperkingen kunnen geholpen worden door visuele ondersteuning. Ook leerlingen die een motorische stoornis hebben of beperkt zijn in hun bewegingsvrijheid, hebben op deze manier toegang tot de leerstof die, zoals hierboven reeds vermeld werd, niet plaatsgebonden is.
+
+=== Leervoorsprong ===
+Naast een enorme hulp voor leerlingen met leerproblemen, biedt onderwijstechnologie ook veel mogelijkheden voor leerlingen met een leervoorsprong of zogenaamde 'hoogbegaafde' of 'hoogintelligente' leerlingen. Het is niet altijd eenvoudig om hoogbegaafdheid te detecteren en de meningen over wat deze term precies inhoudt, zijn vaak verdeeld. Wel is duidelijk dat leerlingen die veel sneller nieuwe leerstof kunnen verwerken dan hun klasgenootjes, in het klassieke onderwijs vaak uit de boot vallen.
+ICT kan een hulpmiddel bieden om hoogbegaafdheid op te sporen en om leerlingen die in klasverband niet voldoende intellectueel geprikkeld worden een extra uitdaging te bieden.
+
+=== Verrijking ===
+Nog een voordeel is dat digitale leerstof gedeeld kan worden met leerlingen en leerkrachten over de hele wereld. Dit biedt de mogelijkheid tot internationale samenwerking tussen docenten en tussen studenten. Digitale leermiddelen kunnen ook steeds hergebruikt worden.
+Het gebruik van technologie in het onderwijs kan eveneens motiverend werken voor jongeren, die onderwijs steeds meer gaan ervaren als ''edutainment''. Het visualiseren van de leerstof zorgt er vaak voor dat leerlingen de les sneller in zich opnemen. Men kan interactieve oefeningen maken, rollenspelen spelen in virtuele omgevingen of bepaalde zaken, die anders moeilijk te tonen zijn vanwege de kosten (vb. vlieguren), het gevaar (vb. nucleaire training), milieubelasting (vb. chemische experimenten) of de praktische onmogelijkheid (vb. tocht doorheen de bloedsomloop) ervan, in simulatie ervaren. Zo kunnen de leerlingen bijvoorbeeld aan de hand van Google Earth makkelijk en volledig gratis een virtueel bezoek brengen aan plaatsen over heel de wereld. Tot slot leren de studenten quasi al spelend om te gaan met ICT waardoor ze, al dan niet onbewust, worden voorbereid op de arbeidsmarkt en op de noden van de huidige computermaatschappij.
+
+=== Sociaaleconomisch ===
+Het raadplegen van leerstof van thuis uit vereist dat iedereen in het bezit is van een computer en dat iedereen toegang heeft tot het internet. Iedereen dient te beschikken over dezelfde technologische snufjes en nieuwste ontwikkelingen die men zal willen hanteren bij de verwerking van huistaken en presentaties. Dit kan leiden tot een verminderde sociaaleconomische kloof tussen leerlingen.
+
+=== Plagiaatbestrijding ===
+In het onderwijs bestaat het gevaar dat de gemakzucht bij de leerlingen het overneemt en er heel wat taken en werkjes rechtstreeks van elkaar of het internet geplukt worden, zonder dat hierbij doordacht te werk wordt gegaan en zonder persoonlijke inbreng van de leerlingen zelf. Zo ontstaat het gevaar en de verleiding, bewust of onbewust, tot het plegen van plagiaat. Er zijn ICT-middelen op de markt om plagiaat na te gaan, wat dan weer voordelig is voor leerkrachten.
+
+=== Multi-tasking ===
+Het internet biedt ook heel wat afleidingen. Dat hoeft geen nadeel te zijn ten opzichte van de kans  dat leerlingen minder geconcentreerd met de leerstof bezig zijn. Immers het kan de docent uitdagen de competitie aan te gaan waardoor uiteindelijk de leerling de leerstof waardeert. Afleidingen kan men ook positief zien namelijk in het leren aansluiten van de docent bij het leren via multi-tasking dat beter past bij het jonge brein en ook nog effectiever mits er goed gebruik van wordt gemaakt. Het idee van dat je effectief leert als je netjes op volgorde een gewone cursus of een klassiek handboek doorloopt is immers achterhaald. Het multi-tasken stimuleert eveneens de docent om meer oog te hebben voor verschillen en het sociale en fysieke aspect van de leerling.
+
+=== Flexibiliteit ===
+Een kenmerkt van succesvol leren is dat het leerplan is bestand tegen verstoringen. Onderwijstechnologie vraagt de nodige, vaak gevoelige, apparatuur, die wegens omstandigheden tijdelijk onbruikbaar kan zijn (vb. problemen met internetverbinding). Ook de lokalen zelf moeten voorzien worden van de nodige faciliteiten om het werken met de technologie mogelijk te maken (vb. internetverbinding, beamer, projectiescherm, ...). Door deze gevaren en ervaringen wordt de onderwijsarchitect uitgedaagd om beter na te denken over de flexibiliteit van het leerplan. Men kan en mag er niet van uitgaan dat leerlingen zonder problemen met onderwijstechnologie kunnen werken. 
+
+=== ICT-deskundigheid ===
+Het leren van ICT basiskennis en -vaardigheden in onderwijs heeft vooral sociale en economische motieven. Om in de samenleving van vandaag/morgen te kunnen functioneren hebben mensen behoefte aan algemene kennis en bekendheid met computers. De economische wereld heeft werknemers nodig die kunnen omgaan met ICT. De leerplannen van basisonderwijs en secundair onderwijs omvatten doelen in verband met kennis over ICT en het kunnen gebruiken van ICT. ICT maakt hier deel uit van onderwijsinhouden. 
+
+Vaak kennen leerlingen meer van ICT dan de leerkracht. Daarom is het noodzakelijk dat de leerkracht over voldoende kennis beschikt m.b.t. de technologie die hij wenst te gebruiken. Men mag als leerkracht eveneens geen slaaf worden van de technologie. ICT is leuk wanneer men die op gepaste wijze kan inbrengen in de les. De overvloed aan informatie op het internet en de toegankelijkheid hiervan brengt tevens met zich mee dat leerlingen snel in aanraking komen met foutieve informatie. De leerkracht moet daarom aan de leerlingen meegeven wat betrouwbare bronnen zijn en hoe zij een (internet)bron (bijvoorbeeld Wikipedia) kritisch kunnen benaderen.
+
+Een laatste, zeker niet te onderschatten nadeel, is het feit dat leerlingen steeds meer blootgesteld worden aan bepaalde gevaren die het internet met zich meebrengt. De persberichten staan bol van de voorvallen waarbij onvoldoende gecontroleerd internetgebruik door kinderen en jongeren heeft geleid tot gevallen van misbruik, vaak door volwassenen met onkuise bedoelingen. Men moet zich de vraag stellen in hoeverre jongeren zich hiervan bewust zijn en op welke manier ze het beste beschermd kunnen worden. Ouders kunnen zeker niet op ieder moment een oogje in het zeil houden. Vaak hebben leerlingen immers een eigen computer in hun kamer of staat de computer in een afgesloten studieruimte. 
+
+Deze gevaren daagt de docent uit om zijn deskundigheid met betrekking tot ICT te ontwikkelen. De leerkracht die gebruik maakt van technologie in het onderwijs heeft tevens als taak zijn leerlingen te wijzen op gevaren. Hoe beter de leerling geïnformeerd is, hoe kleiner de kans op gevaar.
+
+=== Rendement ===
+Hét rendement van ICT in het onderwijs kan in zijn algemeenheid moeilijk besproken worden. Er zijn echter wel veel ICT-toepassingen die een evident nut en rendement kennen en die vaak verouderde leermiddeltjes vervangen, zoals bijvoorbeeld digitale encyclopedieën, internet en e-mail, rekenmachientjes en spreadsheets. Ook simulatieprogramma's hebben bewezen leerlingen voor te bereiden op ''the real thing''. Onderzoek laat vaak een positief rendement van ICT in het onderwijs zien. Leerlingen blijken uit de inzet van ICT meer te leren, sneller te leren en vooral, met meer plezier te leren. 
+Bovendien wordt van de relatief nieuwe ''[[Onderwijstechnologie/Elektronische leeromgevingen|elektronische leeromgeving]]'' een hoge bijdrage aan het rendement van het onderwijs verwacht; doordat deze nieuwe mogelijkheden in communicatie met zich meebrengt. Bovendien wordt vanuit onderwijskundige invalshoek aangehaald dat via ICT meer kan worden aangesloten op de kenmerken van de individuele leerling. Dit maakt het onderwijs veel effectiever.
+
+Het rendement van ICT in het onderwijs is echter van verschillende factoren afhankelijk. De belangrijkste zijn:
+* De mate waarin ICT aansluit bij de kenmerken van de leerlingen.
+* De ICT-training van de leerkracht en de wijze waarop zij ICT inzetten binnen het leerproces. De leerkracht mag wat betreft zijn kennis van technologie zeker niet onderdoen voor de  leerling.
+* De kwaliteit en kwantiteit van de hardware (bv: technologische problemen).
+* De eigenschappen van de software (zoals controle door de leerlingen, opties voor het geven van feedback, e.d.).
+* De beschikbaarheid van de software (gratis software vs. betalende software).
+* Het werken in groepen en de onderlinge samenwerking van leerlingen.
+* De communicatiemogelijkheden met docent en leerlingen.
+* Toegang tot externe informatie.
+
+=== Samenwerking ===
+Wanneer leerlingen samenwerken, kunnen ze van elkaar leren op het gebied van kennis en vaardigheden.  Er is echter een groot verschil met samenwerkend leren. Dit betekent dat leerlingen samenwerken volgens een aantal structuren en basisprincipes.  
+Er wordt hierbij vermeden dat leerlingen van elkaar kunnen profiteren door niets te doen en al het werk door anderen te laten verrichten.
+
+Samenwerkend leren is een vorm van actief leren waarbij leerlingen leren door gezamenlijk groepsopdrachten uit te voeren.  De leerkracht structureert hierbij dan het leerproces of begeleidt hen bij het zelf structuren van dat leerproces.
+Volgens Johnson en Johnson kent samenwerkend leren 5 basiselementen:
+* Positieve wederzijdse afhankelijkheid: de studenten zijn onderling afhankelijk van elkaar om de taak goed te volbrengen.
+* Individuele verantwoordelijkheid: elke leerling is zelf verantwoordelijk voor de hem/haar toebedeelde taak.
+* Stimulerende, onderlinge interactie: leerlingen stimuleren en motiveren elkaar tijdens het uitvoeren van de opdracht.
+* Aandacht voor individuele samenwerkingsvaardigheden: leerlingen spreken elkaar hierop aan en ook de begeleider biedt ondersteuning.
+* Aandacht voor groepsprocessen: het samenwerkingsproces wordt in de gaten gehouden door de leerlingen zelf, alsook door de begeleider.
+
+Valcke (2007) beschrijft in diens boek 10 voorwaarden voor samenwerkend leren, gebaseerd op Johnson en Johnson EN Slavin. Concreet stelt Valcke (2007) in diens boek dat alle doelen gelijk moeten zijn voor alle groepsleden, waarbij iedereen, als groep dan ook verantwoordelijk is voor deze te bereiken. Anderzijds oppert Valcke (2007) er ook voor dat ieder groepslid ook een individuele verantwoordelijkheid dient te dragen. Dit vraagt gelijke kansen voor iedereen, hetgeen ook wel gestimuleerd kan worden door competitie in het groepswerk te creëren. Een ander belangrijk aspect betreft dat groepsleden bepaalde deeltaken op zich moeten kunnen nemen, waarbij dan ook rekening gehouden kan worden met de individuele verschillen. Samenwerkend leren vereist ook een goede vorm van communicatie, zowel tussen groepsleden als tussen groepsleden en de instructieverantwoordelijke. Deze laatste dient dan ook de communicatieprocessen in de groepen op te volgen.
+
+
+=== Zelfstandig leren ===
+Binnen begeleid zelfstandig leren (BZL), komen drie belangrijke termen naar voor:
+# ''begeleid'' betreft de mogelijkheid tot ondersteuning voor de leerlingen. 
+# ''zelfstandig'' slaat op de verantwoordelijkheid die de leerlingen dragen bij het leren. 
+# ''leren'' betekent de activiteiten van de studenten gericht op het vergroten van de kennis.
+
+Het betreft een lesmethode waarbij leerlingen geheel zelfstandig leerstof en/of leerinhouden verwerken, met begeleiding van de leerkracht. Concreet vervult de leerkracht de rol van coach, die ondersteuning biedt aan de leerlingen waar nodig. Deze ondersteuning kan naast de leerkracht ook geboden worden door leerlingen, peers of externe bronnen.
+Onderwijstechnologie kan ook in het kader van begeleid zelfstandig leren zijn bijdrage kennen.
+
+Om de implementatie van begeleid zelfstandig leren in de klas te bewerkstelligen, raden Struyven en Janssens (2007) het gebruik van activerende werkvormen aan. Begeleid Zelfstandig Leren en activerende werkvormen worden gekenmerkt door de volgende drie karakteristieken: (1)'activering' of zelfsturing van de student; (2) gebruik van authentieke, levensechte taken en (3) begeleiding door de leerkracht.
+
+=== Activerende werkvormen ===
+Onder activerende werkvormen wordt verstaan, werkvormen (opdrachten, taken,…) die de leerlingen motiveren om actief en op zelfstandige basis aan de slag te gaan (Struyven en Janssens, 2007).
+Concreet kunnen we drie kenmerken van activerende werkvormen onderscheiden:
+# de leerlingen zoeken zelfstandig informatie op en verrichten zelfstandig studeerwerk
+# de leerlingen werken rond levensechte taken, met een duidelijke context
+# de leerlingen worden ondersteund door de leerkracht als coach.
+
+Voorbeelden:
+* Simulaties, zoals ASCEND
+* Educatieve games
+* Website om digitaal materiaal voor BZL aan te maken: https://www.bzl.be/cursussen/index.asp
+* Webquests, voorbeeld via eXe
+* Aanmaken van een online leerplatform
+* Learning management systemen en Learning content management: Moodle
+* Computer based training: een cursus op de computer volgen (leren, vragen beantwoorden)
+* Webbased learning: gebruik maken van een webbrowser
+
+Voordelen:
+* Zelfstandig werken in een context
+* Mogelijkheid tot differentiatie
+* Eigen tempo
+* Leerlingen worden betrokken bij de leerstof
+* Ontwikkelt de zelfredzaamheid van de leerling
+* Komt ook ten goede van de VOETen (vakoverschrijdende eindtermen)
+* Het leren selecteren van informatie
+* Het voorhanden hebben van een grote hoeveelheid authentieke documenten van alle niveau's
+* Degelijke begeleiding door de leerkracht zodat de leerlingen niet verdwaald kunnen raken in de enorme hoeveelheid informatie die hen omringt
+* De leerkracht moet zelf ook een degelijke basiskennis hebben van ICT
+* De school moet voldoende infrastructuur bieden op gebied van ICT
+* Omdat er al zoveel bestaat op het internet, leren de leerlingen de waarde van slim kopiëren en daar een eigen betekenis aangeven.
+
+=== Efficiëntie ===
+ICT wordt gebruikt om op een (meer) efficiënte wijze onderwijsdoelen te realiseren, om de leraar te ondersteunen in het onderwijsleerproces, om een krachtige leeromgeving uit te bouwen. ICT kan men eveneens inzetten als zelfstandig leermiddel dat onderwijsactiviteiten kan uitvoeren en waarbij de rol van de leraar wijzigt van overdrager van kennis in de richting van begeleider van leerprocessen. In dit laatste geval wordt ICT een middel om onderwijs en leren te herdenken en een middel om nieuwe onderwijsmethodes te introduceren.
+
+
+{{Bron|bronvermelding=
+• https://www.bzl.be/cursussen/index.asp?id=inh-wat.htm
+
+• https://nl.wikipedia.org/wiki/Begeleid_zelfstandig_leren
+
+• https://en.wikipedia.org/wiki/List_of_computer_simulation_software
+ 
+• Struyven, K. & Janssens, S. (2007). Begeleid zelfstandig leren via activerende werk- en toetsvormen: handleiding voor leerkrachten en onderwijskundigen. Antwerpen: De Boeck.
+
+• https://wetenschappen.gemeenschapsonderwijs.net/dag%20wiswet/biologie/B4%20BZLpdf.pdf
+
+• https://www.vlor.be/advies/advies-inzake-het-gebruik-van-ict-het-secundair-onderwijs
+}}
+
+== Achtergrond ==
+Het gebruik van technologie in het onderwijs is van alle tijden. Zo was het gebruik van de wastafel al een hele revolutie ten opzichte van de perkamentrollen. Door de eeuwen heen hebben verschillende nieuwe technologieën hun intrede gedaan in het onderwijs. Een constante valt hierbij op; het is niet eenvoudig om de nieuwe technologie ingang te doen vinden in het onderwijs en dit is vaak een werk van lange termijn. Toch zijn we tegenwoordig op een keerpunt aanbeland, onderwijs zonder leermachines (een mechanisch apparaat dat de leerlingen de mogelijkheid biedt iets te leren) wordt meer en meer ondenkbaar. 
+
+Met het gebruik van radio en de televisie in het onderwijs of de {{Wp|onderwijsfilm|onderwijsfilm}} ontstond volgens velen het begin van de onderwijstechnologie.<ref>{{Citeer boek | Achternaam = Saettler, L. P. | Titel = '''The evolution of American educational technology''' | Datum = 2004 | Uitgever = IAP| {{ISBN|}}= 1593111398}}</ref> Anderen koppelen dit aan de opkomst van de leermachine.<ref>{{Citeer boek | Achternaam = Benjamin, T.L. | Titel = '''A history of teaching machines''' | Datum = 1988 | Uitgever = American Psychologist,, vol. 43, nr. 9 | Bladzijdes = 703 - 712}}</ref>.<ref>{{Citeer boek | Achternaam = Mirande, M | Titel = '''De onstuitbare opkomst van de leermachine. Over de precaire verhouding tussen technologie en onderwijs in de periode 1925-2005''' | Datum = 2006 | Plaats = Assen | Uitgever = Van Gorcum}}</ref> Weer anderen zien in de introductie van de computer in het onderwijs, als geavanceerde leermachine, het ontstaan van de onderwijstechnologie<ref>{{Citeer boek | Achternaam = Van Merienboer, J. en Kanselaar G. | Titel = '''Waar staan we na 25 jaar onderwijstechnologie in Vlaanderen, Nederland en de rest van de wereld''' | Datum = 2008 | Plaats = Groningen, Universiteit Twente | Uitgever = Pedagogische Studiën: Tijdschrift voor onderwijskunde en opvoedkunde, vol.83, nr.4 | Bladzijdes = 279 - 280}}</ref> 
+
+=== Radio en Televisie ===
+Het begin van de onderwijstechnologie wordt door vele auteurs vroeg in de 20ste eeuw gesitueerd. Toen werd de radio immers voor het eerst ingezet om onderwijs te verzorgen in die gebieden waar grote afstanden overbrugd moesten worden, zoals Australië, Canada en de Verenigde Staten van Amerika. 
+Na de Tweede Wereldoorlog werd deze rol overgenomen door de televisie. De televisie had als voordeel dat ze, in vergelijking met de radio, rijkere informatie bood die echter wel gepaard ging met hogere productie- en gebruikerskosten. 
+Aanvankelijk werd zowel televisie als radio met enthousiasme ontvangen omdat zij mogelijkheden leken te bieden die het onderwijs konden verbeteren. Vergelijkend mediaonderzoek heeft echter nooit ondubbelzinnig positieve effecten op het leren aangetoond. Vandaag richt onderzoek zich vooral op de condities waaronder de televisie een bruikbaar medium is. Zo wordt in Vlaams-Nederlands context bijvoorbeeld de optimale expositietijd van ondertitels bestudeerd. 
+Het voordeel van de radio en televisie bleek uiteindelijk niet zozeer van didactische, maar vooral van organisatorische aard: het werd mogelijk om grote groepen studenten te bereiken in afgelegen gebieden.
+
+Toch bleven al deze toepassingen eerder een randverschijnsel en dan nog voornamelijk in het hoger onderwijs. Vanaf het begin van de jaren 90 vinden er heel wat ontwikkelingen plaats in de informatie - en communicatietechnologie. De onderwijstechnologie in de jaren tachtig en negentig richtte zich hoofdzakelijk op;
+
+- Het wegwerken van deficiënties (voornamelijk in de wiskunde en het Nederlands)<br>
+- Uitbreiden van oefenmogelijkheden (werkcolleges en practica's werden vernieuwd, oefenprogramma's voor statistiek, wiskunde, taal en boekhouden werden geïntroduceerd.)<br>
+- Het efficiënt toetsen van studieresultaten.<br>
+
+=== Leermachines ===
+De eerste ‘leermachines’ werden in de jaren 20 van de 20ste eeuw ontwikkeld. Pressey vond een machine uit die a) informatie presenteert b) de leerling de mogelijkheid biedt hierop te antwoorden c) terugkoppeling geeft op de reactie van de leerling. Dit bleef wel beperkt tot meerkeuzevragen. Enkel wanneer een vraag juist werd beantwoord, verscheen de volgende en bij het beantwoorden van 10 juiste vragen kwam er een snoepje uit de machine gerold. Pressey ging zijn machine aanprijzen op tal van beurzen maar niemand zat hier echt op te wachten. Uiteindelijk werd ze dan toch gecommercialiseerd maar dit was geen succes. Leerkrachten vreesden dat de leermachines hen zouden vervangen. Deze vrees is niet specifiek voor deze periode maar zal steeds weerkeren. Ondanks het uitblijven van succes, verrichtte Pressey onderzoek naar de effecten van leermachines en voorspelde hij een industriële evolutie in het onderwijs. Maar het liep niet zo een vaart. Pressey’s machine was geen succes maar zijn belang schuilt erin dat hij de uitvinder was van het idee van de leermachine.
+
+De stemming tegenover leermachines was eind jaren '50 sterk veranderd, mede door de ontwikkelingen op het gebied van ruimtevaart en de wedloop hierin tussen de USSR en de USA. De Russen hadden Laika in de ruimte geschoten en dus moest er in de USA geïnvesteerd worden in onderwijs om in allerlei ontwikkelingen een pioniersrol te spelen. Verschillende leermachines werden op de markt gebracht, allen gebaseerd op de theorie van Skinner. Deze was vooral gericht op het onderwijzen van gedragsdoelen, het opdelen van de leerstof in kleine eenheden, het vermijden van onjuiste antwoorden en het bevestigen van juiste antwoorden. Het grote verschil met de machine van Pressey, die door de leerling bestudeerde teksten overhoorde, was dat deze nieuwe machines nieuw materiaal aanboden. De meerkeuzevragen werden ook vervangen door open vragen. 
+
+Toch zou de interesse voor deze leermachines vanaf de tweede helft van de jaren 60 weer tanen. Door het gebruik kwam er ook meer kritiek op leermachines, vooral het argument dat de leerling minder persoonlijke aandacht kreeg, speelde een rol. Ook de beperkte reikwijdte van de machine werd duidelijker (enkel geschikt voor kleine eenheden informatie). En sommigen vreesden dat de machines zouden gebruikt kunnen worden om leerlingen te indoctrineren en meer algemeen doemde het schrikbeeld van de alomtegenwoordige machine op. Tegenstanders wezen op het gevaar van docentarme scholen maar dit werd meteen weerlegd met het feit dat leerkrachten zich konden concentreren op belangrijkere dingen. Een sterk argument tegen was dat dergelijke machines voorbij zouden gaan aan de verschillen in cognitief functioneren tussen leerlingen (al zouden er later wel leermachines ontwikkeld worden die hierop inspeelden). Deze episode bleek uiteindelijk niet meer dan een rage. Of zoals het door Benjamin werd omschreven: ''‘If past behaviour is a predictor of future behaviour, then it seems unlikely that computers or any other teaching machines will play more than a supporting role in the classroom.’''.<ref>(Benjamin, T.L., A history of teaching machines, in: American Psychologist, 1988, vol. 43, nr. 9, pp. 703-712)</ref>
+
+=== Personal Computers ===
+De eerste “personal computers” verschenen in de late jaren 70. Eerst werden ze enkel gebruikt door hobbyisten met een zeer technisch profiel, maar met de tijd werden ze voorzien van meer en meer software om productiviteit te verhogen, te programmeren of te spelen. In 1982 werd “de computer” benoemd tot “de machine van het jaar” door de Times Magazine.
+
+Leermachines steken op dat moment terug de kop op, maar zijn nu getransformeerd in een computer. Deze waren meer geschikt voor didactische doeleinden en ook vele nieuwe programma’s voor computerondersteunend onderwijs zagen het daglicht. Toch bleef dit soort onderwijs eerder een randverschijnsel en dan nog voornamelijk in het hoger onderwijs. Vanaf het begin van de jaren 90 vinden er heel wat ontwikkelingen plaats in de informatie - en communicatietechnologie en lijkt het erop dat dit niet meer uit het onderwijs weggedacht kan worden.
+
+
+Het computerondersteunend onderwijs in de jaren tachtig en negentig richtte zich hoofdzakelijk op;
+
+- Het wegwerken van deficiënties (voornameijk in de wiskunde en het Nederlands)<br>
+- Uitbreiden van oefenmogelijkheden (werkcolleges en practica's werden vernieuwd, oefenprogramma's voor statistiek, wiskunde, taal en boekhouden werden geïntroduceerd.)<br>
+- Het efficiënt toetsen van studieresultaten.<br>
+Daarbij dient opgemerkt dat e-learning vandaag de dag zich voor een deel op dezelfde doelen richt.<ref>VAN HOUT H., TEN DAM G.: Vernieuwing in het Hoger Onderwijs; Onderwijskundig handboek. 2006, p. 159</ref>
+
+=== Internet ===
+Wat communicatie betreft, kunnen ook verschillende vormen van internetgebruik onderscheiden worden. Zo krijgen studenten dankzij asynchrone vormen van communicatie, zoals e-mail, ‘listservs’ en ‘threaded discussions’, de mogelijkheid om ook buiten contacturen docenten te benaderen en informatie uit te wisselen met medestudenten. Synchrone vormen van communicatie, waaronder chats en videoconferencing, bieden studenten te mogelijkheid om medestudenten of anderen buiten de eigen onderwijsinstelling gelijktijdig te betrekken bij de leeractiviteiten. Deze nieuwe communicatiemogelijkheden leidden tot een hernieuwde belangstelling voor onderzoek naar samenwerkend leren. Zo ontwikkelde Computer Supported Collaborative Learning (CSCL) zich tot een belangrijk onderzoeksgebied. Hierin wordt onder meer onderzocht hoe constructie van kennis ondersteund kan worden.
+
+Vanaf het midden van de jaren 1990 komt het accent minder op de computer als zelfstandig medium te liggen, maar meer op het internet en de communicatie- en informatiemogelijkheden die daarmee beschikbaar kwamen. Het internet werd aanvankelijk vooral als een nieuwe mogelijkheid om plaats- en tijdsonafhankelijk onderwijs aan te bieden – een alternatief voor het aloude “correspondentiemodel” binnen het afstandsonderwijs. Naast het afstandonderwijs, bood het internet ook voor het traditioneel contactonderwijs nieuwe mogelijkheden die vooral te maken hadden met:
+*Het ontsluiten van steeds grotere hoeveelheden informatie.
+*Communiceren en samenwerken.
+
+Met betrekking tot informatie kunnen drie vormen van gebruik onderscheiden worden. Ten eerste ontwikkelde het World Wide Web zich tot een ongelimiteerde gegevensverzameling en werd daarmee een verlengstuk van de schoolbibliotheek of het “studielandschap” en de verbinding met de wereld buiten de school.
+Ten tweede werd het internet ook voor traditioneel contactonderwijs meer en meer gebruikt om cursusinformatie beschikbaar te stellen aan studenten. Hoewel dit aanvankelijk via ‘bulletin boards’ gebeurde, werd later meer en meer gebruik gemaakt van speciale elektronische leeromgevingen, zoals Blackboard en WebCT. 
+Ten derde bood het internet nieuwe mogelijkheden om studenten of medewerkers op de werkplek de nodige informatie voor een correcte taakuitvoering aan te bieden.
+
+== Vogelvlucht ==
+In vogelvlucht beschrijven we het gebruik van de computer als onderwijsmiddel.
+
+=== Indeling ===
+Wanneer een [[onderwijsarchitect]] ICT introduceert zal hij kiezen voor een combinatie van CBO en CGO. Dit om te voorkomen dat men in de evaluatie roept; '"prima reductie in arbeid maar weinig toevoegend" of juist "mooie vernieuwing maar wat een tijd heeft ons dat gekost". 
+ 
+=== Instrument ===
+Voor sommigen is ICT een doel (informatici). Voor de meeste mensen in het dagelijks gebruik een middel om bijvoorbeeld stukken als deze te fabriceren. Sterrenkundigen bijvoorbeeld gebruiken echter de computer ook als instrument voor het verwerken van data, het uitvoeren van specifieke software programma’s en het waarnemen van de hemel. Voorbeelden hiervan zijn het digitaal naslagwerk https://www.pd.astro.it/themoon/index.html, het door Sterrenkundige geschreven Groningen Image Processing System en het project "Telescope in Education”.
+
+'''Zoekmachines''' zijn websites die het zoeken op het internet naar specifieke of algemene informatie vergemakkelijken. Top 10; Lycos, Northernlight, Google, Alltheweb, Altavista, Hotbot, Infoseek, Yahoo, Excite en Go2. Zoekmachines moeten gevoed worden met zoektermen. Zoektermen kunnen worden gecombineerd door booleans (logische connectoren AND, OR, NOT) tot een query die beter afgebakend of meer ingeperkt is. Sommige zoekmachines staan 'fuzzy connectoren' toe (NEAR, SAME e.d.). De zoekmachines onderscheiden zich in kwaliteit; de query, de opsporing, de indexering, de rangschikking en de presentatie. Er zijn metazoekmachines, gespecialiseerde zoekmachines en zoekmachines voor een bepaald taalgebied. De gewone zoekmachines leveren de beste resultaten.
+ 
+Het zoeken van geschikte informatie in ICT systemen of op het web is een proces dat systematisch dient te gebeuren om succesvol te zijn. De systematiek die wordt gepresenteerd zorgt ervoor dat het proces reproduceerbaar en evalueerbaar wordt. Bepaal eerst de zoekdoelen. Doe dit in productterm definities en criteria. Leidt deze zoekdoelen af naar een lijst van zoektermen voor zoekmachines. Vul deze initiële lijst met zoektermen al experimenterend aan. De treffers worden geordend naar geschiktheid beschreven zodanig dat een ander inzicht heeft in de beoordeling die hier toe geleid hebben. Treffers die voor andere doeleinden geschikt zouden zijn worden gemerkt. Als steeds vaker een eerder bezochte pagina opduikt dan zijn de meeste treffers gepasseerd. Internet pagina's met een minder fraaie lay-out kunnen toch goede informatie of annotated links bevatten. Denk aan het doorklikken van  deze links. De treffers en de rangschikking daarvan door zoekmachines is bedrieglijk. Kijk verderop in de lijst en varieer met de zoektermen en zoekmachines!
+
+De kwaliteit van de geboden informatie op het Web of informatiesystemen varieert sterk. Het beoordelen van de kwaliteit gaat aan de hand van bestaande richtlijnen voor het beoordelen van schriftelijke informatie en specifieke kenmerken van webbronnen. De kwaliteit van de informatie wordt afgemeten aan de correctheid, de betrouwbaarheid, de objectiviteit, de actualiteit, de volledigheid en de nauwkeurigheid.
+ 
+=== CGO ===
+Computer Gestuurd Onderwijs kent een opvolgende mate van complexiteit van het systeem in de aansturing van het leerproces. De meest eenvoudige vorm is Drill & Practice (kennisdrilling door overhoring), gevolgd door een onderwijsdialoog (verwerving en toepassing kennis zie bijvoorbeeld https://amazing-space.stsci.edu/hdf-top-level.html) en simulaties (geven inzicht in het procesverloop door model zie bijvoorbeeld
+https://astro.ph.unimelb.edu.au/central/Mirrors/binary/binary.htm). 
+ 
+=== Drill & Practice ===
+Drill & Practice is een methode waarin door overhoring kennis wordt gedrild. Deelnemers mogen pas verder met het curriculum wanneer ze aangetoond hebben het getoetste begrip zich eigen te hebben gemaakt. Drill & Practice heeft een zeer nauwe verwantschap met lineaire geprogrammeerde instructie. Zie als voorbeeld https://amazing-space.stsci.edu/trading-top-level.html. 
+ 
+=== Geprogrammeerde Instructie ===
+Geprogrammeerde instructie is een individuele onderwijsvorm waarbij de leerstof in kleine, essentiële pakketjes (schakels) aan de student aangeboden wordt. De student krijgt pas na het correct beantwoorden van één of meerdere vragen over een schakel een volgende schakel aangeboden. Als het antwoord niet correct is, krijgt de student onmiddellijk feedback door bijkomende, aangepaste of meer uitgewerkte informatie. Vervolgens krijgt hij een nieuwe poging (nieuwe of dezelfde vraag) om zijn kennis of vaardigheid te tonen. Kortom, er zijn meerdere (langere en kortere) wegen, maar Rome bereiken we allemaal. HTML (zeker wanneer deze combineren met scripttalen) biedt voldoende functionaliteit om een geprogrammeerde instructie te bouwen. Bij lineaire geprogrammeerde instructie moet men elke schakel in vastgestelde pad doorlopen. Bij vertakte geprogrammeerde instructie zijn er meerdere paden afgestemd op de antwoorden, die de studenten geven op de vragen (moeilijkere, abstractere of gemakkelijkere schakels). Voorbeeld op het internet; prijselasticiteit https://docent.ehsal.be/onderwijsvernieuwing/prijselasticiteit/index.html
+ 
+=== GCGO ===
+We spreken van Geavanceerd Computer Gestuurd Onderwijs wanneer de computer “intelligent” lijkt te worden. Dit zien we al een beetje ontstaan bij het m.b.v. de computer interactief aanleren van oplossingsmethodieken. Als het systeem het probleemoplossend gedrag van experts daadwerkelijk kan nabootsen dan hebben we het over expertsystemen. In expertsystemen zitten de expertregels die deskundigen bij probleem oplossen hanteren expliciet opgeslagen. Wanneer de computer als coach kan optreden dan hebben we het over Intelligente Computer Gestuurd Onderwijs (ICGO). Flightsimulators bijvoorbeeld lijken dit niveau te benaderen of robots. Door de enorme hoeveelheid gegevens die zijn geordend en opgeslagen en de slimme wijze van zoeken daarin, maakt zoekmachines ook steeds intelligenter ogend.
+
+=== Leeromgeving ===
+Krachtige leeromgevingen worden gekenmerkt door actieve samenwerking, de realistische authentieke context waarin men vooral kijkt naar concrete toepassing van het geleerde, intrinsieke motivatie (leren vanuit belangstelling niet vanwege beloning) van en zelfverantwoordelijk leren door de studerende. Er is een duidelijk zicht op de functionaliteit van het leren en het geleerde. De rol van de docent zal van coachende en begeleidende aard zijn in plaats van het overdragen van informatie.
+
+Men spreekt van elektronische leeromgeving (ELO) wanneer ICT voor de benodigde transformatie van leerprocessen zorgt. 
+ 
+Computer Supported Collaborative Learning (CSCL) is leren in een krachtige leeromgeving waarin studenten samenwerken met behulp van de computer.  De constructuvistische grondgedachte achter het concept is dat kennis in allerlei situaties wordt opgebouwd en dat studenten samen beschikken over een grote hoeveelheid kennis. Reflectie op eigen leren en handelen door het uitwisselen ideeën, het onderling vergelijken van leerstrategieën en het beargumenteren van het gevolgde leerproces en bijbehorende leerresultaat. Probleemgestuurd onderwijs is een onderwijsvorm die CL (Collaborative Learning) toepast. Wanneer dit door de computer wordt ondersteund dan kunnen we spreken van CSCL.
+ 
+=== Voordelen ===
+Reacties met anderen of met de computer kunnen in rust (minder dominantie verschillen, meer diepgang) worden gegeven en verwerkt. Middelen daarbij zijn e-mail, chatten, videoconferencing en internet (globalisering). Door virtuele en audiovisuele middelen als multimedia en simulaties wordt het onderwijs meer levensecht en op toepassing en ervaring gericht. Men leert vanuit een concrete context en intrinsieke motivatie. Begeleiding door een computer is individueel waardoor men meer gestimuleerd wordt zelfstandig en actief te leren. De computer is als begeleider oneindig geduldig, altijd beschikbaar ongebonden door tijd of afstand en kan meerdere perspectieven op het geleerde volgen. De student kan in zijn eigen tempo en niveau de leerstof doornemen en krijgt onmiddellijk feedback over zijn leervoortgang.
+ 
+=== Afkortingen === 
+De volgende afkortingen worden in relatie met computer ondersteund onderwijs frequent gebruikt. Links de Engelse benaming en rechts het Nederlandse equivalent. 
+* CAI=Computer Assisted Instruction=CGO=Computer Gestuurd Onderwijs 
+* CMI=Computer Managed Instruction=CBO=Computer Beheerd Onderwijs 
+* CSCL=Computer Supported Collaborative Learning= Samenwerkend Leren met de computer    
+* CSL=Computer Supported Learning=COO=Computer Ondersteund Onderwijs 
+* ELE=Electronic Learning Environment=ELO=Elektronische Leeromgeving 
+* ICT=Information Communication Technology=ICT=Informatie-Communicatie Technologie 
+
+{{Opmaak | Voettekst}}

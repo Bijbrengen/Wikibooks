@@ -1,0 +1,313 @@
+[Event "German Championship"]
+[Site "Bad Oeynhausen GER"]
+[Date "1938.07.31"]
+[Round "8"]
+[White "Paul Michel"]
+[Black "Kurt Paul Otto Joseph Richter"]
+[Result "1/2-1/2"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Borg Defense"]
+[StudyName "B00 Borg Defense"]
+[ChapterName "Debut game - Paul Michel - Kurt Paul Otto Joseph Richter"]
+[ChapterURL "https://lichess.org/study/8KgVrt4m/ae1w31eH"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 g5 2. d4 h6 3. f4 Bg7 4. c3 gxf4 5. Bxf4 c5 6. dxc5 b6 7. Qg4 Kf8 8. Qg3 Na6 9. cxb6 Qxb6 10. Qf2 Nf6 11. Qxb6 axb6 12. Nf3 Nc5 13. Nbd2 Nfxe4 14. Nxe4 Nxe4 15. Be5 Bxe5 16. Nxe5 Rg8 17. Bd3 Nc5 18. O-O Nxd3 19. Nxd3 Ba6 20. Rf3 Rg5 21. b3 Rc8 22. c4 Bb7 23. Rf2 d5 24. Nf4 Kg7 25. cxd5 Bxd5 26. Re1 e6 27. h4 Rg4 28. Nxd5 exd5 29. Ref1 Rc7 { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "B00 Borg Defense: 1. e4 g5 2. d4 e6 - Main line"]
+[Date "2021.02.05"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Borg Defense"]
+[StudyName "B00 Borg Defense"]
+[ChapterName "1. e4 g5 2. d4 e6 - Main line"]
+[ChapterURL "https://lichess.org/study/8KgVrt4m/nwmIhef9"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.05"]
+[UTCTime "05:25:12"]
+
+1. e4 { King's Pawn opening e4, one of the most common move for white to start. } 1... g5 { g5 is the basic first move for the Borg defense as reversed to the Grob opening g4. It opens the diagonal for the f8 bishop and can disturb white knight to go to f3. } 2. d4 { The best respons for white against the borg. White conquers the center and attacks the hanging pawn on g5. When black moves his bishop to Bg7 the respons e5 limits his effectiveness. } 2... e6 { This moves opens the diagonal for the black Queen to protect the pawn on g5. It also supports the move d5. Placing the white Bishop on Bc4 has no treat for f7 for example if the white Queen joins the attack on Qf3 of Qh5. The most natural way to proceed for white is to develop his knights (Nc3, Nf3 or Nh3) or bishops (Be3) but in fact the way to go is with the pawns on h4 or even better e4. } (2... h6 { This is also a common move played by Basman mostly but according to Stockfish (37 deep) not the best one. It advantage is that black does for the time being not to keep an eye on g5 anymore in his further development. But this extra move to protect the pawn costs also some tempo compared to e6. Besides that, with h4 white can easily break up thepawns. This move was played although by Carlsen in his matches against GMs' Firouzja, Hansen, Praggnanandhaa & Andrew Tang, Lichess Bullet Titled Arena, June 2019 } 3. h4 { This attack from white on de the pawn structure allows black to go for the Troon gambit by g4. The intention for black is to chase the white Queen. }) (2... d5 3. e5) 3. c4 { The best move. White protects d5. } (3. Nf3 g4 { Chase the Knight seems the best approach. If the white knight goes to Ne5 black can protect the g4 pawn with h5 first and then attack with Bg7. } 4. Ng5 { Looses the knight }) (3. Nc3 d5 4. exd5 exd5 5. Be2 Be6) (3. f4 { Black can choose to exchange or play for a gambit }) (3. e5 h5 4. h4) 3... d6 4. Nc3 h6 5. h4 gxh4 6. Be2 Nc6 7. Nf3 Nf6 8. Rxh4 *
+
+
+[Event "B00 Borg Defense: 1. e4 g5 2. f4 gxf4 - King's gambit variation"]
+[Date "2021.02.05"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Borg Defense"]
+[StudyName "B00 Borg Defense"]
+[ChapterName "1. e4 g5 2. f4 gxf4 - King's gambit variation"]
+[ChapterURL "https://lichess.org/study/8KgVrt4m/74lp4lah"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.05"]
+[UTCTime "08:34:04"]
+
+1. e4 g5 2. f4 { Maybe the opponent want to make a variant on the King's gambit. The best respons is to accept the gambit. } 2... gxf4 3. d4 { This is the best respons for white } (3. Nf3 { This position means that black has the slightest advantage already. } 3... d6 4. d4 Bg7 5. Bxf4 c5 6. Bc4 cxd4 7. O-O Nc6 8. c3 Nf6 9. Qe2 Bg4 10. h3 Bh5 11. g4 Bg6 12. cxd4 Nxe4 13. Nc3 Nxc3 14. bxc3 O-O 15. Bg5 Qa5 16. Qd2 e5 17. Bh6 exd4 18. Bxg7 Kxg7 19. Rac1 Rac8 20. Bb3 dxc3 21. Qxd6 Rfe8 22. g5 Kg8 23. Qf6 Qc7 24. Nh4 Re2 25. Rf4 Qe7 26. Nxg6 Qe3+ 27. Kf1 Qxh3+ 28. Kxe2 Re8+ 29. Ne7+ Rxe7+ 30. Qxe7 Nxe7 31. Rxf7 Kh8 32. Rf8+ Kg7 33. Rcf1 Qg2+ 34. Kd3 Qd2+ 35. Kc4 c2 { Kosten, Anthony C - Basman, Michael J, 0-1, Manchester Benedictine op 4th, 1981, https://lichess.org/8tFATfAf }) 3... d5 { Best respons for black but still behind white though. } 4. exd5 e5 5. Bb5+ c6 6. dxc6 Nxc6 7. Nf3 Bg7 8. dxe5 Qxd1+ 9. Kxd1 Bg4 10. Bxf4 Bxf3+ 11. gxf3 O-O-O+ 12. Kc1 Bxe5 13. Bxe5 Nxe5 *
+
+
+[Event "B00 Borg Defense: 1. e4 g5 2. h3 Bg7 - Same as A00 Clemenz Opening"]
+[Date "2021.02.13"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Borg Defense"]
+[StudyName "B00 Borg Defense"]
+[ChapterName "1. e4 g5 2. h3 Bg7 - Same as A00 Clemenz Opening"]
+[ChapterURL "https://lichess.org/study/8KgVrt4m/XKcDPHV6"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.13"]
+[UTCTime "09:48:20"]
+
+1. e4 g5 2. h3 Bg7 { Same position as with the A00 Clemenz Opening. De best respons for white is Nf3. } 3. Nf3 { Black can not attack the knight with g4 anymore. An with e6 a common position with the Borg opening arises } 3... e6 4. Nc3 Nc6 5. d4 h6 6. d5 Nce7 7. d6 cxd6 8. Qxd6 Nf6 9. Be3 b6 10. h4 Bb7 11. Bd3 *
+
+
+[Event "B00 Borg Defense: 1. e4 g5 2. Bc4 h6 - Scholar's mate"]
+[Date "2021.02.05"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Borg Defense"]
+[StudyName "B00 Borg Defense"]
+[ChapterName "1. e4 g5 2. Bc4 h6 - Scholar's mate"]
+[ChapterURL "https://lichess.org/study/8KgVrt4m/40p3fSDN"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.05"]
+[UTCTime "19:21:47"]
+
+1. e4 g5 2. Bc4 { Beware of the white Queen on Qh5 or Qf3! So any move with the f-pawn is of course fatal. Best move is h6 in spite of threat of the Scholar's mate. If the Queen comes, reply simple with e6 which is a strong move anyway. } 2... h6 3. h4 (3. d4) (3. Qh5 e6 { Now white has to be careful not to fall into a trap itself. He has to retreat the Queen and not block it by Nf3. Otherwise Nf6 will chase the Queen without escaping a fork by g4. An exchange of Queens by d4 and after Nf6 the bishop get's Bg4, does also not work without losing material by white. } 4. Nf3 (4. d4 Nf6 5. Bxg5 Nxh5 6. Bxd8 Kxd8) 4... Nf6 5. Qh3 g4) (3. Qf3 Nf6) 3... gxh4 (3... g4 { If the white Queen now accepts the Troon gambit, it loses the white bishop by d5. } 4. Qxg4 d5) 4. d4 (4. Rxh4 e6 5. Nf3 d5 6. exd5 exd5 7. Be2 Nc6) 4... d6 *
+
+
+[Event "B00 Borg Defense: 1. e4 g5 2. h4 g4 - Troon gambit"]
+[Date "2021.02.06"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Borg Defense"]
+[StudyName "B00 Borg Defense"]
+[ChapterName "1. e4 g5 2. h4 g4 - Troon gambit"]
+[ChapterURL "https://lichess.org/study/8KgVrt4m/NTeYeEBf"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.06"]
+[UTCTime "07:38:20"]
+
+1. e4 g5 2. h4 { An exchange will result in an open file for white on h and a developed rook. Black opens the g file. Also castling becomes for both sides more dangerous. The game is more open after the exchange which is less favourable for black who has less development. The isolated h-pawn of black is not very crucial. A white knight on f3 can not be harassed anymore. } 2... g4 { This closes the position for black which makes it safer. If the white Queen accepts, chase her away by d5. Do not capture the pawn but proceed to d4. If white rejects the gambit by Nc3 protecting the pawn on e4 and the square d5, black only can continue the gambit by playing his pawn to c6. } 3. Nc3 c6 { Now again the same situation is there. If black accepts the gambit, by d5 the Queen and the pawn on e5 is attacked. And again do not take the pawn on e4 but proceed to d4. And after the white knight has moved, continue with Nf6 attacking the hanging pawn on e4 locking in white to protect black's king side. To prevent this, white could respond with d3. But with Bg4 the lock in continues. } 4. Qxg4 d5 5. Qg3 d4 6. Nce2 c5 7. Nf4 Qd6 *
+
+
+[Event "B00 Borg Defense: 1. e4 g5 2. Nc3 e6"]
+[Date "2021.02.05"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Borg Defense"]
+[StudyName "B00 Borg Defense"]
+[ChapterName "1. e4 g5 2. Nc3 e6"]
+[ChapterURL "https://lichess.org/study/8KgVrt4m/KZTMxhOe"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.05"]
+[UTCTime "21:39:01"]
+
+1. e4 g5 2. Nc3 { Do not play the f pawn because it will be checkmate by Qh5 } 2... e6 { If the Queen comes, scare it away only after g5 is protected by h6. The most obvious way is with Nf6 if possible. } (2... f6 3. Qh5#) 3. Qh5 h6 *
+
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/8VgTXWww"]
+[Date "2021.02.04"]
+[White "HassanBoulfafen"]
+[Black "Bijbrengen"]
+[Result "0-1"]
+[WhiteElo "1577"]
+[BlackElo "1267"]
+[TimeControl "600+0"]
+[Termination "Normal"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Borg Defense"]
+[StudyName "B00 Borg Defense"]
+[ChapterName "1. e4 g5 2. Nf3 g4 - HassanBoulfafen - Bijbrengen"]
+[ChapterURL "https://lichess.org/study/8KgVrt4m/JVebvfSZ"]
+
+1. e4 { [%clk 0:10:00] } 1... g5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:50] } (2. d4) 2... g4 { [%clk 0:09:57] } 3. Ne5 (3. Nd4 { Here is how white responded in an example game. } { [%clk 0:09:39] } 3... d6 { [%clk 0:09:50] } 4. h3 { [%clk 0:09:28] } 4... e5 { [%clk 0:09:47] } 5. Nb3 { [%clk 0:09:18] } 5... gxh3 { [%clk 0:09:42] } 6. gxh3 { [%clk 0:09:16] } 6... Bh6 { [%clk 0:08:53] } 7. Bc4 { [%clk 0:09:09] } 7... Qh4 { [%clk 0:08:16] } 8. Qf3 { [%clk 0:08:46] } 8... Bf4 { [%clk 0:08:12] } 9. Nc3 { [%clk 0:08:37] } 9... h5 { [%clk 0:07:15] } 10. Nd5 { [%clk 0:08:27] } 10... Bg4 { In the Borg defense the white Queen can be a strong piece so exchanging them can help your position. } { [%clk 0:07:01] } 11. hxg4 { [%clk 0:08:19] } 11... hxg4 { [%clk 0:06:59] } 12. Qg2 { [%clk 0:08:08] } 12... Qxh1+ { [%clk 0:06:46] } 13. Qxh1 { [%clk 0:08:05] } 13... Rxh1+ { [%clk 0:06:45] } 14. Ke2 { [%clk 0:08:04] } 14... Rh2 { [%clk 0:05:50] } 15. Nxc7+ { [%clk 0:08:00] } 15... Kd8 { [%clk 0:05:42] } 16. Nxa8 { [%clk 0:07:57] } 16... g3 { [%clk 0:05:40] } 17. Kf3 { [%clk 0:07:40] } 17... g2 { [%clk 0:05:37] } 18. d3 { [%clk 0:07:18] } 18... g1=Q { [%clk 0:05:31] } 19. Bxf4 { [%clk 0:07:16] } 19... Qxf2+ { [%clk 0:05:29] } 20. Kg4 { [%clk 0:07:11] } 20... Qxf4# { 0-1 Black wins by checkmate. } { [%clk 0:05:28] }) (3. Ng5) 3... h5 0-1
+
+
+[Event "B00 Borg Defense: 1. e4 g5 2. Qg4 d5"]
+[Date "2021.02.06"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Borg Defense"]
+[StudyName "B00 Borg Defense"]
+[ChapterName "1. e4 g5 2. Qg4 d5"]
+[ChapterURL "https://lichess.org/study/8KgVrt4m/3YOpwexe"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.06"]
+[UTCTime "13:24:26"]
+
+1. e4 g5 2. Qg4 d5 { This approach by white makes the positions almost equal. White can take take the g4 pawn but also retreating to Qg3 is fine. When he takes in fact he traded for his queen pawn for a flank pawn but with hanging center pawn that can be attacked. White's Queen though can also become a victim for black's attacking forces. } 3. Qg3 { This gives black the initiative. He can choose to exchange and open the game, or witjh e6 close it. When he conquers the pawn e4 we can end up in the same position as if white wpuld accepted the exchange right away only white has lost a tempo. So the refusal must implicate that white has other plans than capturing the g5 pawn. For example the unnatural looking move e3, which seems to allow black to exchange his hanging Queen's pawn for that of white, ending up with an extra pawn. } (3. Qxg5 dxe4 { Now white can attack the hanging pawn. The best piece for that is the knight on Nc3. }) 3... dxe4 4. d3 exd3 { Although it looks like black has the advantage, beacuse of the position of white, the changes are slightly better for white beause of it's development. } 5. Bxd3 *
+
+
+[Event "B00 Borg Defense: 1. d4 g5 2. e4 e6 - Borg gambit declined"]
+[Date "2021.02.05"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A40"]
+[Opening "Borg Defense: Borg Gambit"]
+[StudyName "B00 Borg Defense"]
+[ChapterName "1. d4 g5 2. e4 e6 - Borg gambit declined"]
+[ChapterURL "https://lichess.org/study/8KgVrt4m/e7gEfrKT"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.05"]
+[UTCTime "12:46:41"]
+
+1. d4 g5 2. e4 e6 { This is the same position as the main line. } *
+
+
+[Event "B00 Borg Defense: 1. d4 g5 2. h3  h6 - Borg Gambit declined"]
+[Date "2021.02.13"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "B00 Borg Defense"]
+[ChapterName "1. d4 g5 2. h3  h6 - Borg Gambit declined"]
+[ChapterURL "https://lichess.org/study/8KgVrt4m/MOZ831nS"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.13"]
+[UTCTime "10:44:13"]
+
+ *
+
+
+[Event "B00 Borg Defense: 1. d4 g5 2. Nf3 g4  - Borg gambit declined"]
+[Date "2021.02.05"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A40"]
+[Opening "Borg Defense: Borg Gambit"]
+[StudyName "B00 Borg Defense"]
+[ChapterName "1. d4 g5 2. Nf3 g4  - Borg gambit declined"]
+[ChapterURL "https://lichess.org/study/8KgVrt4m/cPvEnhaz"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.05"]
+[UTCTime "12:54:27"]
+
+1. d4 g5 2. Nf3 g4 3. Nh4 Nc6 4. g3 d5 *
+
+
+[Event "B00 Borg Defense: 1. d4 g5 2. Bxg5 c5 - Borg Gambit accepted"]
+[Date "2021.02.05"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A40"]
+[Opening "Borg Defense: Borg Gambit"]
+[StudyName "B00 Borg Defense"]
+[ChapterName "1. d4 g5 2. Bxg5 c5 - Borg Gambit accepted"]
+[ChapterURL "https://lichess.org/study/8KgVrt4m/QtZyyghZ"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.05"]
+[UTCTime "05:58:32"]
+
+1. d4 g5 { The Borg gambit (the counterpart of the Grob Gambit) is tricky for white. So it could work as surprise, in quick games or for weak players. The position has some similarities with the Qb6 Sicilian. } 2. Bxg5 c5 { This move wasn't so great in the normal Grob Gambit but is possible since white has already played e4 and the Queen can recapture by a5. } 3. c3 (3. Nf3) *
+
+
+[Event "B00 Borg Defense: 1. c4 g5 2. Nc3 c5 - English Opening"]
+[Date "2021.02.05"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A10"]
+[Opening "English Opening: Myers Defense"]
+[StudyName "B00 Borg Defense"]
+[ChapterName "1. c4 g5 2. Nc3 c5 - English Opening"]
+[ChapterURL "https://lichess.org/study/8KgVrt4m/h7s3XtID"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.05"]
+[UTCTime "09:05:30"]
+
+1. c4 g5 2. Nc3 c5 *
+
+
+[Event "B00 Borg Defense: 1. c4 g5 2. d4 Bg7 - English Opening: Myers Variation"]
+[Date "2021.02.05"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A10"]
+[Opening "English Opening: Myers Gambit"]
+[StudyName "B00 Borg Defense"]
+[ChapterName "1. c4 g5 2. d4 Bg7 - English Opening: Myers Variation"]
+[ChapterURL "https://lichess.org/study/8KgVrt4m/Pqjm5BIT"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.05"]
+[UTCTime "08:46:43"]
+
+1. c4 g5 2. d4 Bg7 *
+
+
+[Event "B00 Borg Defense: 1. h3 g5 2. e4 Bg7 - A00 Clemenz Opening"]
+[Date "2021.02.13"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Borg Defense"]
+[StudyName "B00 Borg Defense"]
+[ChapterName "1. h3 g5 2. e4 Bg7 - A00 Clemenz Opening"]
+[ChapterURL "https://lichess.org/study/8KgVrt4m/5naRaInz"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.13"]
+[UTCTime "09:52:01"]
+
+1. e4 g5 2. h3 Bg7 *
+
+
+[Event "B00 Borg Defense: 1. Nf3 g5 2. Nxg5 d5 - Zukertort Opening: Herrstrom Gambit"]
+[Date "2021.02.05"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Herrstrom Gambit"]
+[StudyName "B00 Borg Defense"]
+[ChapterName "1. Nf3 g5 2. Nxg5 d5 - Zukertort Opening: Herrstrom Gambit"]
+[ChapterURL "https://lichess.org/study/8KgVrt4m/z7O4rVFi"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.05"]
+[UTCTime "09:18:00"]
+
+1. Nf3 g5 2. Nxg5 { Although e5 looks more natural attacking the knight, d5 is a better respons. Black is trying to conquer the center now the knight is distracted. } 2... d5 (2... e5 3. d4 Be7 4. Nh3 exd4 5. e3 dxe3 6. Bxe3 Nc6 7. Nf4 Nf6 8. c4 Rg8 9. Be2 d6 10. Qc2 Bg4 11. Bxg4 Rxg4 12. h3 Rg7 13. Nc3 Qd7 14. Ncd5 O-O-O 15. O-O-O Re8 16. a3 Rgg8 17. Rhg1 Nxd5 18. cxd5 Ne5 19. Kb1 Kb8 20. Rc1 Ng6 21. Nxg6 Rxg6 22. Ka1 Bf6 23. Qb3 Re4 24. Rc4 Qe7 25. Bxa7+ Kc8 26. Be3 Rxc4 27. Qxc4 Qe5 28. Qb3 h5 29. g3 Rg8 30. Rc1 Kb8 31. Rc2 Re8 32. Qa4 Qe4 33. Rc4 Qh1+ 34. Ka2 Re5 35. Qd7 Rxe3 36. Qxc7+ { Medic, Mirjana - Muellneritsch, Anton, 1-0, Bled op 18th, 1997, https://lichess.org/ofxhPd5b }) *
+
+
+[Event "B00 Borg Defense: 1. a3 g5 2. e4 c5 - Anderssen Opening"]
+[Date "2021.02.13"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A00"]
+[Opening "Anderssen's Opening"]
+[StudyName "B00 Borg Defense"]
+[ChapterName "1. a3 g5 2. e4 c5 - Anderssen Opening"]
+[ChapterURL "https://lichess.org/study/8KgVrt4m/UkXpsSy1"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2021.02.13"]
+[UTCTime "15:27:01"]
+
+1. a3 g5 2. e4 c5 *
+
+
+[Event "60th US Open"]
+[Site "Omaha, NE USA"]
+[Date "1959.08.01"]
+[Round "12"]
+[White "Walter Thomas Mayfield"]
+[Black "William Robert Trinks"]
+[Result "1-0"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Borg Defense"]
+[StudyName "B00 Borg Defense"]
+[ChapterName "Black mate in 3 : Walter Thomas Mayfield - William Robert Trinks"]
+[ChapterURL "https://lichess.org/study/8KgVrt4m/3TrChydC"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. e4 g5 2. Nc3 f5 3. Qh5# { 1-0 White wins by checkmate. } 1-0
+
+

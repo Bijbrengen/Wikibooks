@@ -1,0 +1,67 @@
+{{Opmaak}}
+'''Lua''' is een programmeertaal die wordt gebruikt voor het maken van dynamische en interactieve applicaties. Het is een krachtige en flexibele taal die gemakkelijk te leren is en wordt vaak gebruikt voor het ontwikkelen van spelletjes, toepassingen voor mobiele apparaten en andere software. In MediaWiki wordt Lua uitgevoerd via de [[Onderwijswiki/Scribunto|Scribunto-extensie]], die een veilige omgeving biedt voor scripts op de server.
+
+== Lua in MediaWiki ==
+Binnen een wiki-omgeving wordt Lua niet direct uitgevoerd zoals op een computer, maar via een framework dat zorgt voor veiligheid en integratie:
+* '''Sandboxing''': Scripts hebben geen toegang tot het bestandssysteem of externe netwerken.
+* '''<nowiki>{{#invoke:}}</nowiki>''': Dit is de enige manier om een Lua-module aan te roepen vanuit een wikipagina.
+* '''Prestaties''': Lua is vele malen sneller dan complexe sjablonen met parserfunctions, wat essentieel is voor grote pagina's.
+
+== Aandachtspunten ==
+=== Returnwaarden ===
+Bij het programmeren in Lua kun je soms stuiten op een interessante eigenschap van de taal: functies kunnen meerdere waarden retourneren. Dit kan bijzonder handig zijn, maar het vereist ook aandacht voor detail om onverwachte resultaten te vermijden, vooral bij het gebruik van functies uit standaardbibliotheken, zoals '''string.gsub'''.
+
+Stel, je gebruikt '''string.gsub''' om bepaalde delen van een string te vervangen. Deze functie retourneert twee waarden: de gewijzigde string en het aantal vervangingen dat is uitgevoerd. Als je deze functie direct in een lokale variabele toewijst met de intentie alleen de gewijzigde string op te slaan, kan dit leiden tot verwarring.
+
+<pre>local gewijzigdeString = string.gsub("Hallo wereld", "wereld", "Lua")
+-- Dit lijkt misschien correct, maar `gewijzigdeString` krijgt onbedoeld de waarde van het aantal vervangingen.</pre>
+
+Om dergelijke situaties correct te hanteren, zijn er twee aanbevolen benaderingen:
+* ''Meerdere variabelen gebruiken'': Als je geïnteresseerd bent in beide returnwaarden, wijs ze dan toe aan meerdere variabelen. Dit zorgt ervoor dat elke waarde correct wordt opgeslagen.
+<pre>local gewijzigdeString, aantalVervangingen = string.gsub("Hallo wereld", "wereld", "Lua")</pre>
+* ''Gebruik van een tussenvariabele'': Als je alleen in de eerste returnwaarde geïnteresseerd bent, kun je een tussenvariabele gebruiken om de eerste waarde op te slaan en de rest te negeren. Dit kan ook bereikt worden door expliciet te kiezen welke returnwaarde je wilt behouden.
+<pre>local gewijzigdeString = select(1, string.gsub("Hallo wereld", "wereld", "Lua"))</pre>
+
+== Voorbeeld ==
+In dit boek zullen we Lua verder toelichten met de [[Module:Layout]] als voorbeeld. We beginnen met de basisfuncties.
+
+=== Require ===
+Als eerste behandelen de basisfunctie '''require''' die wordt gebruikt om andere Lua-scripts te laden en te integreren in het huidige script. De require-functie kan worden gebruikt om bibliotheken of modules te laden die zijn opgeslagen in externe bestanden, en deze kunnen vervolgens worden gebruikt in het huidige script.
+
+De require-functie neemt één argument aan, namelijk de naam van het script of de module die je wilt laden. In de [[Module:layout]] is de eerste require;
+<pre>
+require( "strict" );
+</pre>
+In Lua, is de ''strict'' module een module die extra beveiliging biedt voor je script door het toevoegen van beperkingen op bepaalde Lua-constructies die kunnen leiden tot fouten of ongewenste gedragingen. Als je de ''strict'' module inschakelt in je script, moet je bepaalde regels volgen om ervoor te zorgen dat je script veilig en robuust is. Bijvoorbeeld, de ''strict'' module zal je niet toestaan om globale variabelen te maken zonder ze expliciet te declareren met de global-constructie. Dit kan helpen om fouten te voorkomen die kunnen optreden als gevolg van het per ongeluk overschrijven van globale variabelen. De ''strict'' module biedt ook andere beperkingen, zoals het verbieden van de dubbele indeling van blokken en het verplichten van het gebruik van de local-constructie om lokale variabelen te declareren. Deze beperkingen zullen helpen om fouten te voorkomen en de kwaliteit van je script te verhogen.
+
+Een tweede voorbeeld van de ''require'' functie die meteen daarop volgt in de [[Module:layout]] is:
+<pre>
+local CFG = require( 'Module:Layout/Configuration' );
+</pre>
+In dit voorbeeld wordt de module met de naam "Module:Layout/Configuration" geladen en opgeslagen in de lokale variabele CFG. Hoofdletters worden gebruikt om aan te duiden dat het om constanten gaat en omdat elke constante CFG bevat is gekozen voor deze afkorting van configuration. We zien ook aan het voorbeeld dat er een subpagina wordt geladen van de [[Module:layout]]. Op die manier kan men ordening aan brengen in de module en onderdelen afsplitsen om de pagina niet groot en onoverzichtelijke te laten worden. In het voorbeeld van [[Module:layout]] zijn er vaak twee lagen. De eerste laag waaronder de modules worden gegroepeerd zijn;
+* '''[[Module:Layout/System]]'''       ; modules die in '''productie''' zijn.
+* '''[[Module:Layout/Test]]'''         ; modules die '''test'''en.
+* '''[[Module:Layout/Sandbox]]'''      ; modules die in '''ontwikkeling''' zijn.
+* '''[[Module:Layout/Library]]'''      ; modules die bouwstenen vormen voor de systeem modules.
+* '''[[Module:Layout/Configuration]]'''; modules die de werking van andere modules configureren.
+
+Een belangrijk kenmerk van de require-functie is dat het script of de module die wordt geladen, maar één keer wordt geladen, zelfs als de require-functie meerdere keren wordt aangeroepen. Dit betekent dat als een script of module al is geladen en opgeslagen in de lokale variabele, de require-functie niet opnieuw zal proberen om het te laden en zal in plaats daarvan gewoon de bestaande versie teruggeven.
+
+In het laatste voorbeeld werd de variabele ''CFG'' gelijkgesteld (''='') aan de ''require'' functie. De require functie levert namelijk een resultaat op die we kunnen opslaan in een variabele. Een resultaat van een module geven we "terug" door ''return'' aan het eind van de module met daarachter hetgeen we teruggeven. In het geval van de [[Module:layout]] is dat de inhoud van de variabele ''layout'' die eerst als volgt is gedefinieerd als tabel en daarna teruggegeven.
+<pre>
+local layout = {};
+return layout;
+</pre>
+Aan de table worden namelijk de functies die kunnen worden aangeroepen via de invoke parserfunctie gekoppeld. Zoals in de [[Module:layout]] de main functie.
+<pre>
+function layout.main( frame )
+...
+end
+</pre>
+Als de module een returnwaarde teruggeeft aan de invoke-parserfunctie, wordt de returnwaarde opgenomen in de wikitekst van de pagina en weergegeven als deel van de pagina's inhoud. In ons voorbeeld heeft de module een lokale variabele met de naam ''layout'' dat een tabel is. De tabel bevat één functie met de naam ''main'', die wordt aangeroepen wanneer de module wordt aangeroepen via de invoke-parserfunctie op een wikipagina. De main-functie neemt één argument aan, namelijk een "''frame''" object. Het "''frame''" object bevat informatie over de context waarin de module wordt aangeroepen, zoals de naam van de pagina die de module aanroept en de parameters die aan de module zijn doorgegeven. Deze functie geeft de layout-tabel terug aan het script dat de module heeft aangeroepen. Deze tabel bevat de functies die kunnen worden aangeroepen via de invoke-parserfunctie op een wikipagina.
+
+==Externe links==
+* [https://www.Lua.org/ Lua, the programming language] {{En}}
+[[Categorie:Programmeertaal]]
+
+{{Opmaak | Voettekst}}

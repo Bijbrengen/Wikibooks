@@ -1,0 +1,128 @@
+[Event ".Bird Opening.General.Drill: g6...c5...Bg7...Nc6"]
+[Site "https://lichess.org/study/qfz5RN62/ozBE5gfh"]
+[Date "2022.12.14"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[Variant "Standard"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[StudyName "1. f4 g6: Modern defense against the Bird opening"]
+[ChapterName "g6...c5...Bg7...Nc6"]
+[ChapterURL "https://lichess.org/study/x1zxL04D/6y7SbH9Q"]
+[UTCDate "2022.12.14"]
+[UTCTime "15:58:39"]
+[ChapterMode "gamebook"]
+
+{ Open with the Bird }
+1. f4 g6 2. e4 c5 3. Nf3 Bg7 4. d3 Nc6 5. Be2 *
+
+
+[Event ".Bird Opening.General.Drill: g6...Bg7...b6...Bb7"]
+[Site "https://lichess.org/study/qfz5RN62/QyX7LruO"]
+[Date "2022.12.14"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[Variant "Standard"]
+[ECO "B06"]
+[Opening "Modern Defense: Three Pawns Attack"]
+[StudyName "1. f4 g6: Modern defense against the Bird opening"]
+[ChapterName "g6...Bg7...b6...Bb7"]
+[ChapterURL "https://lichess.org/study/x1zxL04D/0J70mH2I"]
+[UTCDate "2022.12.14"]
+[UTCTime "15:58:39"]
+[ChapterMode "gamebook"]
+
+1. f4 g6 2. e4 Bg7 3. d4 b6 4. Nf3 Bb7 5. Nc3 *
+
+
+[Event ".Bird Opening.General.Drill: g6...Bg7...c5...d6"]
+[Site "https://lichess.org/study/qfz5RN62/KJ0iG6y6"]
+[Date "2022.12.14"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[Variant "Standard"]
+[ECO "B06"]
+[Opening "Modern Defense: Three Pawns Attack"]
+[StudyName "1. f4 g6: Modern defense against the Bird opening"]
+[ChapterName "g6...Bg7...c5...d6"]
+[ChapterURL "https://lichess.org/study/x1zxL04D/yXJRBWnW"]
+[UTCDate "2022.12.14"]
+[UTCTime "15:58:39"]
+[ChapterMode "gamebook"]
+
+1. f4 g6 2. e4 Bg7 3. d4 c5 4. d5 d6 5. Bb5+ *
+
+
+[Event "Rated Classical tournament https://lichess.org/tournament/gUrGv14P"]
+[Site "https://lichess.org/DRqT8Qv8"]
+[Date "2023.04.14"]
+[White "Bijbrengen"]
+[Black "Poifiend"]
+[Result "0-1"]
+[WhiteElo "1513"]
+[BlackElo "2011"]
+[TimeControl "1200+10"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "B06"]
+[Opening "Modern Defense: Pseudo-Austrian Attack"]
+[StudyName "1. f4 g6: Modern defense against the Bird opening"]
+[ChapterName "g6...Bg7...d6...Nf6...c6"]
+[ChapterURL "https://lichess.org/study/x1zxL04D/5qpwkBtL"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+
+1. f4 { [%clk 0:20:00] } 1... g6 { [%clk 0:20:00] } 2. e4 { [%clk 0:19:43] } 2... Bg7 { [%clk 0:20:07] } 3. d4 { [%clk 0:19:42] } 3... d6 { [%clk 0:20:13] } 4. Nc3 { [%clk 0:19:38] } 4... Nf6 { [%clk 0:20:13] } 5. Nf3 { [%clk 0:19:35] } 5... c6 { [%clk 0:20:17] } 6. Bd3 0-1
+
+
+[Event "1. f4 g6: Modern defense against the Bird opening: g6...Bg7...d6...Nf6...Bg4...dx5...Nd5"]
+[Date "2023.03.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B06"]
+[Opening "Modern Defense: Pseudo-Austrian Attack"]
+[StudyName "1. f4 g6: Modern defense against the Bird opening"]
+[ChapterName "g6...Bg7...d6...Nf6...Bg4...dx5...Nd5"]
+[ChapterURL "https://lichess.org/study/x1zxL04D/30PYE4eM"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[UTCDate "2023.03.28"]
+[UTCTime "15:32:12"]
+
+1. f4 { [%clk 0:05:00] } 1... g6 { [%clk 0:05:00] } 2. e4 { [%clk 0:04:32] } 2... Bg7 { [%clk 0:05:00] } 3. d4 { [%clk 0:04:22] } 3... d6 { [%clk 0:05:00] } 4. Nc3 { [%clk 0:04:11] } 4... Nf6 { [%clk 0:04:50] } 5. Nf3 { [%clk 0:04:05] } 5... Bg4 { [%clk 0:04:47] } 6. e5 { [%clk 0:03:58] } 6... dxe5 { [%clk 0:04:45] } 7. fxe5 { [%clk 0:03:56] } 7... Nd5 { [%clk 0:04:37] } 8. Bc4 *
+
+
+[Event ".Bird Opening.General.Drill: g6...Bg7...Nf6...Ne4"]
+[Site "https://lichess.org/study/qfz5RN62/5tu5Tkp5"]
+[Date "2022.12.14"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[Variant "Standard"]
+[ECO "B06"]
+[Opening "Modern Defense: Three Pawns Attack"]
+[StudyName "1. f4 g6: Modern defense against the Bird opening"]
+[ChapterName "g6...Bg7...Nf6...Ne4"]
+[ChapterURL "https://lichess.org/study/x1zxL04D/r1p2Ak0f"]
+[UTCDate "2022.12.14"]
+[UTCTime "15:58:39"]
+[ChapterMode "gamebook"]
+
+1. f4 { [%clk 0:10:00] } 1... g6 { [%clk 0:10:00] } 2. e4 { [%clk 0:09:48] } 2... Bg7 { [%clk 0:09:59] } 3. d4 { [%clk 0:09:36] } 3... Nf6 { [%clk 0:09:57] } 4. e5 { [%clk 0:09:17] } 4... Ne4 { [%clk 0:09:54] } 5. c3 *
+
+
+[Event ".Bird Opening.General.Drill: g6...Bg7...Nf6...Nh5"]
+[Site "https://lichess.org/study/qfz5RN62/9bdy7CII"]
+[Date "2022.12.14"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Bijbrengen"]
+[Variant "Standard"]
+[ECO "B06"]
+[Opening "Modern Defense: Three Pawns Attack"]
+[StudyName "1. f4 g6: Modern defense against the Bird opening"]
+[ChapterName "g6...Bg7...Nf6...Nh5"]
+[ChapterURL "https://lichess.org/study/x1zxL04D/bhieqCVv"]
+[UTCDate "2022.12.14"]
+[UTCTime "15:58:39"]
+[ChapterMode "gamebook"]
+
+1. f4 { [%clk 0:30:00] } 1... g6 { [%clk 0:30:00] } 2. e4 { [%clk 0:29:12] } 2... Bg7 { [%clk 0:29:54] } 3. d4 { [%clk 0:29:01] } 3... Nf6 { [%clk 0:29:44] } 4. e5 { [%clk 0:28:12] } 4... Nh5 { [%clk 0:29:35] } 5. g4 *
+
+
