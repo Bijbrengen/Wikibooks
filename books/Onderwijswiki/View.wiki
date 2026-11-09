@@ -1,0 +1,31 @@
+{{Opmaak}}
+
+De '''View''' (Weergave) is de laag die verantwoordelijk is voor het genereren van de uiteindelijke HTML of Wikitekst die de gebruiker te zien krijgt.
+Hier wordt de logica van de [[Onderwijswiki/Content|Content]] omgezet in beeld.
+
+In de [[Module:Layout]] is de View-laag extreem rijk aan onderdelen.
+Omdat we een moderne en "premium" uitstraling willen, zijn er veel verschillende visuele componenten beschikbaar.
+
+== Submodules ==
+De View-laag bevat een grote hoeveelheid submodules voor specifieke visuele elementen:
+
+* '''Hoofdonderdelen''': `Book`, `Chapter`, `Series`, `User` (voor gebruikerspagina's).
+* '''Navigatie''': `Toc` (Inhoudsopgave), `Progress` (Voortgangsbalk), `Prefixindex`.
+* '''Informatie''': `Infobox`, `Definition`, `Description`.
+* '''Media & Decoratie''': `Logo`, `Painting` (voor kunstwerken), `Gradient` (voor kleurverlopen).
+* '''Interactief''': `Chess` (voor het visuele schaakbord), `Talk` (overleg-onderdelen).
+* '''Externe Integratie''': `Wikipedia`, `Wikijunior`.
+* '''Layout elementen''': `Section`, `Category`, `Bookshelf`.
+
+== Voorbeeld ==
+De `Progress`-submodule in de View-laag neemt een percentage uit de Content-laag en zet dit om in een klikbare, gekleurde balk:
+
+<pre>
+local progress = CFG.INCLUDE( environment, "view/progress" );
+return progress.render( call );
+</pre>
+
+Door de weergave volledig los te koppelen van de logica, kunnen we de stijl van de hele wiki aanpassen (bijvoorbeeld van een "lichte" naar een "donkere" modus) door alleen de View-modules aan te passen.
+De berekeningen in de Content-laag blijven ongewijzigd.
+
+{{Opmaak | Voettekst}}

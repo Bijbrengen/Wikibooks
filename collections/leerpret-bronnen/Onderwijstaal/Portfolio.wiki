@@ -1,18 +1,1 @@
-{{Opmaak}}
-In '''Freell''' is de benadering van het bijhouden en onderbouwen van een leerportfolio fundamenteel anders dan bij traditionele methoden.
-
-== Boekhouder ==
-In dit systeem is de leerder niet langer persoonlijk verantwoordelijk voor het onderhouden van zijn portfolio.
-In plaats daarvan wordt deze taak overgenomen door AI-technologieën via 'learning analytics'.
-De AI functioneert als een soort 'boekhouder' en 'belangenbehartiger' van de leerder.
-Het slaat informatie over het leerproces op, analyseert deze en gebruikt de analyse om te valideren dat bepaalde acties zijn uitgevoerd.
-Hiermee worden specifieke competenties aangetoond zonder dat de leerder hier zelf administratieve handelingen voor hoeft te verrichten.
-
-== Verantwoordelijkheid ==
-Het cruciale onderscheid in '''Freell''' is de verschuiving van de verantwoordelijkheid voor portfolio-onderhoud van de mens naar de machine.
-Deze benadering kan worden gezien als een educatief doel op zich: de integratie van AI in het leerproces.
-
-Wanneer externe partijen echter expliciet eisen dat leerders zelf hun portfolio bijhouden en onderbouwen, verschuift het systeem van een ''leerarchitectuur'' naar een ''[[Onderwijsarchitect|onderwijsarchitectuur]]''.
-Deze verschuiving impliceert een meer traditionele aanpak waarbij de leerder direct betrokken is bij het proces van portfoliomanagement.
-
-{{Opmaak | Voettekst}}
+#DOORVERWIJZING [[Leertaal/Portfolio]]

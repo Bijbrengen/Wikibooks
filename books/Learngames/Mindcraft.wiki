@@ -1,0 +1,9 @@
+{{Opmaak}}
+Mindcraft is de naam voor een game waarmee de bekende [[w:Minecraft|Minecraft]] [[w:Sandbox (spelgenre)|sandbox]]-[[w:Computerspel|game]] wordt uitgebreid ([[w:Mod (software)|modden]]), zodat men spelenderwijs een [[Onderwijsarchitect|architect kan worden van het eigen leren]].
+
+== Blokken ==
+De basis van Minecraft wordt gevormd door het digitaal bouwen met blokken (kubusvormige objecten plaatsen op een rooster) zoals men dat kent van [[w:Lego|lego]]. Er zijn ook lego-sets met Minecraft als thema. En in Minecraft kun je via een mod met legoblokken spelen. De blokken in Mindcraft stellen [[Leren leren/Doel|leerdoelen]] voor. De structuren die men ermee kan bouwen visualiseren de uitkomst van een [[Leren|leerproces]] of de [[Onderwijsarchitect/Doel#Hiërarchie|leerdoelhiërarchie]]. Zo kan men het leren van [https://joint-research-centre.ec.europa.eu/entrecomp-entrepreneurship-competence-framework_en ondernemerschapscompetenties] - zoals vastgelegd door de [[w:Europese Unie|Europese Unie]] - bijvoorbeeld weergeven als een geruit tapijt waarin de ruiten in Mindcraft worden gebouwd door verschillende blokjes (leerdoelen) met verschillende kleuren ([[w:Leerdoel#Soorten|leerdoelsoorten]]) toenemend van licht naar donkere tinten (niveau) en transparantie (de mate waarin het leerdoel is gerealiseerd). Daar voor een geruit tapijt te kiezen legt men een link met het "Crazy Guilt" principe die komt uit een bekende theorie over ondernemerschap genaamd "[[w:Effectuation|Effectuation]]".
+
+Met de minifiguren van LEGO kunnen we groepsdynamiek processen visualiseren en naspelen.
+
+{{Opmaak | Voettekst}}

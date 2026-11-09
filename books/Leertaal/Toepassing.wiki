@@ -1,0 +1,65 @@
+{{Opmaak}}
+Een leertaal kan worden gebruikt om situaties van leren te beschrijven, vergelijken en bespreken. De toepassingsmogelijkheden hangen af van de gekozen grammatica, regelbibliotheek en beschikbare software.
+
+== Leerarchitecturen ==
+Een lerende kan het eigen leren beschrijven vanuit wat al kan, wat is geprobeerd en wat wordt nagestreefd. Een [[Onderwijsarchitect|onderwijsarchitect]] kan mogelijkheden voor anderen inrichten en de verwachte samenhang expliciet maken. Een procesbeschrijving blijft een bewering die de lerende kan beoordelen.
+
+== Rijke omgevingen ==
+In een museum, werkplaats, [[Leerbroedplaats|broedplaats]] of [[Leerparadijs|leerparadijs]] kunnen objecten uitnodigen tot onderzoek, handelen en ontmoeting. De taal kan verschillen in [[Leertaal/Vrijheid#Leercontext|afstemming, veiligheid, interactie, funfactor en beloning]] beschrijven. Een werkelijk museum krijgt daarmee niet automatisch het contextprofiel ''Museum''; dat woord benoemt binnen het model slechts een bepaald belevingskarakter.
+
+== Spellen en simulaties ==
+Bij [[Speels leren|speels leren]] kan een wereldhandeling een combinatie van leeracties worden genoemd. Een inkoopformulier invullen kan bijvoorbeeld Gebruiken omvatten. De typering Onderzoeken vraagt aanvullende aanwijzingen dat de lerende iets uitzoekt. Spelsucces bewijst niet automatisch [[Leertaal/Toepassing#Leerproces|leerimpact]] of transfer buiten het spel.
+
+== Inhoudelijke regels ==
+Een inhoudelijke regelbibliotheek kan een geval vergelijken met aannamen over leren. Een toepassing kan bijvoorbeeld onderzoeken of een aangeboden context bij een situatieafhankelijk actorprofiel past. Dezelfde formele taal kan door verschillende bibliotheken worden gebruikt. Advies en formele taalcontrole zijn verschillende functies.
+
+== Communicatie en portfolio ==
+Beschrijvingen kunnen helpen om aannamen te bespreken en voorbeelden te delen. Ze kunnen ook aansluiten op een [[Leertaal/Portfolio|portfolio]], zonder dat persoonlijke gegevens of exacte tijdstempels verplicht in de taalkern staan.
+
+== Grenzen ==
+Domeindekking is de vraag of relevante leersituaties beschrijfbaar zijn. Zij volgt niet uit Turing-volledigheid en betekent evenmin dat ieder onderwijsmodel automatisch in vrij leren kan worden veranderd. Zowel de beschrijving als het aanbod en de werkelijke keuzevrijheid vragen beoordeling.
+
+
+== Leerproces ==
+Een '''leerproces''' kan worden beschreven als een toetsbare bewering over de samenhang tussen wat een lerende heeft gedaan, nu duurzaam kan en wil kunnen. Dezelfde [[Leertaal/Definitie#Leeruitspraak|leeruitspraken]] worden daarbij in drie betekenissen gebruikt.
+
+{| class="wikitable"
+! Begrip !! Tijdsperspectief !! Vraag
+|-
+| Leerresultaat || Verleden || Wat is gedaan?
+|-
+| Leerimpact || Heden || Wat kan de lerende nu duurzaam?
+|-
+| Leerdoel || Toekomst || Wat wil de lerende kunnen?
+|}
+
+=== Resultaat ===
+Een resultaat beschrijft een uitgevoerde handeling. Een maker heeft bijvoorbeeld een drukfout onderzocht en afwegingen toegelicht. Een externe registratie kan het moment, de omstandigheden en de grond voor deze uitspraak bewaren. Een uitgevoerde handeling blijft een resultaat, ook als de actor die later niet meer kan uitvoeren.
+
+=== Impact ===
+Impact is de onderbouwde duurzame bekwaamheid op het beschouwde moment. Herhaald toepassen, opnieuw handelen na verloop van tijd of gebruik in passende variaties kan aanwijzingen bieden. ''Duurzaam'' betekent niet ''voor altijd''. Een ontbrekende beoordeling betekent niet automatisch dat de bekwaamheid ontbreekt.
+
+Een resultaat wordt niet vanzelf impact. Een score, aanwezigheid of afgeronde opdracht bewijst geen blijvende verandering. Ook transfer naar een andere situatie vraagt onderbouwing: iets kunnen met een modelpers is niet hetzelfde als zelfstandig met iedere drukpers kunnen werken.
+
+=== Doel ===
+Een doel is beoogde impact. De lerende wil bijvoorbeeld ook andere drukfouten kunnen onderzoeken. ''Drie opdrachten maken'' benoemt een uitvoering; ''een badge behalen'' een beloning. Beide kunnen bij een route horen, maar zijn nog geen precieze beschrijving van de gewenste bekwaamheid. Zie [[Leren leren/Doel|leerdoelen]] en [[Zelf leren/Zelfkeuze|zelfkeuze]].
+
+=== Samenhang ===
+Een procesbewering kan worden gelezen als:
+: Gegeven de huidige bekwaamheid wordt verwacht dat bepaalde ervaringen bijdragen aan een gewenste nieuwe bekwaamheid.
+
+De verwachting vraagt argumenten en kan worden getoetst en herzien. Een ontwerper kan toekomstige ervaringen als mogelijke geschiedenis beschrijven. Zolang de uitvoering nog niet heeft plaatsgevonden, mogen die ervaringen niet als werkelijk geboekte resultaten worden geregistreerd.
+
+=== Volgorde ===
+Een bundel kan een relatieve volgorde aangeven:
+<pre>
+onderzoek_pers -> gebruik_instelling -> reflectie_afdruk
+</pre>
+De pijl betekent volgorde in de beschrijving. Zij betekent geen vermenigvuldiging, groter-dan-relatie of bewijs van causaliteit. Een beschreven route schrijft de lerende niet automatisch voor hoe te handelen. Een reeks kan bovendien worden onderbroken door activiteiten die buiten de bundel vallen.
+
+Voor verschillende actoren kunnen afzonderlijke reeksen worden beschreven. Of gezamenlijke gebeurtenissen, synchronisatie of gedeeltelijke ordening nodig zijn, hangt af van de taalvariant. Uit de keuze voor een volgordelijke notatie volgt geen algemene psychologische uitspraak dat parallel handelen onmogelijk is.
+
+=== Tijd, identiteit en onderbouwing ===
+De taal legt de betekenis van verleden, heden en toekomst vast. Exacte tijdstempels, echte identiteit en bewijsstukken kunnen in een afzonderlijk [[Leertaal/Portfolio|portfolio]] of registratiesysteem worden opgeslagen, gekoppeld aan de namen van uitspraken. Zo blijft een ontwerpbeschrijving onderscheiden van de administratie van werkelijke gebeurtenissen.
+
+{{Opmaak | Voettekst}}

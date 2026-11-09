@@ -1,0 +1,74 @@
+{{Index Handleiding moderatoren}}
+==Leerdoel==
+De lezer is hierna in staat op een efficiënte wijze een verwijdersessie voor categorieën uit te voeren, met behulp van de Pywikipedia bot.
+
+==Vereisten==
+*Pywikipedia bot geïnstalleerd op de computer.
+*Kennis van de werking van de Pywikipedia bot, zie eventueel [[Handleiding moderatoren/Pywikipedia bot]].
+*Moderatorbitje op het betreffende Wikimedia-project.
+
+==Eigenschappen verwijderlijst categorieën==
+*Deze lijst wordt anno februari 2007 op de klassieke wijze gevoerd. Dat wil zeggen dat hij niet, zoals afbeeldingen en artikelen, onderverdeeld is in dagdelen op subpagina's.
+*De verwijderlijst bevat de volgende items:
+:*Te verwijderen categorieën
+:*Te hernoemen categorieën
+*Voordrachten voor items op deze lijst kunnen door eenieder worden gedaan.
+*De voordrachten blijven minstens 2 weken staan.
+*De voordrachten worden onderverdeeld naar dag onder een kopje van het tweede niveau met daarin vermeld de datum van de voordracht als ook de datum waarop of waarna het verzoek wordt afgehandeld.
+*Zoals altijd kan er gestemd worden over het behouden dan wel verwijderen van de ter-verwijdering-voorgedragen categorieën. Iedereen mag stemmen, zolang die persoon slechts 1 stem uitbrengt.
+*De moderator geeft over het algemeen gehoor aan de wens van de gemeenschap. Zij/hij kan echter gemotiveerd van het advies van de gemeenschap afwijken.
+*De lijst wordt alhier gevonden: {{Wp|Wikipedia:Te verwijderen categorieën|Wikipedia:Te verwijderen categorieën}}
+
+==Procedure==
+===Verzoeken die worden uitgevoerd===
+*Voorbereidingen bot onder windows:
+:*Open een dos-window als je met windows werkt: <code>Start- Uitvoeren - Cmd.exe</code>
+:*Zorg ervoor dat er een path naar Python is. Typ  bijvoorbeeld <code>path c:/Python25</code>
+:*Ga naar de Pywikipedia directory: <code>cd c:/pywikipedia-nl</code>
+:*log in: <code>python login.py</code>. Het programma vraagt om het password. Geef password in. Het programma wordt beeindigd met de zinsnede ''should be logged in now''.
+*Voorbereidingen bot onder linux:
+
+==== Procedure met AWB ====
+*Voorbereiding voor AWB:
+:*(1) Zorg dat je staat aangemeld op {{Wp|Wikipedia:AutoWikiBrowser/Checkpage}}
+:*(2) Open AWB en meld je aan. Let op: {{Wp|WP:AWB}} werkt alleen met Internet Explorer, meld je eerst aan in IE op wikipedia en open daarna het programma.
+:*(3) Selecteer "Make from"--> "Category" en kies in het vakje "Category:" de te verwijdereren categorie als naam
+:*(4) Selecteer het tabblad "More" 
+:*(5) Bij "Categories" "Choose a task" kies "Replace category:" (als een cat moet worden hernoemd) of "Remove category:" (als een cat in zijn geheel verwijderd moet worden), en vul de naam van de betreffende categorie in.
+:*(6) Vul bij "(3) Start" onder "Summary" het gewenste bewerkingscommentaar in.
+:*(7) Druk op "Start the process".
+:*(8) Elke te veranderen pagina wordt nu automatisch voor je geladen. Kijk de bewerking na en druk op "Save" als je ermee tevreden bent.
+:*Mocht je een botbit hebben, dan kun je tussen stap (5) en (6) onder "Auto mode (for approved bots)" de optie "Auto save" aanklikken en de nodige parameters zoals "Delay (seconds)", "Quick save", en "Suppress ''using AWB''" selecteren, waardoor AWB de verplaatsingen automatisch zal uitvoeren.
+
+====Verplaatsingen====
+*Start de category-bot
+:*Typ in <code>python category.py move</code>
+:*Het bot start en meldt terug: <code>Please enter the old name of the category:</code>; geef hier de naam van de categorie in (zonder ''categorie:'', spaties hoeven niet omgezet te worden in een underscore). Sluit af met enter.
+:*De bot meldt vervolgens: <code>Please enter the new name of the category:</code>; geef hier de nieuwe naam van de categorie in.
+:*De bot leest de artikelen in de categorie in en hernoemd de categorie in het artikel
+:*Aan het einde wordt de inhoud van de oude categorie-pagina ingelezen als ook de geschiedenis (bijdragers) van de oude categoriepagina
+:*De bot maakt ook de nieuwe categorie-pagina aan en vermeld in het commentaar de bijdragers van de oude categorie.
+:*De bot kan ook de oude categorie verwijderen, maar dan moet de bot een moderator-bitje hebben, anders werkt het niet.
+*Omdat op de te verwijderen categorie nog het verwijdersjabloon staat, wordt dat sjabloon meegekopieerd door de bot. Men zal dus van de nieuwe categorie-pagina het verwijdersjabloon nog moeten verwijderen met een handmatige edit.
+*De oude categorie wordt op de normale manier verwijderd, vergeet de eventuele overlegpagina niet.
+
+====Verwijderen====
+*Start de category-bot
+:*Typ in <code>python category.py remove</code>
+:*De bot start en meldt terug: <code>Please enter the name of the category that should be removed:</code>; geef hier de naam van de categorie in (zonder ''categorie:'', spaties hoeven niet omgezet te worden in een underscore). Sluit af met enter.
+:*De bot leest de artikelen in de categorie in en verwijdert de betreffende categorie in het artikel
+:*De bot kan ook de categorie ook verwijderen, maar dan moet de bot een moderator-bitje hebben, anders werkt het niet.
+*De categorie wordt op de normale manier verwijderd, vergeet de eventuele overlegpagina niet.
+*Let op: het kan voorkomen dat een artikel nu niet meer gecategoriseerd is. Dit gebeurt vrij zelden, omdat de meeste artikelen in meerdere categorieën zijn ondergebracht. Wil men zeker zijn, dient men alle artikelen te controleren.
+
+===Verzoeken die niet worden uitgevoerd===
+*Bij verzoeken die niet werden uitgevoerd, wordt de motivatie vermeld, indien men tegen het advies van de gemeenschap ingaat.
+*Het verwijdersjabloon wordt van de genomineerde categorie verwijderd.
+
+==Bijwerken van de verwijderlijst na de verwijdersessie==
+Na het uitvoeren van een verwijdersessie wordt de behandelde dag bijgewerkt.
+*<s>De gehonoreerde verzoeken worden verwijderd; de niet-gehonoreerde verzoeken blijven staan.</s>
+*<s>Het kopje van het daggedeelte wordt veranderd naar ''Niet verwijderd op dag/maand''.</s>
+*<s>Een niet-verwijderd kopje blijft 7 dagen staan; dit zodat de gemeenschap nog kan vernemen, waarom het verzoek tot verwijderen niet is gehonoreerd.</s>
+<span style="font-size: small;">Klopt niet meer, moet bijgewerkt worden</span>
+{{Sub}}

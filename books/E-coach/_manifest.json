@@ -1,0 +1,35 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/E-coach",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "E-coach",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "title": "E-coach",
+      "file": "_module.wiki",
+      "pageid": 43403,
+      "contentmodel": "wikitext",
+      "revid": 424664,
+      "parentid": 424017,
+      "timestamp": "2026-04-27T12:27:06Z",
+      "user": "BeeBringer",
+      "comment": "",
+      "sha1": "c597a2f3e97a33ffd39b91ff358619a99776c8cd",
+      "bytes": 1708
+    },
+    {
+      "title": "E-coach/Inleiding",
+      "file": "Inleiding.wiki",
+      "pageid": 43408,
+      "contentmodel": "wikitext",
+      "revid": 424411,
+      "parentid": 424276,
+      "timestamp": "2026-04-26T17:52:59Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "3f31c61967d46c44658f4c7924ac326d7304ecc2",
+      "bytes": 2737
+    }
+  ]
+}

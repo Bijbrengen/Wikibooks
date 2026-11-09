@@ -1,0 +1,22 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Leerstijl",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Leerstijl",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "title": "Leerstijl",
+      "file": "_module.wiki",
+      "pageid": 40215,
+      "contentmodel": "wikitext",
+      "revid": 349463,
+      "parentid": 346723,
+      "timestamp": "2021-03-06T07:30:05Z",
+      "user": "BeeBringer",
+      "comment": "Doorverwijzingsdoel gewijzigd van [[Leren leren#Leerstijl]] naar [[Leren leren/Stijl]]",
+      "sha1": "cdaee4fb239416dafc1c04a0cff2276e49f45ecc",
+      "bytes": 37
+    }
+  ]
+}

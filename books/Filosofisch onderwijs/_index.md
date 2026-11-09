@@ -1,16 +1,12 @@
 # Filosofisch onderwijs
 
-Lokale mirror van Wikibooks-pagina's met prefix: Filosofisch onderwijs
-
-Opgehaald: 2026-04-27T09:00:41.3895399Z
-
-## Pagina's
+Opgehaald: 2026-11-09T18:38:16.483522+00:00
 
 - [Filosofisch onderwijs](_module.wiki)
-- [Filosofisch onderwijs/Leren](Leren.wiki)
 - [Filosofisch onderwijs/Denken](Denken.wiki)
-- [Filosofisch onderwijs/Wijsheid](Wijsheid.wiki)
+- [Filosofisch onderwijs/Lao Zi](Lao%20Zi.wiki)
+- [Filosofisch onderwijs/Leren](Leren.wiki)
 - [Filosofisch onderwijs/Socrates](Socrates.wiki)
-- [Filosofisch onderwijs/Lao Zi](Lao Zi.wiki)
-- [Filosofisch onderwijs/Yoga](Yoga.wiki)
 - [Filosofisch onderwijs/Vrijeschool](Vrijeschool.wiki)
+- [Filosofisch onderwijs/Wijsheid](Wijsheid.wiki)
+- [Filosofisch onderwijs/Yoga](Yoga.wiki)

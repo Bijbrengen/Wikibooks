@@ -1,0 +1,243 @@
+{{Opmaak}}
+'''Objectgeoriënteerd onderwijs''' is een methode waarmee op een systematische wijze problemen geanalyseerd en opgelost kunnen worden. Het is een eclectische onderwijsmethode die uitgaat van de menseigen leermethodes.
+
+== Theorie ==
+=== Oplossingsmethodiek ===
+Objectgeoriënteerd onderwijs kan voor elk vak in het onderwijs gebruikt worden indien er sprake is van problemen waarbij complexe oplossingsmethoden gebruikt moeten worden. Leerlingen hebben immers (nog) een manier van denken waarbij zij de wereld beschrijven in termen van objecten en relaties tussen die objecten.  En dat terwijl de leraar meer denkt in termen van functies.
+
+Objectgeoriënteerd onderwijs is ontleend aan het objectgeoriënteerd programmeren. Het is bij vakdidactiek natuurkunde aan de Rijksuniversiteit Groningen onderzocht. Bij de behandeling van lastige onderwerpen als mechanica en de fysische informatica bleken de resultaten heel goed. 
+
+Als een leraar aan zijn leerlingen vraagt waarom een boot drijft, dan zullen zij in hun analyse de objecten boot en water zeker noemen en een poging doen de relatie daartussen te beschrijven. Meestal iets in de trant van: het water zorgt ervoor dat de boot drijft. De leerling zal niet van nature, zoals de leraar, komen met een formule (wet van Archimedes) en rekenvoorbeelden. De leraar wel; zo heeft hij het namelijk na jaren van studie geleerd. Er ontstaat onbegrip tussen de leraar en de leerling. Als de leraar echter in de denkwereld van de leerling kruipt, herkent hij direct dat een leerling een belangrijk object en daarmee belangrijke relatie over het hoofd ziet; in dit geval de aarde die water en boot aantrekt. De competitie tussen het water en de boot zorgen dat het drijft. Zonder dit cruciale inzicht zijn de formules nimmer te begrijpen door de leerling. 
+
+Objectgeoriënteerd onderwijs is een hulpmiddel voor de docent om de kloof tussen zijn denken en die van de leerling te dichten. Object-georiënteerd onderwijs is ontworpen met de bedoeling de natuurwetenschappelijke opleiding toegankelijker te maken door aan te sluiten bij de intuïtieve manier waarop mensen leren. De ideeën die ten grondslag liggen aan object-georiënteerd onderwijs zijn oorspronkelijk ontleend aan de objectoriëntatie zoals die in de informatica wordt gebruikt. De ideeën zijn geschikt gemaakt voor het bereiken van het doel “toegankelijker natuurwetenschappelijk onderwijs”.
+
+Het moderne onderwijs verdient een brede benadering. De vraagstelling is immers complex. Invalshoeken bieden alleen deelantwoorden. De oplossing is het succesvol samenvoegen. Dit proces heet eclectisch onderwijs. Eclectisch betekent “het best kiezend uit”. Het leren van de mens is het onderwerp. Het object van studie is de mens. Zijn persoonlijke wereld bepaalt zijn leren. Gekeken wordt naar zijn denken, voelen en ervaren. 
+
+=== Denkstrategieën ===
+
+In Eclectisch denkonderwijs wordt denken gezien als de manier waarop we met onze ervaringen en gevoelens omgaan. Door ons natuurlijk denken bewust te maken zorgen we dat deze doelmatiger wordt. Dit natuurlijk denken is de krachtigste methode om problemen aan te pakken en effectief gebruik te maken van de informatie waarover we beschikken. Het model zal eerst het natuurlijk denken (object-georiënteerd) behandelen, waarna we deze gaan toepassen op probleemsituaties.
+
+Object-georiënteerd onderwijs gaat uit van aan de mens eigen denkstrategieën waarmee men met de complexe wereld omgaat. Deze complexe wereld kunnen we vanuit ons denken, gevoel en ervaring begrijpen. We kunnen begrijpen waarom de lucht blauw is, waarom we ons vrij voelen als we naar een mooie helder blauwe lucht kijken of waarom we moeten ademen. Om deze scheiding voor de leerling zichtbaar te maken is het nodig bij het waarnemen van een situatie altijd te beginnen met deze drie blikken op de wereld. Daarna kan men de een bril opzetten die voor de situatie van toepassing is. Een lerares zal vanuit een ander perspectief naar spelende kinderen kijken dan de schoolarts of de ouders. Met andere woorden men ziet wat men wil zien.
+
+De object-georiënteerde werkwijze is een eenvoudige en krachtige onderwijsmethode, waarbij alle elementen van denkvaardigheid op een natuurlijke wijze worden toegepast. Op een eenvoudige manier worden complexe cognitieve verwerkingsactiviteiten als memoriseren en herhalen, analyseren, selecteren, relateren, structuren, kritisch verwerken, concretiseren en toepassen, uitgevoerd. Door te werken met object-oriëntatie kunnen we ons non-verbaal denken (inzicht), hetgeen vruchtbaarder en omvangrijker is, naar verbaal denken (techniek) omzetten.
+
+Bij object-georiënteerd denken, denkt men in termen van objecten. Objecten zijn behapbare blokken waarmee men een complexe situatie vereenvoudigt. In een gegeven situatie wijst men de belangrijkste objecten aan. We zijn in staat vrij automatisch (op grond van ervaring) datgene aan informatie te zien dat we in die situatie nodig hebben. De onnodige informatie blijft buiten ons gezichtsveld. We zien kracht hiervan terug in de mythologie. Ingewikkelde ideeën worden hier  door ons bekende objecten beschreven. 
+
+Objecten zijn concrete onderdelen van onze denkbeelden. Objecten kunnen daarom van alles zijn. Objecten herkennen we uit een tekst door te letten op zelfstandige naamwoorden. De onbewuste associatie die we bij de term object hebben geeft de beste voorstelling van wat een object is. Laten we deze associatie en de manier waarmee we met objecten bewuster gaan bekijken.
+
+Als we objecten benoemen dan doen we dit op grond van de eigenschappen die een object bezit. Alleen al met de unieke invulling van de eigenschap vorm kunnen we een auto herkennen. Sommige mensen kunnen zelfs uit de vorm het merk vaststellen. Dit voorbeeld illustreert niet alleen hoe we objecten classificeren en daarmee benoemen, maar ook dat we hiervoor in het algemeen slechts enkele eigenschappen hoeven waar te nemen. Sommige eigenschappen zeggen meer over het object dan andere. Deze eigenschappen geven meer detailinformatie dan andere. Over anders gezegd deze eigenschappen kunnen sterk geassocieerd worden met andere eigenschappen. Elementaire eigenschappen zijn eigenschappen die niet geassocieerd met andere kunnen worden.
+
+=== Structuur ===
+
+Objecten zijn op hun beurt weer opgebouwd uit samenstellende delen (componenten). Een auto bestaat bijvoorbeeld uit een carrosserie, wielen, interieur en een motor. Wederom geldt dat we slechts enkele samenstellende delen hoeven te noemen om een auto te kunnen herkennen.
+Er zijn dus twee manier om objecten te structureren. We kunnen kijken naar de opbouw van een object, naar de opbouw van zijn sub-objecten etc. We maken dan een assemblagestructuur. Een ander manier is het object in te delen in groepen. Een object kan zelf worden gespecialiseerd en dus als een generalisatie voor andere objecten dienen. Een object is zelf ook weer een specialisatie van een generalisatie. Zo ontstaat een classificatiestructuur. Het object aan de top van zo'n structuur noemen we een elementair object.
+
+Objecten zijn niet statisch; de waarde van eigenschappen kan veranderen. Dit leidt tot een interne verandering van het object. Vraagstukken kunnen vaak worden vertaald naar een adequate voorspelling van deze verandering. Wat is de positie van een tennisbal op de baan nadat we hem met een bepaalde techniek hebben geraakt? Deze verandering kan alleen middels een interactie met een ander object (tennisracket) plaatsvinden, of door interactie tussen samenstellende delen van dat object (motor van een auto) plaatsvinden. Deze interactie wordt bewerkstelligd doordat de objecten een relatie met elkaar hebben. 
+
+Of objecten een relatie met elkaar hebben en welke dat is, kunnen we vaststellen door de eigenschappen te bestuderen die een object heeft. Relaties herkennen we door te letten op werkwoorden in een tekst. Een voorbeeld zal dit duidelijker maken. De objecten springer en lucht (zie prototype) hebben een relatie met elkaar, omdat de eigenschap dichtheid van de lucht een invloed heeft op de eigenschap beweging van de springer. De relatie noemen we luchtweerstand. 
+
+Als we erg vertrouwd raken met een relatie, promoveert deze relatie in onze waarneming geleidelijk tot een object. Een voorbeeld hiervan is de relatie kracht, die door een ervaren natuurkundige direct in een situatie als essentieel onderdeel wordt herkend. Een relatie heeft dus net als een object eigenschappen, een opbouw en kan in groepen worden ingedeeld. Als we onderwijs willen aansluiten bij een leerling dan mogen we deze promotie van relatie naar object niet doen. Deze promotie zal na voldoende ervaring vanzelf ontstaan.
+
+Bij object-georiënteerd denken kent men een verschil tussen objecten en zogenaamde instanties van objecten. In de wiskunde zouden we dit verschil deels kunnen aangeven door het verschil tussen een verzameling en een element uit die verzameling. Als we naar het schoonspringwedstrijd kijken, kunnen we zeggen dat Anna Lindberg een schoonspringster is. Het object is hier dan schoonspringster en de instantie van het object is Anna Lindberg.
+
+Het verschil tussen een object en een instantie (van een object) is te herkennen aan de invulling van de eigenschappen. De waarde van sommige eigenschappen van een object zijn niet meer dan een standaard. Bij een instantie zijn deze waarden uniek en identificerend. Een object is eigenlijk niets meer dan een prototype. Instanties worden met dit prototype vergeleken om te kunnen beslissen bij welk object we de instantie kunnen onderbrengen. Neem bijvoorbeeld het object een blad van een boom. Een blad is de meeste tijd van het jaar groen. De standaardwaarde voor de eigenschap kleur is dus groen. Als we in de herfst een blad van de grond oprapen, kunnen we de kleur van dit specifieke blad, een instantie van het object blad, bekijken. Waarschijnlijk is de kleur dan bruin en gaat de vergelijking op grond van de kleur van het prototype niet op. Op grond van andere eigenschappen (vorm, structuur etc.) kunnen we toch concluderen een blad gevonden te hebben.
+
+Stel een oude vrouw met een vriendelijk gezicht loopt de winkel uit zonder haar boodschappen te betalen. Vervolgens loopt een norse man met zware baard en donkere zonnebril de winkel uit nadat hij heeft afgerekend. Wanneer men jonge kinderen vraagt wie de dief is, zullen zij vaak de man aanwijzen? Hieruit blijkt dat we bij het hanteren van een prototype wel een goede ordening van de meest kenmerkende eigenschappen moeten maken. Dit is een kwestie van ervaring.
+
+Objecten kunnen van elkaar afgeleid zijn. Afgeleid wil zeggen dat ze een specifieke weergave van een algemener object geven. Het object auto is een specifieke weergave van het object voertuig. Een auto is afgeleid van een voertuig. Als er sprake is van een afleiding dan zien we vaak overerving van eigenschappen. Zo heeft een voertuig de eigenschap beweging, en zo ook het ervan afgeleide object auto.
+
+De woorden die hierboven zijn gebruikt om onze natuurlijke manier van denken te beschrijven. Ze zijn nooit zo krachtig als de intuïtieve interpretatie die men hierbij al heeft. Doel is juist niet om de intuïtieve interpretatie door bovenstaande te vervangen. Doel is wel door benoeming van dit denken, het denken bewuster te maken. 
+
+== Methode ==
+=== Curriculum ===
+Om een object-georiënteerd curriculum te maken zijn de volgende stappen nodig:
+* Kiezen van een bepaalde invalshoek waarmee we de situatie gaan analyseren.
+* Selecteren van de voor de situatie relevante objecten.
+* Vaststellen of de opbouw van de objecten voor de situatie belangrijk is en zo ja hoe is dan die opbouw?
+* Indelen van de objecten in ons bekende groepen (classificeren), indien dit voor de situatie wenselijk is. Bijvoorbeeld een den wordt geclassificeerd als een boom.
+* De voor de situatie belangrijke eigenschappen van de objecten worden geselecteerd.
+* Op grond van deze eigenschappen worden relaties tussen de objecten gelegd.
+* Vervolgens worden de dynamica van de interne verandering door deze relaties vastgesteld.
+
+Probleemgestuurd onderwijzen heeft als doel het denken stimuleren door leerlingen te laten stoeien met problemen. Deze problemen zijn van dien aard dat de leerlingen hun eigen denkproces bewuster ondergaan en uitvoeren op een niveau dat passend is.
+
+De docent dient zich bewust te worden van zijn eigen denkproces bij het omgaan met problemen. Een denkprogramma met denkstappen die de mens eigen zijn is eveneens noodzakelijk. Met deze bagage kan hij de leerling bij problemen gestuurd onderwijs optimaal begeleiden. Een denkprogramma die samen met de bijbehorende denkstappen aan de eisen voldoet is door ons opgesteld. 
+
+Een objectgeoriënteerde  invulling van het denkprogramma bij een probleem is 
+* ''Achtergrond'': Bepalen van de vereiste voorkennis en vaardigheden, die nodig zijn om het probleem aan te kunnen. Vaststellen van de aanwezige informatie en de ontbrekende informatie en hoe we hier alsnog aan kunnen komen. 
+* ''Analyse'': Op een objectgeoriënteerde manier de situatie ontleden en komen tot een geschikte samenvatting van het probleem. 
+* ''Oplossing'': Stimuleren van het creatieve denken dat tot het vinden van oplossingsstrategieën leidt. Het uiteindelijk kiezen van een oplossingsstrategie wordt gedaan door onderbouwde kritische schattingen over een oplossing en de beste weg om tot deze oplossing te komen. Deze onderbouwing gaat op grond van een gevoelsmatige en een feitelijke beoordeling van de alternatieven. Bewustwordingsmiddelen worden gebruikt om dit onbewuste proces voor de leerling zichtbaar te maken. 
+* ''Controle'':  In deze fase wordt de leerling voor het eerst gemaand tot voorzichtigheid over zijn oplossing. Hij moet zijn oplossing op waarheid beoordelen door feiten en cijfers naast elkaar te leggen. Vragen die hij zich moet stellen zijn of de oplossing overeenkomt met de praktijk, of het uitvoerbaar is, of het met de feiten overeenkomt en of het met deze oplossing zal lukken? De leerling zal daarvoor op grond van zijn oplossing een voorspelling moeten doen en deze toetsen aan de realiteit. Uit een vergelijking tussen voorspelling en toetsing moet de leerling vervolgens zijn conclusie trekken.
+
+De volgorde van deze stappen is wel aan te raden maar niet noodzakelijk. Vaak wordt er tussen de stappen heen en weer gesprongen. Dit is niet bezwaarlijk als het maar bewust gebeurt.
+
+Het objectgeoriënteerd onderwijs ontleent methoden uit de volgende onderwijsvormen
+* Interesse-georiënteerd onderwijs
+* Motiverend onderwijs
+* Ervaringsonderwijs
+* Individueel onderwijs
+* Zelfstandig onderwijs
+* Adaptief onderwijs
+
+=== Doel ===
+
+Doel is een methodisch handelen aan te leren die leidt tot objectgeoriënteerd onderwijs. Kenmerken van methodisch handelen zijn doelgerichtheid, bewustheid, systematiek en procesmatigheid. Doelgerichtheid vraagt om een concrete voorstelling van de gewenste onderwijspraktijk. Het model samen met de opzet van een objectgeoriënteerd curriculum geeft deze voorstelling. De methode beschrijft een bewuste, systematische en procesmatige aanpak. Deze is aan te leren door voorbeelden te bestuderen en oefeningen te doen. In dit hoofdstuk wordt eerst een beschrijving van het objectgeoriënteerd onderwijsmodel, methode en de opzet van een curriculum gegeven. In de daaropvolgende paragrafen worden voorbeelden en oefeningen gepresenteerd.
+
+Het objectgeoriënteerde model geeft een vereenvoudigde weergave van het menselijk denken dat op zichzelf niet goed onderzoekbaar is. De basis in het object-georiënteerd model worden gevormd door objecten. Objecten zijn concrete onderdelen van onze denk-, gevoelens- en ervaringsbeelden. Objecten kunnen daarom van alles zijn. De onbewuste associatie die we bij de term object hebben geeft de beste voorstelling van zaken. Voor het modelleren dienen we echter deze associatie en de manier waarmee we met objecten omgaan, bewust te maken. De woorden die we hiervoor gaan gebruiken zijn nooit zo krachtig als de intuïtieve interpretatie die men hierbij al heeft. Doel is niet om de onbewuste interpretatie door een beschrijving te vervangen (methodisering). Doel is alleen het modelleren. Het resultaat is opgenomen in de paragraaf model.
+
+De methode moet aangeven hoe we de bevindingen uit het model kunnen gebruiken om het doel van het model te bereiken (koppeling doel en gevolg). Het model gaat uit van aan de mens eigen strategieën om te leren. In de methode zullen we bewuster van deze strategieën gebruikmaken. Niet door deze nauwkeurig te gaan beschrijven. Deze beschrijving zou niet opwegen tegen de intuïtieve voorstelling en geen recht doen aan de persoonlijke verschillen tussen mensen. Wat we wel zoeken is een training in bewustwording van de persoonlijke manier van leren en die van een ander. De methode geeft naast hulpmiddelen voor het stimuleren van deze bewustwording, een systematische invulling van de analyse vaardigheid die in het leren een belangrijke rol vervult. 
+
+Een methode die alleen gericht is op het denken, en daarin met name de analysevaardigheden uitdiept, zal binnen het onderwijs weinig zoden aan de dijk zetten. Een geïntegreerde methode waarbij naast het denken ook plaats is voor gevoelens en handelen en met name de integratie met elkaar, zal effectief kunnen zijn. Daarnaast dient deze integratie te worden uitgebreid zodat ook een samenhang ontstaat met onderwijsdoelstellingen en de onderwijspraktijk. In de opzet zal worden aangegeven hoe deze integratie gestalte kan krijgen.
+
+=== Analyse ===
+
+De methode is gericht op het gestructureerd analyseren en oplossen van problemen. Aangezien een [[Leren leren/Doel|leerdoel]] altijd kan worden vertaald als een probleem, kan de methode in elke leersituatie worden toegepast. Het stappenplan dat in het model wordt beschreven sluit aan bij de onbewuste wijze waarmee mensen met problemen omgaan. Het dynamische en creatief aspect van probleemprocessen is daarin erg belangrijk. De object-georiënteerde methode probeert dit proces bewust te maken. Het model beschrijft alleen in detail hoe de analysefase geschiedt; de methode sluit hierbij aan. Voor de andere stappen wordt  beschreven hoe deze activiteiten inzichtelijk kunnen worden gemaakt met name door het reflecteren te stimuleren.
+
+Om tot een object-georiënteerde analyse van het probleem te komen zijn een aantal stappen nodig. Bij elke stap worden keuzes genomen, keuzes die bepalen of het probleem op de gewenste wijze wordt aangepakt. De docent dient al deze alternatieven te behandelen en tegen elkaar af te wegen. Het moet voor de leerling duidelijk worden waarom de gekozen weg het beste alternatief is.
+
+{| class="prettytable" width="100%"
+! Onderdeel
+! Stap
+|-
+| Invalshoek
+| Kiezen van de invalshoek van waaruit de situatie wordt geanalyseerd
+|-
+| Objecten
+| Selecteren van de voor de situatie relevante objecten. Objecten herkennen we uit een tekst door te letten op zelfstandige naamwoorden. Als we onderwijs willen aansluiten bij een leerling dan mogen we een promotie van relatie naar object niet doen. Deze promotie zal na voldoende ervaring vanzelf ontstaan.
+|-
+| Structuur
+| Vaststellen of de opbouw van de objecten voor de situatie belangrijk is en zo ja hoe is dan die opbouw? Indelen van de objecten in ons bekende groepen (classificeren), indien dit voor de situatie wenselijk is. Bijvoorbeeld een den wordt geclassificeerd als een boom.
+|-
+| Eigenschappen 
+| De voor de situatie belangrijke eigenschappen van de geselecteerde objecten worden vastgesteld.
+|-
+| Relaties
+| Op grond van deze eigenschappen worden relaties tussen de objecten gelegd. Of objecten een relatie met elkaar hebben en welke dat is, kunnen we bepalen door de eigenschappen te bestuderen die een object heeft. Relaties herkennen we door te letten op werkwoorden in een tekst. Een voorbeeld zal dit duidelijker maken. De objecten springer en lucht (zie prototype) hebben een relatie met elkaar, omdat de eigenschap dichtheid van de lucht een invloed heeft op de eigenschap beweging van de springer. De relatie noemen we luchtweerstand.
+|}
+
+== Praktijk ==
+=== Training ===
+Het inschatten van de vereiste voorkennis en vaardigheid om een probleem op te lossen is een kunst op zich en vooral een kwestie van ervaring. Deze ervaring kan worden getraind door de leerling vooraf een inventarisatie van deze vereiste achtergrond te laten maken en deze te laten evalueren achteraf. Bij het oplossen van het probleem moeten de leerlingen voorspellingen doen over de relevantie van objecten en eigenschappen. Het combineren van de geselecteerde onderdelen zal leiden tot mogelijke oplossingen. Schattingen over de uitkomst zullen het grote scala aan alternatieven flink beperken. Het stapsgewijs doorlopen en navragen van deze overwegingen en keuzes zal de oplossingsstrategie van de leerling meer blootleggen. Dit is voor zowel docent als leerling de belangrijkste stap in het verbeteren van het creatieve oplossingsproces zonder dit te veel aan banden te leggen (de leraar neemt niet het roer over maar maakt de consequenties helder van het sturen door de leerling). De leerling bewust maken van het nut van het checken van zijn oplossing kan door te vragen om een voorspelling en deze door de leerling zelf te laten toetsen aan de werkelijkheid. 
+
+De sturing die de methode geeft is een schakeling tussen directe instructie overgaand naar activerend lesgeven. De leerling bepaalt zijn begeleiding zelf en dus het tempo waarmee deze overgang wordt bewerkstelligd. Het model erkent dat voor een effectieve onderwijsmethode naast de waargenomen overeenkomsten ook rekenschap dient te worden gehouden met individuele verschillen tussen leerlingen. Deze functionele eisen vragen om een individuele specifieke begeleiding die mogelijk wordt gemaakt door de lessen met behulp van de computer te ondersteunen.
+
+=== V-model ===
+De methode geeft een werkwijze weer dat zal leiden tot objectgeoriënteerd onderwijs. De methode richt zich primair op de analysevaardigheid, maar geef ook ruimte aan het denken in zijn totaliteit, het voelen en het ervaren. Middels integratie van andere methoden zal een samenhang worden gecreëerd waarin deze eclectische aanpak wordt bereikt. Dit leidt tot de algemene opzet van een objectgeoriënteerd curriculum.
+
+Elk curriculum zal één of meerdere leerdoelen moeten bereiken. De eerste stap is het zo nauwkeurig formuleren van het leerdoel en het kiezen van een of meer geschikte leerwijzen. Uit het leerdoel en de leerwijze is af te leiden aan welke kenmerken het te behandelen onderwerp moet voldoen. Bij het kiezen van een onderwerp dat voldoet aan deze kenmerken wordt gezorgd voor een nauwe aansluiting bij de interesses van leerling en docent. Op deze manier integreren we interessegeoriënteerd onderwijs (Rupert Genseberger) en wordt een samenhang geïntroduceerd tussen het denken en het voelen en ervaren. Ook het soort onderwerp is een overweging verbonden aan deze samenhang; amusante onderwerpen (gevoel en denken), verre onderwerpen (denken), nabije onderwerpen (ervaring) en zware onderwerpen (gevoel en denken). Door de verschillen in interesses is het noodzakelijk meerdere onderwerpen met een vergelijkbaar leerdoel aan te bieden.
+
+Het werken met onderwerpen aansluitend bij de interesses en gepresenteerd op een objectgeoriënteerde manier vraagt om een aanpassing van de klassieke indeling van het examen curriculum. Deze aanpassing menen wij het best te kunnen weergeven via het curriculum V-model. De rechterkant geeft een mogelijk onderwerpstructuur van het curriculum weer.
+
+{| class="prettytable" width="85%" border="0"
+! colspan="5" style="text-align:left;width:40%" | Examen
+|
+! colspan="5" style="text-align:right;width:40%;" | Curriculum
+|-
+|
+| colspan="4" style="text-align:left;width:35%;" | Domein
+|
+| colspan="4" style="text-align:right;width:35%;" | Leercontext
+|
+|-
+|
+|
+| colspan="3" style="text-align:left;width:30%;" |  Subdomein
+|
+| colspan="3" style="text-align:right;width:30%;" |  Leeronderwerp
+|
+|
+|-
+|
+|
+|
+| colspan="2" style="text-align:left;width:25%;" | Eindterm
+|
+| colspan="2" style="text-align:right;width:25%;" | Leereenheid
+|
+|
+|
+|-
+|
+|
+|
+|
+| style="text-align:left;width:20%;" | Klassiek leerdoel
+| style="text-align:center;width:5%;" | =>
+| style="text-align:right;width:20%;" | Objectgeoriënteerd leerdoel
+|
+|
+|
+|
+|}
+
+Zonder een vertaling naar interesse en alledaagse onderwerpen zou een objectgeoriënteerd natuurkunde curriculum bijvoorbeeld er als volgt uit komen te zien:
+
+{| class="prettytable" width="100%"
+|-
+| style="text-align:center;width:30%;" |  Natuurkunde
+| style="text-align:center;width:30%;" | Historie
+| style="text-align:center;width:30%;" |  Bril
+|-
+!Elementaire eigenschappen
+!Massa
+!Lading
+|-
+| style="text-align:center;width:30%;" |  Positie
+| style="text-align:center;width:30%;" |  Elementaire objecten
+| style="text-align:center;width:30%;" |  Foton
+|-
+!Elektron
+!Proton
+!Elementaire relaties
+|-
+| style="text-align:center;width:30%;" |  Zwaartekracht
+| style="text-align:center;width:30%;" |  Elektromagnetische kracht
+| style="text-align:center;width:30%;" |  Kernkracht
+|-
+!Dynamica
+!Tijd
+!Verandering door relaties
+|-
+| style="text-align:center;width:30%;" |  Elementaire gedragingen
+| style="text-align:center;width:30%;" |  Energiebesparing
+| style="text-align:center;width:30%;" |  Van groot naar klein
+|-
+!Intuïtieve eigenschappen
+!Vermogen
+!Dichtheid
+|-
+| style="text-align:center;width:30%;" |  Intuïtieve relaties
+| style="text-align:center;width:30%;" |  Stroming
+| style="text-align:center;width:30%;" |  Intuïtieve gedragingen
+|-
+!Kiezen snelste weg 
+!Afgeleide eigenschappen
+!Snelheid
+|-
+| style="text-align:center;width:30%;" |  Versnelling 
+| style="text-align:center;width:30%;" |  Afgeleide relaties
+| style="text-align:center;width:30%;" |  Elektrische spanning
+|-
+!Normaalkracht
+!Veerkracht
+!Afgeleide gedragingen
+|}
+Na het bepalen van een geschikt onderwerp volgt het kiezen van situaties en invalshoeken. Mensen hebben vaak een voorkeur voor een maatschappelijke, een emancipatorische, een theoretische, een technische of een toepassingsgerichte benadering van een situatie. Elke situatie zou eerst vanuit al deze benaderingen dienen te worden beschouwd. Dan kan aan de situatie een probleem gekoppeld worden. Op deze manier wordt de methode van probleemgestuurd leren geïntegreerd. Na het koppelen van een probleem dient een voor het probleem meest relevante invalshoek(en) te worden gekozen. Vervolgens kan het probleem volgens de objectgeoriënteerde methode worden aangepakt. Daarbij moet het curriculum veel verder uitgediept worden dan noodzakelijk en is het verstandig technieken en formules tot het laatst bewaren.
+
+=== Appel ===
+
+''De appel valt ver van de boom''
+
+Stel we hebben de volgende vraag. Een appel valt uit een boom. Hoe lang doet hij erover de grond te raken?
+
+We hebben uit onze ervaring direct de neiging waarden als hoogte en massa te willen weten Deze ervaring heeft de leerling nog niet (helemaal). Als we deze ervaring willen aanleren dan moeten we onder andere (zie ook andere onderdelen eclectisch onderwijs) aansluiten bij het denken van de leerling. De leerling denkt objectgeoriënteerd. De situatie moet dus worden waargenomen en geanalyseerd op een objectgeoriënteerde wijze.
+
+Eigenlijk hebben we met twee verschillende blikken op de situatie te maken. Ten eerste kijken we waarom de appel valt. Ten tweede willen we weten hoe lang het duurt voordat de appel de grond raakt. Alle keuzes die in de volgende analyse worden gemaakt (relevant of niet) dienen door de docent te allen tijde te worden verdedigd.
+In de eerste situatie zijn de appel en de aarde de relevante objecten. De eigenschappen die van belang zijn zijn de positie en massa van de appel en de massa en positie van de aarde. De relatie die ontstaat door de eigenschappen massa van beide objecten is de zwaartekracht. Deze relatie zal een interne verandering van de eigenschap positie van zowel de appel als de aarde bewerkstelligen. De interne verandering van de positie van de aarde wordt als niet relevant aangemerkt.
+
+Bij situatie twee kijken willen we een bepaalde eindsituatie bereiken. Hier is de dynamica het onderwerp van studie. De relevante objecten zijn wederom de appel en de aarde maar nu ook de lucht. Dit komt omdat er een relatie ontstaat tussen de dichtheid van de lucht en de beweging van de appel. Deze extra ontstane relatie is de wrijvingskracht. De dynamica van de situaties is lastig te analyseren. Wat helpt is een film van allerlei tussenliggende situaties te maken.
+
+Gelukkig is niet gevraagd wanneer de appel stil ligt. Dan zou er een derde situatie met een extra relatie (wrijvingskracht tussen aarde en appel) zijn ontstaan. 
+Deze analyse toont hopelijk aan hoe ingewikkeld een “eenvoudig” natuurkundig probleem in werkelijkheid is.
+
+{{Opmaak | Voettekst}}

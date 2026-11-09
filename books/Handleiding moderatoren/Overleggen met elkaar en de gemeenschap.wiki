@@ -1,0 +1,56 @@
+{{Index Handleiding moderatoren}}
+De volgende hulpmiddelen staan ter beschikking:
+; Via het web
+:*Persoonlijke Emailfunctie
+:*Overlegpagina
+::*Overlegpagina van een gebruiker
+::*Overlegpagina van een artikel
+::*Pagina's in de Wikipedia-naamruimte (De kroeg bijvoorbeeld)
+:*IRC
+:*Skype
+:*Lijst voor moderatoren
+; In real life
+:*WCN (Jaarlijks symposium voor de Nederlandstalige Wikimedia-projecten) en Wikimania (alle Wikimedia projecten)
+:*Bijeenkomsten (wikimeet)
+::*Bijeenkomsten van de Vereniging Wikimedia Nederland
+:*Mini-wikimeets
+
+==Openbaar overleg==
+*Openbaar overleg vindt plaats op de Wiki. De overige vormen van overleg worden over het algemeen niet door de gemeenschap geaccepteerd.
+*De enige plaats voor besluitvorming is op de Wiki. Ook de lijst voor moderatoren is geen plaats voor het nemen van besluiten.
+*De voornaamste eigenschap van deze vorm van overleg is dat het langzaam is.
+
+==Informeel overleg==
+*Informeel overleg vindt plaats buiten het zicht van de Wiki en dus buiten het zicht van de wikianen.
+*Informeel overleg heeft voornamelijk als doel om elkaar te helpen, bijvoorbeeld voor een second opinion.
+*Informeel overleg kan ook helpen om elkaar te leren kennen. Vriendschappen kunnen zelfs op deze manier ontstaan.
+
+==Via het web==
+===E-mail functie===
+Met name te gebruiken als het serieuze zaken aangaat, die afbreuk kunnen doen aan de positie binnen de gemeenschap.
+
+Deze functie heeft ook een nadeel omdat je een gedeelte van je privacy weggeeft: zie [[Handleiding moderatoren/Privacy en persoonlijke informatie]]. Het is de overweging waard apart voor communicatie in projecten van Wikimedia een gebruiker bij een webmailprovider aan te maken, zoals Google's [https://mail.google.com/mail/signup Gmail] of Microsoft's [https://signup.live.com/newuser.aspx?ru=https://www.hotmail.msn.com/cgi-bin/sbox?newuser=yes&rx=https://get.live.com/mail/overview&mkt=NL-NL&category=&revipc=NL&ts=3766366&sh=LoNo&rollrs=04&lic=1 Live mail] (Voorheen Hotmail).
+
+===Overlegpagina===
+====Overlegpagina gebruiker====
+
+====Overlegpagina artikel====
+
+====Overlegpagina in de Wikipedia-naamruimte====
+
+===IRC===
+*Een zeer handige vorm van overleg, maar door velen verafschuwd.
+===Skype===
+*De mogelijkheid om met elkaar te spreken, zonder dat het veel kost.
+===Lijst voor moderatoren===
+Dit is een speciale maillijst, waar moderatoren onderling kunnen overleggen. Deze lijst wordt verzorgd door de Wikimedia Foundation. Deze lijst dient gebruikt te worden voor zaken die privacygevoelig zijn, maar kan ook gebruikt worden voor het uitspreken van een conflict binnen de moderatorengroep, dat niet noodzakelijk naar buiten hoeft te worden gebracht.
+
+==In real life==
+===WCN en Wikimania===
+===Bijeenkomsten===
+===Mini-wikimeet===
+Deze Wikimeet kan bestaan uit 2 personen; gewoon lekker een biertje drinken met elkaar.
+
+<div style='text-align: center;'>Verder naar '''[[Handleiding_moderatoren/Privacy_en_persoonlijke_informatie|Privacy]]'''</div>
+<div style='text-align: center;'>Terug naar '''[[Handleiding_moderatoren/Wat_is_een_moderator_en_wat_niet|Wat is een moderator?]]'''</div>
+{{Sub}}

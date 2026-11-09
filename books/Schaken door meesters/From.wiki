@@ -1,0 +1,131 @@
+{{Opmaak}}
+{{Wp|en:Martin Severin From|Martin Severin From}} was een Deense schaakmeester die bekend stond om het creëren van de '''From's Gambie'''t. From's Gambiet is een scherp antwoord op [[Schaken door meesters/Bird|Bird's Opening]] en vereist precisie van beide spelers.
+
+== Gambiet ==
+'''1. f4 e5'''
+{{Opmaak
+| Object = Schaak
+| Definitie = From Gambiet
+| Beschrijving = Het From Gambiet als antwoord op de Bird opening (1. f4 e5)
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|pd|  |pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |pd|  |  |  |
+4 |  |  |  |  |  |pl|  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|pl|pl|  |pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+
+Als wit de gambiet accepteert (2. fxe5), heeft zwart verschillende sterke voortzettingen. 
+
+=== Lasker-variant ===
+De meest bekende en degelijke voortzetting is '''2... d6'''. Wit kan hier kiezen voor de '''Lasker-variant''' met '''3. Nf3''', wat wordt beschouwd als de sterkste reactie voor wit. Het onmiddellijk slaan op d6 (3. exd6) geeft zwart een krachtige aanval na '''3... Bxd6'''. Zwart dreigt hier vaak met '''Qh4+''' als wit niet oppast (bijvoorbeeld na 4. g3?? Bxg3+ 5. hxg3 Qxg3#).
+
+{{Opmaak
+| Object = Schaak
+| Definitie = Lasker-variant
+| Beschrijving = De stelling na 1. f4 e5 2. fxe5 d6 3. Nf3 dxe5 4. Nxe5 Bd6 5. Nf3 Nf6 6. g3
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|  |  |kd|rd|
+7 |pd|pd|pd|  |  |pd|pd|pd|
+6 |  |  |  |  |  |nd|  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |nl|pl|  |
+2 |pl|pl|pl|pl|pl|pl|bl|pl|
+1 |rl|nl|bl|ql|kl|  |nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+
+=== Schlechter Gambiet ===
+Als zwart na '''2. fxe5''' direct zijn paard naar '''Nc6''' brengt, spreken we van het '''Schlechter gambiet'''. Dit zet direct druk op de witte stelling en bereidt een snelle ontwikkeling voor.
+{{Opmaak
+| Object = Schaak
+| Definitie = Schlechter Gambiet
+| Beschrijving = De stelling na 1. f4 e5 2. fxe5 Nc6 3. Nf3 d6 4. exd6 Bxd6 5. d4
+| Orientatie = wit
+|
+8 |rd|  |bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|  |  |pd|pd|pd|
+6 |  |  |nd|  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |pl|  |  |  |  |
+3 |  |  |  |  |  |nl|  |  |
+2 |pl|pl|pl|  |pl|pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|  |rl|
+   a  b  c  d  e  f  g  h
+}}
+
+=== Koninginaanval (Qh4+) ===
+Een van de meest gevreesde lijnen voor wit is de vroege koninginaanval. Als wit niet direct Nf3 speelt, kan zwart met '''Qh4+''' de witte koningsvleugel ontregelen.
+{{Opmaak
+| Object = Schaak
+| Definitie = Vroege koninginaanval
+| Beschrijving = De stelling na 1. f4 e5 2. fxe5 d6 3. Nf3 dxe5 4. Nxe5 Qh4+ 5. g3 Qe4
+| Orientatie = wit
+|
+8 |rd|nd|bd|  |kd|bd|nd|rd|
+7 |pd|pd|pd|  |  |pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |qd|  |  |  |
+3 |  |  |  |  |  |nl|pl|  |
+2 |pl|pl|pl|pl|pl|pl|  |pl|
+1 |rl|nl|bl|  |kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+Wit reageert hier meestal met '''6. Nf3''' om de toren op h1 te dekken en de koningin te verjagen.
+
+=== Andere antwoorden op 1. f4 e5 ===
+
+==== Koningsgambiet Transformatie (2. e4) ====
+Wit kan het From gambiet weigeren door '''2. e4''' te spelen. De partij transformeert dan in een regulier [[Schaken door meesters/Staunton#Gambiet|Koningsgambiet]]. Dit is vaak een verassing voor zwartspelers die zich specifiek op het From gambiet hebben voorbereid.
+* Lijn: '''1. f4 e5 2. e4 exf4 3. Nf3 g5'''
+
+==== Swiss Gambit ====
+Een scherpe voortzetting waarbij wit probeert het centrum te domineren door snel d3 te spelen.
+* Lijn: '''1. f4 f5 2. e4 fxe4 3. d3 exd3 4. Nf3 dxc2 5. Qxc2 e6'''
+{{Opmaak
+| Object = Schaak
+| Definitie = Swiss Gambit
+| Beschrijving = De stelling na 3. d3. Wit offert pionnen voor snelle ontwikkeling en aanvalskansen.
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|  |  |  |pd|pd|
+6 |  |  |  |pd|  |  |  |  |
+5 |  |  |  |  |  |pd|  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |pl|  |  |  |  |
+2 |pl|pl|pl|  |pl|pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+
+==== Wagner Gambit ====
+Een variant van het Swiss gambiet waarbij wit Nc3 speelt voor extra druk.
+* Lijn: '''1. f4 f5 2. e4 fxe4 3. Nc3 Nf6 4. g4 h6 5. Be2'''
+
+=== Tactische motieven ===
+In de studies van Bijbrengen komen enkele belangrijke tactische motieven naar voren:
+* '''De giftige dame op e4''': In veel lijnen met Qh4+ en Qe4 lijkt zwart een toren te winnen op h1. Wit kan dit echter vaak pareren met g3 en Nf3, waarna de zwarte dame in het nauw gedreven kan worden (bijv. met Ne5 of d4).
+* '''Loperdruk op a7-g1''': De diagonaal a7-g1 is vaak kwetsbaar voor wit nadat de f-pion is gezet. Zwart kan hier gebruik van maken met Bc5.
+
+== Voorbeelden ==
+* Zie [https://lichess.org/study/oPzrFRwh Lichess study "1. f4 e5: From gambit"] door Bijbrengen.
+* Zie [https://lichess.org/study/nnpw9W8v Lichess study "F01 F-pawn openings"] door Bijbrengen voor een breed overzicht van f-pion openingen.
+* ''Voorbeeld van de Lasker-variant'':
+'''1. f4 e5 2. fxe5 d6 3. Nf3 dxe5 4. Nxe5 Bd6 5. Nf3 Nf6 6. g3 O-O 7. Bg2'''
+
+== Evaluatie van Combinaties ==
+Het From Gambiet is een van de meest gevreesde antwoorden op de Bird-opening:
+* '''Aanvalskracht''': Zwart krijgt voor de opgeofferde pion vaak een enorme diagonaal-druk (d6-h2).
+* '''Psychologie''': Witspelers die de Bird openen willen vaak een gesloten stelling, maar het From gambiet dwingt hen in een uiterst scherpe open partij.
+* '''Nauwkeurigheid''': Eén onnauwkeurige zet van wit kan leiden tot een snelle nederlaag (zoals de Qh4+ dreigingen laten zien).
+
+{{Opmaak | Voettekst}}

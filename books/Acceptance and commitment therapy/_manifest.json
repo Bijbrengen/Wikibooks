@@ -1,0 +1,74 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Acceptance%20and%20commitment%20therapy",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Acceptance and commitment therapy",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 5,
+  "pages": [
+    {
+      "title": "Acceptance and commitment therapy",
+      "file": "_module.wiki",
+      "pageid": 40694,
+      "contentmodel": "wikitext",
+      "revid": 431835,
+      "parentid": 424662,
+      "timestamp": "2026-11-02T20:25:32Z",
+      "user": "Erik Baas",
+      "comment": "",
+      "sha1": "bd71d297a14c2c6bf2322fba8052a497d39a5485",
+      "bytes": 1009
+    },
+    {
+      "title": "Acceptance and commitment therapy/Concept",
+      "file": "Concept.wiki",
+      "pageid": 40696,
+      "contentmodel": "wikitext",
+      "revid": 424395,
+      "parentid": 418948,
+      "timestamp": "2026-04-26T17:51:25Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "b9d85f7a36e3463c9961ceb7836ee7f03240c6fe",
+      "bytes": 1911
+    },
+    {
+      "title": "Acceptance and commitment therapy/Methode",
+      "file": "Methode.wiki",
+      "pageid": 40698,
+      "contentmodel": "wikitext",
+      "revid": 424396,
+      "parentid": 418950,
+      "timestamp": "2026-04-26T17:51:31Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "27f884b46e305126616b94703175ed7defa0f3eb",
+      "bytes": 1053
+    },
+    {
+      "title": "Acceptance and commitment therapy/Theorie",
+      "file": "Theorie.wiki",
+      "pageid": 44939,
+      "contentmodel": "wikitext",
+      "revid": 424397,
+      "parentid": 418951,
+      "timestamp": "2026-04-26T17:51:37Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "9a262a8b6589bffacd307042dcb61ab75f277262",
+      "bytes": 1671
+    },
+    {
+      "title": "Acceptance and commitment therapy/Toepassing",
+      "file": "Toepassing.wiki",
+      "pageid": 44940,
+      "contentmodel": "wikitext",
+      "revid": 424398,
+      "parentid": 418952,
+      "timestamp": "2026-04-26T17:51:43Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "8307ae2b83f74f0bdb434aa440fbf75c9ea43760",
+      "bytes": 1203
+    }
+  ]
+}

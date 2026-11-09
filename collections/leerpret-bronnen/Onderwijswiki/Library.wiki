@@ -1,12 +1,12 @@
 {{Opmaak}}
 
-Naast de grote architectuur van MVC heeft de [[Module:Layout]] een schat aan kleine, herbruikbare bouwstenen verzameld in de **Library** (Bibliotheek).
+Naast de grote architectuur van MVC heeft de [[Module:Layout]] een schat aan kleine, herbruikbare bouwstenen verzameld in de '''Library''' (Bibliotheek).
 
 == Herbruikbaarheid ==
 Een goede programmeur herhaalt zichzelf niet (DRY: Don't Repeat Yourself).
 Algemene taken zoals het bewerken van tekst, het berekenen van kleuren of het valideren van data worden ondergebracht in de Library.
 
-== De Submodules van de Library ==
+== Submodules ==
 De bibliotheek is een groeiende verzameling van gereedschappen:
 
 * '''Data & Berekeningen''':
@@ -25,7 +25,7 @@ De bibliotheek is een groeiende verzameling van gereedschappen:
 ** `Mediawiki`: Abstractielaag voor specifieke MediaWiki-functies.
 ** `Unittest`: Een compleet framework om andere modules automatisch te testen op fouten.
 
-== Het voordeel van een Library ==
+== Voordelen ==
 Door deze functies in een centrale bibliotheek te plaatsen, wordt de rest van de module veel leesbaarder.
 In plaats van 20 regels code om een kleur lichter te maken, schrijven we in de View:
 

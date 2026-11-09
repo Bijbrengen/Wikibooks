@@ -1,0 +1,10 @@
+{{Opmaak}}
+== Componeren ==
+Probeer een eigen puzzel te maken die een bepaalde schaakstrategie of tactiek illustreert. Bij voorkeur een schaakinzicht dat je zelf hebt ontdekt. Check eventueel een oplossing door een {{Wp|Stockfish_(chess)|schaak-engine}} of schaakmeesters.
+* Loper
+** Bedenk een voorbeeld van een opstelling waarin wit met een goede loper en een pion tegen alleen de zwarte koning, toch niet winst kan pakken.
+** Bedenk een voorbeeld van een opstelling waarin wit met een slechte loper en een pion tegen alleen de zwarte koning, toch de winst kan pakken.
+** Bedenk een voorbeeld van een opstelling waarin wit met een loperpaar tegen alleen de zwarte koning, toch niet winst kan pakken.
+** Bedenk een voorbeeld van een opstelling waarin wit met een loperpaar tegen de zwarte koning en een loper, toch de winst kan pakken.
+
+{{Opmaak | Voettekst}}

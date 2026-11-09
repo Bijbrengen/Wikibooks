@@ -1,0 +1,28 @@
+{{Index Handleiding moderatoren}}
+Als moderator is het belangrijk te waken over de kopierechten van artikels en afbeeldingen. Een wiki-project is immers een open bron waarvan informatie mag overgenomen worden mits vermelding van de auteur(s). 
+
+Daarom is het van het allergrootste belang dat informatie die toegevoegd wordt op de wiki ook onder deze licentie, genaamd GFDL, valt.
+
+==GFDL==
+
+==Afbeeldingslicenties==
+Teksten vallen allemaal onder de GFDL-licentie, en afbeeldingen waar geen licentie op staat, ook. Afbeeldingen op Wikipedia hebben echter ook nog wel eens een andere licentie. Dat is dan meestal een Creative Commons-licentie (CC-licentie). CC-licenties staan - net als de GFDL-licentie - expliciet het kopiëren en verder verspreiden van afbeeldingen toe. Er zijn verschillende soorten CC-licenties.
+
+===GFDL===
+<!--nog toe te voegen-->
+
+===CC-BY===
+Attribution (toeschrijving): kopiëren, distributie, vertoning en uitvoering van het werk en afgeleide werken op voorwaarde van een naamsvermelding van de oorspronkelijke auteur. 
+
+===CC-SA===
+Share Alike (vrijgeven onder dezelfde licentie): distributie van afgeleide werken is alleen toegestaan onder een identieke licentie, zie ook copyleft. 
+
+===CC-NC===
+Niet-Commercieel: kopiëren, distributie, vertoning en uitvoering van het werk en afgeleide werken alleen voor non-commerciële doelen. 
+
+===CC-ND===
+No Derivative Works (geen afgeleide werken): kopiëren, distributie, vertoning en uitvoering van het werk is toegestaan, maar niet het veranderen van het werk.
+
+==Opmerking==
+De licenties, CC-NC en CC-ND, zijn niet verenigbaar met de GFDL-licentie en kunnen dus niet gebruikt worden op Wikipedia of Wikibooks. Alle informatie op deze wiki's moet namelijk veranderd kunnen worden en eventueel doorverkocht.
+{{Sub}}

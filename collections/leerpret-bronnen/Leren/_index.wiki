@@ -1,8 +1,8 @@
 {{Opmaak
 | Object = Reeks
 | Bron = Use Brain.gif
-| Definitie = [[w:nl:Leren|Leren]] is het zich eigen maken van nieuwe, of het aanpassen van bestaande, kennis, gedrag, vaardigheden of houding.
-| Beschrijving = In deze boekenreeks wordt uitgelegd hoe leerprocessen vanuit een onderwijskundig gezichtspunt werken met als doel [[zelf leren]].<br>Aan verschillende persoonlijke voorkeuren voor leren (onbewust of bewust, theoretisch of praktisch) is een apart deel gewijd.<br>Een leerproces beschrijft de manier waarop een lerende zich ontwikkelt door leeractiviteiten uit te voeren teneinde bepaalde [[Leren leren/Doel|leerdoelen]] te halen.<br>Leren is niet hetzelfde als onderwijs!<br>Een [[w:leerproces|leerproces]] is de geleidelijke verandering in attitude en gedrag ten gevolge van leren.<br>Onwetendheid is een bron van lijden, leren is dus lijden verminderen.
+| Definitie = {{Wp|Leren|Leren}} is het zich eigen maken van nieuwe, of het aanpassen van bestaande, kennis, gedrag, vaardigheden of houding.
+| Beschrijving = In deze boekenreeks wordt uitgelegd hoe leerprocessen vanuit een onderwijskundig gezichtspunt werken met als doel [[zelf leren]].<br>Aan verschillende persoonlijke voorkeuren voor leren (onbewust of bewust, theoretisch of praktisch) is een apart deel gewijd.<br>Een leerproces beschrijft de manier waarop een lerende zich ontwikkelt door leeractiviteiten uit te voeren teneinde bepaalde [[Leren leren/Doel|leerdoelen]] te halen.<br>Leren is niet hetzelfde als onderwijs!<br>Een {{Wp|leerproces|leerproces}} is de geleidelijke verandering in attitude en gedrag ten gevolge van leren.<br>Onwetendheid is een bron van lijden, leren is dus lijden verminderen.
 | Formaat = html
 | Voortgang = 100
 | Collectie = Onderwijs en opleiding
@@ -10,7 +10,7 @@
 | Support = Signaleer
 | Kleur = #846dab, #f26522, #bd1a8d
 | Titel = Leren
-| Referentie = wikipedia, wikijunior
+| Referentie = wikipedia<!--, wikijunior-->
 | In deze boekserie worden aspecten in leerprocessen uitgelicht die tot [[zelf leren]] leiden. Dus meer vrijheid,<br>zowel intern (een bevrijde geest) als extern (vrijheid om jezelf te mogen ontwikkelen in de richting die je zelf wenst).
 | De lol van deze boekenreeks is het leren zelf; niet het antwoord, maar de vraag en de verrassende ontdekking!
 | In de boekserie [[Schaken]] wordt geïllustreerd hoe je in de praktijk leerprocessen op een hoger niveau kunt brengen.

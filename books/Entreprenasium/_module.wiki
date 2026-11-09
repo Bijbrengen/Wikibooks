@@ -11,4 +11,3 @@
 | Collectie = Onderwijs
 | Onderdeel = Inleiding, Strategie, Projecten, Fasen, Onderbouw, Middenbouw, Bovenbouw, Rollen
 }}
-{{Fase|4}}

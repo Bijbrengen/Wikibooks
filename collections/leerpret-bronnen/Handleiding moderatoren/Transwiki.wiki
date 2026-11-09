@@ -1,0 +1,108 @@
+{{Index Handleiding moderatoren}}
+==Inleiding==
+Transwiki staat voor het verplaatsen van inhoudelijk materiaal van het ene wikiproject naar een ander. 
+
+Het kan gaan om artikels, teksten, delen van een tekst, afbeeldingen, sjablonen,...
+
+Voor het importeren en exporteren werd een aparte naamruimte gecreëerd, genaamd "Transwiki:". Ze draagt de naamruimtenummers 100 en 101 (voor de overlegpagina bij de transwiki-pagina).
+
+Artikelen die zich bevinden in de transwikinaamruimte worden '''niet''' meegeteld bij het artikeltotaal op een wikiproject.
+
+Auteurs van geïmporteerde pagina's worden vermeld in de statistieken van het importerende wikiproject. Zo kan het voorkomen dat een auteur nooit het importerende wikiproject heeft bezocht, maar er toch vermeld staat in de statistieken. Of dat de statistieken van bijdragen de start van een project zelfs antidateren.
+
+==Nut==
+Transwiki heeft twee bedoelingen. Enerzijds het niet nutteloos verwijderen van zinnig materiaal door het te exporteren naar de juiste plaats.<br>
+Anderzijds het behoud van de auteursgeschiedenis bij het materiaal dat in meerdere wiki's gewenst blijkt te zijn.
+
+==Exporteren==
+Exporteren van artikelen via transwiki gebeurt vooral in volgende gevallen:
+* Het artikel is niet in de juiste taal geschreven. Transwiki dient te gebeuren naar het zusterproject in de juiste taal.
+* Het artikel past inhoudelijk of qua vorm niet in het geplaatste wikiproject, maar komt wel in aanmerking voor een zusterproject. Bv. *: lange niet-encyclopedische artikelen in Wikipedia die geschikt zijn als boek (Wikibooks)
+*: korte beschrijvingen die thuishoren in Wikiwoordenboek
+*: niet-encyclopedische recepten
+*: wetenschappelijke artikelen die thuishoren in Wikispecies
+*: nieuwsitems die thuishoren in Wikinews
+
+Het exporteren dient te gebeuren naar het zusterproject waarin het vermoedelijk thuishoort. Vervolgens dient hiervan melding gemaakt te worden op de pagina "Transwiki" van het project waarnaar geëxporteerd werd. 
+
+==Importeren==
+Wiki's kunnen aanvragen om artikelen te importeren van een zusterproject. Op die manier wordt het artikel met haar integrale auteursgeschiedenis overgenomen in het aanvragende wikiproject.
+
+Dit is handig voor bijvoorbeeld Wikibooks, die op basis van bestaande encyclopedische artikelen een boek construeert. Of een encyclopedische samenvatting in een boek dat zijn nut ook vindt in een encyclopedie.<br>
+Maar ook bijvoorbeeld ingenieuze sjablonen die mits aanpassing in meerdere projecten dienst kunnen doen.
+
+== Hoe doe je dat? ==
+Een wiki kan importeren of exporteren zodra deze functie werd aangevraagd bij de developers. De functie is beperkt tot de aangevraagde zusterprojecten. Elk zusterproject waarvan men wenst te importeren of waarnaar men wenst te exporteren, dient dus specifiek aangevraagd te worden.
+
+Wanneer de functie in werking is, kan een moderator via de speciale pagina [[Speciaal:Import]] een artikel, sjabloon of portaal of elke andere soort pagina overbrengen naar het eigen wikiproject.
+
+;Op de Importpagina leest men volgend bericht: 
+Selecteer een wiki en paginanaam om te importeren. Versie- en auteursgegevens blijven hierbij intact. Alle transwiki-importhandelingen worden opgeslagen in het importlogboek. 
+
+;Selecteer het zusterproject: 
+In het kleine vakje links kan men selecteren van welk zusterproject men wenst te importeren. Wanneer er slechts 1 zusterproject aangevraagd is, staat deze automatisch geselecteerd.<br>
+'''Let wel!'''<br>
+De afkortingen van de zusterprojecten dienen gekend te zijn. Wikipedia wordt afgekort tot w, Wikibooks tot b, Wikinews tot n, Wikiquote tot q, etc. zolang het dezelfde taal betreft van je eigen wikiproject. Indien je wenst te importeren vanuit een anderstalig wikiproject zal naast de code voor het project ook de taalcode toegevoegd zijn.
+
+;Ingeven van artikelnaam: 
+In de invulbox geef je de exacte titel weer van de in te voeren pagina. Wanneer het een pagina in een andere naamruimte betreft, dient deze naamruimte mee ingetypt te worden.<br>
+'''Let wel:'''<br>
+De paginanaam is hoofdlettergevoelig. Check de originele titel.
+
+;Selecteren van auteursgeschiedenis: 
+Normaalgezien staat de mogelijkheid tot het samen importeren van de auteursgeschiedenis automatisch aangevinkt. Indien men in regel wil blijven met de licenties, hoort deze geschiedenis samen met de pagina geïmporteerd te worden.<br>
+'''Let wel:'''<br>
+Wens je de auteursgeschiedenis '''niet''' mee te importeren, dan dien je hiervoor een gegronde reden te hebben die je bij de import kenbaar moet maken.
+
+;Kiezen van naamruimte: 
+Volgens afspraak dient het artikel in eerste instantie in de naamruimte "transwiki" geplaatst te worden. Pas in tweede fase zal de pagina hernoemd worden naar een andere naamruimte. Bv. Gebruiker: of Help: of de hoofdnaamruimte.
+
+Dit om twee redenen:
+# op deze manier wordt traceren mogelijk tussen de verschillende wikiprojecten (zie verder -> universele afspraken)
+# biedt de gelegenheid om het artikel eerst conform het nieuwe wikiproject te maken alvorens vrij te geven in de normale naamruimte. (zie verder -> wikificatie) 
+
+Normaalgezien staat de naamruimte "transwiki" automatisch geselecteerd. Slechts in uitzonderlijke gevallen kan dit anders nodig zijn. Bv. voor MediaWiki. <!--geen idee of er een naamruimte is waarbij dit niet kan-->Wanneer een artikel niet eerst in de transwiki-naamruimte geplaatst wordt, dient men er ook rekening mee te houden dat het aantal wijzigingen van de originele pagina de 100 bewerkingen niet overschrijdt. Immers enkel de transwiki-naamruimte kan een onbeperkt aantal versies van een pagina importeren. Nadien is dit aantal versies geen obstakel bij het hernoemen van de pagina. 
+
+;Importeren overlegpagina: 
+Indien gewenst kan ook de overlegpagina automatisch mee geïmporteerd worden. Soms kan dit nuttig zijn. In andere gevallen bevat het informatie die in het nieuwe project volstrekt zinloos is.<br>
+Normaalgezien staat deze functie automatisch aangevinkt indien er een overlegpagina bestaat bij het in te voeren artikel.<br>
+De moderator dient te checken op de originele plek of deze overlegpagina gewenst is.
+
+;Geslaagde import: 
+Indien de import geslaagd is, zal de melding in het venster verschijnen hoeveel versies van deze pagina werden geïmporteerd. Dit betreft het aantal wijzigingen dat het originele artikel onderging.
+
+==Licenties==
+Niet elk wikiproject hanteert dezelfde licenties. Anderstalige wiki's werken soms onder beperktere of vrijere licenties dan de wiki waarnaar men wenst te importeren. Wikibooks-NL werkt sinds 15 april 2007 onder twee licenties waartussen men vrij kan kiezen. Wikipedia-NL is echter beperkt tot een van deze licenties, namelijk GFDL.<br>
+Bij het importeren dient men dan ook een correcte licentievermelding te doen op de pagina indien deze afwijkt van het eigen wikiproject of dient men in sommige gevallen zelfs de import van een pagina niet te laten doorgaan.
+
+== Logboeken ==
+Een apart logboek houdt alle import- en exportgegevens bij van artikels. Hierbij wordt de naam van het artikel en de importerende moderator weergegeven. Het logboek is te vinden tussen de andere logboeken. [[Speciaal:Log/import]]
+
+== Universele afspraken ==
+=== Pagina transwiki ===
+Om de vindbaarheid van de transwiki-artikelen te vergemakkelijken is er een universele afspraak dat elk wikiproject in de hoofdnaamruimte de pagina "Transwiki" aanmaakt. Deze pagina bevat de aanvragen tot import en export.<br>
+Indien deze pagina niet binnen de structuur van het wikiproject past, is het voldoende om van deze pagina een redirectpagina te maken naar de functionele werkpagina.
+
+=== Traceerbeleid ===
+Omdat er werk gestoken werd in de originele pagina's, is het nodig dat deze te traceren zijn. Soms worden de pagina's immers verwijderd op de oorspronkelijke wiki nadat ze via transwiki werden verplaatst. De auteur(s) van het artikel kunnen makkelijk hun werk terugvinden indien zij op het betrokken zusterproject hun artikelnaam ingeven met "Transwiki:" ervoor. 
+
+Bij hernoemen van de pagina dient dan ook de redirectpagina in de transwiki-naamruimte te blijven bestaan. Zoals gemeld in de inleiding worden artikelen in deze naamruimte niet meegeteld bij het artikeltotaal.
+
+== Wikificatie ==
+Een artikel dat uit een ander wikiproject komt, is niet aangepast aan de structuur van de nieuwe wiki. Het bevat meestal links naar artikelen uit het oorspronkelijke project, maakt gebruik van sjablonen uit dat oorspronkelijke project, werd ingedeeld in categorieën uit dat project, maakt mogelijk gebruik van afbeeldingen die enkel beschikbaar zijn op dat project (indien afbeeldingen van commons gebruikt werden, zijn ze ook in het nieuwe wikiproject weergegeven).
+
+Bovendien moet vaak inhoudelijk een andere structuur aan het artikel gegeven worden of moet tekst anders geformuleerd worden.
+
+Om die redenen is het aangewezen om het artikel nog in de transwiki-naamruimte laten staan alvorens in de gewenste naamruimte te plaatsen. 
+
+Dit plaatsen in de correcte naamruimte gebeurt door titelwijziging. Hierdoor wordt er automatisch een redirectpagina gecreëerd van de transwikipagina naar de eindbestemming.<br>
+Deze redirectpagina dient behouden te blijven en niet verwijderd te worden. Dit uitsluitend omwille van de traceerbaarheid. 
+
+;Bijzonderheden van transwiki-naamruimte: 
+Het bestaan van de redirectpagina heeft immers toch geen invloed op het totaalgetal van artikels. Ze worden immers niet meegeteld.<br>
+Evenmin verhindert het een nieuwe import naar een identieke naam. In tegenstelling tot paginanamen in andere naamruimtes, kan eenzelfde of gewijzigd artikel meermaals naar hetzelfde wikiproject worden geïmporteerd. Het voegt de nieuwe pagina's toe aan de reeds bestaande (indien niet identiek).
+
+== Bugs ==
+# Wanneer niet geïmporteerd wordt naar de transwiki-naamruimte, is het aantal versies (dus wijzigingen) van een pagina gelimiteerd tot 100. Indien dit aantal overschreden werd, kan de pagina niet geïmporteerd worden.
+# Afbeeldingen kunnen niet geïmporteerd worden. Enkel het commentaar dat de afbeelding vergezelt, wordt geïmporteerd, samen met de auteursgeschiedenis. Het overbrengen van de afbeelding dient manueel te gebeuren door eerst de afbeelding te downloaden vanaf de originele plek en ze vervolgens opnieuw te uploaden op de gewenste plek.<br>Uiteraard dienen media van Wikimedia Commons niet geïmporteerd te worden, daar deze rechtstreeks gebruikt kunnen worden in alle zusterprojecten van de Wikimedia Foundation.
+{{Sub}}

@@ -1,0 +1,61 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Passend%20leren",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Passend leren",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 4,
+  "pages": [
+    {
+      "title": "Passend leren",
+      "file": "_module.wiki",
+      "pageid": 39994,
+      "contentmodel": "wikitext",
+      "revid": 424694,
+      "parentid": 424057,
+      "timestamp": "2026-04-27T13:16:44Z",
+      "user": "BeeBringer",
+      "comment": "",
+      "sha1": "17d69b62ba1028470e5313c7a54dc740f4adb0c9",
+      "bytes": 867
+    },
+    {
+      "title": "Passend leren/Missie",
+      "file": "Missie.wiki",
+      "pageid": 39996,
+      "contentmodel": "wikitext",
+      "revid": 424556,
+      "parentid": 424334,
+      "timestamp": "2026-04-26T18:06:58Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "3d4aaaea4adb04c5fa0c3093fde532cc263b6ec1",
+      "bytes": 1005
+    },
+    {
+      "title": "Passend leren/Strategie",
+      "file": "Strategie.wiki",
+      "pageid": 44941,
+      "contentmodel": "wikitext",
+      "revid": 424557,
+      "parentid": 419637,
+      "timestamp": "2026-04-26T18:07:03Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "8dff61eaa493e5e3215a376c8a41f03616d5ba31",
+      "bytes": 1287
+    },
+    {
+      "title": "Passend leren/Visie",
+      "file": "Visie.wiki",
+      "pageid": 40067,
+      "contentmodel": "wikitext",
+      "revid": 424558,
+      "parentid": 424333,
+      "timestamp": "2026-04-26T18:07:09Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "2767f96a7a9419dad4a5f2b136a11690ed3e6ecf",
+      "bytes": 4117
+    }
+  ]
+}

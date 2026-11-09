@@ -1,0 +1,14 @@
+{{Opmaak
+| Titel = Zelf leren
+| Object = Boek
+| Collectie = Leren
+| Beschrijving = Zelf leren benadrukt de autonomie van de leerling in het leerproces, met componenten zoals zelf kiezen wat en hoe te leren, leren over het leren zelf, en leren over (je)zelf. Het steunt op termen als zelfexpressie, zelfkeuze, zelfontdekking, zelfbekwaamheid en zelfregie. Randvoorwaarden voor zelf leren zijn vrijheid, vertrouwen en veiligheid.
+| Formaat = html
+| Voortgang = 100
+| Support = Signaleer
+| Kleur = #846dab, #00b400, #9133ea
+| Referentie = wikipedia
+| Onderdeel = Inleiding, Zelf&shy;expressie, Zelf&shy;keuze, Zelf&shy;ontdekking, Zelf&shy;bekwaam&shy;heid, Zelf&shy;regie, Zelf&shy;zorg, Zelf&shy;constructie
+| De toepassing van '''zelf leren''' in het onderwijs, zal zorgen voor een dynamisch en interactief proces dat ruimte biedt voor de persoonlijke ontwikkeling van elke leerling. Elke leerling wordt gezien als de architect van zijn of haar eigen leerproces. Deze benadering wordt ondersteund door technologie die is ontworpen om niet alleen aan te sluiten bij individuele leerstijlen, maar ook om het proces van zelfontdekking en zelfregulatie te faciliteren. Het benadrukt het belang van leren door zelfreflectie, planning, het monitoren van gedrag en reflectie op het eigen leerproces, vieren van autonomie, creativiteit en het ontplooien van het unieke potentieel van elke leerling.
+| '''Zelf leren''' draagt zorg voor een inclusief onderwijsklimaat. Het creëert een gevoel van samenhorigheid, waarbij ieder creatief brein op zijn eigen unieke manier wordt uitgedaagd. Het stimuleert leerlingen om eigen vragen te stellen en te onderzoeken, persoonlijke leerdoelen te stellen en zelfstandig kennis en vaardigheden te beoordelen. Dit concept transformeert het leren van een activiteit die beperkt is tot het klaslokaal, naar een onbegrensd, levenslang avontuur, aangedreven door natuurlijke nieuwsgierigheid en de drang om de wereld te ontdekken en te begrijpen. Zelf leren is cruciaal voor de ontwikkeling van 21e-eeuwse vaardigheden zoals kritisch denken, probleemoplossend vermogen en zelfregulatie. De benadering van '''zelf leren''' biedt een basis voor diverse leercontexten, elk aangepast aan de specifieke behoeften en voorkeuren van leerlingen.
+}}

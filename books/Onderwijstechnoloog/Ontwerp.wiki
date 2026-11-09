@@ -1,11 +1,13 @@
 {{Opmaak}}
-Het avontuur van de onderwijstechnoloog gaat ook langs het bouwen van een onderwijsarchitectuur bijvoorbeeld in Minecraft, MediaWiki, en Moodle of een eigen platform.
+Het ontwerpen van een [[Onderwijsplatform|Onderwijsplatform]] is een avontuur in onderwijsarchitectuur. De onderwijstechnoloog bouwt de omgevingen (bijvoorbeeld in Minecraft, MediaWiki of Moodle) waarin het leren plaatsvindt. 
 
-Een onderwijstechnoloog begint het avontuur door de principes van onderwijsarchitectuur te verkennen. Deze fase omvat het begrijpen van hoe leeromgevingen ontworpen kunnen worden om onderwijsdoelen te ondersteunen. Cruciaal hierbij is de integratie van technologische tools die het leerproces verbeteren en personaliseren.
+== Omhulsel ==
+Een goed ontworpen platform is een omhulsel voor de [[Leertaal|leertaal]]. Het moet de flexibiliteit bieden om de [[Leertaal/Leerbox|Leerbox]] in verschillende contexten te presenteren. Het ontwerp moet uitgaan van [[Leertaal/Vrijheid|vrijheid]], waarbij het systeem de leerder ondersteunt in plaats van beperkt.
 
-De reis van de onderwijstechnoloog in de wereld van onderwijsarchitectuur is een dynamisch en creatief proces. Door het gebruik van platforms als Minecraft, MediaWiki en Moodle, kunnen ze effectieve en boeiende leeromgevingen creëren. Geïnspireerd door historische visies op onderwijs, streven ze ernaar om onderwijs te transformeren in een ruimte voor creativiteit, zelfontdekking en onafhankelijk denken.
+== Filosofie ==
+Onderwijstechnologen laten zich inspireren door historische visies op onderwijs. Figuren als Einstein en Twain benadrukten het belang van creativiteit en zelfontdekking. Het ontwerp van de digitale architectuur moet deze "heilige nieuwsgierigheid" koesteren door open structuren en interactieve werelden aan te bieden.
 
-Reflectie op uitspraken van historische figuren zoals Einstein en Twain over onderwijs biedt waardevolle inzichten. Hun kritiek op conventioneel onderwijs benadrukt het belang van creativiteit, vrijheid en zelfontdekking in het leerproces. Deze visies kunnen onderwijstechnologen inspireren om innovatieve en bevrijdende onderwijsmethoden te ontwikkelen.
+Hieronder volgt een overzicht van inspirerende uitspraken die de ontwerpfilosofie van de onderwijstechnoloog kunnen voeden:
 
 {| class="wikitable"
 ! Naam !! Uitspraak
@@ -96,8 +98,6 @@ Reflectie op uitspraken van historische figuren zoals Einstein en Twain over ond
 |-
 | Tom Robbins || "Als we kleine kinderen naar school sturen, geven we ze allemaal dezelfde potloden, maar we zouden ze eigenlijk allemaal een andere kleur moeten geven."
 |-
-| Virginia Woolf || "Onderwijs is niet iets wat je kunt voltooien. Het is geen bad dat je neemt, het is een zee waar je in zwemt."
-|-
 | William Glasser || "Wat studenten op school leren is voornamelijk van geen enkel belang en is al bijna volledig vergeten tegen de tijd dat ze het schoolgebouw verlaten."
 |-
 | William Saroyan || "De meeste mensen moeten op de universiteit om te leren hoe onbeduidend ze zijn."
@@ -107,9 +107,9 @@ Reflectie op uitspraken van historische figuren zoals Einstein en Twain over ond
 Minecraft biedt een unieke kans om onderwijsarchitectuur te verkennen. Door het bouwen van virtuele werelden, kunnen onderwijstechnologen complexe concepten visualiseren en studenten een interactieve leerervaring bieden. Minecraft stimuleert creativiteit, probleemoplossing en samenwerking, waardoor het een krachtig hulpmiddel is in het onderwijs.
 
 == MediaWiki ==
-MediaWiki, het platform achter Wikipedia, kan worden gebruikt om educatieve inhoud te creëren en te delen. Door een eigen wiki te bouwen, met templates, extensies en LUA als script, kunnen onderwijstechnologen samen met leraren en leerlingen een rijke kennisdatabase ontwikkelen. Dit bevordert zelfgestuurd leren en maakt kennis toegankelijk voor een brede groep gebruikers.
+MediaWiki, het platform achter Wikipedia, kan worden gebruikt om educatieve inhoud te creëren en te delen. Door een eigen wiki te bouwen, met templates, extensies en [[Onderwijswiki/Lua|Lua]] als script (via [[Onderwijswiki/Scribunto|Scribunto]]), kunnen onderwijstechnologen samen met leraren en leerlingen een rijke kennisdatabase ontwikkelen.
 
 == Moodle ==
-Moodle is een veelzijdig leerbeheersysteem dat helpt bij het structureren van onderwijsmateriaal. Onderwijstechnologen kunnen Moodle gebruiken om cursussen te ontwikkelen die interactief, aanpasbaar en schaalbaar zijn. Dit platform ondersteunt blended learning en biedt tools voor beoordeling, samenwerking en communicatie. Maar vooral de mogelijkheid om plugins te bouwen voor de eigen onderwijsarchitectuur.
+Moodle is een veelzijdig leerbeheersysteem dat helpt bij het structureren van onderwijsmateriaal. Onderwijstechnologen kunnen Moodle gebruiken om cursussen te ontwikkelen die interactief, aanpasbaar en schaalbaar zijn. Belangrijk is de mogelijkheid om plugins te bouwen die de eigen onderwijsarchitectuur ondersteunen en verbinden met de [[Leertaal/Leerbox|Leerbox]].
 
 {{Opmaak | Voettekst}}

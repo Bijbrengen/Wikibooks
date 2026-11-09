@@ -1,0 +1,307 @@
+{{Opmaak}}
+Schaken is een strategisch bordspel waarbij twee spelers, wit en zwart, elkaar bevechten met stukken op een schaakbord. De bedoeling is om de koning van je tegenstander schaakmat te zetten. Er zijn verschillende strategieën die je kunt gebruiken om dit te bereiken. Schaken wordt al eeuwenlang gespeeld en is een van de oudste bordspellen. Het is een uitdagend spel dat veel denkwerk vereist, waardoor het populair is bij zowel beginners als gevorderde spelers.
+== Oorsprong ==
+=== Voorloper ===
+De precieze oorsprong van het schaken is onbekend. Volgens de breedst gedragen theorie stamt het spel uit India en is het vóór de 6e eeuw n.Chr. ontstaan. Een directe voorloper van het huidige westerse schaken was het oorlogsspel {{Wp|Chaturanga|Chaturanga}}, dat werd gespeeld op een {{Wp|en:Ashtapada|ashtapabord}} (speelbord van 8x8 velden) door vier spelers.
+{{Schaak/Bord2
+|left
+|
+|
+8 |bl|pl|  |  |kd|rd|nd|bd|
+7 |nl|pl|  |  |pd|pd|pd|pd|
+6 |rl|pl|  |  |  |  |  |  |
+5 |kl|pl|  |  |  |  |  |  |
+4 |  |  |  |  |  |  |pl|kl|
+3 |  |  |  |  |  |  |pl|rl|
+2 |pd|pd|pd|pd|  |  |pl|nl|
+1 |bd|nd|rd|kd|  |  |pl|bl|
+   a  b  c  d  e  f  g  h
+|Chaturanga voor vier spelers}}
+
+=== Ontwikkeling ===
+De ontwikkeling van het schaakspel kan men indelen in de volgende perioden:
+* '''Voorlopers''': 4000-400 v.C.
+* {{Wp|India|India}}, {{Wp|Iran|Iran}}, {{Wp|Arabië|Arabië}}: 400 v.C. - 750 n.C.
+* {{Wp|Europa|Europa}}: middeleeuwen
+* '''Moderne schaken''' : 1471 n.C. - heden
+Het moderne schaken is gebaseerd op het {{Wp|en:Göttingen_manuscript|Göttingen manuscript}} uit circa 1471 waarin de oudst genoteerde moderne schaakpartij is opgenomen.
+
+== Materiaal ==
+=== Bord ===
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Het schaakbord}}
+
+Het schaakspel wordt gespeeld op een vierkant schaakbord met 8 rijen en 8 kolommen resulterend in 64 velden afwisselend donker of licht. Een veld wordt in het schaken gelabeld door het kolomnummer en de rijletter. Let op, de nummers lopen van onder naar boven op!
+
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |oo|  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Het veld met de cirkel heeft als rij e en kolom 5 en daarom als label '''e5'''}}
+
+Via {{Wp|Lichess|Lichess}}, een open website om schaken te oefenen en te spelen met anderen, kun je deze coördinaten [https://lichess.org/training/coordinate oefenen]. Een gemiddelde score van 15 is minimaal nodig om instructievideo's en andere live commentaren redelijk te kunnen volgen.
+
+=== Doel ===
+[[Afbeelding:Checkmate.jpg|thumb|Vroeger was het gebruikelijk om de eigen koning neer te leggen als teken van overgave.]]
+Bij schaken draait het niet om kans, maar alleen om de strategie die beide spelers kiezen. Behalve bij de toss aan het begin on te bepalen wie met de witte schaakstukken speelt. Wit heeft enig voordeel omdat die mag beginnen. Deze voorsprong kan zeker bij topschakers het verschil maken. 
+
+De enorme hoeveelheid mogelijke schaakopstellingen maakt dat zelfs krachtige schaakcomputers deze niet allemaal bij langs kunnen lopen. Een keuze aan het begin is dus niet alles zeggend over het eind. 
+
+Het eind van het spel is bereikt als een van de koning wordt veroverd of dat het onmogelijk is om dat te doen. In het eerste geval spreekt men van schaakmat en wint de partij die de zet tot de schaakmat heeft gedaan. In het andere geval is er '''remise''' of gelijkspel. De koning wordt veroverd als hij wordt aangevallen ("schaak") en het schaak niet kan worden opgeheven. We spreken dan van '''schaakmat''' of kort van '''mat'''. In dat geval is er dus een winnaar. Er is automatisch geen winnaar of remise als 
+* de spelers dat onderling overeenkomen.
+* een speler geen legale zet kan doen, maar geen schaak staat.
+* alleen twee koningen over zijn gebleven.
+* alleen twee koningen met een enkele paard of een enkele loper zijn overgebleven.
+Er is op verzoek van een speler remise als 
+* er drie keer dezelfde opstelling ontstaat met dezelfde speler aan zet.
+* er 50 zetten lang geen pion is verzet en niets is geslagen.
+
+=== Schaakstukken ===
+{{Schaak/Bord2
+|left
+|
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|pd|pd|pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|pl|pl|pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+|Beginopstelling vanuit wit beschouwd}}
+Hoe ziet de beginopstelling vanuit zwart gezien eruit?
+{{Schaak/Oplossing|{{Schaak/Bord/Omgekeerd|=
+|left
+|
+|=
+1 |rl|nl|bl|kl|ql|bl|nl|rl|=
+2 |pl|pl|pl|pl|pl|pl|pl|pl|=
+3 |  |  |  |  |  |  |  |  |=
+4 |  |  |  |  |  |  |  |  |=
+5 |  |  |  |  |  |  |  |  |=
+6 |  |  |  |  |  |  |  |  |=
+7 |pd|pd|pd|pd|pd|pd|pd|pd|=
+8 |rd|nd|bd|kd|qd|bd|nd|rd|=
+   h  g  f  e  d  c  b  a
+|Beginopstelling vanuit zwart beschouwd}}
+}}
+[[Afbeelding:ChessSet.jpg|200px|thumb|De soorten schaakstukken]]
+Een schaakspel telt 16 stukken voor elke kleur (wit en zwart). Van de koning en koningin is er maar 1. Er zijn 8 pionnen. De rest van de stukken, paard, loper en toren, komen in paren. We zoomen op de individuele stukken verder in door te kijken naar hun mogelijkheden. De kruisjes geven de bewegingsvrijheden aan! De volgorde de belangrijkheid van het schaakstuk. Met punten duiden schakers de sterkte van een schaakstuk aan.
+
+*'''Koning''': De koning mag één positie opschuiven naar alle kanten zolang die velden vrij zijn. Een koning is het niet te verliezen stuk en zou je daarom oneindig veel punten kunnen toekennen.
+*:''Wat zijn de velden die hij kan bereiken als hij op e4 staat en hoeveel zijn dat er?''
+*:[[Afbeelding:Chess kll40.png|left]]
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |xx|xx|xx|  |  |
+4 |  |  |  |xx|kl|xx|  |  |
+3 |  |  |  |xx|xx|xx|  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Koning}}
+Deze positie is als er nog veel schaakstukken van de tegenstander (met name de sterke koningin) niet handig, want als je koning verliest dan heb je de partij ook verloren! Als er niet veel tegenstand meer is dan kan de koning juist waardevol meevechten.
+}}
+
+*'''Dame''': De dame mag net zo veel posities opschuiven naar alle kanten als er ruimte is (geen andere stukken de weg belemmeren). Een dame kent men 9 punten toe.
+*:''Wat zijn de velden die de dame kan bereiken als zij op e4 staat en hoeveel zijn dat er?''
+*:[[Afbeelding:Chess qll40.png|left]]
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |xx|  |  |  |xx|  |  |  |
+7 |  |xx|  |  |xx|  |  |xx|
+6 |  |  |xx|  |xx|  |xx|  |
+5 |  |  |  |xx|xx|xx|  |  |
+4 |xx|xx|xx|xx|ql|xx|xx|xx|
+3 |  |  |  |xx|xx|xx|  |  |
+2 |  |  |xx|  |xx|  |xx|  |
+1 |  |xx|  |  |xx|  |  |xx|
+   a  b  c  d  e  f  g  h
+|Dame}}
+Omdat de dame door deze bewegingsvrijheid (27 velden in dit geval) het sterkste schaakstuk is, moet je er goed opletten. 
+}}
+
+*'''Toren''': De toren mag naar voren, naar achteren, naar links en naar rechts, zo ver als hij kan (geen andere stukken tegenkomt), maar niet schuin. Een toren heeft 5 punten.
+*:''Wat zijn de velden die de toren kan bereiken als hij op e4 staat?''
+*:[[Afbeelding:Chess rll40.png|left]]
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |xx|  |  |  |
+7 |  |  |  |  |xx|  |  |  |
+6 |  |  |  |  |xx|rl|  |rl|
+5 |  |  |  |  |xx|  |  |  |
+4 |xx|xx|xx|xx|rl|xx|xx|xx|
+3 |  |  |  |  |xx|  |  |  |
+2 |  |  |  |  |xx|  |  |  |
+1 |  |  |  |  |xx|  |  |  |
+   a  b  c  d  e  f  g  h
+|Toren}}
+Waar je de toren ook plaatst als hij niet word gehinderd bestrijkt hij altijd 14 velden (8 - 1 horizontaal en 8 - 1 verticaal). 
+}}
+
+*'''Loper''': De loper mag alleen schuin bewegen zo ver als hij kan zonder andere stukken tegen te komen. Aan een loper worden 3 punten als waarde gegeven.
+*:''Wat zijn de velden die de loper kan bereiken als hij op e4 staat en hoeveel zijn dat er?''
+*:[[Afbeelding:Chess bll40.png|left]]
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |xx|  |  |  |  |  |  |  |
+7 |  |xx|  |  |  |  |  |xx|
+6 |  |  |xx|  |  |  |xx|  |
+5 |  |  |  |xx|  |xx|  |  |
+4 |  |  |  |  |bl|  |  |  |
+3 |  |  |  |xx|  |xx|  |  |
+2 |  |  |xx|  |  |  |xx|  |
+1 |  |xx|  |  |  |  |  |xx|
+   a  b  c  d  e  f  g  h
+|Loper}}
+De kleur van het veld waar de loper op begint kan hij nooit verlaten. Deze loper kan dus nooit op een zwart veld komen. Wel bereikt hij zo nog 13 velden vanuit e4.
+}}
+
+*'''Paard''': Het paard beweegt via een L (1 stap de ene richting op en 2 stappen haaks erop) en mag als enige over andere stukken springen. Een paard heeft net als een loper 3 punten.
+*:''Wat zijn de velden die het paard kan bereiken als hij op e4 staat en hoeveel zijn dat er?''
+*:[[Afbeelding:Chess nll40.png|left]]
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |xx|  |xx|  |  |
+5 |  |  |xx|  |  |  |xx|  |
+4 |  |  |  |  |nl|  |  |  |
+3 |  |  |xx|  |  |  |xx|  |
+2 |  |  |  |xx|  |xx|  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Paard}}
+Het paard kan vanaf e4 8 velden bereiken. 
+}}
+
+*'''Pion''': Een pion kan alleen maar 1 veld naar de overkant bewegen als er geen stuk in de weg staat. In het begin mag het echter ook twee velden opschuiven. Als het de overkant bereikt moet het onmiddellijk promoveren naar een ander schaakstuk. Pionnen zijn de enige schaakstukken die niet slaan zoals ze normaal gesproken bewegen (verticaal naar de overkant), maar schuin naar beide kanten in de bewegingsrichting. Daarnaast kunnen ze een pion die door ineens twee zetten te doen naast hen staat ook direct schuin slaan ({{Wp|En_passant_slaan|en passant slaan}}). Een pion heeft slechts 1 punt aan waarde.
+*:''Wat zijn de velden die een pion kan bereiken als hij op e4 staat en hoeveel zijn dat er? Hoe zit dat met de pion die aan het begin op a7 staat? Welke pion kan de a7 pion en passant slaan?''
+*:[[Afbeelding:Chess pll40.png|left]]
+{{Schaak/Oplossing|[[Afbeelding:Ajedrez animación en passant.gif|right]] {{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |pd|  |  |  |  |  |  |  |
+6 |xx|  |  |  |  |  |  |  |
+5 |xx|pl|  |  |xx|  |  |  |
+4 |  |  |  |  |pl|  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Pion}}
+De pion kan vanaf e4 alleen e5 bereiken. Als ie op a7 staat aan het begin, dan is het een zwarte pion en zijn er twee velden mogelijk. Als hij twee zetten ineens doet dan kan de pion op b5 hem en passant slaan. 
+}}
+
+== Acties ==
+=== Slaan ===
+Alle bovenstaande stukken mogen (hoeven dat niet zoals bij het dammen) slaan. Dat betekent dat ze de plek innemen van het stuk dat op een veld staat dat ze aanvallen. Aanvallen betekent dat jouw stuk op een veld terecht kan komen (zie de bewegingsvrijheid) die door een stuk van de tegenstander wordt ingenomen. Wanneer je besluit te slaan neem je de plek in van het stuk van de tegenstander die meteen van het bord verdwijnt. Let op: de enige uitzondering op de regels van het slaan is bij het en-passant slaan. 
+
+=== Dekken ===
+Een stuk kun je dekken door een ander stuk zo te plaatsen dat mocht een tegenstander jouw gedekte stuk slaan, jij deze door het andere stuk kunt terugslaan.
+
+=== Zetten ===
+Spelers doen om en om een zet met één schaakstuk (alleen legale bewegingen zijn toegestaan zie hier boven) zonder een beurt te mogen overslaan. Daarbij mag elk veld maar door één schaakstuk worden bezet. Als de koning van de tegenstander door een zet wordt aangevallen, spreekt men van 'schaak'. De tegenstander moet elke schaak meteen opheffen. Als dat niet kan, is er sprake van schaakmat en verliest de tegenstander. 
+
+Wit begint. Wie wit speelt wordt of vooraf afgesproken of met een {{Wp|Kruis_of_munt|toss}} bepaald. In het schaken tost men door een speler een witte en zwarte pion in zijn linker- en rechtervuist te laten verstoppen en de andere speler laat kiezen. Dit zou eerlijk moeten leiden tot evenveel kans op wit of zwart, hoewel {{Wp|Victor_Mids|Victor Mids}} van Mindf*ck in zijn [https://www.npostart.nl/mindfck/21-04-2018/AT_2095469 Tv-programma]  laat zien dat dit niet het geval hoeft te zijn.
+
+Aanraken is zetten ({{Wp|Pièce touchée|Pièce touchée}}), dus je moet het eerste stuk dat je aanraakt - ook al gaat het per ongeluk - gebruiken voor je volgende zet als dat kan.
+
+=== Rokeren ===
+Een uitzondering op de regel dat slechts één schaakstuk mag worden verplaatst per zet is de {{Wp|Rokade|rokade}}. De rokade kan plaatsvinden mits een toren en de koning van een kleur nog niet eerder zijn verplaatst en de koning niet schaak staat of tijdens de beweging schaak komt te staan. In dat geval mogen ze (als de weg tussen hen vrij is) van plaats wisselen door de koning 2 velden opzij te bewegen in richting van de toren, waarna de toren over de koning heen springt en er aan de andere kant naast gaat staan.
+{{Schaak/Bord2
+|left
+|
+|
+ 8 |rd|  |  |  |kd|  |  |rd|
+ 7 |  |  |  |  |  |  |  |  |
+ 6 |  |  |  |  |  |  |  |  |
+ 5 |  |  |  |  |  |  |  |  |
+ 4 |  |  |  |  |  |  |  |  |
+ 3 |  |  |  |  |  |  |  |  |
+ 2 |  |  |  |  |  |  |  |  |
+ 1 |rl|  |  |  |kl|  |  |rl|
+   a  b  c  d  e  f  g  h
+|Hoe kan wit rokeren?}}
+''Wat is de kortste (toren en koning bewegen het minst) rokade voor wit?''
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+ 8 |rd|  |  |  |kd|  |  |rd|
+ 7 |  |  |  |  |  |  |  |  |
+ 6 |  |  |  |  |  |  |  |  |
+ 5 |  |  |  |  |  |  |  |  |
+ 4 |  |  |  |  |  |  |  |  |
+ 3 |  |  |  |  |  |  |  |  |
+ 2 |  |  |  |  |  |  |  |  |
+ 1 |rl|  |  |  |  |rl|kl|  |
+   a  b  c  d  e  f  g  h
+|Korte rokade}}
+Wit heeft de korte rokade uitgevoerd
+}}
+
+''Wat is de langste (toren en koning bewegen het meest) rokade voor wit?''
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+ 8 |rd|  |  |  |kd|  |  |rd|
+ 7 |  |  |  |  |  |  |  |  |
+ 6 |  |  |  |  |  |  |  |  |
+ 5 |  |  |  |  |  |  |  |  |
+ 4 |  |  |  |  |  |  |  |  |
+ 3 |  |  |  |  |  |  |  |  |
+ 2 |  |  |  |  |  |  |  |  |
+ 1 |  |  |kl|rl|  |  |  |rl|
+   a  b  c  d  e  f  g  h
+|Korte rokade}}
+Wit heeft de lange rokade uitgevoerd
+}}
+
+===Zie ook===
+* [https://wikikids.nl/Schaken Wikikids pagina over schaken]
+* [https://jeroenvu.home.xs4all.nl/schaken/ Jeugdschaakpagina om schaken te leren in een half uur].
+* [https://www.docukit.nl/spreekbeurt/schaken Spreekbeurt over schaken].
+* [https://www.schaaktalent.nl/index.php/leren-schaken Filmpjes om te leren schaken]
+
+{{Opmaak | Voettekst}}

@@ -1,0 +1,50 @@
+{{Bi}}
+Dit boek bevat hoofdstukken die beschrijven hoe bepaalde taken van moderatoren op projecten van de Wikimedia Foundation kunnen worden uitgevoerd. Dit is geen verplichting maar een startpunt, een hulpmiddel.
+
+<div style="color: inherit; background-color: #ffeecc; border: 1px solid #333333; padding: 5px">
+{{Index Handleiding moderatoren}}
+<div style='text-align: center;'>'''Inlichtingen over het boek'''</div>
+
+;Titel: 
+: Handleiding moderatoren
+:: Voor moderatoren van Nederlandstalige Wikiprojecten.
+;Auteur(s): 
+: [[Gebruiker:Londenp|Londenp]], [[Gebruiker:Siebrand|Siebrand]], [[Gebruiker:Michiel1972|Michiel1972]], [[Gebruiker:Effeietsanders|Effeietsanders]], [[Gebruiker:Inge Habex|Inge Habex]], [[Gebruiker:MoiraMoira|MoiraMoira]]
+;Nagelezen door:
+: [[Gebruiker:Oscar]]?, [[Gebruiker:Galwaygirl]]? [[Gebruiker:Catienpetji]]
+;Voorwoord door:
+: [[Gebruiker:Walter]]?, als de nestor onder de moderatoren.
+;Projectpagina:
+: geen
+;Licentie: 
+: GFDL
+;Bronnen, referentiewerken: 
+: [[:Wikipedia:Wikipedia:Administrators' how-to guide|Administrators' how-to guide]], [[:Wikipedia:Wikipedia:What adminship is not|What adminship is not]]
+
+;Doelstelling: 
+: Het aanleren van de basisvaardigheden voor moderatoren. 
+: Het dienen als naslagwerk (''Hoe zat het ook alweer'').
+: Als documentatie dienen voor het doorvoeren van moderatorenworkshops 
+
+;Instapniveau: 
+: Elementaire kennis van Wikipedia
+: Elementaire kennis van de MediaWiki-software, zie ook [[Inleiding MediaWiki]].
+: Bekend met de Wikipedia-mores
+
+: (links naar betrokken wikibooks nog onbestaande)
+
+;Uitstapniveau: 
+: Men is op de hoogte van de gewenste attitudes van een moderator.
+: Men is met de opgedane kennis in staat de elementaire taken van moderator uit te voeren.
+
+;Gerelateerde boeken en onderwerpen: 
+: [[Inleiding MediaWiki]], [[Handboek MediaWiki]] en {{Wp|Wikipedia:Inleiding moderatorschap|Inleiding Moderatorschap}}.
+
+<div style='text-align: center;'>'''[[Handleiding moderatoren/Inleiding|Verder naar de inleiding]]'''</div>
+</div>
+<br>
+
+{{Boek|Moderatoren}}
+{{Fase|2}}
+[[Categorie:Handleiding moderatoren| ]]
+[[Categorie:Wikimedia]]

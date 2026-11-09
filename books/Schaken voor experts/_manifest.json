@@ -1,0 +1,74 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Schaken%20voor%20experts",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Schaken voor experts",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 5,
+  "pages": [
+    {
+      "title": "Schaken voor experts",
+      "file": "_module.wiki",
+      "pageid": 40310,
+      "contentmodel": "wikitext",
+      "revid": 425063,
+      "parentid": 423713,
+      "timestamp": "2026-05-05T07:30:02Z",
+      "user": "BeeBringer",
+      "comment": "",
+      "sha1": "a251cd3c844fec8ee04b65a51b5adb136284fdd5",
+      "bytes": 862
+    },
+    {
+      "title": "Schaken voor experts/Inleiding",
+      "file": "Inleiding.wiki",
+      "pageid": 40945,
+      "contentmodel": "wikitext",
+      "revid": 424588,
+      "parentid": 423714,
+      "timestamp": "2026-04-26T18:10:09Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "72cac70620d7a9c720c1455b86b83e09edad88a8",
+      "bytes": 2347
+    },
+    {
+      "title": "Schaken voor experts/Lesgeven",
+      "file": "Lesgeven.wiki",
+      "pageid": 40450,
+      "contentmodel": "wikitext",
+      "revid": 424589,
+      "parentid": 423716,
+      "timestamp": "2026-04-26T18:10:15Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "8b7369e39453f12e5a37739b71fef726b41a4ed0",
+      "bytes": 860
+    },
+    {
+      "title": "Schaken voor experts/Studeren",
+      "file": "Studeren.wiki",
+      "pageid": 40946,
+      "contentmodel": "wikitext",
+      "revid": 424590,
+      "parentid": 423715,
+      "timestamp": "2026-04-26T18:10:20Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "85115472de7aa20605fbc6259c7d4fa43c2c4932",
+      "bytes": 2150
+    },
+    {
+      "title": "Schaken voor experts/Trainen",
+      "file": "Trainen.wiki",
+      "pageid": 44942,
+      "contentmodel": "wikitext",
+      "revid": 424591,
+      "parentid": 423772,
+      "timestamp": "2026-04-26T18:10:26Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "b57407e58e7f4ff65ac0ebbc5d4429327fadff99",
+      "bytes": 1703
+    }
+  ]
+}

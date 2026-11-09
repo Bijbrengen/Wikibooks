@@ -1,0 +1,48 @@
+{{Opmaak}}
+In een wereld die constant verandert, vereist het onderwijs een vernieuwende benadering die aansluit op de individuele behoeften en interesses van leerlingen. Dit boek introduceert een vooruitstrevend onderwijsmodel dat kunstmatige intelligentie (AI) en zelf leren combineert om een dynamische, op de persoon afgestemde leerervaring te bieden. 
+
+== Visie ==
+Centraal in deze onderwijsvisie staat het empoweren van de leerling. In plaats van een uniforme aanpak te hanteren, moedigt dit model leerlingen aan hun eigen leertraject te verkennen, gebaseerd op hun persoonlijke interesses en passies. Dit bevordert zelfontdekking en stimuleert leerlingen om eigen vragen en curiositeiten te volgen. Dit onderwijsmodel biedt een inspirerende en innovatieve benadering voor het onderwijs van de toekomst, waarbij leerlingen centraal staan en ondersteund worden door geavanceerde technologie en empathische begeleiding van leerkrachten, voorbereid op een dynamische toekomst. Dit model biedt een raamwerk voor een onderwijssysteem dat inspeelt op de behoeften van de moderne leerling, met de nadruk op zelfleren en technologische ondersteuning.
+
+De visie van zelf leren benadrukt het belang van spel in het leerproces. Het idee is om leren niet alleen effectief maar ook plezierig te maken, door het te integreren met speelse elementen. Dit concept ondersteunt de visie dat onderwijs en leren verrijkt kunnen worden door speelsheid, waardoor leren een meer boeiende en minder statische ervaring wordt.
+
+=== Principes ===
+De kernprincipes van zelf leren  omvatten het belang van flexibiliteit in het leerproces, het aanmoedigen van vrij denken in onderwijs, en het gebruik van spel;
+* Focus op individuele interesses en sterke punten.
+* Stimulatie van zelfontdekking en zelfgestuurd leren.
+* AI als interactieve begeleider.
+* Verdere verdieping en sturing van leeractiviteiten door AI.
+* Overgang naar een mentor- en begeleidende rol.
+* Focus op het emotionele welzijn en de groepsdynamiek.
+* Afgestemd op individuele leerdoelen en 21e-eeuwse vaardigheden.
+* Voortgangsbewaking en feedback door AI.
+* Benadrukking van intrinsieke motivatie door focus op persoonlijke interesses.
+* Weg bewegen van traditionele vak-opdeling en rigide lesmethoden.
+* Bevordering van natuurlijke samenwerking door gedeelde interesses.
+* AI gestimuleerde interactie en groepsprojecten.
+* Transparante weergave van leerprogressie.
+* Behoud van traditionele oudergesprekken voor brede ontwikkeling.
+
+== Missie ==
+Onze missie is geïnspireerd door het concept van het [[Leerparadijs|leerparadijs]] en het [[Entreprenasium|entreprenasium]], twee onderwijsinnovaties die het landschap van leren en onderwijzen radicaal willen veranderen. Beide benaderingen erkennen de waarde en het belang van zelf leren, waarbij leerlingen de vrijheid en verantwoordelijkheid krijgen om hun eigen leertrajecten te ontwerpen, te plannen en uit te voeren. Dit empowerment van leerlingen sluit aan bij onze visie om een onderwijssysteem te creëren dat individuele leerbehoeften erkent en ondersteunt, zodat elke leerling zijn of haar eigen 'leerparadijs' of 'entreprenasium' kan vormgeven.
+
+Het [[Leerparadijs|leerparadijs]] is een concept dat streeft naar een ideale leeromgeving waarin de natuurlijke nieuwsgierigheid en leergierigheid van leerlingen worden aangewakkerd en ondersteund. Het benadrukt de belangrijkheid van een omgeving waarin leerlingen zich vrij voelen om te ontdekken, te experimenteren en te leren op manieren die het beste bij hen passen.
+
+Het [[Entreprenasium|entreprenasium]], daarentegen, richt zich op ondernemend leren en biedt leerlingen de kans om hun eigen leerprojecten te initiëren en uit te voeren, vaak met een focus op maatschappelijke betrokkenheid en ondernemerschap. Deze aanpak stimuleert zelfstandigheid, creativiteit en een ondernemende houding, cruciale vaardigheden in de moderne wereld.
+
+Echter, de overstap naar deze vormen van zelf geleid leren brengt significante uitdagingen met zich mee, zowel voor leerlingen als onderwijsgevenden. Het vereist een nieuwe manier van denken over onderwijs, waarbij traditionele rollen en structuren worden herzien. Leerlingen moeten leren om zelfstandige, reflectieve en proactieve leerders te zijn, terwijl onderwijsgevenden zich meer als begeleiders en mentoren opstellen, die de leerlingen ondersteunen in hun zelfontdekkingsreis.
+
+Om deze transitie mogelijk te maken, streven we ernaar onderwijs te creëren dat flexibel, adaptief en persoonlijk is. We willen een systeem waarin elke leerling de tools, middelen en ondersteuning krijgt om zijn of haar eigen leerpad te ontwerpen, een pad dat aanvoelt als een 'maatpak', perfect afgestemd op individuele behoeften, interesses en ambities. Dit betekent het ontwikkelen van onderwijsprogramma's die niet alleen de kennisoverdracht faciliteren, maar ook de ontwikkeling van zelfregulatievaardigheden, kritisch denken en creatieve probleemoplossing bevorderen.
+
+Door de principes van het leerparadijs en het entreprenasium te integreren in onze missie, werken we aan een onderwijstoekomst waarin elke leerling de kans krijgt om te floreren, zijn of haar potentieel te ontdekken en te realiseren, en een leven lang leerder te worden.
+
+== Strategie ==
+=== Gamification ===
+De strategie in het bereiken van zelf leren is om een omgeving te creëren waarin leren als een natuurlijk, speels en aangenaam proces wordt ervaren.
+
+=== Onderwijsplatform ===
+Traditionele onderwijsmodellen, die vaak worden gekenmerkt door een 'one-size-fits-all' benadering, vormen een belemmering voor het demonstreren van succes binnen zelflerende paradigma's. Het ontwikkelen van nieuwe, flexibele en meer gepersonaliseerde onderwijsmodellen is een complexe onderneming, welke vaak wordt belemmerd door institutionele en bureaucratische uitdagingen. De opkomst van kunstmatige intelligentie (AI) echter, belooft een significante doorbraak door de mogelijkheid om digitale leeromgevingen te creëren die niet alleen deze belemmeringen omzeilen, maar ze ook actief elimineren. Dit vertegenwoordigt geen marginale verandering, maar een transformatieve evolutie in onderwijs, met de belofte om het te veranderen in een persoonlijke ontdekkingsreis voor iedereen. Een zelf leren onderwijsplatform benadert deze evolutionaire ontwikkeling met een duidelijke en gestructureerde strategie, gericht op het realiseren van zelf leren door middel van de volledige inzet van AI. 
+
+=== AI ===
+AI speelt een essentiële rol als interactieve begeleider die leerlingen ondersteunt in het verdiepen van hun leerervaringen. Een voorbeeld hiervan is een AI-gestuurde knuffel die in de onderbouw conversaties met leerlingen kan beginnen, hen uitdaagt met verdiepende vragen, en assisteert in het ontdekken en begrijpen van nieuwe concepten. In dit model verandert de rol van de leerkracht van traditionele instructeur naar facilitator en mentor, met de nadruk op het creëren van een positief leeromgeving en het ondersteunen van de sociale en emotionele ontwikkeling van leerlingen. Evaluaties en beoordelingen zijn in dit model afgestemd op de individuele leerdoelen en -vooruitgang van elke leerling, met gepersonaliseerde feedback en inzichten verzorgd door AI. Hoewel er veel nadruk ligt op individueel leren, is samenwerking cruciaal voor een holistische leerervaring. AI faciliteert de samenwerking door leerlingen met vergelijkbare interesses samen te brengen voor groepsprojecten, wat zowel academische als sociale vaardigheden bevordert. Ouderbetrokkenheid is essentieel, met transparante toegang tot informatie over de activiteiten en vorderingen van hun kinderen, waardoor zij actieve partners worden in het educatieve proces.
+{{Opmaak|Voettekst}}

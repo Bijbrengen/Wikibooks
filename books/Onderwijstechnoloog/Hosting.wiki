@@ -1,80 +1,31 @@
 {{Opmaak}}
-== Onderwijschain ==
-In een wereld die snel transformeert door technologische vooruitgang, begint ons verhaal met een groep aspirant onderwijstechnologen. Ze zijn verzameld om de mysteries van blockchain-technologie te ontrafelen, gedreven door de wens om te leren, te groeien en deze kennis toe te passen in het onderwijs.
+De onderwijstechnoloog is verantwoordelijk voor het fundament van het [[Onderwijsplatform|Onderwijsplatform]]. Dit omvat de hosting, beveiliging en schaalbaarheid van de digitale leeromgeving.
 
-Hun reis start met de verkenning van cryptografie, een essentiële pijler van digitale beveiliging. Ze duiken in de wereld van digitale handtekeningen en de Public Key Infrastructure, leren over het belang van hashing en encryptie, en verkennen de unieke aard van cryptocurrency hash codes. Deze kennis legt het fundament voor hun verdere avonturen in blockchain.
+== De Onderwijsserver ==
+Een eigen onderwijsserver biedt de ultieme [[Leertaal/Vrijheid|vrijheid]] om het platform in te richten volgens de specifieke behoeften van de [[Leertaal|leertaal]].
 
-Naarmate hun begrip groeit, betreden ze het rijk van blockchain. Ze verkennen waarom deze technologie zo cruciaal is, leren de sleutelbegrippen en begrijpen het onderscheid tussen traditionele databases en blockchain. Ze zijn geboeid door de concepten van gedistribueerde netwerken en het gedistribueerde grootboek, die de basis vormen van deze baanbrekende technologie. De aspirant onderwijstechnologen verdiepen zich in de structuur van blockchain, zijn ecosystemen, en de werking van zowel toestemmingsgebonden als toestemmingsvrije blockchains.
+=== Componenten van de Server ===
+* '''Webserver''': Apache of Nginx vormt de ruggengraat voor de ontsluiting van de [[Leertaal/Leerbox|Leerboxen]].
+* '''Databases''': MariaDB, PostgreSQL of MongoDB voor de opslag van leerdata en resultaten.
+* '''Runtime Environments''': PHP voor webapplicaties, [[Onderwijswiki/Lua|Lua]] voor wiki-modules en Java voor specifieke educatieve tools.
+* '''Versiebeheer''': Gebruik van Git en GitHub om de architectuur van het platform transparant en deelbaar te maken.
 
-Vervolgens verschuift hun aandacht naar Bitcoin. Ze ontdekken de fascinerende geschiedenis van deze eerste cryptocurrency en debatteren over de redenen voor het gebruik ervan. De groep leert over het kopen, opslaan, uitgeven en verkopen van bitcoins, en verkent de complexiteit van Bitcoin-transacties. Ze buigen zich over de scriptingtaal van Bitcoin en de verschillende rollen binnen het Bitcoin-ecosysteem.
+== Moderne Technologieën ==
+=== Blockchain in het Onderwijs ===
+Blockchain biedt mogelijkheden voor een gedecentraliseerd onderwijsmodel:
+* '''Certificering''': Veilig en onvervalst vastleggen van diploma's en resultaten (bijv. via Blockcerts).
+* '''Zelf-soevereine Identiteit''': De leerder heeft volledige controle over zijn eigen digitale identiteit en resultaten.
 
-Ethereum vormt het volgende focuspunt. Ze verkennen wat Ethereum en Ether zijn, duiken in het ecosysteem en leren over DApps en DAOs. De groep onderzoekt hoe Ethereum mining werkt en krijgt een introductie in Solidity, essentieel voor het begrijpen van smart contracts.
+=== Standaarden voor Interoperabiliteit ===
+De server moet standaarden ondersteunen om de uitwisseling van de [[Leertaal/Leerbox|Leerbox]] mogelijk te maken:
+* '''SCORM / cmi5''': Traditionele standaarden voor e-learning content.
+* '''xAPI''': De moderne standaard voor het vastleggen van leerervaringen in een LRS.
+* '''LTI''': Voor de integratie van externe leermiddelen.
 
-Naarmate het verhaal zich ontvouwt, bestuderen ze praktische toepassingen van blockchain. Ze onderzoeken casestudies in verschillende sectoren zoals het bankwezen, landregistratie, kapitaalmarkten en verzekeringen. Ze leren hoe blockchain corruptie kan bestrijden en worden geïnspireerd door de potentiële toepassingen voor de overheid.
-
-Terwijl hun pad eindigt, staan de aspirant onderwijstechnologen klaar om de opgedane kennis en inzichten toe te passen in het onderwijs. Gewapend met een diep begrip van blockchain, zijn ze voorbereid om een belangrijke rol te spelen in het integreren van deze technologie in onderwijs- en leerprocessen. Hun reis, hoewel afgesloten, markeert het begin van vele nieuwe avonturen in de wereld van digitale en onderwijstechnologie.
-
-ls het pad van de aspirant onderwijstechnologen zich uitstrekt naar specifieke aspecten en toepassingen. Ze onderzoeken diverse elementen, elk met zijn eigen relevantie en potentieel binnen het onderwijsveld.
-
-Ze beginnen met de basis: het typische grootboekitem in een blockchain. Dit biedt inzicht in hoe transacties worden opgeslagen en vastgelegd, cruciaal voor het begrijpen van gedigitaliseerde educatieve processen. De groep verdiept zich vervolgens in het consensusmechanisme, essentieel voor het valideren van informatie op een gedecentraliseerde manier.
-
-De eenvoudige structuur van een blockchain wordt bestudeerd, evenals de methode voor het ondertekenen van een transactie. Deze kennis helpt hen te begrijpen hoe beveiligde en verifieerbare transacties functioneren, een kernaspect in educatieve toepassingen zoals het uitreiken van certificaten.
-
-Ze richten zich op specifieke use-cases van blockchain in het onderwijs, waaronder het beheer van zelf-soevereine identiteiten. Dit concept, waarbij individuen controle hebben over hun digitale identiteiten, is van grote waarde in onderwijsomgevingen. De aspirant onderwijstechnologen verkennen de creatie en architectuur van zelf-soevereine identiteiten, ondersteund door bronnen zoals Christopher Allen's werk en relevante webpagina's.
-
-De groep bestudeert de verschillende elementen van zelf-soevereine identiteiten en hun implicaties voor het onderwijs. Dit sluit aan bij de bespreking van de 'Science for Policy report by the JRC', die licht werpt op beleidsmatige aspecten van dergelijke technologieën.
-
-Ze verkennen de open aspecten van blockchain-technologie, zoals open badges en certificaten. De groep raadpleegt verschillende bronnen, waaronder artikelen over het uitgeven van blockchain-beveiligde certificaten en de anatomie van digitaal ondertekende documenten.
-
-Specifieke platforms zoals Blockcerts trekken hun aandacht. Ze bestuderen het proces achter Blockcerts en hoe dit platform kan worden gebruikt voor het uitgeven van onderwijskwalificaties en certificaten. De links naar MIT's digitale diploma's, de Federation of State Medical Boards en de Republiek Malta bieden praktijkvoorbeelden van hoe deze technologie wordt toegepast.
-
-OpenBlockchain en OpenLearn Blockchain Badges Demo, evenals Moodle-plugins van de Open Universiteit, worden onderzocht als onderdeel van de verkenning van hoe blockchain-technologie geïntegreerd kan worden in bestaande onderwijssystemen en -platforms.
-
-Deze diepgaande verkenning stelt de aspirant onderwijstechnologen in staat om de veelzijdige toepassingen van blockchain in het onderwijs te begrijpen. Ze verlaten deze leerervaring met een rijkdom aan kennis, voorbereid om innovatieve oplossingen te integreren in onderwijsontwerp en -technologie. Hun reis symboliseert de groeiende synergie tussen technologie en onderwijs, een samensmelting die essentieel is voor de toekomst van leren.
-
-== Onderwijsserver ==
-Naarmate de aspirant onderwijstechnologen zich verder verdiepen in de integratie van technologie in het onderwijs, beseffen ze het belang van het kunnen opzetten en beheren van een onderwijsserver. Deze vaardigheid is cruciaal, niet alleen om controle te hebben over de gebruikte technologieën, maar ook om een op maat gemaakte, effectieve en veilige leeromgeving te creëren.
-
-Een onderwijsserver inrichten begint met het begrijpen van webservers, zoals Apache. Apache, als een robuuste en veelzijdige webserver, vormt de ruggengraat voor veel educatieve platforms. Kennis hiervan stelt hen in staat om servers te configureren voor optimale prestaties en toegankelijkheid.
-
-Github speelt een belangrijke rol in dit proces. Het is een platform waarop ze samenwerkingsprojecten kunnen beheren, broncode kunnen delen en de ontwikkeling van educatieve applicaties kunnen volgen. Het gebruik van Github bevordert een open en collaboratieve aanpak in de ontwikkeling van educatieve technologie.
-
-De behoefte aan programmeerkennis wordt benadrukt met PHP, een populaire scripttaal voor het ontwikkelen van dynamische webpagina's en applicaties. PHP maakt interactieve en boeiende leerinhouden mogelijk, iets wat essentieel is in modern onderwijs.
-
-Databases zijn het hart van elke server. Kennis van databasesystemen zoals MariaDB, PostgreSQL en MongoDB stelt de onderwijstechnologen in staat om complexe data efficiënt te beheren en toegankelijk te maken voor onderwijsdoeleinden.
-
-Java, als een veelzijdige programmeertaal, is belangrijk voor de ontwikkeling van interactieve educatieve tools en applicaties. Java biedt de stabiliteit en flexibiliteit die nodig zijn voor complexe onderwijsapplicaties.
-
-De server moet ook ruimte bieden voor collaboratieve en kennisdelende platforms zoals Wiki's, met MediaWiki als een populair framework. Dit stelt leerlingen en docenten in staat om samen te werken aan kenniscreatie en -distributie.
-
-Een Virtual Learning Environment (VLE) zoals Moodle is essentieel voor het creëren van een interactieve, gestructureerde en toegankelijke online leeromgeving. Moodle biedt de flexibiliteit en de tools om een breed scala aan leeractiviteiten te ondersteunen.
-
-ePortfolio-systemen zoals Mahara integreren in de serveromgeving benadrukt de focus op leerlinggericht onderwijs, waarbij studenten hun leertrajecten en prestaties kunnen documenteren en reflecteren.
-
-Educatieve spellen zoals Minecraft bieden een unieke, interactieve leerervaring. Het hosten van Minecraft op de onderwijsserver biedt mogelijkheden voor creatieve en betrokken leermethoden.
-
-Ten slotte is het beheersen van de directorystructuur van een onderwijsserver essentieel voor het efficiënt organiseren van bestanden en toepassingen, wat zorgt voor een gestroomlijnde en effectieve onderwijsomgeving.
-
-De aspirant onderwijstechnologen begrijpen dat het kunnen inrichten en beheren van een onderwijsserver hen in staat stelt om een rijke, interactieve en veilige leeromgeving te creëren. Deze vaardigheden zijn fundamenteel om de mogelijkheden van technologie volledig te benutten in de steeds evoluerende wereld van het onderwijs.
-
-== Onderwijstaal ==
-Na het opzetten van de onderwijsserver richten de onderwijstechnologen zich op het verdiepen in de onderwijstaal, essentieel voor het ontwikkelen van effectieve leerplatformen. Dit houdt in dat ze inzicht verwerven in onderwijsstandaarden en hoe technologie de menselijke cognitie beïnvloedt, evenals de fundamenten van machine learning en neurale netwerken.
-
-# '''Onderwijsstandaarden''':
-## ''SCORM (Sharable Content Object Reference Model)'': Een verzameling standaarden en specificaties voor webgebaseerd e-learning. SCORM zorgt voor interoperabiliteit tussen e-learningcontent en leerbeheersystemen.
-## ''xAPI (Experience API)'': Een standaard voor het verzamelen van data over de brede ervaringen van leerlingen, zowel online als offline.
-## ''cmi5'': Definieert een methode om de inhoud van leermodules te importeren en te lanceren, waarmee de beperkingen van SCORM worden overwonnen.
-## ''LRS (Learning Record Store)'': Een dataopslag die leerervaringen opslaat, die zijn verzameld via de xAPI-standaard.
-# '''Human-computer Interaction & Brain''':
-#* ''Interactie mens-computer'': Onderzoeken hoe mensen omgaan met computers en hoe deze interacties geoptimaliseerd kunnen worden voor effectief leren.
-#* ''Brein en Computer'': Bestuderen van de componenten van het brein, kennisbases en redeneringssystemen om beter te begrijpen hoe menselijke cognitie de interactie met technologie beïnvloedt.
-# '''Machine Learning & Redeneringssysteem:'''
-#* ''Machine Learning Basis'': Leren hoe een computerprogramma ervaring kan gebruiken om zijn prestaties te verbeteren in specifieke taken, door begrip van concepten als lineaire algebra, signaalverwerking, en neurale netwerken.
-#* ''Leerbenaderingen'': Bestuderen van zowel supervised als unsupervised learning, evenals de rol van leerdata en leeranalytics.
-# '''Neurale Netwerken''':
-#* ''Fundamenten van Neurale Netwerken'': Begrijpen wat neurale netwerken zijn en hoe ze leren, inclusief concepten als gradient descent en backpropagation.
-#* ''Toepassingen van Neurale Netwerken'': Verkennen van diepgaand leren en hoe dit toegepast kan worden in het onderwijs.
-
-Deze studie richt zich niet alleen op het begrijpen van technische concepten, maar ook op hoe deze kunnen worden toegepast om leren te verbeteren. Door deze gebieden te verkennen, worden de onderwijstechnologen uitgerust met de nodige kennis om geavanceerde leeroplossingen te ontwerpen en te implementeren die zowel effectief als boeiend zijn.
+== Management van het Platform ==
+Hosting gaat verder dan alleen de techniek; het gaat om het beheer van de gehele architectuur. De technoloog zorgt voor:
+# '''Beveiliging''': Beschermen van persoonsgegevens en de integriteit van de leeromgeving.
+# '''Performance''': Zorgen dat de [[Onderwijswiki/View|View]] snel en soepel laadt voor de leerder.
+# '''Onderhoud''': Updaten van libraries en frameworks om de stabiliteit te garanderen.
 
 {{Opmaak | Voettekst}}

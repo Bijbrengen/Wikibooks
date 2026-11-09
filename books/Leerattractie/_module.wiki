@@ -1,0 +1,12 @@
+{{Opmaak
+| Object = Boek
+| Bron = EPCOT - panoramio (7).jpg
+| Collectie = Leerpretpark
+| Definitie = Een '''leerattractie''' is een leeromgeving waarin het [[leren]] effectief is en intrinsiek motiverend werkt. 
+| Beschrijving = De term leerattractie is een metafoor voor [[Learngames|leergames]] of bezienswaardigheden binnen een [[Leerpretpark|pretpark]] over leren, waar leerprocessen als thematische attracties gepresenteerd worden. Een leerattractie dient zowel de aantrekkelijkheid van leerinhoud en werkvormen als de effectiviteit, efficiëntie en retentiewaarde van het leerproces te garanderen. In dat geval spreekt men ook wel van een leerpretattractie. Als verschillende leerpretattracties samen op 1 locatie met elkaar optrekken om zo bezoekers de gelegenheid te bieden een bij hen passende leersensatie te ervaren, dan spreekt men van een [[leerpretpark]].
+| Formaat = html
+| Voortgang = 5
+| Support = 
+| Referentie = wikipedia
+| Onderdeel = Inleiding, Attractie, Leerpret, Scan
+}}

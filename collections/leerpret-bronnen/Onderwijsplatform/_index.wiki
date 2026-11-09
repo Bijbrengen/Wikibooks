@@ -7,7 +7,7 @@
 | Formaat = html
 | Voortgang = 0
 | Collectie = Onderwijs en opleiding
-| Onderdeel = Onderwijs&shy;wiki, E-coach, Onderwijstaal
+| Onderdeel = Onderwijs&shy;wiki, E-coach, Leertaal
 | Support = Signaleer
 | Referentie = wikipedia
 }}

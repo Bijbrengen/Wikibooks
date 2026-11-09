@@ -1,0 +1,13 @@
+{{Opmaak
+| Titel = Onbewust leren
+| Object = Boek
+| Bron = Unconscience learning.png
+| Definitie = {{Wp|Onbewust_leren|Onbewust leren}} is de natuurlijke manier waarop mens en dier leren. Men leert, maar men weet niet hoe, het gaat vanzelf, je hebt het niet door. 
+| Beschrijving = Er is sprake van onbewust leren als er sprake is van een leerproces die de lerende niet is gestart door een wilsdaad, niet beseft, niet kan sturen en geen moeite kost.<br>Het verschil met bewust leren is dat daarin het leren zelf wordt beschouwd; {{Wp|metacognitie|metacognitie}} of denken over denken of leren over leren.<br>Om de kracht van het onbewuste optimaal in het leren te gebruiken is het advies om '''bewust onbewust te leren'''.
+| Formaat = html
+| Voortgang = 15
+| Support = Signaleer
+| Referentie = wikipedia
+| Collectie = Leren
+| Onderdeel = Onbewust, Zelfbewust, Welbewust, Leerstof
+}}

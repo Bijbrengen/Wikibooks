@@ -1,0 +1,19 @@
+{{Opmaak}}
+Een onderwijstechnoloog is niet slechts een ICT-beheerder; hij of zij is de vertaler van pedagogisch ontwerp naar technische realiteit. Om dit effectief te kunnen doen, is kennis van de [[Leertaal|leertaal]] essentieel.
+
+== Realisatie ==
+In de serie [[Leertaal|Leertaal]] wordt beschreven '''wat''' er nodig is voor een krachtige leeromgeving. De onderwijstechnoloog beantwoordt de vraag '''hoe''' dit platform technisch wordt gerealiseerd. 
+* '''[[Leertaal/Vrijheid|Vrijheid]]''': Hoe bouwen we een systeem dat flexibel genoeg is voor individuele leerpaden?
+* '''[[Leertaal/Conversie|Conversie]]''': Hoe zetten we bestaande data om naar een formaat dat de [[Leertaal/Leerbox|Leerbox]] begrijpt?
+* '''[[Leertaal/Toepassing|Toepassing]]''': Welke API's zijn nodig om de leermiddelen te ontsluiten?
+
+== Leertaal ==
+Een [[Leertaal|leertaal]] kan worden gebruikt om het leren te beschrijven. Voor de onderwijstechnoloog betekent dit:
+* '''Parsers bouwen''': Het kunnen inlezen van taaldefinities om de [[Leertaal/Leerbox|Leerbox]]-structuur te genereren.
+* '''Data-integriteit''': Controleren of de pedagogische regels correct worden vertaald naar database-schema's.
+* '''Automatisering''': Gebruik van [[Onderwijswiki/Scribunto|Scribunto]] om dynamische content te genereren op basis van taalparameters.
+
+== Architectuur ==
+De technoloog gebruikt de [[Onderwijswiki/Architectuur|Architectuur]] van de onderwijswiki om bouwstenen te creëren die herbruikbaar zijn. Hierdoor wordt het platform meer dan een verzameling bestanden; het wordt een levend systeem dat meegroeit met de behoeften van de [[Onderwijsplatform/Leerder|leerder]].
+
+{{Opmaak | Voettekst}}

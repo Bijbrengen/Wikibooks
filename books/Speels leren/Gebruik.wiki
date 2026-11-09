@@ -1,0 +1,107 @@
+{{Opmaak}}
+Speels leren is de realistische vertaling van [[vrij leren]]. Binnen de spelregels van onze samenleving, het spelbord van onze leefomgeving en rekening houdend met de spelers - onze medemensen - kun je onbelemmerd je gang. Bewust speels leren kan je helpen om te leren leren. Leren zelf de regie over je leren te nemen, is namelijk een noodzakelijkheid om daadwerkelijk vrij te kunnen zijn in het spelen en het leren; zelfgestuurde ontdekking door gestuurde zelfontdekking.
+
+== Leeraspecten ==
+Speels leren laat de lerende vrij om zijn eigen interesses te volgen, te onderzoeken en te ontdekken vanuit de eigen passie en niet die van een onderwijsgevende. Wat kenmerkt deze wijze van leren en waarom sluit dit beter aan bij de voorkeuren van de lerende?
+=== Leerkenmerken ===
+* Speels leren is leren door te doen, een methode van leren met een hoge [[Leren leren/Kwaliteit|kwaliteit]].<ref>Sousa, D.A. (2006). ''How the brain learns''. Corwin Press.</ref>
+* Speels leren doet een beroep op samenwerken en participatie<ref>Van Den Berg, F. Hoe neem je de leiding?. kinderopvang 27, 8–10 (2017). https://doi.org/10.1007/s41189-017-0091-0</ref>. Het kan worden gestimuleerd door interessante onderwerpen en aantrekkelijke onderwijsmaterialen die uitdagen om zelf je leefwereld te gaan verkennen<ref>Catherine E. Snow. [https://www.proleer.org/images/CSnow_Curriculum.pdf Curriculum: The secret ingredient in early childhood program quality?] Harvard Graduate School of Education.</ref>.
+* Speels leren is niet hetzelfde als [[w:Gamification|gamification]]. Het verschil zit erin dat speels leren betekent dat je zelf het spel mag kiezen (vorm van [[vrij leren]]) om een eigen leerwens te bereiken en dat zijn bij gamification geen vereisten. 
+* Bij speels leren onderga je niet onbewust een aangeboden leerproces (je speelt en [[Leren/Onbewust_leren|leert onbewust]] van alles). Speels leren betekent dat je zelf iets wilt leren en bewust je leermotivatie aanwakkert door een bepaald spel te kiezen of te [[Ontwerpend leren|ontwerpen]]. Je bent niet overgeleverd, maar je neemt het roer en kiest spel als effectief middel om hetgeen te leren wat jij wenst.
+* In speels leren zijn de spelregels en de activiteiten betekenisvol (leeractiviteiten) voor de speler in het licht van een duidelijk [[Leren leren/Doel|leerdoel]]<ref>K. Salen en E. Zimmerman, Rules of Play: Game Design Fundamentals, MIT Press, 2003.</ref>. 
+* In speels leren is er voldoende ruimte binnen het spelontwerp om zelf betekenis te geven aan het spel vanuit eigen ervaringen en voorkeuren.
+* Het speels leren sluit aan bij wensen vanuit de samenleving en cultuur van de speler qua impact op de ontwikkeling en boodschap.
+* Leren is toekomstgericht en we kunnen die hooguit voorspellen. Bij speels leren betekent dit bijvoorbeeld dat je niet op voorhand wie er wint. Competitie maakt het spel leuk en spannend, emoties die het leren bevorderen. Verliezen leer je meer van dan winnen. Dit competitie aspect is een onderscheidende verschil tussen spelen (game) en nabootsen (simulatie).
+* Speels leren zonder zelfreflectie ([[onbewust leren]]) gedurende het leerspel kan het leren vergemakkelijken omdat er niet teveel afleidende focus is op het leerdoel en het leerproces.<ref>Kuhl, J. en Kraska, K. (1989). Self-regulation and metamotivation: Conceptual mechanisms, development, and assesment. In R. Kanjer, P.L. Ackerman en R. Cudeck (Eds.), Abilities, motivation, and methodology (pp 343-368). Hilssdale, NJ: Erlbaum.</ref>
+
+=== Leerstijl ===
+Speels leren kan zorgen dat we beter aansluiten bij de leerstijlen van de huidige generatie<ref>Marc Prensky, Digital Game-Based Learning (McGraw-Hill, 2001)</ref>:
+* '''Twitch Speed vs. Conventional Speed''': Versnelling bij de verwerking van informatie, wisselingen in het tempo. Geen ‘standaard kruissnelheid’, maar versnellen en vertragen. 
+* '''Parallel Processing vs. Linear Processing''': Meer dingen tegelijkertijd doen. 
+* '''Random Access vs. Step-by-Step''': ervaringen opdoen door wat door te clicken. Men heeft op internet ervaren dat er meer dan één weg is die naar Rome leidt. 
+* '''Graphics First vs. Text First''':  Vroeger ging het om de tekst met daarbij de illustraties. Dat is nu omgekeerd. Eerst de plaatjes, de rol van de tekst is dan om toe te lichten wat er in de plaatsjes afgebeeld wordt.
+* '''Connected vs. Stand alone''': “connected” zijn tegen “nul” kosten. Als ik het niet zelf weet, vraag ik even iemand in mijn netwerk hoe ik het moet oplossen: bijvoorbeeld even met de mobiel navragen. 
+* '''Active vs. Passive''': niet eerst een manual lezen. 
+* '''Play vs. Work''': spreekt voor zich. 
+* '''Play-off vs. Patience''': als je wat doet, je inzet levert en speeluren maakt moet dat eigenlijk onmiddellijk een beloning opleveren ("next level"). 
+* '''Fantasy vs. Reality''':  fantasie elementen en een eigen invulling geven aan bepaalde situaties. 
+* '''Technology as Friend vs. Technology as Foe''': communicatietechnologie is met de paplepel ingegoten. Een vanzelfsprekendheid.
+
+== Leerarchitectuur ==
+=== Gepersonaliseerd leren ===
+[[File:Technics.svg|thumb|Technics of an education design server for games]]
+Het gepersonaliseerd leren komt de laatste tijd sterk op; het bieden van unieke, op individuele  leerlingen toegespitste leerprocessen. Hierbij staat voorop het afstemmen van de inhoud op de  leerling. Echter het afstemmen van de vorm van het onderwijs is nog een niche. Het  ontwerpen van goed onderwijs is tijdrovend, saai en moeilijk. Met de inzet van IT ([[onderwijstechnoloog]]) kan men het bouwen van een eigen onderwijsarchitectuur (leerarchitectuur) snel, eenvoudig en leuk maken. Door het bouwen van onderwijs met IT te ondersteunen, hoeft de gebruiker via de interface  van het programma alleen het stuur, het besturingspaneel en de pedalen te bedienen. De  mechanic van onderwijsarchitectuur blijft onder de motorkap. Door gaming kan deze  bediening aantrekkelijk en uitnodigend worden gemaakt. De bediening zoals die bij Minecraft  aangevuld met die van SimCity, lijkt hiervoor geschikt.
+
+=== Technieken ===
+Moderne technieken die hierbij kunnen worden ingezet zijn [[w:Blockchain|blockchain]], [[w:Kunstmatige_intelligentie|kunstmatige intelligentie (AI)]] en [[w:Big_data|Big Data]]. Onderwijsinzichten zouden open en gedeeld dienen te worden ("delen is vermenigvuldigen"). Dit kan door gegevensuitwisseling en verificatie van onderwijsarchitecturen door middel van consensus. Blockchain technologie biedt bijvoorbeeld die mogelijkeden. Over het bouwen van onderwijsarchitectuur is al veel bekend. Voor een automobilist is het  niet nodig om te weten hoe een auto precies werkt. Als [[onderwijsarchitect]]en hun kennis over “goed”  onderwijs (een hoge [[Leren/Leren_leren#Kwaliteit|kwaliteit van leren]]) vertalen naar expertregels kan kunnen deze door een onderwijstechnoloog worden uitgedrukt in computer algoritmes. De gebruiker van het programma heeft zo altijd en overal de steun van een artificial onderwijsarchitect. Op het moment dat veel gebruikers veel onderwijsontwerpen delen, kan men (of de AI) die Big Data  analyseren en daaruit lering trekking. Deze nieuwe expertregels worden meteen statistisch  onderbouwd. Zo kan men wetenschappelijk onderwijsonderzoek met hulp van IT toepassen. Nog een stap verder gaat het als we een blockchain inrichten als [[Onderwijstechnoloog/Praktijk#Neurale_blockchain|neuraal lerend netwerk]]. 
+
+Het ontwikkelen van deze expertregels en intelligentie gaat eerst door gebruikers vooraf of tijdens de game een gedegen gedragstest(profieltest) voor te leggen en die te vergelijken met het spelgedrag. Als blijkt dan de correlatie tussen bepaald spelgedrag en persoonlijke gedragskenmerken in het algemeen, dan hoeft men een gedragstest niet meer toe te passen en leert het systeem de gebruiker voldoende kennen door zijn spel te analyseren. Vanuit dit leren kennen, kan het systeem de gebruiker om maat adviseren bij het inrichten van het eigen leren.
+
+== Leerblokken ==
+=== Leerhackathon ===
+In een [[w:Hackathon|hackathon]] "Hack het onderwijs" bedachten ICT-ers maar vooral de ook aanwezige jonge kinderen samen een spel waarin men het eigen leren leuk, snel en deskundig kan inrichten. Ze kwamen daarbij tot de volgende overwegingen
+* Leerdoelen moeten bewerkbaar zijn.
+* Er moet interactie zijn tussen bouwers. Samen bouwen.
+* Spelers moeten leren om onderwijs te ontwerpen door gewoon het spel te spelen.
+* Game-setup als een RPG
+* Spel moet vooral leuk zijn.
+* Er moeten verschillende thema's zijn
+* Het moet objectief zijn
+* Spelers moeten elkaar kunnen onderwijzen
+* Je zou andere spelers moeten kunnen vinden op basis van hun vaardigheden
+* Er moeten verschillende vaardigheidsniveaus zijn
+* Avatars
+* Hun zou een handelssysteem moeten zijn
+* Peer naar peer
+* Er moeten visuele selectie-opties zijn
+* Het spel moet adaptief zijn
+* Het oplossen van problemen moet vooruitgang opleveren
+* Er zouden minigames in het spel moeten zijn
+* Je zou tussen werelden moeten kunnen reizen
+* Er moet een open wereld zijn
+* Allianties kunnen worden gevormd
+* Collectible items om dingen te bouwen
+* Energiezuinig transport
+* Kies je eigen vaardigheden
+* Vervoer tussen werelden
+* De game moet actie-elementen hebben
+* Vaardigheidsboost met het verkennen van nieuwe vaardigheden
+* Je moet altijd iets te doen hebben
+* Geen agressie
+* De game moet humoristisch en cartoonachtig zijn
+* Spelers moeten kunnen communiceren via tekst / spraak
+* Er moeten sporten beschikbaar zijn in het spel (behendigheid etc.)
+* Het moet mogelijk zijn om andere spelers te bespotten (overwinningsdansen, enz.)
+* Grappige K.O.'s
+
+=== Onderdelen ===
+Dit werd vertaald naar de volgende game onderdelen
+* '''Advertentie''': Sponsors kunnen worden beloond met een plaats in het spel. Bijvoorbeeld op billboards in het spel, of als popups in bepaalde menu's, banners en in de wikipagina's. 
+* '''Uitdaging''': Elk (leer) doel wordt omgezet in een game-uitdaging. De producten van de game challenge kunnen worden opgeslagen in het portfolio. Een uitdaging kan worden verdedigd door de speler (bewijs en bewijsvoering) en wordt beoordeeld door andere speciale spelers (rechters)
+* '''Sfeer''': De sfeer moet passen bij het soort leren dat de gebruiker wil. Als de gebruiker bijvoorbeeld kiest voor een natuurlijke manier van leren, moet de omgeving in de game dit weerspiegelen (de natuur).
+* '''Lokalisatie''': De talen die zijn geïnstalleerd zijn Engels, Nederlands en Spaans.
+* '''Platformen''': de applicatie moet op een website, als mobiele app of als zelfstandige app draaien.
+* '''Rollen''': de speler kan tenminste de rol van leerling, leraar, ontwerper of schoolleider op zich nemen. Speciale spelersrollen zijn rechter.
+* '''Verhaal''': Elk persoonlijk spelverhaal van een speler bevat een reflectie en het begin en de ontwikkeling van zijn concepten, talenten en passies.
+* '''Onderbouwing''': De prestatie van het spel kan worden ondersteund door verschillende soorten bronnen (referenties, wetenschappelijke artikelen, boeken, citaten).
+* '''Themepark''': De totale game-omgeving moet een amusement- of themapark zijn.
+* '''Bezoeker''': wanneer de speler een ander virtueel park of attractie bezoekt of een bezoeker de virtuele attractie van de speler gebruikt, verdient de speler punten. Wanneer de speler een (sponsor) educatieplek in de echte wereld bezoekt, de verstrekte informatie leest en enkele vragen correct beantwoordt, verdient hij per bezoek veel meer punten.
+
+=== Functionaliteiten ===
+en de volgende functionaliteiten
+* '''Alliantie''': de game moet het vormen van een alliantie met anderen in dezelfde bepaalde doelgroep bevorderen bij het ontwerpen van een soort leren.
+* '''Architectuur''': Het ontwerpen van regio's (soort onderwijs) in het park moet vergelijkbaar zijn met Sims. De speler mag vrijelijk een attractie / gebouw (de organisatie van het leerproces) en zijn componenten / kamers (een bepaalde modus van het leerproces) ontwerpen. Het park weerspiegelt een bepaalde school. Meerdere soorten parken moeten dus mogelijk zijn. De aantrekkingskracht van het gebouw wordt bepaald door de onderwijsbouwmotor en blijkt uit de belichting van de attractie.
+* '''Veroveren''': wanneer een speler een ontwerpverbetering heeft op een bestaande attractie of park ontworpen door een andere speler - geëvalueerd door de educatieve game-ontwerpengine - kan hij alle punten die verband houden met het verbeterde ontwerp voor zichzelf overwinnen.
+* '''Diagnostiek''': De speler kan punten verdienen door een test uit te voeren voor andere spelers. Andere spelers kunnen punten verdienen door te slagen voor een test. De kwaliteit en daarmee de punten van de toets wordt bepaald door statistieken van de onderwijsontwerpmotor.
+* '''Ontdekking''': deze game bevordert ontdekkingsleren; dus de speler leert alle concepten rond het bouwen van onderwijs door simpelweg te verkennen en te doen.
+* '''Editor''': Leer-, project- en persoonlijke doelen dienen ingevoerd te worden door een validerende editor die ervoor zorgt dat deze doelen SMART genoeg gedefinieerd zijn.
+* '''Niveaus''': Wanneer een speler genoeg punten verdient door te ontwerpen, worden zijn of haar rechten / mogelijkheden verbeterd, zodat hij meer vrijheid heeft om meer complexe of uitgebreidere (schoolplannen) onderwijsontwerpen te ontwerpen. Op deze manier wordt de speler getraind in educatief ontwerpen.
+* '''Lokalisatie''': De talen die zijn geïnstalleerd zijn Engels, Nederlands en Spaans.
+* '''Logica''': De speler verdient punten door zijn of haar leerproces te ontwerpen dat afhangt van de kwaliteit van het ontwerp, zoals bepaald door een educatieve ontwerpengine (samengesteld programma). De commando's van deze engine zijn ontworpen als een nieuwe (educatieve) scripttaal. * '''Platformen''': de applicatie moet op een website, als mobiele app of als zelfstandige app draaien.
+* '''Rollen''': de speler kan tenminste de rol van leerling, leraar, ontwerper of schoolleider op zich nemen. Speciale spelersrollen zijn rechter, architect en beheerder.
+
+== Bronnen ==
+=== Referenties ===
+<references/>
+
+{{Opmaak | Voettekst}}

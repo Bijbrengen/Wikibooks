@@ -1,35 +1,22 @@
 {{Opmaak}}
-Een onderwijstechnoloog is iemand die kennis heeft van informatietechnologie en die gebruikt kan worden om onderwijs te verbeteren en leerprocessen te vergemakkelijken. Ze kunnen de technologie gebruiken om leermateriaal te ontwerpen, digitale lessen te creëren, leeromgevingen te ontwikkelen en leerervaringen te verbeteren.
+Een onderwijstechnoloog is de architect en beheerder van een [[Onderwijsplatform|Onderwijsplatform]]. In een moderne onderwijsomgeving gaat de rol van de onderwijstechnoloog verder dan het simpelweg ondersteunen bij ICT-gebruik; het is de persoon die de digitale infrastructuur ontwerpt waarin het leren plaatsvindt. 
 
-Onderwijstechnologen zijn waardevol voor de maatschappij omdat ze leerkrachten helpen om technologie effectief te gebruiken in het onderwijs. Ze helpen ook bij het ontwikkelen van nieuwe manieren om leerlingen te helpen hun leerdoelen te bereiken en leerprocessen te verbeteren. Onderwijstechnologen kunnen ook helpen bij het ontwikkelen van technologie om leerlingen te helpen hun leerdoelen te bereiken, bijvoorbeeld door interactieve leeromgevingen te creëren en digitale leeromgevingen te ontwikkelen.
+De kernopdracht van de onderwijstechnoloog is het implementeren van een [[Leertaal|leertaal]] om leerdoelen en processen om te zetten in werkende systemen. Hierbij staat de [[Leertaal/Leerbox|Leerbox]] centraal als het standaardformaat voor de uitwisseling en presentatie van leermiddelen.
 
-Hosting, Onderwijs en Ontwerp zijn kernvaardigheden die een onderwijstechnoloog dient te beheersen. Hosting verwijst naar het beheren en beschikbaar stellen van digitale leerplatformen. Onderwijs behelst de kennis van didactische methoden en leertheorieën. Ontwerp focust op het creëren van effectieve en aantrekkelijke leerervaringen, gebruikmakend van technologische hulpmiddelen.
+Hosting, Onderwijs en Ontwerp zijn de kernvaardigheden. Hosting verwijst naar het beheren van de servers en platforms die de [[Leertaal/Leerbox|Leerbox]] ontsluiten. Onderwijs behelst de kennis van didactische methoden die vertaald moeten worden naar algoritmes. Ontwerp focust op de [[Onderwijswiki/Architectuur|Architectuur]] van het platform om [[Leertaal/Vrijheid|vrij leren]] technisch mogelijk te maken.
 
-In de hedendaagse onderwijswereld is het essentieel dat onderwijstechnologen deze vaardigheden beheersen om kwalitatief hoogwaardige en toegankelijke educatieve ervaringen te kunnen bieden. Door deze competenties te integreren, kunnen ze innovatieve leertrajecten ontwikkelen die aansluiten bij de behoeften van moderne leerlingen.
+De onderwijstechnoloog moet zichzelf trainen in competenties die nodig zijn om met ICT een leerarchitectuur te creëren. Dit betekent: leren om leren te definiëren door middel van algoritmes.
 
-Een onderwijstechnoloog kan zichzelf trainen in competenties die nodig zijn om met ICT je zijn leerarchitectuur te creëren. Met andere woorden: leren om leren te definiëren door middel van algoritmes. Dit is mogelijk omdat ons brein uiteindelijk gewoon een neuraal netwerk is waarin neuronen samen berekenen hoe te reageren en te leren (verdere ontwikkeling van het neurale netwerk).
-
-De onderwijstechnoloog die zichzelf ontwikkelt, moet zich bewust zijn van diverse technologieën en concepten die van invloed zijn op het onderwijslandschap. Hier zijn enkele van deze onderwerpen en waarom ze belangrijk zijn:
-
-* '''Blockchain''': Deze technologie biedt een gedecentraliseerde en veilige manier om informatie op te slaan, wat nuttig kan zijn voor het beveiligen van onderwijsgegevens en -certificaten.
-* '''Certificates''': Certificaten zijn belangrijk voor het valideren en erkennen van leerprestaties en vaardigheden.
-* '''Ethereum''': Als platform voor blockchain-applicaties kan Ethereum worden gebruikt om educatieve toepassingen en certificeringssystemen te ontwikkelen.
-* '''Experience API (XAPI)''': Deze standaard helpt bij het vastleggen en opslaan van leerervaringen van verschillende bronnen, wat cruciaal is voor gepersonaliseerd leren en data-analyse.
-* '''Hash''': Belangrijk in de context van data-integriteit en beveiliging, wat essentieel is in educatieve technologieën.
-* '''IOTA''': Als een blockchain-alternatief, biedt IOTA mogelijkheden voor de onderwijssector, vooral in de context van Internet of Things (IoT) applicaties.
-* '''LRS (Learning Record Stores)''': Deze systemen bewaren leerervaringen die door XAPI worden vastgelegd, waardoor het volgen van de leerontwikkeling mogelijk is.
-* '''LTI (Learning Tools Interoperability)''': LTI bevordert de integratie van verschillende leertools en platforms, wat cruciaal is voor een naadloze leerervaring.
-* '''Learning Record Stores''': Belangrijk voor het beheren en analyseren van leerdata verzameld via verschillende bronnen.
-* '''Moodle''': Een populair open-source leermanagementsysteem dat veel wordt gebruikt in het onderwijs.
-* '''SCORM (Sharable Content Object Reference Model)''': Een reeks standaarden die zorgen voor compatibiliteit van e-learning content over verschillende systemen.
-* '''Sandbox''': Een experimentele omgeving waar onderwijstechnologen nieuwe tools en benaderingen kunnen testen.
-* '''Sharable Content Object Reference Model''': Zie SCORM.
-* '''Student Interaction Pyramid''': Een model dat de verschillende niveaus van studenteninteractie in online leeromgevingen beschrijft.
-* '''VLE (Virtual Learning Environment)''': Deze digitale platforms zijn cruciaal voor het leveren, volgen en beheren van online onderwijs.
-* '''Virtual Learning Environment''': Zie VLE.
-* '''XAPI (Experience API)''': Zie Experience API.
-
-Deze concepten en technologieën bieden een raamwerk voor onderwijstechnologen om innovatieve en effectieve leeroplossingen te ontwikkelen en te implementeren, wat cruciaal is voor hun professionele ontwikkeling en de vooruitgang van het onderwijsveld.
+Belangrijke technologieën en concepten voor de onderwijstechnoloog:
+* '''[[Onderwijsplatform|Onderwijsplatform]]''': De overkoepelende omgeving waarin alle componenten samenkomen.
+* '''[[Leertaal/Leerbox|Leerbox]]''': Het modulaire formaat voor leereenheden.
+* '''[[Leertaal/Declaratief|Declaratieve leertaal]]''': De declaratieve taal voor het beschrijven van leerpaden.
+* '''[[Onderwijswiki/Scribunto|Scribunto (Lua)]]''': Voor het bouwen van complexe logica binnen de wiki-omgeving.
+* '''LRS (Learning Record Stores)''': Voor het beheren en analyseren van leerdata via de Experience API (xAPI).
+* '''LTI (Learning Tools Interoperability)''': Voor de naadloze integratie van externe tools in het platform.
+* '''Moodle''': Een voorbeeld van een open-source platform dat vaak als basis dient.
+* '''Sandbox''': Een experimentele omgeving voor het testen van nieuwe algoritmes en ontwerpen.
+* '''Blockchain''': Voor het veilig en gedecentraliseerd vastleggen van certificaten en resultaten.
 
 == Waarde ==
 ICT kent een breed toepassingsdomein en vele mogelijkheden. Hoe wordt ICT concreet gebruikt in het onderwijs? Hoe kan men ICT gebruiken in het onderwijs? Hoe wordt ICT in de eindtermen opgevat? Waarom zou onderwijstechnologie gebruikt  moeten worden in ons onderwijs. Dat zijn vragen waarop dit boek een antwoord tracht te geven.
@@ -272,8 +259,4 @@ De volgende afkortingen worden in relatie met computer ondersteund onderwijs fre
 * ELE=Electronic Learning Environment=ELO=Elektronische Leeromgeving 
 * ICT=Information Communication Technology=ICT=Informatie-Communicatie Technologie 
 
-{{Opmaak
- | Voettekst
- | Referentie = *Mirande, M. De onstuitbare opkomst van de leermachine. Over de precaire verhouding tussen technologie en onderwijs in de periode 1925-2005, Van Gorcum, Assen, 2006.
-*Benjamin, T.L., A history of teaching machines, in: American Psychologist, 1988, vol. 43, nr. 9, pp. 703-712
-}}
+{{Opmaak | Voettekst}}

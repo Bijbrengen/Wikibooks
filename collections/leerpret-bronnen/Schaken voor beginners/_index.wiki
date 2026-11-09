@@ -3,7 +3,7 @@
 | Definitie = (Westers) [[w:Schaken|schaken]] is een strategisch spel oorspronkelijk uit India voor twee spelers dat wordt gespeeld op een tevoren gemarkeerd oppervlak.
 | Beschrijving = Beide spelers starten met zestien schaakstukken: 1 koning, 1 dame, 2 torens, 2 lopers, 2 paarden en 8 pionnen met als doel de koning van de tegenstander te veroveren door hem schaakmat te zetten.<br>'''Aangezien uitleggen een van de beste manieren van (schaken) leren is, bewijzen de schrijvers van dit boek vooral zichzelf een dienst.'''<br>SCHRIJF MEE!
 | Collectie = Schaken
-| Voortgang = 10%
+| Voortgang = 100
 | Onderdeel = Regels, Notatie, Tactiek, Stukken, Strategie, Verloop, Wedstrijd
 }}
 

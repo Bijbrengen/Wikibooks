@@ -1,0 +1,158 @@
+{{Opmaak}}
+== Koning ==
+De koning is het belangrijkste stuk. Hoewel hij niet veel aanvalskracht heeft, bepaalt hij het einde van de partij. In de opening en het middenspel moet de koning veilig staan, meestal achter een muur van pionnen na een rokade.
+{{Schaak/Bord2
+|left
+|
+|
+8 |rd|  |  |  |  |rd|kd|  |
+7 |pd|pd|pd|  |  |pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Een veilige koning na de korte rokade}}
+
+In het eindspel, wanneer de meeste zware stukken van het bord zijn, verandert de koning in een krachtig aanvallend stuk dat meehelpt pionnen te laten promoveren of de vijandelijke koning in de val te lokken.
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |kd|
+7 |  |  |  |  |  |  |pl|  |
+6 |  |  |  |  |  |  |kl|  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Een actieve koning helpt de pion promoveren}}
+
+== Dame ==
+De dame is het krachtigste stuk omdat zij de bewegingen van de toren en de loper combineert. Beginners maken vaak de fout om de dame te vroeg in het spel te brengen, waardoor de tegenstander haar kan aanvallen met lichtere stukken en tegelijkertijd zijn eigen positie kan verbeteren.
+
+De dame is zeer effectief in het uitvoeren van dubbele aanvallen (vorken), waarbij ze twee stukken tegelijk onder vuur neemt.
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |kd|  |  |  |  |  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |ql|  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |rd|
+   a  b  c  d  e  f  g  h
+|De dame geeft een vork op de koning en de toren}}
+
+== Toren ==
+Torens zijn het sterkst op open lijnen waar geen pionnen in de weg staan. Ze komen vaak pas laat in het spel tot hun recht. Wanneer twee torens op dezelfde lijn of rij staan, vormen ze een batterij.
+
+Een beruchte tactiek is de toren op de zevende rij (of tweede rij voor zwart), waar hij de vijandelijke pionnen kan ophalen en de koning kan insluiten.
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |kd|  |  |  |
+7 |rl|  |pd|pd|  |pd|pd|  |
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|De witte toren op de zevende rij valt de pionnen aan en sluit de koning op}}
+
+== Loper ==
+Als we spreken van een goede loper in het eindspel dan bedoelen we dat hij dezelfde kleur heeft als het veld waar je pion moet promoveren.
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |kd|  |  |  |  |oo|
+7 |  |  |  |  |  |  |xx|xx|
+6 |  |  |  |  |  |xx|  |xx|
+5 |  |  |  |  |xx|  |  |xx|
+4 |  |  |  |xx|  |  |  |xx|
+3 |  |  |xx|  |  |  |  |xx|
+2 |  |bl|  |  |  |  |  |pl|
+1 |  |  |kl|  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Een voorbeeld van een goede loper}}
+
+Een loperpaar kan in het eindspel een eenzame koning van de tegenstander mat zetten. Als de koning echter zelf een loper heeft dan is het meestal remise
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |kd|
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |  |  |  |  |kl|
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |bl|bl|  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Schaakmat door een loperpaar}}
+
+== Paard ==
+Een paard kan het machtigste stuk de dame aanvallen zonder zelf aangevallen te worden.
+{{Schaak/Bord2
+|left
+|
+|
+8 |xx|  |  |xx|  |  |xx|  |
+7 |  |xx|nd|xx|nd|xx|  |  |
+6 |  |nd|xx|xx|xx|nd|  |  |
+5 |xx|xx|xx|ql|xx|xx|xx|xx|
+4 |  |nd|xx|xx|xx|nd|  |  |
+3 |  |xx|nd|xx|nd|xx|  |  |
+2 |xx|  |  |xx|  |  |xx|  |
+1 |  |  |  |xx|  |  |  |xx|
+   a  b  c  d  e  f  g  h
+|Acht mogelijkheden voor een paard om de dame aan te vallen zonder zelf gevaar te lopen}}
+
+Een paard kan door een dubbele aanval op dame en koning de bewegingsvrijheid van de dame of toren flink inperken.
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |xx|  |xx|  |kd|  |  |
+7 |  |xx|xx|xx|  |  |xx|  |
+6 |xx|xx|  |  |xx|xx|  |  |
+5 |  |  |nl|  |xx|  |xx|  |
+4 |xx|  |  |xx|xx|xx|  |  |
+3 |  |xx|  |xx|  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Het paard bewaakt deze posities direct of door een dubbele aanval op toren/dame en koning}}
+
+== Pion ==
+Pionnen lijken onbeduidend, maar ze bepalen de ruimte en de structuur van de stelling. Hoewel ze de minste waarde hebben, zijn ze de "ziel van het schaakspel". 
+
+Een pion die de overkant bereikt, moet promoveren tot een ander stuk (behalve een koning), wat meestal een dame is. Dit kan een verloren partij vaak nog redden of een overwinning veiligstellen.
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |xl|  |  |  |  |  |
+7 |  |  |pl|  |  |  |  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Een pion die op het punt staat te promoveren}}
+
+{{Opmaak | Voettekst}}

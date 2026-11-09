@@ -2,7 +2,7 @@
 Het ontwerpen van een [[Onderwijsplatform|Onderwijsplatform]] is een avontuur in onderwijsarchitectuur. De onderwijstechnoloog bouwt de omgevingen (bijvoorbeeld in Minecraft, MediaWiki of Moodle) waarin het leren plaatsvindt. 
 
 == Omhulsel ==
-Een goed ontworpen platform is een omhulsel voor de [[Onderwijstaal|Onderwijstaal]]. Het moet de flexibiliteit bieden om de [[Onderwijstaal/Leerbox|Leerbox]] in verschillende contexten te presenteren. Het ontwerp moet uitgaan van [[Onderwijstaal/Vrijheid|vrijheid]], waarbij het systeem de leerder ondersteunt in plaats van beperkt.
+Een goed ontworpen platform is een omhulsel voor de [[Leertaal|leertaal]]. Het moet de flexibiliteit bieden om de [[Leertaal/Leerbox|Leerbox]] in verschillende contexten te presenteren. Het ontwerp moet uitgaan van [[Leertaal/Vrijheid|vrijheid]], waarbij het systeem de leerder ondersteunt in plaats van beperkt.
 
 == Filosofie ==
 Onderwijstechnologen laten zich inspireren door historische visies op onderwijs. Figuren als Einstein en Twain benadrukten het belang van creativiteit en zelfontdekking. Het ontwerp van de digitale architectuur moet deze "heilige nieuwsgierigheid" koesteren door open structuren en interactieve werelden aan te bieden.
@@ -110,6 +110,6 @@ Minecraft biedt een unieke kans om onderwijsarchitectuur te verkennen. Door het 
 MediaWiki, het platform achter Wikipedia, kan worden gebruikt om educatieve inhoud te creëren en te delen. Door een eigen wiki te bouwen, met templates, extensies en [[Onderwijswiki/Lua|Lua]] als script (via [[Onderwijswiki/Scribunto|Scribunto]]), kunnen onderwijstechnologen samen met leraren en leerlingen een rijke kennisdatabase ontwikkelen.
 
 == Moodle ==
-Moodle is een veelzijdig leerbeheersysteem dat helpt bij het structureren van onderwijsmateriaal. Onderwijstechnologen kunnen Moodle gebruiken om cursussen te ontwikkelen die interactief, aanpasbaar en schaalbaar zijn. Belangrijk is de mogelijkheid om plugins te bouwen die de eigen onderwijsarchitectuur ondersteunen en verbinden met de [[Onderwijstaal/Leerbox|Leerbox]].
+Moodle is een veelzijdig leerbeheersysteem dat helpt bij het structureren van onderwijsmateriaal. Onderwijstechnologen kunnen Moodle gebruiken om cursussen te ontwikkelen die interactief, aanpasbaar en schaalbaar zijn. Belangrijk is de mogelijkheid om plugins te bouwen die de eigen onderwijsarchitectuur ondersteunen en verbinden met de [[Leertaal/Leerbox|Leerbox]].
 
 {{Opmaak | Voettekst}}

@@ -1,0 +1,29 @@
+{{Opmaak}}
+Het toetsen van een leertaal omvat verschillende vragen. Correcte softwareverwerking, begrijpelijkheid, beschrijfbaarheid en werkelijk leren zijn afzonderlijke onderwerpen.
+
+== Dekking en consistentie ==
+Representatieve situaties laten zien of de taal voldoende uitdrukkingsmogelijkheden heeft. Naast geslaagde voorbeelden zijn tegenvoorbeelden nodig: een beloning die als bekwaamheid wordt gelezen, opgelegde belangstelling, een groepsprestatie die aan ieder lid wordt toegeschreven of een context die niet bij een actorprofiel past.
+
+De vijf [[Leertaal/Vrijheid#Leercontext|contextdimensies]] en de [[Leertaal/Leren#Leeractie|actiehiërarchieën]] zijn modelaannamen. Hun onafhankelijkheid, volledigheid en afhankelijkheden moeten worden onderzocht. Een rangnummer of gewicht levert geen empirisch bewijs.
+
+== Verschillende soorten geldigheid ==
+* '''Vorm''': voldoet de tekst aan de grammatica?
+* '''Betekenis''': zijn namen, typen en relaties consistent?
+* '''Vrijheidsvoorwaarden''': passen de opgegeven voorwaarden bij het gekozen model van [[Vrij leren|vrij leren]]?
+* '''Onderbouwing''': waarop berust een uitspraak over uitvoering of bekwaamheid?
+* '''Praktijk''': begrijpt de lerende het aanbod en ondersteunt het werkelijk leren?
+
+Een toets kan gegevens missen. ''Onbekend'' mag niet automatisch als ''onwaar'' of ''afwezig'' worden verwerkt. Zie ook [[Leren leren/Toetsing|toetsing van leren]].
+
+== Turing-volledigheid ==
+Turing-volledigheid gaat over de mogelijkheid om algemene berekeningen uit te drukken. Dat is een andere vraag dan of alle relevante situaties van vrij leren beschrijfbaar zijn. Een leertaal hoeft niet Turing-volledig te zijn om bruikbaar te zijn. Omgekeerd bewijst Turing-volledigheid geen pedagogische dekking of vrijheid.
+
+== Conversie en toepassingen ==
+Een conversie naar xAPI, cmi5, SCORM of een leerplatform moet toetsen of de oorspronkelijke betekenis behouden blijft. Een registratieformaat hoeft niet dezelfde onderscheidingen te ondersteunen als de leertaal. Verlies van betekenis moet expliciet worden gemaakt. [[Leertaal/Conversie|Conversie]] kan daarom niet uitsluitend op technisch geldige uitvoer worden beoordeeld.
+
+== Taalmodellen en gebruikers ==
+Bij automatische omzetting kunnen de bronbeschrijving en een terugvertaalde beschrijving worden vergeleken. Controles op grammatica en logica helpen, maar een inhoudelijk plausibele misinterpretatie kan daarmee nog steeds onopgemerkt blijven. Mensen moeten daarom de bedoelde actor, handeling, context en claim kunnen beoordelen.
+
+Praktijkonderzoek kan begrijpelijkheid, bruikbaarheid en leerimpact onderzoeken. Gebruiksgemak of tevredenheid bewijst op zichzelf geen duurzame bekwaamheid.
+
+{{Opmaak | Voettekst}}

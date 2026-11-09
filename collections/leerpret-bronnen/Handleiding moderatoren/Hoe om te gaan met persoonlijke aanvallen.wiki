@@ -1,0 +1,72 @@
+{{Index Handleiding moderatoren}}
+==Leerdoel==
+De lezer is hierna in staat om persoonlijke aanvallen te herkennen en heeft instrumentarium om daar in de rol van moderator op adequate wijze mee om gaan, zowel met betrekking tot andere gebruikers als persoonlijke aanvallen naar de moderator zelf gericht.
+
+==Vereisten==
+*Basiskennis van de {{Wp|Wikipedia:Wikiquette|wikiquette}}.
+
+==Uitgangspunten==
+'''Persoonlijke aanvallen zijn niet welkom op de wiki's van de Wikimedia Foundation.''' Het is zeer gewenst dat gebruikers opmerkingen plaatsen naar aanleiding van de inhoud van pagina's en overleg voeren, zolang dit zich niet toespitst op de schrijver ervan. Persoonlijke aanvallen werken demotiverend, en kunnen voor een negatieve sfeer zorgen.
+
+Gebruikers uit een gemeenschap die het oneens zijn over allerlei zaken, zijn op zich heel gezond: het kan bijdragen tot meer balans, relativering en correctheid van informatie. Het belichten van een onderwerp uit verschillende perspectieven kan bevorderlijk zijn voor NPOV (''neutral point of view''). Inhoudelijk kan men het grondig met elkaar oneens zijn, als men maar correct blijft, en de {{Wp|Wikipedia:Wikiquette|wikiquette}} volgt.
+
+==Wat zijn persoonlijke aanvallen?==
+In een aantal gevallen zal het volstrekt duidelijk zijn dat iemand een opmerking maakt die (veelal in de hitte van het debat) als een persoonlijke belediging moet worden opgevat. Vaak is het niet zo duidelijk of iets een belediging is, of een terechte uiting van een mening die gewoon wat minder positief is. Een voorbeeld zou deze uitspraak kunnen zijn: ''Bijna ieder artikel dat jij bewerkt, wordt er slechter op.'' Om te voorkomen dat hieromtrent juist onenigheid ontstaat, volstaat het in dit soort gevallen waarschijnlijk als je op de overlegpagina van de schrijver aangeeft dat u de uitspraak niet constructief vindt, of de uitspraak zelfs helemaal laat voor wat hij is, en dus niet te wissen of te verwijderen. 
+
+Wat waarschijnlijk als beledigend moet worden aangemerkt: ''(NB De volgende lijst is niet uitputtend.)''
+*Op een negatieve of twijfelachtige manier refereren aan iemands geloof, ras, geslacht, geaardheid, uiterlijk, afkomst, intelligentie, integriteit;
+*Iemand bot uitschelden met een scheldwoord;
+*Iemand in verband brengen met een dictator, een totalitaire ideologie of een misdadiger;
+*Dreigen met juridische actie;
+*Doodsbedreigingen of doodswensen;
+*Ongewenst verspreiden van persoonlijke gegevens van wikianen;
+*Bedreigingen of acties die medegebruikers aan politieke, religieuze of andere vervolging door overheden, werkgevers of anderen blootstellen. Zulke acties kunnen aanleiding zijn tot onmiddellijke blokkade door een moderator (afhankelijk van het geldende beleid op de wiki). Een moderator die deze blokkade uitvoert, informeert onmiddellijk op vertrouwelijke wijze de andere moderatoren (of eventueel aanwezige arbitragecommissie);
+*Negatieve persoonlijke kenmerken van iemand verspreiden, zoals geruchten ("ze zeggen dat hij een onbetrouwbaar sujet is"), lichaamskenmerken ("met z'n platvoeten"), achtergronden ("zij maakt al jaren mensen het leven zuur") etc. Meestal met enige overdrijving om de ander (het "slachtoffer") in een kwaad daglicht te stellen.
+
+==Wat wordt van leden van de gemeenschap verwacht==
+* Wees beleefd
+* Houd u aan goede {{Wp|Wikipedia:Wikiquette|wikiquette}}
+* Werk toe naar {{Wp|Help:Consensus|consensus}}
+* Respecteer het recht van anderen om hun mening er op na te houden. Dit betekent niet dat u het men hen eens moet zijn, alleen dat u het eens bent met het feit dat u het ergens oneens over bent.
+* ''Luister!'' Vat samen, en vraag door. Deze techniek (LSD = '''L'''uisteren '''S'''amenvatten '''D'''oorvragen) werkt vrijwel altijd de-escalerend (zie verderop). De primaire reactie op een persoonlijke aanval is steevast een tegenmep. Defensie dus. De spiraal van aanval-verdediging die hierdoor ontstaat is destructief. De spiraal is te doorbreken door vragen te stellen en reflecties te geven. Voorbeeld: "Janus, je bent een verwende puber". Janus reactie: "Ik hoor dat je me een verwende puber noemt. Leg eens uit wat je ermee bedoelt?" (i.p.v. "Je bent zélf een verwend kind..."). 
+* Bespreek de feiten en hoe die weergegeven kunnen worden, niet de eigenschappen van de "andere partij". 
+* Suggereer nooit dat een zienswijze onjuist is vanwege de groep die hem propageert.
+* Overweeg iemand een persoonlijke e-mail te sturen wanneer een debat te persoonlijk wordt.
+* Kijk of andere gebruikers u kunnen assisteren bij het vinden van een oplossing voor een geschilpunt (''mediation'').
+* Wees tolerant tegenover andere gezichtspunten, ook als u het er niet mee eens bent. Het kan heel goed dat u het standpunt van de ander als marginaal beschouwt, maar wiki's staan tolerant tegenover niet-conventionele gezichtspunten.
+
+==Escalatieladder==
+Een bruikbaar instrument om escalaties vroegtijdig te herkennen én aan te pakken is de escalatieladder. Deze ladder is op schrift gesteld door de Oostenrijker {{Wp|Friedrich Glasl|Friedrich Glasl}}. De achtergrondgedachte is dat een aanvankelijk "rationele" (primair inhoudelijke) interactie door duidelijk te herkennen acties van één of meerdere gesprekspartners in een escalatie terecht komt. De escalatie verloopt in fasen, en bij een bepaalde mate van ontsporing is er geen weg meer terug. Het is dus zaak vroegtijdig de signalen van escalatie waar te nemen en zich niet te laten meeslepen.
+
+===Fase I===
+De ''eerste fase'', de basis, is een interactie waarin de inhoud van het gesprek op '''redelijke''' toon besproken wordt. Er kunnen belangentegenstellingen of verschillen van inzicht aanwezig zijn, maar de gesprekspartners laten zich door '''inhoudelijke en redelijke argumenten''' beïnvloeden. Men spreekt ook wel van een "win-win"-gesprek, want de aanwezigen proberen niet alleen het eigen belang te dienen, maar ook oog te houden voor het algemene belang en dat van de ander(en). 
+
+De escalatie begint als iemand schuift van '''inhoud''' naar '''persoon''', en van '''zakelijk''' naar '''emotie'''. De schuiving kan subtiel, voor derden vaak ongemerkt plaatsvinden. Het kan een steek(je) onder water zijn, een rivaliserende opmerking, een suggestieve vraag, een subtiele beschuldiging. De reactie van de ander is verdediging. De ander voelt zich immers persoonlijk aangevallen, en zal als natuurlijke, primaire reactie in de verdediging schieten. Die verdediging is meestal ook persoonlijk, gericht op de ''persoon'' van de aanvaller. Deze aanvals-verdedigingsspiraal kan snel ontsporen en het hele gesprek gaan beïnvloeden. Zo komt het gesprek in fase II.
+
+===Fase II===
+De ''persoonlijk-emotionele fase''. Kenmerken: het gesprek wordt '''ik''' tegen '''jou'''. Inhoudelijke argumentatie verliest het van '''persoonlijke en emotioneel getinte bijdragen'''. De ander wordt vijand, tegenstander (in de eerste fase was hij gepreks''partner''). De inspanningen richten zich meer en meer op het ''beschadigen'' van de ander (kleineren, beschuldigen, beledigen, vernederen etc.). Het is ''persoon'' versus ''persoon''. ''Kampvorming'' kan ontstaan: ben jij voor of tegen mij? Wie niet voor me is, is tegen me, enzovoort. Deze fase kan steeds bitterder en agressiever worden. Het bewustzijn vernauwt zich en de redelijkheid verdwijnt meer en meer. Als het zover is dat de ander geen mens meer is maar een dier ("kakkerlak"), een ziekteverschijnsel ("kankergezwel") of object ("stuk vreten"), treedt de derde, laatste fase in.
+
+===Fase III===
+De ''oorlogsfase''. Als de ander geen mens meer is (ontmenselijkt), zelfs geen vijand meer, maar slechts een te vernietigen object, boos dier of levensbedreigend ziekteverschijnsel, is de stap naar destructie niet ver meer. Het geestelijk-emotioneel klimaat om de ander te "vertrappen", "uit te roeien" of "te slopen" is geschapen. Glasl noemt deze fase ook de fase van de ''principes'': het gaat niet meer om meningen, om tegengestelde belangen of botsende karakters, het gaat in deze fase om '''onwrikbare waarheden die geen enkele tegenwerking of tegenwerping meer verdragen'''. De taal wordt dus uitermate destructief, en is een voorbode van ''fysiek'' (versus verbaal) geweld. In echtscheidingszaken kun je deze fase regelmatig zien ontstaan tussen de voormalige echtelieden, met uitspraken als "Als je mij kapot maakt, dan maak ik jou kapot", of "Ik sleep je mee de afgrond in". In deze fase is redelijke interventie door een derde vrijwel onmogelijk geworden, en is het raadzaam een gezaghebbende ingreep van bovenaf te doen (een rechterlijk vonnis, ingrijpen door een ordedienst of de politie, strenge verboden en geboden gekoppeld aan sancties). 
+
+Voor wiki's is de overgang tussen fase I en fase II relevant. Zodra een interactie verschuift van de inhoud, de zaak, en het redelijke in de argumentatie naar de persoon, de emotie, de irrationaliteit en het (subtiel) schelden, is het zaak via moderatie in te grijpen. Voorkomen moet worden dat oorlogssituaties ontstaan die derden meeslepen.
+
+===Meer lezen===
+*{{Wp|Wikipedia:Conflictafhandeling}}
+*{{Wp|de:Konflikteskalation_nach_Friedrich_Glasl|Konflikteskalation nach Friedrich Glasl}}
+*[https://www.friedenspaedagogik.de/themen/konstruktive_konfliktbearbeitung/konfliktbearbeitung/grundwissen_zivile_konfliktbearbeitung/konflikt_begriff_und_elemente/die_neun_stufen_der_konflikteskalation?/ift/themen/konstruktive_konfliktbearbeitung www.friedenspaedagogik.de]
+*[https://www.paulgraham.com/disagree.html Graham's Hierarchy of Disagreement]
+
+{|style="float: right; margin: 0px; border: 1px #CCCCCC solid; color: inherit; background-color:#F9F9F9"
+|-
+|align=middle|[[Bestand:Graham's Hierarchy of Disagreement-nl.svg|600px]]
+|align=middle|[[Bestand:Graham's Hierarchy of Disagreement2_NL.svg|600px]]
+|-
+|align=middle|{{Wp|Paul Graham|Grahams}} pyramide voor onenigheid: manier van kritiek uiten.
+|align=middle|Grahams pyramide voor onenigheid: manier van ingaan op kritiek.
+|}
+<div style='text-align: center;'>Verder naar '''[[Handleiding_moderatoren/MediaWiki|Inleiding tot MediaWiki]]'''</div>
+<div style='text-align: center;'>Terug naar '''[[Handleiding_moderatoren/Privacy_en_persoonlijke_informatie|Privacy]]'''</div>
+
+{{GFDL-oud}}
+{{Sub}}

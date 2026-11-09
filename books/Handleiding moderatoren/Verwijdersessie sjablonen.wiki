@@ -1,0 +1,19 @@
+{{Index Handleiding moderatoren}}
+==Leerdoel==
+
+==Vereiste voorkennis==
+
+==Verwijdersessie sjablonen uitvoeren==
+Tenzij een pagina van het onzinsoort is dat ook direct verwijderd had mogen worden, dient een pagina, sjabloon, afbeelding of categorie twee weken op de [[wikipedia:verwijderlijst|verwijderlijst]] te staan alvorens deze verwijderd mag worden. Het verwijderen kan alleen door een [[wikipedia:moderator|moderator]] worden gedaan.
+
+==Algemeen==
+Een paar dingen om op te letten:
+* Vergeet bij het verwijderen de overlegpagina's niet! En bekijk de te verwijderen pagina's nog eens goed. Het zou niet de eerste keer zijn dat men er iets van gemaakt heeft in de tussentijd en het niet van de lijst heeft genomen.
+* Sommige mensen vermelden samen met de link naar de te verwijderen pagina ook een link naar de goede pagina! Ook komt het voor dat de te verwijderen pagina een redirect naar een correcte pagina is. Zorg dat u de juiste verwijdert.
+* '''Transwiki:''' Artikels die verplaatst werden vanaf een ander Wiki-project komen binnen via [[m:Transwiki/nl|transwiki]] in de virtuele transwiki-naamsruimte (''= met prefix "transwiki"''). Deze pagina's worden uiteindelijk redirects die '''niet''' verwijderd mogen worden. 
+* Artikels die verplaatst dienen te worden naar bv. Wikibooks, Wiktionary, Wikiquote of anderstalige Wiki's, dienen via de transwiki-procedure te passeren en niet zomaar verwijderd te worden. Voor meer info zie [[m:transwiki/nl|transwiki]].
+*Wanneer een artikel verwijderd is omdat het (duidelijk) geen encyclopedisch onderwerp is, haal dan ook de eventuele interne links naar dat artikel weg. Dat voorkomt verdere problemen en onduidelijkheden in de toekomst (waarom een rode link hebben naar een onderwerp wat we niet willen hebben?).
+
+===Sjablonen===
+Sjablonen dienen pas verwijderd te worden '''nadat de verwijzingen naar de sjablonen zelf zijn verwijderd'''. Dit kan handmatig worden gedaan of met behulp van een [[Handleiding moderatoren/Pywikipedia bot|bot]].
+{{Sub}}

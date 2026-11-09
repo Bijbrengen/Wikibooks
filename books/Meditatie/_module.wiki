@@ -1,0 +1,13 @@
+{{Opmaak
+| Titel = Meditatie
+| Object = Boek
+| Bron = Cartoon Meditating Man.svg
+| Definitie = '''Meditatie''' oefent en past toe het waarnemen van de geest zonder er van te willen winnen of verliezen. Dus geen vechten of vluchten, maar volledig accepteren en bekijken wat er aan verschijnselen opkomen en gaan.
+| Beschrijving = Door het regelmatig toepassen van meditatie traint men de scherpte van het waarnemen en kan men daardoor inzichten verwerven. Men leert de sluier die het brein voorhoudt herkennen, erkennen, verkennen en kennen. [[w:Nisargadatta Maharaj|Nirsagadatta Maharaj]], een Indische spirituele leraar, zegt daarover; 'Om iets te kunnen loslaten, moet je van tevoren herkennen wat het is'. [[w:Mooji|Mooji]], een Jamaicaanse spiritueel leraar, spreekt over de bluf van het brein om je te doen geloven dat de waarnemer gelijk staat aan de gedachten of emoties die men waarneemt. Dit is volgens hem te ontsluieren door in te zien dat verschijnselen in de brein, als je ze niet krampachtig  vasthoudt in je geheugen, vergankelijk zijn, terwijl de waarnemer tijdloos is. Meditatie helpt om dit onderscheid te maken.
+| Formaat = html
+| Voortgang = 75
+| Support = Signaleer
+| Referentie = wikipedia
+| Collectie = Zelftherapie
+| Onderdeel = Inleiding, Acceptatie, Focussen, Chöd, Eetmeditatie, Gatha, Tonglen, TM
+}}

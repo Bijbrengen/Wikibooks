@@ -1,0 +1,57 @@
+{{Index Handleiding moderatoren}}
+==Leerdoelen==
+Na het lezen van deze module heeft een (aspirant)moderator inzicht in wat in hoofdlijnen van moderatoren wel of niet verwacht wordt.
+
+==Vereiste voorkennis voor deze module==
+Geen. 
+
+==Wat is een moderator en wat niet==
+Officieel is iedereen in de Wikimedia Foundation gelijk. Dat is mooi, dat is nobel, dat is de Wikimedia Foundation (met Wikipedia, Wikibooks, ...).<br>
+Maar toch; moderators kunnen zaken die een gewone gebruiker niet kan, zoals het verwijderen van een pagina. Verder heeft een systeemontwikkelaar toegang tot de broncode en kan dus eigenlijk alles. Ten slotte is er ook nog de eigenaar van de server (Wikimedia Foundation) waarop o.a. Wikipedia en Wikibooks zich bevinden, die de stekker er letterlijk uit kan trekken.
+
+Als moderator draagt u meer ''verantwoordelijkheid'' en heeft u een ''voorbeeldfunctie'' tegenover de andere medewerkers. Dit is dan wel ''niet formeel'' zo, maar als moderator zal men van u verwachten dat u, als moderator, zich redelijk gedraagt, reageert op vragen van andere gebruikers en zich in het algemeen diplomatiek uitdrukt bij het geven van commentaar, antwoorden en waarschuwingen. Eigenlijk een kwestie van soms de woorden wat te verbloemen. Dit zijn eigenlijk zaken die best elke gebruiker kan doen, maar als moderator is het belangrijk er extra op te letten.
+
+Moderator zijn wil ''niet'' zeggen dat u meer bent dan een ander, enkel dat u meer ''kan''. Eigenlijk haalt u zich er enkel maar problemen mee op de hals. Alle bevoegdheid gaat uit van de gehele gemeenschap van het wikiproject (dus alle gebruikers van bv. Wikipedia of Wikibooks). Als moderator bent u een ''dienaar'' van die gemeenschap. De gemeenschap geeft aan bepaalde gebruikers het ''vertrouwen'' om moderator te worden of te blijven. 
+
+In de praktijk zullen sommige gebruikers, zeker nieuwe, opkijken tegen en leiding verwachten van een moderator. Van dit gegeven kunt u gebruikmaken bij het begeleiden en adviseren van nieuwe mensen. In eerste instantie is het geen probleem dat men ''veronderstelt'' dat u als moderator iets speciaals te zeggen hebt. Als ze wat meer ervaring hebben, komen ze er wel zelf achter. Let er wel op om '''geen bevelen''' te geven! Geef enkel gemotiveerde ''adviezen'', ''suggesties'', ''aanbevelingen''... U kunt de leiding nemen tegen bepaalde zaken maar u moet vragen om instemming van de gemeenschap. Als moderator hebt u '''niet''' de bevoegdheid om autonoom belangrijke beslissingen te nemen.
+
+Volg zelf strikt de procedures (de weinige zeer losse die er zijn), zelfs als dat extra werk oplevert en het onwaarschijnlijk is dat iemand er kritiek op zal hebben. Reken er maar op dat men het zal zien in "recente wijzigingen". Als een moderator al niet de procedures volgt, kun je niet verwachten dat iemand anders dat wel zal doen. Blijf geloofwaardig.
+
+Maak geen ruzie. Een discussie is één ding, maar weet u in te houden. Gebruik eventueel de "E-mail deze gebruiker"-functie. Niet alle vuile was moet buitengehangen worden. Zorg er voor dat er bij uw gebruikersinstellingen een e-mailadres is ingevuld. Moderators moeten bereikbaar zijn. Plaats best ook uw emailadres op uw gebruikerspagina; niet iedereen zal die link naar "E-mail deze gebruiker" vinden.
+
+Ondermijn niet nodeloos de autoriteit van een andere moderator. Mensen maken fouten, ook moderators. Bent u het niet eens met iemand, breek hem of haar dan niet publiekelijk af. Probeer het eerst privé te bespreken met die moderator (of gebruiker) alvorens onaangename woorden te schrijven op de zeer publieke Wikipedia of Wikibooks. Als gebruikers zien dat moderators ruzie met elkaar maken en elkaar uitschelden is dat voor iedereen slecht. Dat wil niet zeggen dat u zaken in de doofpot moet steken, zeker niet, de waarheid mag en moet gezegd worden, maar let op hoe u dat aanpakt. 
+
+Probeer niet nodeloos de aandacht te vestigen op het feit dat u moderator bent. Teken uw commentaren bv. niet met ''"Gebruikersnaam" -- Moderator Wikipedia NL''. Uw autoriteit moet uitgaan van de manier waarop u functioneert als medewerker van het betreffende wikiproject, niet van uw functie als moderator. Wie wil weten of iemand moderator is, kan dat zien op pagina's als  [https://nl.wikipedia.org/w/index.php?title=Speciaal%3AListusers&group=sysop&username= Moderators tonen] en {{Wp|Wikipedia:Moderator|Wikipedia:Moderator}}. Eventueel kunt u ook op uw gebruikerspagina dat feit vermelden, maar doe dat dan op een ''informatieve wijze''.
+
+De belangrijkste functie van een moderator is ''er zijn voor de gebruikers''. Een stabiel aanspreekpunt zijn. De boel in zijn geheel in de gaten houden, op de hoogte blijven van aanpassingen aan de software en wat er leeft bij de zusterprojecten, ook in andere talen. Het heeft geen zin moderator te worden of te blijven als u slechts zelden wat tijd kunt besteden aan het wikiproject. Tijd besteden is niet hetzelfde als artikels schrijven, al is artikels schrijven natuurlijk heel goed. Het volgen van de recente wijzigingen en opvangen van vragen, problemen en bestrijden van vandalisme is de kernopdracht van een moderator. Dit alles wil echter niet zeggen dat een moderator verplicht is om op elk verzoek van een gebruiker te reageren.
+
+==Moderator worden is geen carrièrestap==
+In de hiërarchie van steeds meer functies kunnen uitvoeren in de MediaWiki-software is de volgorde anonieme gebruiker, ingeschreven gebruiker, moderator, bureaucraat, steward, developer. Daarnaast zijn er nog de functies checkuser en oversight ("''suppress''", zie [https://phabricator.wikimedia.org/T109327]), die niet verbonden zijn met een groep gebruikers.
+
+Deze hiërarchie van mogelijkheden betekent niet dat een gebruiker ook steeds belangrijker wordt. Het betekent wel dat de gebruiker een bepaalde verantwoordelijkheid krijgt en daar ook invulling aan dient te geven. Een moderator heeft binnen de democratische processen op wiki's van de Wikimedia Foundation een net zo zwaarwegende stem als elke andere gebruiker.
+
+Moderator zijn leidt over het algemeen tot meer werk. Bepaalde onderhoudstaken kunnen alleen door moderatoren worden uitgevoerd (zoals het afwerken van de verwijderlijsten).
+
+==Het moderatorschap is geen trofee==
+[[Afbeelding:Barn star free zone.png|thumb|Geen trofee]]
+Gebruikers die het moderatorschap zien als een trofee raken in het algemeen teleurgesteld. Het moderatorschap voor een gebruiker is niet het equivalent van een etalageartikel voor artikelen. De moderator krijgt geen respect van de gemeenschap alleen vanwege de ''extra knopjes''. Het moderatorschap wordt niet verleend vanwege een groot aantal bewerkingen of lange aanwezigheid.
+
+Het moderatorschap wordt verleend door de gemeenschap aan diegene waarvan de gemeenschap verwacht dat hij/zij de mogelijkheden van de rol verantwoordelijk in zal vullen en niet zal misbruiken. In de praktijk blijkt echter dat een boek soms slechts op de kaft wordt beoordeeld; als men wordt afgewezen door de gemeenschap, dan betekent dat niet dat de gemeenschap de bijdragen niet waardeert, slechts dat er op dat moment onvoldoende steun is voor de gebruiker in een andere rol.
+
+==Het moderatorschap leidt niet tot immuniteit==
+Een moderator kan niet slechts doen wat hem/haar goed lijkt te zijn. Hij/zij dient te handelen volgens de bestaande richtlijnen. De richtlijnen die voor iedereen gelden, gelden ook voor de moderator. Als een moderator richtlijnen overtreedt, kan de gemeenschap op meerdere manieren de moderator ter verantwoording roepen; in eerste instantie echter altijd door overleg. In het uiterste geval kan een {{Wp|Wikipedia:Regelingen_rond_moderatoren#Opzeggen_vertrouwen|afzettingsprocedure}} ertoe leiden dat het moderatorschap wordt ontnomen door een steward.
+
+==Het moderatorschap is geen titel voor het leven==
+Het moderatorschap kan men bekleden zolang men het vertrouwen heeft van de gemeenschap. De Nederlandstalige Wikipedia en Wikibooks kennen een {{Wp|Wikipedia:Regelingen_rond_moderatoren#Opiniepeiling_na_een_jaar|jaarlijkse procedure}} waarin bezwaar aangetekend kan worden door gebruikers uit de gemeenschap tegen zittende moderatoren. Indien geen bezwaar wordt het moderatorschap met een jaar verlengd, bij bezwaar vindt een stemming plaats waarbij de moderator steun van 75% van de deelnemers in de stemming moet krijgen om moderator te kunnen blijven.
+
+==Het moderatorschap is niet verplicht==
+Het is niet verplicht om moderator te worden. Bepaalde gebruikers hebben alle eigenschappen om een goede moderator te worden, maar wensen dit niet te worden. Bedenk dat deelname aan de wiki een hobby is voor velen. Het moderatorschap gaat gepaard met een bepaalde morele verplichting om die extra knopjes ook te gebruiken, d.w.z. dat onderhoudstaken worden uitgevoerd. Niet iedereen heeft daar zin in of tijd voor.
+
+==Moderators zijn niet in dienst van de Wikimedia Foundation==
+De moderators zijn gebonden aan de richtlijnen van het betreffende project. Ze zijn op geen enkele manier verplicht "bevelen" van de Wikimedia Foundation op te volgen; ook worden ze niet aangestuurd of betaald door de Wikimedia Foundation. Toch kunnen vertegenwoordigers van de Wikimedia Foundation maatregelen nemen via de zogenaamde {{Wp|en:Wikipedia:Office Actions|Office-functie}}, zoals wel eens voorkomt op de Engelstalige Wikipedia. In dat geval is het gedrag van de moderator sowieso behoorlijk afwijkend van de norm.
+
+De moderator speelt een rol in de inhoud van de wiki van de Wikimedia Foundation, niet in de wijze waarop die technisch wordt vormgegeven of de wijze waarop de Wikimedia Foundation deze denkt te kunnen financieren.
+
+<div style='text-align: center;'>Verder naar '''[[Handleiding moderatoren/Overleggen met elkaar en de gemeenschap|Overleggen]]'''</div>
+<div style='text-align: center;'>Terug naar '''[[Handleiding moderatoren/Inleiding|Inleiding]]'''</div>
+{{Sub}}

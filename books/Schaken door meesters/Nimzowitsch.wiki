@@ -1,0 +1,42 @@
+{{Opmaak}}
+== Profiel ==
+'''{{Wp|Aaron Nimzowitsch|Aaron Nimzowitsch}}''' was een in Letland geboren Deense schaker en schrijver en eind jaren twintig van de vorige eeuw een van de beste schakers ter wereld. Hij schreef een invloedrijk boek over schaaktheorie: ''"Mein System"''.
+
+== Hollandse variant ==
+<span style="font-size: large;">'''1.b3 f5'''</span>
+
+De '''[[Schaken_door_meesters/Stein#Hollands|Hollandse variant]]''' van de {{Wp|Nimzowitsch-Larsenaanval|Nimzowitsch-Larsenaanval}} is een onverwachte agressie reactie op de flankopening door wit die zijn loper wil fianchetteren, omdat zwart deze dreiging totaal negeert.
+ 
+{{Opmaak
+| Object = Schaak
+| Definitie = Hollandse Variant
+| Beschrijving = De Hollandse variant van de Nimzowitsch-Larsenaanval (1. b3 f5)
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|pd|pd|  |pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |pd|  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |pl|  |  |  |  |  |  |
+2 |pl|  |pl|pl|pl|pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+
+In deze variant van de Nimzowitsch-Larsenaanval (ook wel de Réti-opstelling genoemd) kiest wit voor een fianchetto op de damevleugel (1. b3). Zwart reageert provocerend met '''1... f5''', wat leidt tot een scherpe positionele strijd.
+
+De meest gangbare voortzetting is '''2. Bb2 d6 3. c4 e5'''. Zwart claimt het centrum, terwijl wit druk uitoefent over de lange diagonaal a1-h8. Volgens PGN-analyses (bijv. de Bijbrengen-studies) kan zwart met '''4. g3 Nf6 5. Bg2 Be7''' een zeer solide opstelling bereiken.
+
+=== Belangrijke varianten ===
+* '''2. e3 e5 3. Bb2 Nc6 4. c4 Nf6 5. Nc3''': Wit ontwikkelt snel en zet druk op d5.
+* '''2. Bb2 d6 3. c4 e5 4. d4 e4 5. e3''': Een meer gesloten stelling waarbij wit probeert het zwarte centrum te blokkeren.
+* '''De h3-Kh2 setup''': In sommige varianten speelt wit h3 en Kh2 om de koningsvleugel te beveiligen tegen zwarte agressie.
+
+== Evaluatie van Combinaties ==
+De Hollandse variant van de Nimzowitsch-Larsenaanval is een test voor beide partijen:
+* '''Loperdruk''': De witte loper op b2 is het sterkste stuk van wit. Zwart moet oppassen voor ontdekkingstactieken als het centrum opent.
+* '''Centrumbeheersing''': Zwart heeft vaak een ruimtevoordeel door de pionnen op e5 en f5. Dit kan leiden tot een gevaarlijke koningsaanval.
+* '''Dynamisch evenwicht''': Moderne analyses geven wit een klein voordeel (+0.3), maar de stelling is zeer rijk aan tactische mogelijkheden voor beide kleuren.
+
+{{Opmaak | Voettekst}}

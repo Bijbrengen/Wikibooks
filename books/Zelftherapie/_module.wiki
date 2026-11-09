@@ -1,0 +1,17 @@
+{{Opmaak
+| Titel = Zelftherapie
+| Object = Reeks
+| Bron = Zelf therapie.webp
+| Definitie = '''Zelftherapie''', '''Self-therapy''' of '''Me-therapy''' is een therapie waarbij individuen, onder toezicht van en gesteund door een therapeut, vaak online met hulpmiddelen zoals kunstmatige intelligentie, zelf leren om hun geestelijke gezondheid of emotionele welzijn bij te sturen of te verbeteren. Als we de term '''Me-therapy''' gebruiken dan bereikt men dit [[zelf leren]] [[speels leren|spelenderwijs]], een benadering die aansluit bij principes van game-based learning en serious gaming.<ref>TNO (2013). ''The effect of serious games on learning outcomes''. publications.tno.nl</ref><ref>RIVM / onderwijsstudies over serious gaming en motivatie</ref>
+| Beschrijving = Zelftherapie combineert zelfinitiatie met professionele begeleiding om individuen te helpen hun geestelijke gezondheid of emotioneel welzijn te verbeteren. Dit wordt naast Me-therapy ook wel als [https://www.unibonz.org/zelfhulp/start-je-me-therapy/ hybride zelfhulp en begeleidende hulp] omschreven. Onder toezicht van een therapeut omvat het methoden zoals zelfstudie, begeleide zelfhulp, zelfhypnose, meditatie, mindfulness, visualisaties, het lezen van zelfhulpboeken, online cursussen en ontspanningstechnieken. Dit proces, geschikt als aanvullende strategie of als eerste stap voor milde tot matige psychische problemen, benadrukt persoonlijke groei en herstel door zelfreflectie en educatie. Ondersteund door onderzoek naar de effectiviteit van zelfhulptechnieken voor het beheersen van stress, angst, en depressie, biedt zelftherapie toegankelijkheid, kosteneffectiviteit, en een minder stigmatiserende benadering van geestelijke gezondheidszorg.
+
+Binnen '''Me-therapy''' kan spelenderwijs leren een centrale rol spelen, waarbij interactieve en ervaringsgerichte methoden motivatie, betrokkenheid en gedragsverandering versterken.<ref>Plass, J. L., Homer, B. D., & Kinzer, C. K. (2015). ''Foundations of Game-Based Learning''. Educational Psychologist</ref> Een praktijkvoorbeeld hiervan is [https://www.metherapy.nl MeTherapy], waarin speelse en reflectieve elementen worden gecombineerd om zelfinzicht en persoonlijke ontwikkeling te stimuleren.
+| Formaat = html
+| Voortgang = 75
+| Support = Signaleer
+| Referentie = wikipedia
+| Collectie = Psychologie
+| Onderdeel = Acceptance and &shy;commitment &shy;therapy, Cognitieve &shy;zelftherapie, Hypnotherapie, Meditatie, Mindfulness, Visualisatie
+}}
+== Referenties ==
+<references/>

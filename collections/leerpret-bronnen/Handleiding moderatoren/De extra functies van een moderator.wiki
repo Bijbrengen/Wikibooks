@@ -1,0 +1,141 @@
+{{Index Handleiding moderatoren}}
+== Gebruikerfuncties ==
+Net als elke gebruiker kan een persoon met moderatorfuncties een pagina lezen, bewerken en hernoemen.
+
+== Moderatorfuncties ==
+=== Pagina beveiligen ===
+Een pagina beveiligen betekent deze pagina alleen beschikbaar maken om te lezen, maar niet te bewerken.
+
+De beveiliging is standaard aangezet voor pagina's die systeemteksten bevatten. 
+
+Frequent gevandaliseerde pagina's worden ook beveiligd, zoals de hoofdpagina van een wiki.
+
+Tijdelijke beveiliging kan aangewezen zijn voor pagina's met actuele onderwerpen waarbij bewerkingen van gebruikers ernstig uit de hand lopen met editwars
+
+;Hoe beveiligen?: 
+Een pagina beveiligen kan eenvoudig door op de knop bovenaan de betreffend pagina te drukken.<br>
+Hierna krijgt de moderator de waarschuwingstekst te lezen waarop nogmaals gewezen wordt op het correct gebruik van deze functie.
+
+Een pagina kan op verschillende niveaus beveiligd worden.
+# Beveiligen tegen titelwijziging
+# Beveiligen tegen bewerken
+# Beveiligen tegen bewerken van zowel de pagina en hierin opgenomen pagina's en sjablonen.
+
+De moderator kan kiezen voor welke groep de pagina alsnog bewerkbaar blijft.
+# bewerkbaar voor iedereen
+# bewerkbaar voor geregistreerde gebruikers
+# bewerkbaar voor moderators
+
+De moderator kan kiezen om het bewerken en het titelwijzigen voor verschillende groepen onbeschikbaar te maken.
+
+Vervolgens dient een duur voor beveiliging opgegeven te worden en de reden van beveiliging. Na het klikken op bevestiging, zal de pagina beveiligd zijn en zal de pagina automatisch opgenomen worden in het logboek van beveiligde pagina's.
+
+=== Beveiligde pagina's bewerken ===
+Een moderator kan een beveiligde pagina bewerken. Deze bewerking hoort steeds erg doordacht te zijn. Systeemteksten wijzigen kan de functionaliteit van de wiki aantasten.
+
+=== Pagina's verwijderen ===
+Wanneer een pagina niet meer gewenst is in de wiki, kan een moderator deze wijzigen. Er zijn echter strikte voorschriften voor het mogen verwijderen van pagina's (afbeeldingen, categorieën, sjablonen,...). Een moderator beslist niet op eigen initiatief welke pagina's verwijderd dienen te worden. Een moderator voert enkel op verzoek van de wiki-gemeenschap een verwijdering uit.<br>
+Wanneer een moderator een pagina wenst te nomineren, dient dit te gebeuren op dezelfde wijze waarop een gebruiker dit doet.<br>
+Enige uitzondering is het verwijderen van onbewerkte pagina's aangemaakt door de moderator zelf.
+
+;Hoe een pagina verwijderen?: 
+Een pagina verwijderen kan eenvoudig door op de knop "verwijderen" te drukken bovenaan de pagina. Voorgeschiedenis dient nagegaan te worden voor het geval een gewenste pagina schuilgaat onder een gevandaliseerde pagina.
+
+De moderator dient bij verwijdering de reden hiervan op te geven. 
+
+Er bestaan aparte richtlijnen voor het verwijderen van
+* pagina's
+* categorieën
+* afbeeldingen
+* snel verwijderbare items
+Een moderator dient er zich van te vergewissen deze richtlijnen grondig te beheersen alvorens een verwijdering uit te voeren.
+
+<div style="text-align: center;">
+<div class="UitklapFrame" style="margin:0.5em 0; padding: 5px; width: 35em">
+<div class="UitklapHead" style="color: black; background-color:#efefef">Moderatorinstructies voor <span style='color: red'>direct</span> verwijderbare pagina's</div> 
+<div class="UitklapContent" style="text-align: left; font-size: 90%; padding: 0;">
+'''Opgelet!'''<br>
+<span style='color: red'>'''Het onmiddellijk verwijderen van een pagina kan enkel onder strikte voorwaarden:'''</span>
+* In geval van werkelijke onzin of lege '''normale''' pagina's. 
+: '''!''' Ga eerst na of het om vandalisme van een bestaande pagina gaat (controleer de geschiedenis!)
+: Bij de geringste twijfel betreffende nonsens: normale verwijderprocedure volgen.
+* In geval de '''enige''' auteur om verwijdering vraagt:
+:* wegens typfout in de titel
+:* wegens afbeelding vervangen door een nieuwe afbeelding
+: Bij de geringste twijfel of meerdere auteurs: normale procedure volgen (controleer de geschiedenis!)
+* In geval een afbeelding reeds onder identieke naam op commons aanwezig is.
+: Niet verwarren met tekstpagina's bij afbeeldingen!
+* In geval van testpagina's.
+* In geval van pagina's in naamruimte van verwijderende moderator
+<br>
+'''Geef bij directe verwijdering de reden voor verwijdering op''', bv.:
+:* leeg
+:* inhoud was: "..." (in geval van nonsens)
+:* typfout in titel
+:* praktische reden: om andere pagina te verplaatsen naar die pagina
+:* testpagina
+:* ...
+<br>
+<span style='color: red'>'''Niet <u>direct</u> verwijderen''':</span>
+* <span style='color: red'>Niet</span> in geval de pagina door een gebruiker reeds op de lijst "Te verwijderen pagina's" is geplaatst <span style="font-size: small;">(doch niet bij "directe verwijdering")</span>
+: Directe verwijdering werkt demotiverend voor de gebruiker (niet-mod): Vermindert de betrokkenheid van diegene die de moeite nam tot nomineren. Het is de kracht van Wikibooks dat we allen waken om de inhoud zo goed mogelijk te maken en te houden.
+* <span style='color: red'>Niet</span> in geval van auteursrechtenschending
+* <span style='color: red'>Niet</span> in geval van foute titel door andere auteur
+* <span style='color: red'>Niet</span> in geval van overbodige pagina
+</div><div class="UitklapEind"></div></div>
+<div class="UitklapFrame" style="margin:0.5em 0; padding: 5px; width: 35em">
+<div class="UitklapHead" style="color: black; background-color:#efefef">Moderator-instructies voor te verwijderen pagina's</div> 
+<div class="UitklapContent" style="text-align: left; font-size: 90%; padding: 0;">
+Een paar dingen om op te letten:
+* Controleer of je de juiste pagina gaat verwijderen. Sommige mensen vermelden samen met de link naar de te verwijderen pagina ook een link naar de goede pagina! Ook komt het voor dat de te verwijderen pagina een redirect naar een correcte pagina is. Zorg dat u de juiste verwijdert.
+* Controleer de genomineerde pagina voor verwijdering nog eens goed. Het zou niet de eerste keer zijn dat men er iets van gemaakt heeft in de tussentijd en het niet van de lijst heeft genomen.
+* Controleer voor verwijdering op nog bestaande links naar deze pagina en verwijder/wijzig deze indien bestaande. 
+* Vergeet bij het verwijderen de overlegpagina's niet! Deze optie staat normaalgezien al aangeklikt bij aanklikken "verwijder".
+
+Transwiki
+* Verwijder geen redirects van transwiki-naamruimte naar definitieve titel.  
+* Artikels die verplaatst dienen te worden naar bv. Wikipedia, Wiktionary, Wikiquote of anderstalige Wiki's, dienen via de export te passeren en niet zomaar verwijderd te worden.
+
+In het verleden verwijderd:<br>
+Zie [[wikibooks:Logboek verwijderde pagina's]].
+</div><div class="UitklapEind"></div></div>
+<div class="UitklapFrame" style="margin:0.5em 0; padding: 5px; width: 35em">
+<div class="UitklapHead" style="color: black; background-color:#efefef">Moderatorinstructies voor te verwijderen afbeeldingen</div> 
+<div class="UitklapContent" style="text-align: left; font-size: 90%; padding: 0;">
+* Controleer eerst of de afbeelding nog verwijderd moet worden. Ontbrekende informatie over copyright zorgt immers voor nominatie tot verwijdering. Uploader kan deze informatie later hebben toevoegd, maar dit niet aanduid op de verwijderlijst.
+* Controleer op nog bestaande links naar de afbeelding. Eenvoudig te checken onder de titel "Afbeeldingsverwijzingen" op de afbeeldingspagina. Verwijder of wijzig de nog bestaande links.
+* Verwijder de afbeelding na controle op volgende manier:
+*: Door de knop "verwijderen" onderaan bij afbeeldingen wordt (meestal?) enkel de tekst bij de afbeeldingen verwijderd, en dus de afbeelding zelf niet.
+*: Die kan verwijderd worden door op "verw" te klikken naast de lijn van de afbeelding, als volgt:
+*: (<u>'''verw'''</u>) (huidig) 15 jun 2003 11:38 . . Varro (40421 bytes) (Augustus van Primaporta)
+</div><div class="UitklapEind"></div></div>
+<div class="UitklapFrame" style="margin:0.5em 0; padding: 5px; width: 35em">
+<div class="UitklapHead" style="color: black; background-color:#efefef">Moderatorinstructies voor te verwijderen categorieën</div> 
+<div class="UitklapContent" style="text-align: left; font-size: 90%; padding: 0;">
+* Controleer eerst of er nog artikels in de betreffende categorie aanwezig zijn (zie op de categoriepagina zelf) en verwijder/wijzig de categorietoevoeging op elk artikel in die categorie.
+* Controleer voor verwijdering op nog bestaande links naar deze pagina en verwijder/wijzig deze indien bestaande. 
+* Verwijder tot slot pas de categoriepagina zelf.
+</div><div class="UitklapEind"></div></div>
+</div>
+
+Zie ook hoofdstuk [[Handleiding moderatoren/Verwijdersessies uitvoeren|Verwijdersessies uitvoeren]]
+
+=== Bewerking terugdraaien ===
+In geval van vandalisme, expliciete reclame, grove onjuistheden, ... kan een moderator met een extra knop een bewerking (of reeks bewerkingen door éénzelfde gebruiker) ongedaan maken. De moderator dient zich ervan te vergewissen dat het om echt vandalisme of foutieve informatie gaat. Bij de geringste twijfel dient overleg gepleegd te worden.
+
+;Hoe een bewerking ongedaan maken?: 
+Om een bewerking ongedaan te maken of terug te draaien, moet men op de pagina met [[Speciaal:RecentChanges|recente wijzigingen]] voor de bewerking klikken op '''<sub>(wijz)</sub>'''. Vervolgens ziet men in aparte kolommen de wijzigingen ten opzichte van de vorige versie.<br>
+In de rechterkolom kan men bovenaan naast ''huidige versie (datum) bewerk'' klikken op de optie '''(ongedaan maken)'''. Indien deze keuze gerechtvaardigd lijkt, wordt de vorige versie opnieuw aangeboden met de mogelijkheid hierin nog wijzigingen toe te voegen en de bewerking van uitleg te voorzien.
+
+;Hoe een bewerking terugdraaien?: 
+Klik net als in de vorige paragraaf op de pagina [[Speciaal:RecentChanges|Recente wijzigingen]] voor de ongepaste bewerking op '''<sub>(wijz)</sub>'''.<br>
+In de rechterkolom ziet men in de tweede lijn achter de naam van de auteur achteraan de optie '''[terugdraaien]'''. Indien men voor deze vorm kiest, wordt de laatste versie teruggeplaatst die niet door de huidige auteur werd bewerkt. Automatisch wordt de tekst toegevoegd dat de bewerking ongedaan gemaakt werd tot aan de vorige versie.
+
+=== Gebruikers blokkeren ===
+Een moderator kan de knop bedienen om een gebruiker te blokkeren. Een gebruiker kan daarna nog wel de tekst lezen, maar niets meer bewerken. Bij het blokkeren geeft de moderator aan hoe lang de blokkade duurt. Deze wordt dan automatisch opgeheven. 
+
+Hoe lang een blokkade duurt, hangt af van de richtlijnen van het betreffende wikiproject of in geval van kleinere wiki's gebeurt dit in overleg tussen de moderatoren onderling.
+
+== Misbruik ==
+Misbruik van het benutten van de extra functies van een moderator leidt tot verlies van vertrouwen en ontzetting uit de rechten van moderator. Een dergelijke motie van wantrouwen met verzoek tot ontzetting uit de rechten kan geschieden via ...
+{{Sub}}

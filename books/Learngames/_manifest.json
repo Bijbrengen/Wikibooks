@@ -1,0 +1,100 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Learngames",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Learngames",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 7,
+  "pages": [
+    {
+      "title": "Learngames",
+      "file": "_module.wiki",
+      "pageid": 41756,
+      "contentmodel": "wikitext",
+      "revid": 424670,
+      "parentid": 406661,
+      "timestamp": "2026-04-27T13:08:40Z",
+      "user": "BeeBringer",
+      "comment": "",
+      "sha1": "6e5134e810b0559a3f6ea2d329fdca242c19e48b",
+      "bytes": 670
+    },
+    {
+      "title": "Learngames/Maze",
+      "file": "Maze.wiki",
+      "pageid": 40493,
+      "contentmodel": "wikitext",
+      "revid": 424452,
+      "parentid": 424359,
+      "timestamp": "2026-04-26T17:56:57Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "e0ed1583fbadb85e6360543f966c877280f2c578",
+      "bytes": 20398
+    },
+    {
+      "title": "Learngames/Memory",
+      "file": "Memory.wiki",
+      "pageid": 41525,
+      "contentmodel": "wikitext",
+      "revid": 432231,
+      "parentid": 424453,
+      "timestamp": "2026-11-09T18:35:36Z",
+      "user": "BeeBringer",
+      "comment": "Verwijzingen en benaming bijgewerkt naar Leertaal",
+      "sha1": "1099c6381fa31631bab325a6da05da18e3749dbb",
+      "bytes": 2111
+    },
+    {
+      "title": "Learngames/Mindcraft",
+      "file": "Mindcraft.wiki",
+      "pageid": 41439,
+      "contentmodel": "wikitext",
+      "revid": 424454,
+      "parentid": 406664,
+      "timestamp": "2026-04-26T17:57:09Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "b912243e023b51992016b0a44bb5282bd7021f65",
+      "bytes": 1623
+    },
+    {
+      "title": "Learngames/Mission",
+      "file": "Mission.wiki",
+      "pageid": 40605,
+      "contentmodel": "wikitext",
+      "revid": 424455,
+      "parentid": 406665,
+      "timestamp": "2026-04-26T17:57:14Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "5f6d7bcf3c321beeb357eb8ab6ecd3f0247ef337",
+      "bytes": 3115
+    },
+    {
+      "title": "Learngames/Speelgoed",
+      "file": "Speelgoed.wiki",
+      "pageid": 41762,
+      "contentmodel": "wikitext",
+      "revid": 424456,
+      "parentid": 407451,
+      "timestamp": "2026-04-26T17:57:20Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "798d66ea6bac85da18b01f327a3705cea3963ea1",
+      "bytes": 9485
+    },
+    {
+      "title": "Learngames/Speels leren",
+      "file": "Speels leren.wiki",
+      "pageid": 41759,
+      "contentmodel": "wikitext",
+      "revid": 424457,
+      "parentid": 405732,
+      "timestamp": "2026-04-26T17:57:26Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "ebc2ee4f6283efc978fd17bbf6d4751561f3a19a",
+      "bytes": 26021
+    }
+  ]
+}

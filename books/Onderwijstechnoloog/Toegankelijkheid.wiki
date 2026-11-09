@@ -1,13 +1,30 @@
 {{Opmaak}}
-== ICT en leerstoornissen ==
+Toegankelijkheid is een fundamentele eis voor elk [[Onderwijsplatform|Onderwijsplatform]]. De onderwijstechnoloog zorgt ervoor dat technologie barrières wegneemt in plaats van opwerpt. In het kader van [[Leertaal/Vrijheid|vrij leren]] betekent dit dat leermiddelen in de [[Leertaal/Leerbox|Leerbox]] toegankelijk moeten zijn voor alle leerlingen, ongeacht hun fysieke of cognitieve beperkingen.
 
-ICT speelt een sleutelrol bij het ondersteunen van leerlingen met specifieke onderwijsbehoeften. Door de inzet van technologie kunnen barrières die door leerstoornissen worden opgeworpen, worden verlaagd of weggenomen.
+== ICT en leerstoornissen ==
+Meer dan 10 procent van de kinderen kampt met een leerstoornis, zoals dyslexie, dyscalculie of ADHD/Autisme. Voor deze leerlingen is ICT niet zomaar een hulpmiddel, maar vaak een noodzakelijke voorwaarde om onderwijs te kunnen volgen.
 
 === Dyslexie en Voorleessoftware ===
-Voor leerlingen met dyslexie is voorleessoftware (zoals Kurzweil of Sprint) onmisbaar. Deze software ondersteunt niet alleen bij het lezen, maar ook bij het spellen en begrijpend lezen door teksten auditief en visueel te markeren.
+Voor leerlingen met dyslexie is voorleessoftware onmisbaar. Deze software ondersteunt bij het lezen, spellen en begrijpend lezen door teksten auditief en visueel te markeren.
+* '''Sprint / Sprinto''': Voorleessoftware die vaak via een USB-stick werkt, ideaal voor mobiel gebruik op verschillende computers.
+* '''Kurzweil 3000''': Een geavanceerd pakket dat tekst scant, voorleest en specifieke studiehulpmiddelen biedt (zoals markeren en samenvatten).
+* '''ReadingPen''': Een scanner die woorden of zinnen direct voorleest en vertaalt.
+
+=== Woordvoorspelling ===
+Software zoals '''Skippy''' helpt leerlingen met dyslexie of motorische problemen door woorden te voorspellen tijdens het typen. Dit verhoogt de schrijfsnelheid en vermindert spellingfouten, waardoor de focus kan liggen op de inhoud van de [[Leertaal/Leerbox|Leerbox]].
 
 === Dyscalculie en ADHD ===
-* **Dyscalculie**: Specifieke rekensoftware helpt bij het visualiseren van getalbegrip en het automatiseren van basisbewerkingen.
-* **ADHD/Autisme**: Structuur-apps en digitale planners helpen leerlingen bij het organiseren van hun dagtaak en het verminderen van prikkels in de digitale leeromgeving.
+* '''Dyscalculie''': Specifieke rekensoftware helpt bij het visualiseren van getalbegrip.
+* '''ADHD/Autisme''': Structuur-apps en digitale planners helpen bij het organiseren van de dagtaak. In een goed ontworpen [[Onderwijsplatform|Onderwijsplatform]] zijn deze hulpmiddelen geïntegreerd in de interface.
+
+== Projecten in Vlaanderen ==
+* '''Surfplank''': Een handleiding en softwarepakket (met demo's van Sprint en Kurzweil) om scholen te ondersteunen bij leerzorg via ICT.
+* '''Digibib''': Een project dat handboeken omzet in voorleesbare en invulbare digitale bestanden.
+
+== Implementatie in de Leerbox ==
+Een onderwijstechnoloog implementeert toegankelijkheid door:
+# '''Structuur''': Gebruik van semantische HTML in de [[Onderwijswiki/View|View]]-laag.
+# '''Flexibiliteit''': Mogelijkheid om lettertypes en kleuren aan te passen (CSS).
+# '''Multi-modaal''': Dezelfde content aanbieden in tekst, audio en video binnen één [[Leertaal/Leerbox|Leerbox]].
 
 {{Opmaak | Voettekst}}

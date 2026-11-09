@@ -1,0 +1,72 @@
+{{Opmaak}}
+Een leertaal voor [[Vrij leren|vrij leren]] neemt de zeggenschap van de lerende als uitgangspunt. Een ontwerper kan objecten en omstandigheden inrichten en verwachte verbanden beschrijven, terwijl de lerende zelf keuzes maakt over doelen, route, tempo, hulp en deelname.
+
+== Uitnodiging en structuur ==
+Een beschreven volgorde kan zinvol zijn als een handeling een bepaalde bekwaamheid veronderstelt. Zo'n afhankelijkheid vraagt onderbouwing. Zij rechtvaardigt niet automatisch een verplicht leerpad. [[Leertaal/Toepassing#Leerproces|Procesbeschrijvingen]] worden daarom gelezen als toetsbare verwachtingen, niet als gegarandeerde routes naar leren.
+
+Zelfgekozen structuur kan vrijheid ondersteunen. Een lerende kan een voorbeeld volgen, een begeleider raadplegen of vrijwillig samenwerken. Het verschil met opgelegde structuur zit onder meer in instemming, beschikbare alternatieven en de gevolgen van weigering. Een verplicht collectief wordt niet vrij doordat het samen leert. Zie [[Zelf leren/Zelfkeuze|zelfkeuze]] en [[Zelf leren/Zelfregie|zelfregie]].
+
+== Veiligheid en uitdaging ==
+Vrijheid moet worden verbonden met een integer en veilig kader. Uitdaging kan aantrekkelijk zijn, maar overvraging of vernedering wordt daarmee niet gerechtvaardigd. De [[Leertaal/Vrijheid#Leercontext|contextdimensie Veiligheid]] beschrijft verschillen in ervaren vangnet en zelfstandigheid. Zij maakt onderzoek naar de noodzakelijke grenzen niet overbodig.
+
+== Normatieve taal ==
+Een taal kan bepaalde vormen van dwang buiten haar toegestane beschrijvingen houden. Daarvoor zijn niet alleen trefwoorden nodig: druk kan ook in beloningsvoorwaarden, rollen en contextgegevens zitten. Grammatica, typen en betekenisregels kunnen expliciet opgegeven strijdigheden herkennen. Een geldig statement bewijst niet dat een werkelijk leerarrangement vrij is.
+
+== Leerbox ==
+Een [[Leertaal/Leerbox|leerbox]] biedt middelen, ruimte en herkenbare mogelijkheden om zelfstandig te beginnen. Het verminderen van onnodige externe sturing is een ontwerpintentie. Het hoeft vrijwillige hulp, sociaal leren of samenwerking met anderen niet uit te sluiten.
+
+== Inhoudelijke regels ==
+Een regelbibliotheek kan helpen passende mogelijkheden te vinden. De aanname dat meer vrijheid tot een betere afstemming en leerimpact leidt, moet per situatie worden onderzocht. Techniek ondersteunt het kiezen; zij neemt de persoonlijke keuze niet ongemerkt over.
+
+
+== Leercontext ==
+Een '''leercontext''' is de betekenisvolle situatie waarin een leeractie plaatsvindt. Naast de fysieke of digitale omgeving horen ook relaties, rollen, middelen en afspraken erbij. Een context kan uitnodigen tot leren zonder de reactie van de lerende voor te schrijven.
+
+=== Aantrekkelijkheid ===
+Een mogelijk model beschrijft aantrekkelijkheid langs vijf dimensies. De namen van bekende plekken dienen als herkenbare beelden voor kenmerken. Een werkelijke omgeving wordt als combinatie beschreven.
+
+{| class="wikitable"
+! Dimensie !! Kernbeelden !! Betekenis
+|-
+| Afstemming || Arena, Winkel, Niemandsland, Club || Aansluiting bij respectievelijk Veroveraar, Verwerver, Verkenner en Volger.
+|-
+| Veiligheid || Thuis → Speeltuin → Broedplaats → Wildernis || Van geborgenheid naar experimenteren met steun en zelfstandigheid met weinig vangnet.
+|-
+| Interactie || Grot → Cockpit → Stamtafel → Forum || Alleen, als duo, in een kleine groep of in een grotere gemeenschap samen handelen.
+|-
+| Funfactor || Laboratorium → Studio → Museum → Festival || Van nadruk op functie naar nadruk op vermaak en beleving.
+|-
+| Beloning || Casino → Markt → Werkplaats → Atelier || Van incidentele externe score naar handel, vakmanschap en duurzame, meer intrinsieke waarde.
+|}
+
+=== Afstemming ===
+De [[Leertaal/Typen#Leeractor|actorprofielen]] zijn situatieafhankelijk. De Arena verbeeldt uitdaging en doorbraak, de Winkel verkrijgen en opbrengst, de Club aansluiting bij anderen en Niemandsland terrein dat voor deze lerende onbekend is. Niemandsland betekent hier niet noodzakelijk gevaar. Onbekend terrein kan veilig zijn en een bekende wildernis kan bedreigend blijven.
+
+Afstemming is geen rangorde van laag naar hoog. Een rijke omgeving kan verschillende voorkeuren tegelijk aanspreken. Het model kiest geen aparte contextnaam voor de Verlater; niet-deelnemen moet wel beschreven kunnen worden.
+
+=== Veiligheid ===
+Thuis verbeeldt vertrouwdheid. Speeltuin voegt beschermd experiment toe. Broedplaats biedt ruimte voor eigen werk met onderlinge steun. Wildernis verbeeldt meer zelfstandigheid en minder vangnet. Deze beelden sluiten aan bij het onderscheid tussen comfort, ontwikkelruimte en overvraging.
+
+De reeks beschrijft ervaren uitdaging en steun, niet een algemene toestemming voor onveiligheid. De verhouding tussen zelfstandigheid en een integer, fysiek en sociaal veilig leerkader moet worden uitgewerkt. Eenzelfde situatie kan voor verschillende personen verschillend uitpakken. Zie ook [[Zelf leren/Zelfzorg|zelfzorg]].
+
+=== Interactie ===
+Grot verbeeldt individueel werken. Cockpit staat voor gerichte samenwerking van twee mensen. Stamtafel duidt op wederzijdse uitwisseling binnen een kleine groep. Forum staat voor een veel grotere groep met werkelijk contact of gezamenlijke activiteit.
+
+Alleen samen op één plek zijn bewijst geen samenwerking. Omgekeerd vereist [[Vrij leren|vrij leren]] geen individuele afzondering: ook een zelfgekozen netwerk of collectief kan passen. Een vrijwillige afspraak is iets anders dan verplicht groepswerk.
+
+=== Funfactor ===
+Laboratorium verbeeldt in deze indeling de nadruk op functionaliteit. Studio voegt ruimte voor spel en experiment toe. Museum combineert serieuze inhoud met beleving. Festival legt de nadruk op vermaak. Een echt laboratorium kan uiteraard plezier geven; de namen beschrijven modelbetekenissen, geen vaste eigenschappen van alle plaatsen.
+
+Meer vermaak is niet altijd aantrekkelijker. De verhouding tussen ervaren nut en [[Leerpret|leerplezier]] is persoonlijk. De context beschrijft het aanbod, terwijl de actor de beleving ervaart. Zie ook [[Leerattractie/Attractie|leerattracties]] en [[Leerbroedplaats|leerbroedplaatsen]].
+
+=== Beloning ===
+Casino verbeeldt een incidentele extrinsieke score. Markt voegt handelen en inzicht toe aan opbrengstgerichtheid. Werkplaats richt zich op vakmanschap. Atelier benadrukt creëren en meer duurzame persoonlijke ontwikkeling.
+
+De indeling verbindt twee contrasten: incidenteel tegenover duurzaam en extrinsiek tegenover intrinsiek. Die zijn niet noodzakelijk hetzelfde. Bij toetsing moet worden onderzocht of één dimensie beide voldoende onderscheidt. Het concrete beloningsaanbod blijft een eigenschap van het [[Leertaal/Leerbox#Leerobject|object]] onder bepaalde voorwaarden.
+
+=== Combinaties en grenzen ===
+Een drukwerkplaats kan tegelijk het experiment van een Speeltuin, de interactie van een Stamtafel en het vakmanschap van een Werkplaats bieden. Relatieve gewichten kunnen de verhouding binnen een dimensie beschrijven. Gewichten uit verschillende dimensies zijn niet automatisch vergelijkbaar.
+
+Het model neemt aan dat de dimensies voldoende onafhankelijk kunnen variëren en samen relevante verschillen weergeven. Onafhankelijkheid en volledigheid volgen niet uit de gekozen namen en vragen [[Leertaal/Testen|onderzoek]]. Fysiek en digitaal kunnen realisatiekenmerken zijn. Vrij en onvrij vormen binnen een taal voor vrij leren geen vrij mengbare contextvarianten.
+
+{{Opmaak | Voettekst}}

@@ -1,0 +1,78 @@
+{{Index Handleiding moderatoren}}
+==Leerdoel==
+Moderatoren bekend maken met de Pywikipedia-bot, als ook de voordelen daarvan.
+
+==Vereisten==
+*Werken in een dos-scherm voor Windowsgebruikers
+*Werken in een terminal voor Linux- en Mac-gebruikers
+*Een gezonde antipathie tegen veelvuldige kleine bewerkingen
+
+==Wat is een bot==
+Een bot bestaat uit een aantal programma's, die in het geval van pywikipedia in de programmeertaal Python zijn geschreven. De bot wil enige, voornamelijk, onderhoudstaken automatiseren of vergemakkelijken. Dit betekent overigens niet dat een bot geen input nodig heeft van de gebruiker. De gebruiker moet afhankelijk van het type wijziging veelvuldig, voorgestelde bewerkingen van het botprogramma beoordelen en accorderen.
+
+==Bot downloaden en installeren==
+=== Windows ===
+*Als eerste gaan we Python downloaden. Volg deze link en download Python: [https://www.python.org/download/ www.python.org/download/]
+*Pak het bestand uit in de directory <code>c:\Python25</code>
+*Als tweede komt de bot. Hier bevindt zich de snapshot voor de bot op [https://sourceforge.net/projects/pywikipediabot Sourceforge]. Laatste versie van de bot downloaden.
+*Installeer de files in een directory bijvoorbeeld: <code>c:\pywikipediabot</code>
+*Vervolgens moet je zorgen dat de botsoftware de alle routines terugvindt, door de directory toe te voegen aan de lijst met mappen waar het besturingssysteem in kijkt
+**Voor windows XP:
+***ga daarvoor naar het configuratiescherm en kies "systeem".
+***Ga naar het tabblad "Geavanceerd". Onderaan vind je een knop "Omgevingsvariabelen".
+***Het scherm dat je nu krijgt bestaat uit twee delen. Kies in het onderste de lijn met "Path" en klik op "Bewerk".
+***Voeg op het einde van de lijn een kommapunt en plaats daar de directorynaam (<code>c:\pywikipediabot</code>) van de botsoftware achter. Indien je een andere directory gekozen hebt die spaties in de naam bevat, moet je de directorynaam tussen aanhalingstekens plaatsen.
+***Druk 3 maal op OK
+
+=== Linux ===
+Vaak is Python al geïnstalleerd in Linux. Je kunt dus direct de bot downloaden. Mits svn geïnstalleerd is, kan dit met:
+<pre>$ svn checkout https://svn.wikimedia.org/svnroot/pywikipedia/trunk/pywikipedia pywikipedia</pre>
+
+==Bot onderhouden==
+===SVN===
+;Wat is {{Wp|Subversion|SVN}}?
+:Een SVN-programma vergelijkt dezelfde bestanden zowel op de eigen computer, met die bestanden die in het internet op SourceForge aangeboden worden. Als er een verschillende versie beschikbaar is, zal het SVN-programma het nieuwste bestand downloaden en het bestaande bestand vervangen.
+
+;TortoiseSVN voor Windows
+TortoiseSVN is een veelgebruikt en eenmaal geïnstalleerd, een SVN programma dat eenvoudig is in het gebruik. Het programma is verkrijgbaar op  [https://www.tortoisesvn.net www.tortoisesvn.net].
+
+
+;Commandline voor Linux
+Als je de software via SVN hebt gedownload, zoals hierboven beschreven, kun je deze updaten met:
+<pre>$ svn update</pre>
+
+===Het hele bot framework===
+De hele bot kan ook elke keer worden gedownload. Elke nacht worden zogenaamde ''Nightlies'' beschikbaar gesteld op de toolserver. Het gebruik van SVN wordt aangeraden, omdat daarmee de bestanden makkelijker bij te werken zijn. Deze nightlies zijn een goed alternatief als je ze vaak bijwerkt. De verzamelfile is beschikbaar via [https://tools.wikimedia.de/~valhallasw/pywiki/ tools.wikimedia.de/~valhallasw/pywiki].
+
+==De bot voorbereiden==
+Voordat je de bot kunt gebruiken dien je een configuratie-bestand aan te maken.
+*Open een tekstverwerkingsprogramma, bijvoorbeeld Kladblok.
+*Voeg het volgende toe aan het bewerkingsscherm
+<pre>
+mylang = 'nl'
+family = 'wikipedia'
+usernames['wikipedia']['nl'] = 'Naam_van_jouw_robotaccount'
+</pre>
+*Sla dit bestand op in <code>c:/Pywikipediabot-nl</code> met als naam <code>user-config.py</code>
+Dit configuratie-bestand bevat de op zijn minst nodige informatie, waarmee kan worden gewerkt.
+
+==De bot starten==
+=== Windows ===
+*Druk op start en kies vervolgens uit <code>uitvoeren</code>
+*Typ in <code>cmd.exe</code> een dos-scherm verschijnt.
+*Typ vervolgens <code>cd c:/Pywikipedia-nl</code> en je bent in de bot-directory aangekomen.
+*Typ (voor het geval de path naar Python nog niet is vastgelegd) <code>path c:/Python25</code>, zodat de computer de exe-file van python weet te vinden.
+*Nu moet je eerst op wikipedia inloggen. Dat gaat zo: <code>python login.py</code> intypen.
+*Het inlog-programma vraagt om het wachtwoord van je botaccount; typ dit in. Het inlogprogramma eindigt met de mededeling: ''should be logged in now''.
+De bot is nu klaar om met het echte werk te gaan beginnen.
+
+
+=== Linux ===
+Open een terminal en ga naar de map waarin je pywikipedia hebt opgeslagen. Nu moet je eerst op wikipedia inloggen door login.py uit te voeren, normalerwijs met: <code>python login.py</code>. Het inlog-programma vraagt om het wachtwoord van je botaccount; typ dit in. Het inlogprogramma eindigt met de mededeling: ''should be logged in now''.
+
+==Meest gebruikte bots voor moderator- en onderhoudstaken==
+*Category.py kan helpen bij de verwijderlijst voor categorieën.
+*Delete.py kan helpen bij het verwijderen van vele foutief (door bots) aangemaakte pagina's.
+*Redirect.py kan helpen bij het oplossen van ''dubbele doorverwijzingen'' en ''Doorverwijzingen naar een niet-bestaande pagina''.
+*Template.py kan helpen bij het aanpassen en oplossen van problemen met sjablonen.
+{{Sub}}

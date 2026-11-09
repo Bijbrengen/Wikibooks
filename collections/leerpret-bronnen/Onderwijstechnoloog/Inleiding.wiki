@@ -1,16 +1,16 @@
 {{Opmaak}}
 Een onderwijstechnoloog is de architect en beheerder van een [[Onderwijsplatform|Onderwijsplatform]]. In een moderne onderwijsomgeving gaat de rol van de onderwijstechnoloog verder dan het simpelweg ondersteunen bij ICT-gebruik; het is de persoon die de digitale infrastructuur ontwerpt waarin het leren plaatsvindt. 
 
-De kernopdracht van de onderwijstechnoloog is het implementeren van een [[Onderwijstaal|Onderwijstaal]] (zoals '''Freell''') om leerdoelen en processen om te zetten in werkende systemen. Hierbij staat de [[Onderwijstaal/Leerbox|Leerbox]] centraal als het standaardformaat voor de uitwisseling en presentatie van leermiddelen.
+De kernopdracht van de onderwijstechnoloog is het implementeren van een [[Leertaal|leertaal]] om leerdoelen en processen om te zetten in werkende systemen. Hierbij staat de [[Leertaal/Leerbox|Leerbox]] centraal als het standaardformaat voor de uitwisseling en presentatie van leermiddelen.
 
-Hosting, Onderwijs en Ontwerp zijn de kernvaardigheden. Hosting verwijst naar het beheren van de servers en platforms die de [[Onderwijstaal/Leerbox|Leerbox]] ontsluiten. Onderwijs behelst de kennis van didactische methoden die vertaald moeten worden naar algoritmes. Ontwerp focust op de [[Onderwijswiki/Architectuur|Architectuur]] van het platform om [[Onderwijstaal/Vrijheid|vrij leren]] technisch mogelijk te maken.
+Hosting, Onderwijs en Ontwerp zijn de kernvaardigheden. Hosting verwijst naar het beheren van de servers en platforms die de [[Leertaal/Leerbox|Leerbox]] ontsluiten. Onderwijs behelst de kennis van didactische methoden die vertaald moeten worden naar algoritmes. Ontwerp focust op de [[Onderwijswiki/Architectuur|Architectuur]] van het platform om [[Leertaal/Vrijheid|vrij leren]] technisch mogelijk te maken.
 
 De onderwijstechnoloog moet zichzelf trainen in competenties die nodig zijn om met ICT een leerarchitectuur te creëren. Dit betekent: leren om leren te definiëren door middel van algoritmes.
 
 Belangrijke technologieën en concepten voor de onderwijstechnoloog:
 * '''[[Onderwijsplatform|Onderwijsplatform]]''': De overkoepelende omgeving waarin alle componenten samenkomen.
-* '''[[Onderwijstaal/Leerbox|Leerbox]]''': Het modulaire formaat voor leereenheden.
-* '''[[Onderwijstaal/Freell|Freell]]''': De declaratieve taal voor het beschrijven van leerpaden.
+* '''[[Leertaal/Leerbox|Leerbox]]''': Het modulaire formaat voor leereenheden.
+* '''[[Leertaal/Declaratief|Declaratieve leertaal]]''': De declaratieve taal voor het beschrijven van leerpaden.
 * '''[[Onderwijswiki/Scribunto|Scribunto (Lua)]]''': Voor het bouwen van complexe logica binnen de wiki-omgeving.
 * '''LRS (Learning Record Stores)''': Voor het beheren en analyseren van leerdata via de Experience API (xAPI).
 * '''LTI (Learning Tools Interoperability)''': Voor de naadloze integratie van externe tools in het platform.

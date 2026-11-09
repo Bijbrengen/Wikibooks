@@ -1,0 +1,76 @@
+{{Opmaak}}
+== Profiel ==
+{{Wp|Carl Schlechter|Carl Schlechter}} was een Oostenrijkse schaakgrootmeester. Naast bekendheid met zijn gambiet als reactie op de Bird opening, heeft hij ook andere variaties bedacht op de {{Wp|Frans_(schaakopening)|Franse verdediging}}, de {{Wp|Slavisch (schaakopening)|Slavische verdediging}} en op het {{Wp|Deens gambiet|Deens of Noors gambiet}}.
+
+== Gambiet ==
+'''1.f4 e5 2.fxe5 Nc6'''
+
+Carl Schlechter bedacht een naar hem vernoemde gambiet op de [[Schaken door meesters/Bird|Bird's]] opening namelijk '''1.f4 e5 2.fxe5 Nc6''' om zelfs twee pionnen te offeren met als compensatie een ontwikkelingsvoordeel en open lijnen die wit kunnen aanvallen. De Schlechter-gambiet ontstaat als wit de [[Schaken door meesters/From|From gambiet]] accepteert (wat ook de aan te raden keuze is) en zwart zijn paard aan de kant van de koningin ontwikkelt.
+
+{{Opmaak
+| Object = Schaak
+| Definitie = Schlechter-gambiet
+| Beschrijving = Het Schlechter-gambiet na de zetten 1. f4 e5 2. fxe5 Nc6
+| Orientatie = wit
+|
+8 |rd|  |bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|pd|  |pd|pd|pd|
+6 |  |  |nd|  |  |  |  |  |
+5 |  |  |  |  |pl|  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|pl|pl|  |pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+De bedoeling van deze gambiet is nog een pion aan te bieden nadat wit bijvoorbeeld zijn paard naar '''Nf3''' verplaatst heeft. 
+
+'''1.f4 e5 2.fxe5 Nc6 3. Nf3 e3'''
+
+{{Opmaak
+| Object = Schaak
+| Definitie = Tweede Pionoffer
+| Beschrijving = De voortzetting na 3. Nf3 d6 (het tweede offer)
+| Orientatie = wit
+|
+8 |rd|  |bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|  |  |pd|pd|pd|
+6 |  |  |nd|pl|  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |nl|  |  |
+2 |pl|pl|pl|pl|pl|  |pl|pl|
+1 |rl|nl|bl|ql|kl|bl|  |rl|
+   a  b  c  d  e  f  g  h
+}}
+
+De beste zet voor wit is ook de tweede pion te nemen (4. exd6). Zwart vervolgt met '''4... Bxd6'''. Wit dient snel zijn stukken te ontwikkelen terwijl hij zijn koning veilig houdt. De dreiging op de koningsflank is aanzienlijk, met name op het veld h2.
+
+Een andere optie voor zwart is '''3... Bc5'''. Wit kan dit het beste beantwoorden met '''4. e3''', waarna wit het centrum stevig in handen houdt (+0.7).
+
+'''1.f4 e5 2.fxe5 Nc6 3. Nf3 e3 4. exd6 Bxd6 5. d4'''
+
+{{Opmaak
+| Object = Schaak
+| Definitie = Centrale Consolidatie
+| Beschrijving = Wit claimt ruimte in het centrum met 5. d4
+| Orientatie = wit
+|
+8 |rd|  |bd|qd|kd|  |nd|rd|
+7 |pd|pd|pd|  |  |pd|pd|pd|
+6 |  |  |nd|bd|  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |pl|  |  |  |  |
+3 |  |  |  |  |  |nl|  |  |
+2 |pl|pl|pl|  |pl|  |pl|pl|
+1 |rl|nl|bl|ql|kl|bl|  |rl|
+   a  b  c  d  e  f  g  h
+}}
+
+== Evaluatie van Combinaties ==
+Het Schlechter gambiet is een test voor de witte zenuwen:
+* '''Dubbel offer''': Door twee pionnen te offeren, creëert zwart maximale druk. Wit moet echter niet in paniek raken; met een zet als '''5. d4''' claimt wit ruimte en bereidt hij een veilige stelling voor.
+* '''Loperpaar''': Zwart vertrouwt op de kracht van zijn lopers, vooral de loper op d6 die direct naar de witte koningsstelling wijst.
+* '''Materiële balans''': Als wit de storm overleeft, is het extra materiaal vaak doorslaggevend in het eindspel. De computer-evaluatie van +0.6 bevestigt dat wit, mits nauwkeurig spel, in het voordeel is.
+
+{{Opmaak | Voettekst}}

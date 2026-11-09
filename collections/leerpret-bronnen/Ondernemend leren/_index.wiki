@@ -2,12 +2,12 @@
 | Titel = Ondernemend leren
 | Object = Boek
 | Bron = Nikola Tesla flies on the back of a bird to the moon.png
-| Definitie = [[w:nl:Ondernemend leren|Ondernemend leren]] is een term in het onderwijs die verwijst naar een manier van [[leren]],<br>die past bij de talenten en passies van een "ondernemende leerling".<br>Een ondernemende leerling is een lerende die in een bepaalde context een productieve [[leerstijl]] toont.<br>Het uiteindelijke doel is dat de leerling maatschappelijke waarde toevoegt door iets nieuws te starten.<br>''Ondernemend leren = [[Speels leren]] + [[Onderzoekend leren]] + [[Ontwerpend leren]]''
+| Definitie = {{Wp|Ondernemend leren|Ondernemend leren}} is een term in het onderwijs die verwijst naar een manier van [[leren]],<br>die past bij de talenten en passies van een "ondernemende leerling".<br>Een ondernemende leerling is een lerende die in een bepaalde context een productieve [[leerstijl]] toont.<br>Het uiteindelijke doel is dat de leerling maatschappelijke waarde toevoegt door iets nieuws te starten.<br>''Ondernemend leren = [[Speels leren]] + [[Onderzoekend leren]] + [[Ontwerpend leren]]''
 | Beschrijving = Dit boek is bedoeld om alle kinderen en jongeren de kans te geven om kennis te maken met en zich verder te ontwikkelen in ondernemend leren. Ondernemend leren ondersteunt ondernemende kinderen om dichtbij zichzelf te blijven en zich van daaruit te ontpoppen tot gelukkige succesvolle ondernemende mensen. Doordat kinderen van jongs af aan leren dicht bij zichzelf te blijven, trouw aan zichzelf en de ander leren zijn, zullen ze minder uitval gedurende hun loopbaan ervaren, en een grotere kans op levensgeluk gedurende hun leven, nu en op langere termijn. Er is bewust voor gekozen om geen boek te schrijven over het starten van een aparte ondernemende school, maar om adviezen te geven hoe je ondernemend onderwijs kan opzetten binnen bestaande scholen om ondernemende kinderen te bedienen. 
 | Formaat = html
 | Voortgang = 100
 | Support = Signaleer
-| Referentie = wikipedia, wikijunior
+| Referentie = wikipedia<!--, wikijunior-->
 | Collectie = Leren
 | Onderdeel = Productief, Doelgroep, Methode, Implementatie
 | [https://wikikids.nl/Ondernemend_leren Wikikids] heeft een artikel over  '''''[https://wikikids.nl/Ondernemend_leren Ondernemend leren]''''' voor kinderen

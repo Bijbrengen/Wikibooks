@@ -1,0 +1,40 @@
+{{Opmaak}}
+
+Naast de grote architectuur van MVC heeft de [[Module:Layout]] een schat aan kleine, herbruikbare bouwstenen verzameld in de '''Library''' (Bibliotheek).
+
+== Herbruikbaarheid ==
+Een goede programmeur herhaalt zichzelf niet (DRY: Don't Repeat Yourself).
+Algemene taken zoals het bewerken van tekst, het berekenen van kleuren of het valideren van data worden ondergebracht in de Library.
+
+== Submodules ==
+De bibliotheek is een groeiende verzameling van gereedschappen:
+
+* '''Data & Berekeningen''':
+** `Array`: Krachtige functies om tabellen en lijsten te manipuleren.
+** `Calculator`: Rekenkundige hulpfuncties.
+** `Timestamp`: Werken met datums en tijden.
+* '''Visueel''':
+** `Color`: Omzetten van kleuren (bijv. van HEX naar RGB) en het berekenen van kleurtinten.
+** `Box`: Hulp bij het maken van visuele kaders en vakken.
+* '''Tekst & Validatie''':
+** `Text`: Geavanceerde tekstbewerkingen.
+** `Pattern`: Werken met Lua-patronen (regex).
+** `Markup`: Helpt bij het genereren van correcte wikitekst en HTML.
+** `Validation`: Algemene regels om te controleren of data klopt.
+* '''Systeem''':
+** `Mediawiki`: Abstractielaag voor specifieke MediaWiki-functies.
+** `Unittest`: Een compleet framework om andere modules automatisch te testen op fouten.
+
+== Voordelen ==
+Door deze functies in een centrale bibliotheek te plaatsen, wordt de rest van de module veel leesbaarder.
+In plaats van 20 regels code om een kleur lichter te maken, schrijven we in de View:
+
+<pre>
+local color = CFG.INCLUDE( environment, "library/color" );
+local lichteKleur = color.lighten( "0000FF", 2 );
+</pre>
+
+Dit maakt de code niet alleen korter, maar ook makkelijker te onderhouden.
+Als we de manier waarop we kleuren berekenen willen verbeteren, hoeven we dat maar op één plek te doen.
+
+{{Opmaak | Voettekst}}

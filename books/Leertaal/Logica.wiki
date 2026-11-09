@@ -1,0 +1,120 @@
+{{Opmaak}}
+Een formele leertaal legt relaties en betekenissen expliciet vast. De aanname is dat dit helpt om ambiguïteit en tegenstrijdigheden te herkennen. Meer formele complexiteit maakt een leeromgeving echter niet vanzelf vrijer of effectiever.
+
+== Drie niveaus ==
+# '''Vorm''': de beschrijving volgt de grammatica.
+# '''Interne betekenis''': typen, verwijzingen en opgegeven voorwaarden zijn consistent.
+# '''Werkelijkheid''': de beschreven gebeurtenissen en leerverwachtingen zijn voldoende onderbouwd.
+
+Een [[Leertaal/Interpreter|interpreter]] kan de eerste twee niveaus ondersteunen voor zover de afspraken geformaliseerd zijn. Het derde vraagt gegevens, interpretatie en eventueel onderzoek. Een onjuiste interpretatie kan grammaticaal geldig zijn.
+
+== Onderbouwing van regels ==
+De [[Leertaal/Logica#Grondslagen|grondslagen]] kunnen als netwerk worden beschreven: regels sluiten aan op uitgewerkte deelonderwerpen, die op hun beurt met uitgangspunten zijn verbonden. Een regel kan meerdere gronden hebben. Een ontbrekende aanname kan niet worden hersteld door alleen de software correct te laten werken.
+
+== Afhankelijkheden ==
+Uit een onderbouwde hogere actieclaim kunnen benodigde componenten volgen. Als reflectie analyse en ervaring veronderstelt, moet duidelijk zijn waarop die componenten berusten. De verwerking mag ze niet verzinnen of als afzonderlijk uitgevoerde gebeurtenissen registreren. Een logisch vereiste is geen bewijs van historische uitvoering.
+
+== Taalmodellen ==
+Bij het omzetten van gewone tekst naar een formele taal kan logica als controle helpen. Een verhaal is echter niet automatisch volledig in formules om te zetten. Betekenisverlies en plausibele misinterpretaties blijven mogelijk. Zie [[Leertaal/Conversie|conversie]] en [[Leertaal/Testen|toetsing]].
+
+== Onzekerheid ==
+Een taal kan onderscheid maken tussen gewenst, verwacht, waargenomen, onderbouwd en onbekend. Deze statussen mogen niet door een naam, gewicht of score stilzwijgend gelijk worden gemaakt. Een consistente theorie is bovendien geen bewijs dat haar aannamen over leren juist zijn.
+
+
+== Grondslagen ==
+Een leertaal berust op begripskeuzes en aannamen over het leren dat zij wil beschrijven. Het expliciteren van die aannamen maakt zichtbaar waarom een taalconstructie of regel bestaat. Het onderstaande redeneermodel kan worden gebruikt bij het ontwerpen en beoordelen van een taal voor [[Vrij leren|vrij leren]].
+
+=== Van begrip naar regel ===
+* '''Definities''' leggen vast wat begrippen binnen het model betekenen.
+* '''Axioma's''' zijn gekozen uitgangspunten die binnen dat model worden aangenomen.
+* '''Theorema's''' zijn uitspraken die met de uitgangspunten worden verbonden.
+* '''Lemma's''' werken een deelonderwerp uit met voorwaarden, voorbeelden en tegenvoorbeelden.
+* '''Taalregels''' maken een deel van die afspraken controleerbaar.
+
+De woorden ''theorema'' en ''lemma'' worden hier als ontwerpstructuur gebruikt. Anders dan bij een wiskundig bewijs zijn aanvullende aannamen en empirische toetsing vaak nodig. Een logisch consistente regel bewijst geen leerwerking in de werkelijkheid.
+
+=== Mogelijke uitgangspunten ===
+Een model voor vrij leren kan aannemen dat:
+# duurzame leerimpact het inhoudelijke doel vormt;
+# autonomie en variatie de leerimpact moeten dienen;
+# een veilig en integer leerkader nodig is;
+# de leertaal die uitgangspunten expliciet beschrijfbaar maakt;
+# betekenisvolle contexten bij de beschrijving horen.
+
+De onderlinge verhouding vraagt aandacht. Vrijheid is niet automatisch onbeperkte ruimte zonder houvast. Een gekozen uitdaging rechtvaardigt evenmin automatisch fysieke, sociale of psychologische onveiligheid. Formalisering is een eis aan de taalbeschrijving, geen voorwaarde waaronder mensen buiten die taal pas zouden kunnen leren.
+
+=== Ontwerpconsequenties ===
+De uitgangspunten kunnen worden uitgewerkt in de volgende samenhangende onderwerpen:
+{| class="wikitable"
+! Onderwerp !! Te onderzoeken ontwerpgedachte
+|-
+| Operationalisatie || Actor, actie, object en context maken leren beschrijfbaar.
+|-
+| Evenwicht || Uitdaging sluit aan op wat de lerende aankan.
+|-
+| Contextualisatie || De situatie maakt zichtbaar waarop impact betrekking heeft.
+|-
+| Autonomie || Richting, tempo en evaluatie blijven zoveel mogelijk bij de lerende.
+|-
+| Veiligheid || Fouten kunnen worden onderzocht binnen beschermende randvoorwaarden.
+|-
+| Spel || [[Speels leren|Spel en uitdaging]] kunnen betrokkenheid ondersteunen.
+|-
+| Regulering || Feedback en zelfgekozen hulp kunnen bijsturing ondersteunen.
+|-
+| Eenduidigheid || Definities en betekenisregels verminderen interpretatieverschillen.
+|-
+| Modelleren || [[Model leren|Waarnemen en nadoen]] zijn beschikbare routes.
+|-
+| Diversiteit || Verschillende routes kunnen passen bij persoon en situatie.
+|-
+| Ondernemen || [[Ondernemend leren|Initiatief en toepassing]] kunnen nieuwe kennis of waarde opleveren.
+|-
+| Ontwerpen || [[Ontwerpend leren|Bedenken, maken en veranderen]] kunnen begrip ondersteunen.
+|-
+| Onderzoeken || Eigen vragen en het toetsen van verwachtingen kunnen tot inzicht leiden.
+|-
+| Doen || Handelen omvat ook mentale verwerking.
+|-
+| Erkenning || Sociale waardering kan motiveren en kan ook druk veroorzaken.
+|-
+| Meting || Waarnemingen moeten bruikbare terugkoppeling kunnen geven.
+|-
+| Transformatie || Impact betreft duurzame verandering; organisaties kunnen daarvoor anders moeten werken.
+|-
+| Ondersteuning || Tijdelijke hulp en herbruikbare middelen kunnen lerenden en aanbieders ondersteunen.
+|-
+| Consensus || Gedeelde taal vraagt expliciete afstemming over betekenissen.
+|-
+| Delen || Beschrijvingen en praktijkvoorbeelden moeten begrijpelijk kunnen worden hergebruikt.
+|-
+| Begrenzing || Keuzeruimte en uitdaging moeten overvraging helpen voorkomen.
+|-
+| Validatie || Uitwerkingen worden getoetst aan hun uitgangspunten en verantwoordelijkheden.
+|-
+| Evolutie || Ervaring kan tot bijstelling leiden, met behoud van herkenbare taalversies.
+|}
+
+=== Uitgewerkte deelonderwerpen ===
+Voor een regelbibliotheek kunnen onder meer de volgende deelonderwerpen worden uitgewerkt:
+* [[Leren leren/Doel|leerdoelformulering]], vrijheidsgraden, consensusvalidatie en zelfbepaling;
+* passende ontwikkelruimte, tijdelijke ondersteuning en constructieve omgang met fouten;
+* onderzoekende vragen, handelingsgericht maken en formatieve terugkoppeling;
+* [[Zelf leren/Zelfconstructie|gedeelde betekenisverlening]], deelbare kennisproducten en contextuele transfer;
+* keuzeruimte in gedrag, beoordeling door medebeoordelaars en persoonlijke mogelijkheden;
+* aanpassing door ervaring, sociale samenwerking en wederkerigheid;
+* leren van modellen en [[Onderzoekend leren|nieuwsgierige exploratie]];
+* erkenning en reputatie, [[Zelf leren/Zelfzorg|balans en zelfregulatie]];
+* [[Verhalend leren|verhalende betekenisgeving]] en speelse experimenteerruimte.
+
+Titels als biologische dispositie, adaptieve plasticiteit, homeostase of zone van naaste ontwikkeling verwijzen naar bredere theoretische onderwerpen. Een verwijzing naar een boek of een overeenkomstige term bewijst nog geen volledig uitgewerkt mechanisme. Ook zijn fysische vrijheidsgraden niet zonder meer een maat voor menselijke keuzevrijheid.
+
+=== Opbouw van een uitwerking ===
+Een bruikbare uitwerking bevat de bewering, betrokken uitgangspunten, aanvullende aannamen, voorbeelden, tegenvoorbeelden, toetsbare voorwaarden, bronnen en een versie. Een mogelijk voorbeeld is een reflectieaanbod dat kan worden aangenomen, overgeslagen en later opnieuw opgezocht. Een reflectievraag met puntenaftrek bij weigering voldoet niet aan dezelfde vrijwilligheidsaanname.
+
+=== Taal en inhoudelijke kennis ===
+De stabiele structuur van een leertaal hoeft niet samen te vallen met alle regels over goed leren. Verschillende inhoudelijke bibliotheken kunnen eenzelfde taal gebruiken. De minimale vrijheidsvoorwaarden horen bij de gekozen betekenis van de taal; meer specifieke verwachtingen over motivatie, ondersteuning of leerwerking blijven afzonderlijk te onderzoeken.
+
+Bij taalbeheer is onderscheid mogelijk tussen stabiele uitgangspunten, zorgvuldig gewijzigde begrippen, inhoudelijke uitwerkingen en doorlopende technische verbeteringen. Bevoegdheden en besluitvorming moeten expliciet zijn. Technische validatie vervangt geen inhoudelijke beoordeling of [[Leertaal/Testen|empirische toetsing]].
+
+{{Opmaak | Voettekst}}

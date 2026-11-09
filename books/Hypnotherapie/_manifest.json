@@ -1,0 +1,87 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Hypnotherapie",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Hypnotherapie",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 6,
+  "pages": [
+    {
+      "title": "Hypnotherapie",
+      "file": "_module.wiki",
+      "pageid": 39855,
+      "contentmodel": "wikitext",
+      "revid": 424669,
+      "parentid": 424111,
+      "timestamp": "2026-04-27T13:08:28Z",
+      "user": "BeeBringer",
+      "comment": "",
+      "sha1": "a23d01fdac5908d1eda1da944a8b005950635645",
+      "bytes": 1229
+    },
+    {
+      "title": "Hypnotherapie/Hypnose",
+      "file": "Hypnose.wiki",
+      "pageid": 39857,
+      "contentmodel": "wikitext",
+      "revid": 431700,
+      "parentid": 424447,
+      "timestamp": "2026-11-01T14:05:32Z",
+      "user": "Erik Baas",
+      "comment": "-ref: geeft foutmelding op [[Categorie:Wikibooks:Pagina's met referentiefouten]]",
+      "sha1": "e1e56f9438fffcfcf0a04acb6b65b529d7baa465",
+      "bytes": 7387
+    },
+    {
+      "title": "Hypnotherapie/Theorie",
+      "file": "Theorie.wiki",
+      "pageid": 39861,
+      "contentmodel": "wikitext",
+      "revid": 424448,
+      "parentid": 424362,
+      "timestamp": "2026-04-26T17:56:33Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "45231227623323302d37a7c7ad18441d09f9d640",
+      "bytes": 6965
+    },
+    {
+      "title": "Hypnotherapie/Therapie",
+      "file": "Therapie.wiki",
+      "pageid": 39858,
+      "contentmodel": "wikitext",
+      "revid": 424449,
+      "parentid": 424361,
+      "timestamp": "2026-04-26T17:56:39Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "bb9c674bd27282b6486b9be910ea1e6666dc217a",
+      "bytes": 7400
+    },
+    {
+      "title": "Hypnotherapie/Toepassing",
+      "file": "Toepassing.wiki",
+      "pageid": 39860,
+      "contentmodel": "wikitext",
+      "revid": 424646,
+      "parentid": 424645,
+      "timestamp": "2026-04-27T05:39:59Z",
+      "user": "BeeBringer",
+      "comment": "",
+      "sha1": "d86421ef88a02f46af09c2a92e69335b8d5f43d0",
+      "bytes": 3486
+    },
+    {
+      "title": "Hypnotherapie/Zelfhypnose",
+      "file": "Zelfhypnose.wiki",
+      "pageid": 43425,
+      "contentmodel": "wikitext",
+      "revid": 424451,
+      "parentid": 404610,
+      "timestamp": "2026-04-26T17:56:51Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "0af189cb5be880a03966e71a7ffefcbf56270200",
+      "bytes": 3104
+    }
+  ]
+}

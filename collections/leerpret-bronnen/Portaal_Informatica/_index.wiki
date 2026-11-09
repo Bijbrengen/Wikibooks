@@ -101,7 +101,7 @@ Zie [[:Categorie:Programmeertaal]] voor meer programmeertalen.
 * [[Microsoft Excel]]
 * [[Microsoft Publisher]]
 * [[OpenOffice.org]]
-* [[Tekstverwerker]], waaronder:
+* [[Tekstverwerking]], waaronder:
 ** [[Microsoft Word]]
 }}
 

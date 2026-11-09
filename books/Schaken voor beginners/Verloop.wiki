@@ -1,0 +1,70 @@
+{{Opmaak}}
+== Opening ==
+=== Tips ===
+* Zorg dat de pionnen het centrum bezitten
+* Ontwikkel je stukken. Zorg dat je beide lopers en paarden 'in het spel worden gebracht', en weg zijn van de achterste rij van het bord
+* Zorg dat de koning in veilig is gebracht aan één kant van het bord (rokeren)
+* Kom niet te vroeg met je dame
+* Verplaats alleen stuk twee keer in de opening als dat noodzakelijk is
+* Bereid je voor op {{Wp|Herdersmat|herdersmat}}, een snelle schaakmat met loper en dame
+
+=== Bestuderen ===
+Leer geen openingen uit je hoofd! Dat komt vanzelf door veel te spelen. Bestudeer openingen wel! Probeer bij elke zet te achterhalen waarom die zet wordt gedaan. Leg vervolgens (bijvoorbeeld in een eigen study op Lichess of nog beter hier in dit Wikibook) dit aan anderen uit in je eigen woorden en liever nog met eigen inzichten erin verweven. Hierdoor leer je beter dan met stampen.
+
+De volgende openingszetten zijn vrij gebruikelijk en daarom goed om te bestuderen als beginnend schaker:
+* {{Wp|Damegambiet|Damegambiet}} of {{Wp|en:Queen%27s_Gambit|Queen's gambit}},
+* {{Wp|Koningsgambiet|Koningsgambiet}} of {{Wp|en:King%27s_Gambit|King's Gambit}},
+* {{Wp|Frans_(schaakopening)|Frans}},
+* {{Wp|Nimzo-Indisch|Indische verdediging}} of {{Wp|en:Nimzo-Indian_Defence|Nimzo-Indian Defence}},
+* {{Wp|en:London_System|London System}},
+* {{Wp|Siciliaans_(schaakopening)|Siciliaans}} of {{Wp|en:Sicilian_Defence|Sicilian Defence}},
+* {{Wp|Slavisch_(schaakopening)|Slavisch}} of {{Wp|en:Slav_Defense|Slav Defense}},
+* {{Wp|Spaans_(schaakopening)|Spaans}} of {{Wp|en:Ruy_Lopez|Ruy Lopez}}
+* {{Wp|en:Two_Knights_Defense,_Fried_Liver_Attack|Fried Liver Attack}},
+* {{Wp|Caro-Kann|Caro-Kann}}.
+Daarna zou men de overige van de {{Wp|Lijst_van_veelgespeelde_schaakopeningen|belangrijkste schaakopeningen}} kunnen analyseren.
+{{Schaak/Bord2
+|left
+|
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|  |  |pd|pd|pd|pd|
+6 |  |  |pd|  |  |  |  |  |
+5 |  |  |  |pd|  |  |  |  |
+4 |  |  |pl|pl|  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|  |  |pl|pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+|Welke opening is dit?}}
+
+{{Schaak/Oplossing|{{Wp|Slavisch_(schaakopening)|Slavisch}} of {{Wp|en:Slav_Defense|Slav Defense}}}}
+
+=== Specialiseren ===
+Openingen herkennen om in je brein het juiste laatje open te zetten (je studie van de opening te activeren) kun je trainen met de [https://lichess.org/analysis#explorer opening verkenner] van bijvoorbeeld Lichess. Doe een zet, kijk naar de stelling en noem de opening die erbij hoort. Klik vervolgens ter verificatie op het boek icoon om de openingen te zien die eronder vallen.
+Probeer niet alle openingen een beetje onder de knie te krijgen, maar kies er 2 voor wit en 2 voor zwart en diep die verder uit. Het kan handig zijn - om je tegenstander te verrassen - om een vrij onbekende opening aan je arsenaal toe te voegen. Kijk of je wat kunt vinden wat niet al bijvoorbeeld op wikipedia staat en voeg het toe (uitleggen is de meest succesvolle manier van leren). Zo is vanuit dit boek het artikel over de {{Wp|Borg_(schaakopening)|Borg verdediging}} aldaar ontstaan.
+
+De Borg is een opening die wordt afgeraden omdat die enkele van de [[Schaken_voor_beginners/Verloop#Tips|tips]] van de opening negeert. Zoals het zo snel mogelijk veroveren van het centrum. Vanuit het willen winnen van een wedstrijd is dat negeren misschien niet verstandig, maar vanuit het oogpunt van leren juist wel. Om een blijvend leereffect te sorteren zou je juist eens flink op je donder moeten krijgen bij het bewust overtreden van de tips. Immers dan ervaar je - in plaats van blind te vertrouwen op het oordeel van experts - waarom die tips waardevol zijn. Van je fouten dus ook van een foute strategie, leer je het meest. En zo maak je ook een wedstrijd tegen een zwakkere tegenstander uitdagend en zal je er meer van leren. Daarnaast kan een zwakke en daarom onbekende opening je wel zeker bij het winnen helpen. Bijvoorbeeld bij veel betere spelers die je zeker niet moet bestrijden op voor hen bekend terrein, zie [[Schaken_voor_beginners/Strategie#Oorlogsvoering|oorlogsvoering]]. Dan schaak je wel mooi mee, maar leg je het altijd af. Een verrassingsaanval kan dan juist een slimme strategie zijn.
+
+== Middenspel ==
+=== Calculatie ===
+Let op, doe geen zet alleen op intuïtie, maar altijd na enige calculatie op die zet. 
+Dit gevaar loert vooral als je al veel calculatie op andere zetten gedaan en die bleken niet goed te zijn. Daarom is het ook van belang de meest kansrijke zetten als eerste door te rekenen. 
+'Calculatie' dien je trainen; en net als bij elke training het kost tijd voor je effect merkt en is niet altijd het leukste om te doen.
+
+Een paar tips:
+# Kies 2 mogelijke zetten. Let daarbij voornamelijk op schaak en het veroveren van stukken.
+# Onderscheid forcerende en niet-forcerende zetten.
+# Onderscheid eenvoudige en complexe berekeningen op grond van de zet.
+# Kijk naar de tijd op je klok en bepaal de tijd die je wilt nemen voor de calculatie.
+# Bereken de 2 mogelijke zetten en als de tijd om is ga je naar stap 9.
+# Begin bij de forcerende zetten die eenvoudig zijn te berekenen en ga zo verder tot de niet-forcerende en moeilijke zetten toe.
+# Ga naar stap 1.
+# Stop met calculatie voordat de tijd die je jezelf hebt gegeven voorbij is.
+# Kies de beste zet tot nu toe.
+# Check deze nog een keer en doe de zet.
+
+== Eindspel ==
+Het eindspel in schaken is de laatste fase van het spel. Het eindspel in schaken herken je als er maar weinig stukken op het bord zijn, waardoor de opties beperkt zijn. Het lijkt alsof hierdoor het eindspel makkelijker is, maar in de praktijk is dat juist andersom. Nu wordt namelijk het verschil gemaakt door diegene die het beste de overgebleven opties kan berekenen. Vandaar dat ervaren spelers die getraind zijn in het diep doorrekenen van zetten, het eindspel naar zich toetrekken.
+
+{{Opmaak | Voettekst}}

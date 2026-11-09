@@ -1,0 +1,247 @@
+{{Opmaak}}
+Hoe wint wit aan zet?
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |bd|  |  |  |  |  |  |
+7 |  |  |pd|bl|  |  |  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |kd|  |kl|  |pd|  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |pl|  |  |  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Shakhmaty v SSSR, 1935 - T. Gorgiev}}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |kd|bd|  |  |  |  |  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |kl|  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |bl|  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Normaal betekent twee lopers van verschillende kleuren een remise, maar je kunt de andere loper ook vastzetten!}}
+# b4+ Ka6
+# Kc6 e4
+# Be6 Ka7
+# b5 e3
+# Bc4 Ka8
+# Bd5 Ka7
+# Bf3 e2
+# Bxe2 Ka8
+# Bf3 Ka7
+# Be4 Ka8
+# b6 cxb6
+# Kxb6#
+Zie [https://lichess.org/study/9J0X8f8b/ELg4QVYc Lichess study '''Shakhmaty v SSSR, 1935 - T. Gorgiev'''].
+}}
+<br>
+Hoe wint zwart aan zet?
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |  |  |  |pd|  |
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |pd|  |  |  |  |pl|
+3 |  |kd|pl|bd|  |  |  |  |
+2 |pd|bl|  |  |  |  |  |  |
+1 |  |  |kl|  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Duane Rowe - Thomas Roussel-Roozmon}}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |  |  |  |bd|  |
+5 |  |  |  |  |  |  |pl|  |
+4 |  |  |pd|  |  |  |  |  |
+3 |  |kd|pl|  |  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |bl|  |kl|  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Je kunt de andere loper vastzetten zodat je deze kunt veroveren en zelf ongestoord kunt promoveren}}
+# ... a1&equals;Q+
+# Bxa1 g5
+# hxg5 Bg6
+# Bb2 Ka2
+# Ba1 Kxa1
+Zie [https://lichess.org/study/9J0X8f8b/fsLrdIlD Lichess study '''Duane Rowe - Thomas Roussel-Roozmon'''].
+}}
+<br>
+
+Hoe wint wit aan zet?
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |bl|  |bd|bd|
+7 |  |  |  |  |  |  |  |kd|
+6 |  |  |  |kl|  |  |  |  |
+5 |  |  |  |  |  |  |pl|  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |bl|  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|'64', 1986 - Y. Makletsov}}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |bl|  |  |  |
+7 |  |  |  |  |kl|  |bd|bd|
+6 |  |  |  |  |  |  |  |kd|
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |bl|  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Hou de zwarte koning met zijn stukken in de hoek}}
+# g6+ Kh6
+# Be3+ Kg7
+# Ke7 Bh7
+# Bd4+ Kh6
+# g7 Bxg7
+# Be3#
+Zie [https://lichess.org/study/9J0X8f8b/RjkO4Vvk Lichess study ''''64', 1986 - Y. Makletsov'''].
+}}
+<br>
+Hoe wint wit aan zet?
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |nl|bl|kd|  |  |  |  |
+7 |pd|  |  |pd|  |  |  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |kl|  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Das Illustrierte Blatt, 1922 - J. Gunst}}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |kd|  |  |  |  |  |  |  |
+7 |pd|bl|kl|  |  |  |  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |pd|  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Zwart moet voorkomen dat de loper en het paard samen blijven want dan zal hij sowieso gaan verliezen}}
+# Bb7 Kc7
+# Ba6 Kxb8
+# Kd6 Ka8
+# Kc7 d5
+# Bb7#
+Zie [https://lichess.org/study/9J0X8f8b/Ocbg1i5O Lichess study '''Das Illustrierte Blatt, 1922 - J. Gunst'''].
+}}
+<br>
+Hoe wint wit aan zet?
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |bl|  |  |  |  |  |
+6 |  |pd|  |  |  |  |  |  |
+5 |pd|  |  |pl|  |  |  |kd|
+4 |  |  |  |bd|  |  |  |  |
+3 |  |  |  |  |  |  |  |kl|
+2 |  |  |  |  |  |  |pl|  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Schach Magazin, 1951 - A. Wotawa}}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |ql|  |  |  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |pd|  |  |  |  |kd|  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |pl|kl|
+3 |pd|  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|De lopers op gelijke velden dwingen de ander af te buigen van de ideale lijn}}
+# d6 Be5
+# Bb8 Bf6
+# d7 Bd8
+# Bg3 a4
+# Bh4 Bxh4
+# g4+ Kg6
+# Kxh4 a3
+# d8&equals;Q *
+Zie [https://lichess.org/study/9J0X8f8b/oNccuGse Lichess study '''Schach Magazin, 1951 - A. Wotawa'''].
+}}
+<br>
+Hoe dwingt wit aan zet remise af?
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |bl|  |  |  |  |  |  |
+7 |  |pd|  |  |  |  |  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |kl|  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |pd|  |
+1 |  |  |kd|  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Szachy, 1977 - Y. Hoch}}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |bl|  |  |  |  |
+3 |kl|  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |pd|  |
+1 |  |kd|  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Alleen door goede samenwerking met de koning kan de loper de twee vrijpionnen toch de baas.}}
+# Ba7 b5
+# Ke4 b4
+# Kd3 b3
+# Kc3 b2
+# Be3+ Kb1
+# Kb3 Ka1
+# Ka3 b1&equals;Q
+# Bd4+ Qb2+
+# Bxb2+ Kb1
+# Bd4 *
+Zie [https://lichess.org/study/9J0X8f8b/CAa9FNOJ Lichess study '''Szachy, 1977 - Y. Hoch'''].
+}}
+
+{{Opmaak | Voettekst}}

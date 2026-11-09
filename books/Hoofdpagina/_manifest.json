@@ -1,0 +1,22 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Hoofdpagina",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Hoofdpagina",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "title": "Hoofdpagina",
+      "file": "_module.wiki",
+      "pageid": 1820,
+      "contentmodel": "wikitext",
+      "revid": 432107,
+      "parentid": 432018,
+      "timestamp": "2026-11-08T20:18:08Z",
+      "user": "Erik Baas",
+      "comment": "lf",
+      "sha1": "6a075b3e2489ce0c3c1fb7ed5a58cb8b1ebfdbf6",
+      "bytes": 6559
+    }
+  ]
+}

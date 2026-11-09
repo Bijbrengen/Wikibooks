@@ -1,0 +1,505 @@
+{{Opmaak}}
+== Profiel ==
+'''Oldřich Duras''' of '''Důras''' werd geboren op 30 oktober 1882 in Pchery, Bohemen en overleed op 5 januari 1957 in  Praag, Tsjechië (destijds Tsjecho-Slowakije).
+
+=== Carriere ===
+Duras werd geboren in Příbram, een stad in Bohemen, dat destijds deel uitmaakte van Oostenrijk-Hongarije. Hij leerde schaken op jonge leeftijd en begon al snel te spelen in lokale toernooien. In 1903 verhuisde hij naar Praag, waar hij begon te spelen in internationale toernooien en snel een reputatie opbouwde als een van de meest getalenteerde schakers van zijn generatie. Hij behoorde tot de top 10 spelers van de wereld in de jaren 1910 en 1920.
+
+Duras speelde zijn eerste internationale toernooi in 1900, op slechts 18-jarige leeftijd. Hij werd al snel een vaste speler in de internationale schaakscene en speelde tegen veel van de beste schakers ter wereld, waaronder {{Wp|Emanuel Lasker|Emanuel Lasker}}, {{Wp|José Raúl Capablanca|José Capablanca}} en {{Wp|Aleksandr Aljechin|Aleksandr Aljechin}}. Duras won vele toernooien in zijn carrière, waaronder het toernooi van San Sebastian in 1911, waar hij de legendarische schaker Capablanca versloeg in de finale. Hij won ook het toernooi van Praag in 1923 en de Tsjechische kampioenschappen in 1924 en 1926.
+
+Duras kreeg als erkenning voor zijn prestaties in het begin van de twintigste eeuw, meteen de titel van Internationale Grootmeester van de FIDE in 1950, toen die voor het eerst werd geïntroduceerd. Hij was een van de meest succesvolle schakers van zijn tijd en speelde een belangrijke rol in de ontwikkeling van het schaken in Tsjechië en Europa. Duras speelde tot op hoge leeftijd schaak en bleef actief in de schaakwereld tot aan zijn dood in 1957.
+
+=== Stijl ===
+Duras was vooral bekend om zijn aanvallende speelstijl en zijn vermogen om complexe posities te beheersen. Hij stond bekend om zijn creativiteit en verbeeldingskracht en was een meester in het vinden van onverwachte wendingen en combinaties in de stelling. Hij was naast schaakmeester ook een bekend schaakcomponist. 
+
+Duras stond bekend om zijn vermogen om snel aanvallen op te zetten. Hij was ook een innovator in de openingstheorie en wordt gecrediteerd voor het introduceren van verschillende openingen en varianten, waaronder het Duras Gambiet en de Duras-variant van de Franse verdediging.
+
+=== Gambiet ===
+Het Duras Gambiet, die naar hem is vernoemd, kreeg bekendheid nadat Oldřich Duras het tijdens een oefenmatch tegen Ossip Bernstein speelde in 1907. De match werd gespeeld in Oostende, België, en duurde in totaal 18 partijen. Duras speelde het gambiet in drie van deze partijen en wist er twee van te winnen, waardoor hij de aandacht trok van andere schakers en de opening meer populariteit kreeg. Het was niet de eerste keer dat Duras het gambiet speelde, maar het was wel de eerste keer dat het op een hoog niveau werd getest en de schaakwereld werd gewezen op de mogelijkheden van de opening. Het gambiet werd later ook gespeeld door andere grote schakers zoals Frank Marshall, Aron Nimzowitsch en Savielly Tartakower.
+
+Het Duras gambiet is een schaakopening die valt onder de categorie van de flankspelen. Het gambiet is niet erg populair onder schakers, maar kan wel verrassend effectief zijn als het correct wordt gebruikt. Het kan ook zeer verrassend zijn voor tegenstanders die het niet verwachten en kan hen uit hun comfortzone halen en dwingen om onbekende wegen te verkennen.
+
+== Fred ==
+[[Bestand:OpeningTree Duras Gambit.png|thumb|600px|none|Dit zijn de reacties op het Duras Gambiet gerangschikt naar gespeelde partijen]]<br>
+
+'''Fred''' of de Duras gambiet is een openingsvariant in het schaakspel, genoemd naar Oldrich Duras. Het wordt gespeeld door wit en begint met de volgende zet: ''1.e4 f5''. Hiermee biedt zwart een pionoffer aan om ruimte te winnen op de koningsvleugel. Het gambiet komt vaak voor in partijen tussen spelers van verschillende sterktes, omdat een agressieve zet zoals f4 vaak onverwacht is. 
+
+Het Duras gambiet wordt over het algemeen als riskant beschouwd, omdat zwart een pion opoffert en zichzelf blootstelt aan aanvallen op de koningsvleugel. Toch kan het gambiet effectief zijn als wit niet goed reageert en de dynamische mogelijkheden van zwart niet goed beheert. Als zwart snel ontwikkelt en zich onder druk op de koningsvleugel uit weet te werken, kan een overmoedig en te gretig wit in de problemen komen.
+
+<span style="font-size: large;">'''1.e4 f5'''</span>
+
+De Fred verdediging of de Duras gambiet is een ongebruikelijke opening in welke zwart vasthoudt aan de [[Schaken_door_meesters/Stein#Hollands|Hollandse verdediging]] en de zwakke pion '''f6''' opoffert om een voordeel in ontwikkeling te bemachtigen. Een voorbeeld van deze voorsprong is na '''2.exf5 Nf6'''. Het gevaar is echter dat zwart zijn koningsflank aan diggelen schiet zeker na de zetten '''2... Kf7 3. Qh5+ g6'''.
+
+{{Opmaak
+| Object = Schaak
+| Definitie = Duras Gambiet
+| Beschrijving = De beginstelling van het Duras gambiet (1. e4 f5)
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|pd|pd|    |pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |pd|  |  |
+4 |  |  |  |  |pl|  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|pl|    |pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+
+Omdat zwart een pion opgeeft zonder enige compensatie kan men zonder meer stellen dat de Duras Gambit een onorthodoxe opening is waarin zwart meteen flink achter staat. De reden om toch hiervoor te kiezen is omdat de tegenstander al na twee zetten uit zijn openingstheorie is. Die verrassing heeft zelfs op professioneel niveau voor een overwinning met zwart gezorgd, hoewel de opening uiteraard weinig op dat niveau wordt gespeeld.
+
+De enige zinvolle zet, nadat wit de pionoffer heeft geaccepteerd, is '''Nf6''' te spelen. Daarmee voorkomt zwart dat de witte koning naar '''Qh5''' gaat, waarna zwart zijn koning moet verplaatsen (als die mogelijkheid er is) naar '''Kd7'''. Een blokkade door '''g6''' maakt de zaak nog hopelozer, omdat zwart deze pion niet terug kan slaan zonder de toren te verliezen en zodoende de zwarte koning alsnog naar '''Kd7''' moet gaan met een extra pion verlies. De toren kan wit alsnog winnen door met zijn witte paard via '''Nf3''' en tussen schaak te geven, ernaar toe te laten springen via bijvoorbeeld '''3...Kd7 4.Nf3 Qe8 5.Ne5+ Kd8 6.Nf7+ Kd7 7.f6 Nxf6 8.Qh3+ e6 9.Nxh8'''.
+
+{{Opmaak
+| Object = Schaak
+| Definitie = Gevaarlijke Positie
+| Beschrijving = Een lastige positie als zwart niet zijn koningspaard inbrengt (3... d5? 4. Dh5+ g6 5. fxg6)
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|    |pd|    |pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |pd|  |pl|  |ql|
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|pl|    |pl|pl|pl|
+1 |rl|nl|bl|    |kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+
+Zwart moet nog steeds blijven opletten als wit een batterij vormt met zijn koningin en witte loper om '''Bh5''' te bezetten, waardoor het beschermende paard deze moet ruilen en wit alsnog zijn koningin naar '''Qh5''' brengt. Zwart moet dan al ruimte voor zijn koning hebben gecreëerd, bijvoorbeeld met het opschuiven van de pion op '''d7'''. De koning kan dan stuivertje wisselen - na schaak te zijn gezet - met zijn koningin.   
+
+We onderscheiden voor het gemak twee situaties; het accepteren of het weigeren van de gambiet. We zien uit beide uitwerkingen dat wit een voordeel heeft en kan behouden na het aanbieden van de Duras gambiet. Echter de posities en de beste zetten zijn de witte speler misschien dusdanig onbekend dat zwart hier een mentaal voordeel heeft. Dus de gambiet heeft vooral een voordeel als wit deze niet kent, wat waarschijnlijk is gezien de geringe wedstrijden die zo verlopen statistisch gezien.
+
+=== Accepteren ===
+[[Bestand:Duras Gambit Accepted.png|thumb|left|600px|Duras Gambit Accepted, de verscheidenheid in mogelijkheden nadien per zet door wit]]
+'''2. exf5'''
+
+Hieronder volgen gangbare reacties van wit na '''2. ... Nf6''' de enige verstandige zet door zwart na het accepteren van de gambiet. Op de meeste gangbare zetten van wit daaropvolgend kan zwart met '''d5''' reageren, behalve bijvoorbeeld op '''d4''', '''g4''', '''Be2''' of '''Bd3'''.
+{{Opmaak
+| Object = Schaak
+| Definitie = Geaccepteerd Duras Gambiet
+| Beschrijving = De meest voorkomende opstelling na 1. e4 f5 2. exf5 Nf6 3. d4 e6
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|    |rd|
+7 |pd|pd|pd|pd|    |    |pd|pd|
+6 |  |  |  |  |pd|nd|    |  |
+5 |  |  |  |  |  |pl|    |  |
+4 |  |  |  |pl|    |    |    |  |
+3 |  |  |  |    |    |    |    |  |
+2 |pl|pl|pl|    |    |pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+;3. b3
+Deze reactie is zeer ongebruikelijk en heeft blijkbaar als instreek om de gewonnen pion terug te geven en verder te gaan met de beoogde ongebruikelijke Charles' Opening of te switchen naar de {{Wp|Nimzowitsch-Larsenaanval|Nimzowitsch-Larsenaanval}}. Dat is ook een prima vervolg want wit heeft hiermee een licht voordeel. Hier een voorbeeld van hoe een lijn '''3. b3''' zich via '''3. ... d5 4. Bd3 e5 5. fxe6 Bd6 6. Qe2 O-O 7. f4 Nc6 8. Bb2 Bxf4''' zou kunnen ontwikkelen tot
+{{Opmaak
+| Object = Schaak
+| Definitie = Nimzowitsch-Larsenaanval Variant
+| Beschrijving = Voorbeeldpositie na 3. b3 d5 4. Bd3 e5 5. fxe6 Bd6 6. Qe2 O-O 7. f4 Nc6 8. Bb2 Bxf4
+| Orientatie = wit
+|
+8 |rd|    |bd|qd|    |rd|kd|  |
+7 |pd|pd|pd|    |    |    |pd|pd|
+6 |  |  |nd|    |pl|nd|    |  |
+5 |  |  |    |pd|    |    |    |  |
+4 |  |  |    |    |    |bd|    |  |
+3 |  |pl|    |bl|    |    |    |  |
+2 |pl|bl|pl|pl|ql|    |pl|pl|
+1 |rl|nl|    |    |kl|    |nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+Wits positie is beter, hoewel zwart een ontwikkelingsvoordeel heeft. Zwart heeft geen serieuze poging ondernomen de witte pion terug te winnen.
+
+;3. c3
+Ook deze reactie is zeer ongebruikelijk en heeft blijkbaar als instreek om de gewonnen pion terug te geven en verder te gaan met {{Wp|Saragossaopening|Saragossaopening}} om misschien zwart op zijn beurt te verrassen. Wit heeft hiermee een licht voordeel.
+
+;3. d3
+Beter is '''3. d4'''.
+
+;3. d4
+Het beste wat wit kan doen als vervolg op het accepteren van de gambiet. Wit controleert het centrum en bereidt loperontwikkeling voor. De evaluatie is hier solide (+1.3) voor wit.
+
+;3. g4
+
+;3. h3
+
+;3. Bc4
+
+;3. Bd3
+
+;3. Be2
+Deze reactie kan leiden voor zwart tot het opgeven van de mogelijkheid tot rokeren. De beste reactie voor zwart '''d6''' leidt namelijk tot deze optie als wit met zijn loper schaak geeft op '''Bh5+'''.
+{{Opmaak
+| Object = Schaak
+| Definitie = Blokkade van de Rokade
+| Beschrijving = Witte loper op h5 blokkeert de zwarte rokade (4. Bh5+)
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|    |rd|
+7 |pd|pd|pd|    |pd|    |pd|pd|
+6 |  |  |  |pd|    |nd|    |  |
+5 |  |  |    |    |    |pl|    |bl|
+4 |  |  |    |    |    |    |    |  |
+3 |  |  |    |    |    |    |    |  |
+2 |pl|pl|pl|pl|    |    |pl|pl|
+1 |rl|nl|bl|ql|kl|    |nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+Het beste voor zwart is namelijk eerst de loper te ruilen voor het paard '''Nxh5''' en daarna pas de koning naar het eerder vrijgemaakte '''Kd7''' veld te brengen. Het blokkeren met de pion leidt tot het verlies van de toren (''''5. ... g6 6.fxg6 hxg6 7. Qxh8 gxh7+''') of twee pionnen ('''5. ... g6 6.fxg6 Bg7 7. gxh7+''') of na '''h6''' door de {{Wp|Aftrekaanval|aftrekaanval}} '''g7+''' tot toren winst en een extra koningin voor wit, waarna de koning alsnog moet worden verplaatst.
+
+Als na '''1. e4 f5 2. exf5 Nf6 3. Be2 d6 4. Bh5+ Nxh5 5. Qxh5+ Kd7''' wit vervolgt met '''Qg4''' dan is voor zwart de beste optie de koning terug te zetten naar '''Ke8'''. Dit kan leiden tot een herhaling van zetten dus een remise, wat gezien de positie voor zwart een gunstige uitkomst is. Als zwart dit niet wil dan kan hij in plaats van naar '''Ke8''' te vluchten ook via '''h5''' de witte koningin beletten schaak te blijven zetten. Deze keuze maakt de positie voor zwart echter nog hopelozer. 
+
+De beste zet voor wit is echter niet '''Qg4''' maar '''Nf3''', waarna zwart het beste een koninginnenruil kan aanbieden middels '''Qe8'''. De koning heeft dan meteen een veilige vluchtveld beschikbaar op '''d8'''.
+
+;3. Nc3
+Wit ontwikkelt een stuk, maar zwart kan antwoorden met '''d5''' om het centrum direct uit te dagen.
+
+;3. Nf3
+Een solide ontwikkelingszet die de h4-e1 diagonaal dekt en voorbereidt op rokeren.
+
+;3. Qf3
+Een agressieve zet die de pion op f5 verdedigt en druk zet op de koningsvleugel. Zwart kan echter tempo winnen door het paard naar '''Nc6''' en later '''Nd4''' te brengen, zoals in de studie van Bijbrengen wordt getoond.
+
+=== Geweigerde varianten ===
+Hoewel het accepteren van de gambiet (2. exf5) de meest kritieke test is, kan wit ervoor kiezen om de pion niet te nemen.
+
+==== Staunton Gambit Transformatie (2. d4) ====
+Wit kan transformeren naar een soort [[Schaken door meesters/Staunton#Gambiet|Staunton-gambiet]] met omgekeerde kleuren:
+'''1. e4 f5 2. d4 fxe4 3. f3'''
+Zwart heeft hier een extra pion, maar wit krijgt snelle ontwikkeling en een open f-lijn.
+
+==== De e5-variant (2. e5) ====
+Wit probeert zwart te verstikken door de f-pion te blokkeren:
+'''1. e4 f5 2. e5 d6 3. d4 dxe5 4. dxe5 Qxd1+ 5. Kxd1'''
+Zwart ruilt de dames af en de koning van wit moet in het midden blijven, wat zwart goede kansen geeft in het eindspel.
+
+==== De d3-variant (2. d3) ====
+Een rustige opbouw:
+'''1. e4 f5 2. d3 d6 3. Nc3 e5'''
+Dit transformeert de partij vaak in een gesloten stelling die lijkt op de [[Schaken door meesters/Stein#Philidor|Philidor verdediging]].
+
+=== Tactische valstrikken ===
+
+==== De Duras Blunder ====
+Een van de meest spectaculauren valstrikken in deze opening:
+'''1. e4 f5 2. Qh5+ g6 3. Be2?'''
+Wit dreigt met mat op h5 als zwart de dame slaat. Als zwart echter de blunder doorziet en '''3... e5!''' speelt, staat zwart plotseling veel beter. Wit kan de dame niet redden zonder groot verlies.
+{{Opmaak
+| Object = Schaak
+| Definitie = Duras Blunder
+| Beschrijving = De stelling na 3. Be2?. Zwart mag de dame NIET slaan vanwege mat op h5, maar 3... e5! wint.
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|  |bd|nd|rd|
+7 |pd|pd|pd|pd|  |  |  |pd|
+6 |  |  |  |  |  |  |pd|  |
+5 |  |  |  |  |pd|  |  |ql|
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|pl|bl|pl|pl|pl|
+1 |rl|nl|bl|  |kl|  |nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+
+==== De King Run (Wandeling van de Koning) ====
+Zelfs na de vroege aanval op de koning kan zwart overleven:
+'''1. e4 f5 2. exf5 Kf7 3. Qh5+ g6 4. fxg6+ Kg7 5. gxh7 Rxh7 6. Qg5+ Kh8'''
+De zwarte koning staat nu veilig op h8, verborgen achter de eigen stukken, terwijl de witte dame kwetsbaar is voor aanvallen.
+
+=== Weigeren ===
+;2. Bc4
+Als wit gewend is snel de witte loper in te brengen - zoals bij de Bowdler aanval bij het {{Wp|Siciliaans (schaakopening)|Siciliaans (Sicilian Defense)}} of het {{Wp|Loperspel|Loperspel (Bishop's opening)}} na de {{Wp|Koningspionopening|Koningspionopening}} - dan kan zwart ondanks de schijnbare dreiging de koningspion op '''e4''' veilig nemen. Wit kan dan de optie tot rokeren aan de koningszijde wegnemen door '''Bxg8'''. Uiteraard zal de zwarte toren de loper terugslaan, maar dit geeft wit de kans om ongehinderd  een pion terug te winnen op '''h7''' door de witte koningin in te brengen met schaak; '''1. e4 f7 2. Bc4 fxe4 3. Bxg8 Rxg8 4. Qh5+ g6 5. Qxh7 Rg7'''.
+{{Opmaak
+| Object = Schaak
+| Definitie = Bowdler-achtig Systeem
+| Beschrijving = Positie na 1. e4 f5 2. Bc4 fxe4 3. Bxg8 Rxg8 4. Qh5+ g6 5. Qxh7 Rg7
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|    |  |
+7 |pd|pd|pd|pd|pd|    |rd|ql|
+6 |  |  |    |    |    |    |pd|  |
+5 |  |  |    |    |    |    |    |  |
+4 |  |  |    |    |pd|    |    |  |
+3 |  |  |    |    |    |    |    |  |
+2 |pl|pl|pl|pl|    |pl|pl|pl|
+1 |rl|nl|bl|ql|kl|    |nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+Verder heeft wit de pionnenstructuur van zwart aan de koningsflank doorbroken. Toch valt het niet mee voor wit deze lichte voordelen te verzilveren zonder scherp spel. De zwarte koning is namelijk de eerstvolgende zetten verrassend goed beschermd tegen aanvallen die vooral gericht zullen zijn op de geïsoleerde '''g6''' pion. De witte koningin zal opgejaagd kunnen worden waardoor zwart een ontwikkelingsvoordeel kan opbouwen. Aangezien zwart het initiatief neemt tot de Duras gambiet, zal hij weten wat te doen afhankelijk van waar de koningin zich heen verplaatst. Zo is uiteraard het opschuiven van de '''g6''' niet verstandig omdat dit verlies van deze pion zal betekenen, door een hernieuwde schaak en de enige verdediging is dan door de toren te verplaatsen. Hoewel zwart zijn koning goed kan blijven verdedigen blijkt, heeft wit een te sterk voordeel om voor deze optie te kiezen ondanks dat zwart zich op bekend terrein begeeft. Het gevaar komt dan vooral van het witte paard '''Ng6''' omdat wit zijn witte loper al heeft geruild.
+{{Opmaak
+| Object = Schaak
+| Definitie = Paarddreiging op g6
+| Beschrijving = Het witte paard op g6 tart de zwarte koningsflank als de g-pion verschuift
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|    |  |
+7 |pd|pd|pd|pd|pd|rd|    |  |
+6 |  |  |    |    |    |    |    |  |
+5 |  |  |    |    |    |    |pd|ql|
+4 |  |  |    |    |pd|    |    |  |
+3 |  |  |    |    |    |    |    |nl|
+2 |pl|pl|pl|pl|    |pl|pl|pl|
+1 |rl|nl|bl|ql|kl|    |    |rl|
+   a  b  c  d  e  f  g  h
+}}
+
+== Voorbeelden ==
+Het Duras Gambiet is een zeldzame en scherpe opening die ontstaat na 1.e4 f5. Hoewel deze zetvolgorde voor zwart riskant is, kan het leiden tot interessante en tactische stellingen. 
+
+=== Hoofdlijn ===
+e4 { e4 is de meest voorkomende openingszet voor wit. Wanneer zwart volhardt in het spelen van f5, leidt dit tot het Duras Gambiet. }
+1... f5 { Een gewaagde zet van zwart. Hoewel wit een beslissend voordeel heeft, moet hij oppassen voor ...fxe4. } { [%cal Rf5e4] }
+
+exf5 { Deze zet is voordelig omdat het dreigt met Dh5+ en voorkomt dat zwart de witte pion op e4 kan slaan met ...fxe4. Bovendien ontmoedigt het ...e6 of ...e5 door veld e6 te controleren en dwingt het zwart tot ...Pf6. Het plan is om d4 te spelen. } { [%cal Re7e6,Re7e5,Gd1h5,Gf5e6,Gg8f6,Gf5g6,Bd2d4] }
+2... Pf6 { Dit is de enige goede zet voor zwart, hoewel Magnus Carlsen ooit ...Kf7 speelde. } { [%cal Re8f7] }
+
+(2... Kf7 { Dit is de zet die Magnus Carlsen speelde in een van zijn online partijen tijdens de Lichess "Titled Arena May '19" op 04-05-2019. Hoewel hij wist te winnen, is dit een slechte zet omdat het de koning vroeg blootstelt. })
+
+==== Alternatieve zetten voor zwart na 2.exf5 ====
+2... d5? { Probeert het centrum te claimen, maar laat wit toe om Dh5+ te spelen met een sterke aanval. } 3. Dh5+ g6 4. fxg6 Pf6 5. g7+ { En wit heeft een sterke aanval. }
+
+2... e6? { Verzwakt de zwarte koningsstelling en laat wit comfortabel ontwikkelen. } 3. Dh5+ Ke7 4. fxe6 Pf6 5. Df7+ { En wit heeft een dominante positie. }
+
+Terug naar de hoofdlijn:
+
+d4 { Deze zet ondersteunt e5 en maakt de weg vrij voor Ld3. Maar pas op voor ...d5, wat de loper toelaat om de witte pion op f5 aan te vallen via Lxf5. } { [%cal Gd4e5,Gf1d3,Gd3f5,Bd7d5,Bc8f5] }
+==== Alternatieve zetten voor wit na 2...Pf6 ====
+3. Dh5+? { Lijkt aantrekkelijk, maar na ...g6 4.fxg6 Tg8 heeft zwart tegenspel. } 4. fxg6 Tg8 { Zwart dreigt met ...Txg6 en krijgt activiteit. }
+
+3. Pc3? { Ontwikkelt een stuk, maar laat zwart toe om ...d5 te spelen met tegenspel. } 3... d5 4. d4 Lxf5 { Zwart wint de pion terug en staat niet slecht. }
+
+Terug naar de hoofdlijn:
+
+3... e6 { Deze zet bereidt ...exf5 voor en opent lijnen voor de loper op f8. }
+
+Pf3 { Ontwikkelt een stuk, maakt veld g1 vrij voor mogelijke O-O en maakt Pg5 mogelijk. }
+(4. fxe6 { Veel spelers zouden hier slaan, maar na ...dxe6 krijgt zwart een geïsoleerde pion, maar opent ook lijnen voor zijn stukken. } 4... dxe6 5. Pf3 { Wit staat comfortabel, maar zwart heeft enige compensatie in ontwikkeling. })
+
+4... exf5 { Zwart wint de pion terug en voorkomt dat wit op e6 slaat met fxe6. }
+
+Ld3 { Wit heeft twee bedoelingen met deze zet: het voorbereiden van O-O en het bedreigen van de pion op f5. }
+==== Alternatieve zetten voor wit na 4...exf5 ====
+5. Lc4? { Richt zich op veld f7, maar na ...d5 6.Lb3 c6 houdt zwart stand. } 5... d5 6. Lb3 c6 { Zwart heeft het centrum en voorkomt onmiddellijke dreigingen. }
+
+5. Pc3? { Ontwikkelt een stuk, maar laat zwart toe om ...Lb4 te spelen met penning. } 5... Lb4 { Zwart dreigt met ...Lxc3 en ruïneert de pionnenstructuur van wit. }
+
+Terug naar de hoofdlijn:
+
+5... d6 { Deze zet ondersteunt de pion op f5 via de loper op c8 en voorkomt dat het paard het centrum aanvalt. } { [%cal Gc8f5,Rd3f5,Rf3e5] }
+
+{{Opmaak
+| Object = Schaak
+| Definitie = Hoofdlijn Duras Gambiet
+| Beschrijving = Positie na 5. Bd3 d6. Wit heeft een solide centrum en goede ontwikkeling.
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|  |rd|
+7 |pd|pd|pd|  |  |  |pd|pd|
+6 |  |  |  |pd|  |nd|  |  |
+5 |  |  |  |  |  |pd|  |  |
+4 |  |  |  |pl|  |  |  |  |
+3 |  |  |  |bl|  |nl|  |  |
+2 |pl|pl|pl|  |  |pl|pl|pl|
+1 |rl|nl|bl|ql|kl|  |  |rl|
+   a  b  c  d  e  f  g  h
+}}
+
+O-O { Wit voltooit zijn koningsstelling en bereidt verdere ontwikkeling voor. }
+6... Le7 { Bereidt ...O-O voor en ontwikkelt een stuk. }
+
+==== Alternatieve zetten voor zwart na 6.O-O ====
+6... Le6? { Lijkt actief, maar na Te1 heeft wit druk op e6. } 7. Te1 Dd7 8. De2 { Wit heeft initiatief op de e-lijn. }
+
+6... Pc6? { Ontwikkelt een stuk, maar laat wit toe om d5 te spelen. } 7. d5 Pe5 8. Te1 { Wit krijgt ruimtevoordeel in het centrum. }
+
+Terug naar de hoofdlijn:
+
+c4 { Versterkt het centrum en bereidt mogelijk d5 voor. }
+7... Pa6 { Ontwikkelt het paard en bereidt ...Pb4 voor om de loper op d3 aan te vallen. } { [%cal Ga6b4] }
+
+a3 { Voorkomt ...Pb4 en versterkt de controle over b4. }
+8... O-O { Zwart voltooit zijn ontwikkeling. }
+
+Pc3 { Ontwikkelt het paard en versterkt de controle over het centrum. }
+9... c6 { Bereidt ...Pc7 en mogelijk ...d5 voor om het centrum uit te dagen. }
+
+Te1 { Plaatst de toren op een actieve lijn en ondersteunt e4. }
+10... Pc7 { Verbetert de positie van het paard en bereidt ...d5 voor. }
+
+==== Conclusie ====
+In deze partij heeft wit een comfortabel voordeel behouden door nauwkeurige ontwikkeling en controle over het centrum. De alternatieve zetten die we hebben verkend, laten zien dat afwijkingen van de hoofdlijn kunnen leiden tot zwakkere posities voor beide spelers.
+
+=== 2000 rating ===
+In deze partij zien we hoe het Duras Gambiet een speler van rond de 2000 rating kan verrassen. We zullen elke zet analyseren, alternatieven overwegen en uitleggen waarom de gekozen zetten voor zwart sterk zijn, en waar wit betere keuzes had kunnen maken.
+
+e4 {Een klassieke openingszet die controle over het centrum nastreeft en lijnen opent voor de loper op f1 en de dame.}
+1... f5 {Zwart kiest voor het Duras Gambiet. Dit is een gewaagde zet die wit uitdaagt om de pion op f5 te slaan, wat leidt tot complexe stellingen.}
+
+exf5 {Wit accepteert het gambiet door de pion te slaan. Dit is logisch, maar opent de deur voor zwart om actief te worden.}
+2... Pf6 {Een sterke zet van zwart. Het ontwikkelt een stuk, valt de pion op f5 aan en bereidt ...d5 voor om het centrum aan te vechten.}
+
+Alternatief voor zwart:
+
+2... d5?! {Dit probeert onmiddellijk het centrum terug te winnen, maar na} 3. Dh5+ {krijgt wit een gevaarlijke aanval op de zwarte koning.} 3... g6 4. fxg6 Pf6 5. g7+ Lxg7 6. Dg5 {met een sterke aanval voor wit.}
+De2 {Wit ontwikkelt de dame, maar dit is niet de meest nauwkeurige zet. Het is meestal beter om lichte stukken te ontwikkelen voordat de dame wordt verplaatst.}
+Betere alternatieven voor wit:
+
+3. d4 {Controleert het centrum en opent lijnen voor de lopers.}
+
+3. Pf3 {Ontwikkelt een stuk en bereidt O-O voor, waardoor de koning veilig staat.}
+
+3... Pc6 {Zwart ontwikkelt een tweede stuk en controleert belangrijke centrale velden zoals d4 en e5.}
+
+Dd3 {Wit verplaatst de dame opnieuw, wat tijdverlies is en de ontwikkeling van andere stukken vertraagt.}
+Een beter plan voor wit:
+
+4. Pf3 {Ontwikkelt een stuk en bereidt O-O voor.}
+
+4. d4 {Blijft strijden om het centrum en ontwikkelt stukken.}
+
+4... d5 {Zwart maakt gebruik van de tijdsverspilling van wit om het centrum te controleren en ruimtevoordeel te verkrijgen.}
+
+b4 {Wit probeert ruimte te winnen op de damevleugel, maar negeert de ontwikkeling en koningsveiligheid.}
+Betere alternatieven voor wit:
+
+5. d4 {Controleert het centrum en opent lijnen voor de lopers.}
+
+5. Pf3 {Ontwikkelt een stuk en bereidt koningsveiligheid voor.}
+
+5... e5 {Zwart versterkt zijn controle over het centrum en opent lijnen voor zijn stukken, vooral de loper op f8.}
+
+b5 {Wit valt het paard op c6 aan, maar dit kost opnieuw tijd en laat de koning onveilig in het centrum.}
+6... Pd4 {Zwart plaatst het paard op een sterk centraal veld en valt de dame op d3 aan, dwingt wit tot reageren.}
+
+Pe2 {Wit biedt een ruil van paarden aan, maar dit ontwikkelt nog steeds geen nieuwe stukken en laat de koning onbeschermd.}
+Alternatief voor wit:
+
+7. Pf3 {Ontwikkelt een stuk en verdedigt tegelijkertijd de dame.}
+7... Lxf5 {Zwart accepteert de ruil niet en slaat in plaats daarvan op f5, ontwikkelt de loper met tempo en houdt druk op de witte stelling.}
+
+Dg3 {Wit valt de loper op f5 aan en probeert activiteit te creëren, maar de ontwikkeling blijft achter.}
+8... Pxc2+ {Een krachtige zet van zwart die een vork creëert tussen koning en toren, waardoor materiaal wordt gewonnen.}
+
+Kd1 {De koning moet uit de schaak stappen, maar staat nu kwetsbaar in het centrum en kan niet meer rokeren.}
+9... Dd6 {Zwart ontwikkelt de dame, verdedigt de loper op f5 en verhoogt de druk op de witte stelling.}
+
+Df3 {Wit valt opnieuw de loper op f5 aan, maar verwaarloost nog steeds de ontwikkeling van stukken en koningsveiligheid.}
+10... g6 {Zwart verdedigt de loper en creëert een mogelijke uitvalsbasis voor de koning op g7.}
+
+Alternatief voor zwart:
+
+10... De6 {Centraliseert de dame en verdedigt de loper op f5, terwijl het ook toekomstige druk op de witte stelling mogelijk maakt.}
+Pg3 {Wit ontwikkelt eindelijk een stuk en valt de loper op f5 aan, maar het kan te laat zijn.}
+11... Lg4 { Zwart penningt het paard op g3 tegen de dame, waardoor wit in een lastig parket komt. }
+
+{{Opmaak
+| Object = Schaak
+| Definitie = Kritieke Aanvalspositie
+| Beschrijving = Positie na 11... Bg4. De witte koning staat onveilig en de dame wordt aangevallen.
+| Orientatie = wit
+|
+8 |rd|  |bd|  |kd|bd|  |rd|
+7 |pd|pd|pd|  |  |  |  |pd|
+6 |  |  |  |qd|  |nd|pd|  |
+5 |  |pl|  |pd|pd|  |  |  |
+4 |  |  |  |  |  |  |bd|  |
+3 |  |  |  |  |  |ql|nl|  |
+2 |pl|  |nd|pl|  |pl|pl|pl|
+1 |rl|nl|bl|kl|  |bl|  |rl|
+   a  b  c  d  e  f  g  h
+}}
+
+Kxc2 {Wit slaat het paard op c2, probeert materiaal terug te winnen, maar negeert de dreigingen tegen de eigen koning.}
+Betere alternatieven voor wit:
+
+12. Le2 {Ontwikkelt een stuk en probeert de penning te breken door te rokeren.}
+12... Lxf3 {Zwart slaat de dame op f3, dwingt wit om terug te nemen met de g-pion, wat leidt tot een verzwakte koningsstelling.}
+
+gxf3 {Wit neemt terug, maar de koningsstelling is ernstig verzwakt en de pionnenstructuur is gebroken.}
+13... Dc5+ {Zwart schaakt en valt tegelijkertijd meerdere stukken aan, waardoor wit gedwongen wordt tot passieve zetten.}
+
+Pc3 {Wit ontwikkelt een stuk en blokkeert de schaak, maar de problemen stapelen zich op.}
+14... d4 {Zwart valt het paard op c3 aan en opent lijnen naar de witte koning. De druk neemt toe.}
+
+Le2 {Wit probeert te ontwikkelen en verdedigen, maar het is moeilijk om alle dreigingen te pareren.}
+15... Td8 {Zwart brengt de toren in het spel, dreigt met ...dxc3 en verhoogt de controle over de d-lijn.}
+
+Tf1 {Wit ontwikkelt de toren, maar de stukken zijn niet goed gecoördineerd en de koning blijft kwetsbaar.}
+16... Lh6 {Zwart richt zich op de zwakke witte velden en bereidt verdere aanvallen voor op de koningsstelling van wit.}
+
+a4 {Wit probeert tegenkansen te creëren op de damevleugel, maar dit is te traag en negeert de directe dreigingen.}
+17... dxc3 {Zwart slaat op c3, opent de b-lijn en creëert een vrijpion die zeer gevaarlijk is.}
+
+d4 {Wit probeert het centrum te openen in de hoop op tegenspel, maar de koning blijft onbeschermd.}
+18... Dxb4 {Zwart slaat op b4, behoudt materieel voordeel en creëert dreigingen tegen de witte koning.}
+
+Pe4 {Wit probeert stukken te ruilen om de druk te verminderen, maar dit lost de fundamentele problemen niet op.}
+19... Pxe4 {Zwart ruilt het paard, waardoor de druk op de witte stelling behouden blijft en de aanval voortgezet kan worden.}
+
+fxe4 {Wit neemt terug, maar de e-lijn wordt geopend, wat in het voordeel van zwart is.}
+20... Txd4 {Zwart gebruikt de open lijnen om diep in de witte stelling binnen te dringen, dreigend met ...Td2+.}
+
+Ta2 {Wit probeert de toren te activeren, maar kan de vele dreigingen niet allemaal tegengaan.}
+21... Lxc1 {Zwart elimineert de verdediger op c1, wat leidt tot verdere verzwakking van de witte positie.}
+
+Kxc1 {Wit neemt terug, maar de koning staat nog steeds centraal en blootgesteld.}
+22... Dxb3 {Zwart valt zowel de toren op a2 als de pion op a4 aan, en creëert onstuitbare dreigingen.}
+
+Lc4 {Wit probeert de dame te blokkeren, maar dit is slechts tijdelijk.}
+23... Dxc4 {Zwart slaat op c4, verwoest de witte verdediging en dreigt met snelle mat.}
+
+Td1 {Wit probeert nog tegenspel te creëren op de d-lijn, maar het is te laat.}
+24... Dxa2 {Zwart slaat op a2 en dreigt met ...Da1+ gevolgd door mat.}
+
+Txd4 {Wit hoopt door materiaal te ruilen enige verlichting te krijgen, maar de dreigingen blijven bestaan.}
+25... exd4 {Zwart neemt terug, behoudt materieel en positioneel voordeel en dreigt nog steeds met beslissende aanvallen.}
+
+f4 {Wit probeert iets te creëren op de koningsvleugel, maar het is onvoldoende en te laat.}
+26... Dd2+ {Zwart schaakt en dwingt de witte koning naar een zeer ongunstige positie.}
+
+Kb1 {De koning probeert te ontsnappen, maar er is geen veilige plek meer.}
+27... Db2# {Mat. Zwart heeft de partij overtuigend gewonnen door optimaal gebruik te maken van wits onnauwkeurigheden.}
+
+{{Opmaak
+| Object = Schaak
+| Definitie = Schaakmat op b2
+| Beschrijving = De eindpositie na 27... Db2# (mat)
+| Orientatie = wit
+|
+8 |    |    |    |    |kd|    |    |rd|
+7 |pd|pd|pd|    |    |    |    |pd|
+6 |  |  |    |    |    |    |pd|  |
+5 |  |pl|    |    |    |    |    |  |
+4 |pl|    |    |pd|pl|pl|    |  |
+3 |  |  |pd|    |    |    |    |  |
+2 |    |qd|    |    |    |    |    |pl|
+1 |    |kl|    |    |    |    |    |  |
+   a  b  c  d  e  f  g  h
+}}
+
+==== Conclusie ====
+Deze partij laat zien hoe het Duras Gambiet een onverwachte wending kan geven en zelfs sterke spelers kan verrassen. Zwart speelde actief, ontwikkelde snel zijn stukken en profiteerde van wits passieve en onnauwkeurige zetten.
+
+Belangrijke lessen voor wit:
+
+Ontwikkel je stukken tijdig: Het is cruciaal om in de opening je lichte stukken te ontwikkelen en niet te veel met de dame te spelen.
+
+Koningsveiligheid: Rokeren is essentieel om de koning veilig te stellen. Het uitstellen hiervan kan tot ernstige problemen leiden.
+
+Controle over het centrum: Door het centrum te negeren en zijwaartse pionzetten te doen, verliest wit de grip op de stelling.
+
+Waarom het Duras Gambiet kan verrassen:
+
+Het Duras Gambiet is zeldzaam en kan daardoor spelers verrassen die er niet goed op voorbereid zijn. Zwart krijgt actieve mogelijkheden en kan snel druk uitoefenen op een onvoorzichtige tegenstander. Door nauwkeurig te spelen en te profiteren van fouten, kan zwart zelfs tegen sterke spelers een beslissend voordeel behalen.
+
+== Evaluatie van Combinaties ==
+Op basis van praktijkstudies kunnen we de volgende tactische conclusies trekken over het Duras Gambiet:
+* '''2. exf5 Nf6 3. d4 d5''': Dit is de meest solide voortzetting voor beide partijen. Wit verdedigt de pion op f5 met de loper (Bd3), maar zwart krijgt goede kansen door druk op het centrum uit te oefenen (Nc6). De evaluatie is ongeveer +1.2 voor wit, maar de stelling is zeer dynamisch.
+* '''De h-pion aanval (h4/h3)''': Wit probeert vaak de koningsvleugel van zwart verder te verzwakken. Als zwart dit met ...g5 beantwoordt (zoals in Dragadraga1961 - Bijbrengen, 2021), kan wit met Bxg5 een beslissend voordeel behalen.
+* '''Stukontwikkeling vs Pionnenjacht''': De partij Madan2013 - Bijbrengen (2021) toont aan dat wit in de problemen komt als hij te veel tijd besteedt aan het verdedigen van de extra pion en de ontwikkeling (Nc3, Nf3) verwaarloost. Zwart won hier door een snelle aanval op de witte koning die in het midden bleef.
+* '''Lichess Studies''': Voor een diepgaande analyse, zie de studies van Bijbrengen: [https://lichess.org/study/WDUOUjVe Duras Gambit Accepted] en [https://lichess.org/study/KQnhuPad Duras Gambit Declined].
+
+{{Opmaak | Voettekst}}

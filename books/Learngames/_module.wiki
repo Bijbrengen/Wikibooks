@@ -1,0 +1,13 @@
+{{Opmaak
+| Titel = Learngames
+| Object = Boek
+| Bron = Icon Toylearning.png
+| Definitie = '''Learngames''' is de Engelse term voor [[Leergame|leergames]].
+| Beschrijving = '''Learngames''' gaat om innovatieve leerprocessen die worden bereikt door [[Speels leren|spelenderwijs te leren]].<br>'''Toylearning''' of speelgoed leren is [[Ondernemend leren|“ondernemenderwijs leren”]] met behulp van speelgoed binnen deze [[Leergame|leergames]] (een variant bedacht door [[w:Henk_Roelofs|Henk Roelofs]]).
+| Formaat = html
+| Voortgang = 100
+| Support = Signaleer
+| Referentie = 
+| Collectie = Leren
+| Onderdeel = Speels leren, Speelgoed, Maze, Memory, Mindcraft, Mission
+}}

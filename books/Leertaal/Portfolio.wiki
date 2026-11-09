@@ -1,0 +1,18 @@
+{{Opmaak}}
+Een leerportfolio verzamelt aanwijzingen over ervaringen, producten en bekwaamheden. Een leertaal kan zulke gegevens inhoudelijk beschrijven zonder zelf alle persoonlijke registratie over te nemen.
+
+== Beschrijving en registratie ==
+Een [[Leertaal/Definitie#Leeruitspraak|leeruitspraak]] krijgt een naam. Een externe registratie kan daaraan werk, waarnemingen, tijdstippen, omstandigheden en een beoordeling koppelen. De beschrijving hoeft geen echte persoonsidentiteit te bevatten. Zie [[Leertaal/Toepassing#Leerproces|leerresultaat, leerimpact en leerdoel]].
+
+== Administratieve ondersteuning ==
+Software kan als een boekhouder helpen gegevens te verzamelen en ordenen. Een taalmodel of analysetoepassing kan daarbij suggesties doen. Dat neemt niet automatisch de regie van de lerende over en bewijst geen competentie. Een geregistreerde uitvoering en een onderbouwde duurzame bekwaamheid blijven verschillend.
+
+== Onderbouwing ==
+Herhaald toepassen, handelen na verloop van tijd, relevante variatie, een product of een toelichting kan aanwijzingen geven. Welke aanwijzingen voldoende zijn hangt af van de claim. Een score of badge bewijst geen innerlijke verandering. Een uitblijvende beoordeling bewijst niet dat een bekwaamheid ontbreekt.
+
+== Regie en publiek ==
+Bij [[Zelf leren/Zelfregie|zelfregie]] kan de lerende kiezen welke gegevens worden verzameld en gedeeld. Verplicht zelf administreren voor een externe beoordelaar is een andere situatie dan vrijwillige ondersteuning bij eigen leren. Afspraken over toestemming, inzage, hergebruik en correctie horen daarom bij de toepassing.
+
+Een portfolio kan zowel leren ondersteunen als verantwoording dienen. Dat onderscheid moet herkenbaar zijn in de beschrijving, zodat beoordeling niet ongemerkt de plaats van de eigen leerdoelen inneemt.
+
+{{Opmaak | Voettekst}}

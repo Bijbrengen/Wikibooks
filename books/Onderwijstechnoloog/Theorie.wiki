@@ -1,5 +1,4 @@
 {{Opmaak}}
-{{Wiu2}}
 == Wetenschap ==
 === Virtual Action Learning ===
 '''Virtual Action Learning''' of VAL is een onderwijsmethode waarin de lerende met behulp van virtuele middelen op zijn eigen acties en ervaringen terugblikt, om zo zijn leerproces te bevorderen.
@@ -247,7 +246,7 @@ Een leergemeenschap wordt gevormd door een groep mensen die actief zijn op een g
 ==== Voordelen ====
 Een VLC heeft met name toegevoegde waarde als het samenwerkend leren niet of slechts deels kan worden gerealiseerd middels het face-to-face contact of als voorbereiding hierop. Het face-to-face contact kan bemoeilijkt worden doordat deelnemers niet of moeilijk aanwezig kunnen zijn voor onderling contact. De aanwezigheidsbeperking kan ontstaan door de beschikbaarheid (een lastig af te stemmen agenda) en/of een grote fysieke afstand tussen de deelnemers. De VLC kan zorgen voor een plaats- en tijdonafhankelijke uitvoering. De fysieke afstand kan worden overbrugd door moderne communicatiefaciliteiten (telefonisch vergaderen, chatten, video conferencing, webcams). De computer als communicatiemiddel heeft als onderscheidend voordeel dat het beheer en organiseren van de communicatie flexibeler kan worden opgezet en eenvoudiger geadministreerd. De beschikbaarheid kan worden vergroot door asynchrone communicatie. Asynchrone communicatie tussen een groep is beheersmatig zonder hulp van de computer een omslachtige bezigheid. Wederom geldt dat de computer als communicatiemiddel het onderscheidend voordeel heeft dat het beheer en organiseren van de communicatie flexibeler kan worden opgezet en eenvoudiger geadministreerd.
 
-Een VLC zal het actieve leergedrag bevorderen, dit baserend op het feit dat er ervaring is op het terrein van VLC’s en de mogelijkheden binnen een VLC voor studenten voor samenwerking en ontplooiing van eigen activiteiten (individueel en als groep). De rol van de docent zal bepalend zijn voor een goed werkende VLC. Deze rol zal zich concentreren op reflecteren op, begeleiding van en activering van leeractiviteiten.<ref>{{Begrippen|Leeractiviteit}}</ref>
+Een VLC zal het actieve leergedrag bevorderen, dit baserend op het feit dat er ervaring is op het terrein van VLC’s en de mogelijkheden binnen een VLC voor studenten voor samenwerking en ontplooiing van eigen activiteiten (individueel en als groep). De rol van de docent zal bepalend zijn voor een goed werkende VLC. Deze rol zal zich concentreren op reflecteren op, begeleiding van en activering van leeractiviteiten.
 
 ==== Voorwaarden ====
 Voorwaarden voor een goede werkende VLC zijn:

@@ -1,0 +1,91 @@
+{{Opmaak}}
+Een taalmodel kan helpen gewone beschrijvingen naar een leertaal om te zetten. Dit is een mogelijke toepassing van taaltechnologie. Er moet onderscheid blijven tussen het leren van de mens, de formele verwerking van de beschrijving en een eventuele leerprocedure van het model.
+
+== Omzetting ==
+Een model kan actor, actie, object en context uit een tekst proberen af te leiden. De uitkomst blijft een interpretatie. Een [[Leertaal/Interpreter|interpreter]] kan controleren of de formulering aan vastgelegde regels voldoet. Een syntactisch geldig antwoord kan inhoudelijk nog steeds onjuist zijn.
+
+== Feedbacklus ==
+Een toepassing kan een foutmelding teruggeven en het model een nieuwe beschrijving laten maken. Dat is iteratieve correctie binnen de toepassing. Blijvende training van modelparameters is een afzonderlijk proces. Daarvoor zijn geschikte gegevens, leerdoelen en controles nodig.
+
+== Inhoudelijke regels ==
+Een succesvolle ervaring kan aanleiding geven om een inhoudelijke regel te onderzoeken. Eén als effectief ervaren actie is niet voldoende om een algemeen geldige expertregel af te leiden. Er moet worden vastgesteld voor wie, onder welke omstandigheden en met welke onderbouwing een verwachting geldt. Zie [[Leertaal/Logica#Grondslagen|grondslagen]] en [[Leertaal/Testen|toetsing]].
+
+Een regelbibliotheek kan expliciet geformuleerde verwachtingen bewaren. Zij kan deterministisch worden toegepast zonder dat iedere verwerking opnieuw een taalmodel nodig heeft. De taal en de inhoudelijke bibliotheek blijven afzonderlijke onderdelen.
+
+== Menselijk leren ==
+De lerende kan een beschrijving gebruiken om [[Leren leren|het eigen leren]] te begrijpen en bij te sturen. Metacognitie betreft onder meer beseffen, reflecteren en reguleren. Een nauwkeuriger beschrijving kan dit ondersteunen, maar is geen bewijs dat een bepaalde bekwaamheid duurzaam is ontstaan. Zie [[Leertaal/Leren#Leeractie|leeracties]] en [[Leertaal/Toepassing#Leerproces|leerprocessen]].
+
+
+== Leeractie ==
+Een '''leeractie''' benoemt wat een lerende doet om te verwerken, begrijpen, oefenen, veranderen of het eigen leren te sturen. Een wereldhandeling, zoals inkopen of een brug bouwen, kan meerdere leeracties bevatten. De indeling hieronder is een mogelijk vocabulaire voor een [[Leertaal/Inleiding#Architectuur|leertaal]]. De betekenissen en niveauverhoudingen zijn modelaannamen, geen universele classificatie van alle leren.
+
+=== Vijf dimensies ===
+{| class="wikitable"
+! Niveau !! Cognitief !! Affectief !! Sociaal !! Motorisch !! Metacognitief
+|-
+| 1 || Herinneren || Focussen || Benaderen || Bewegen || Ervaren
+|-
+| 2 || Begrijpen || Interesseren || Overleggen || Modelleren || Beseffen
+|-
+| 3 || Gebruiken || Waarderen || Verbinden || Automatiseren || Reflecteren
+|-
+| 4 || Onderzoeken || Sympathiseren || Participeren || Demonstreren || Reguleren
+|-
+| 5 || Integreren || Verinnerlijken || Versmelten || Excelleren || Creëren
+|}
+
+De cognitieve dimensie betreft het denken, de affectieve dimensie aandacht en waardering, de sociale dimensie het handelen met anderen en de motorische dimensie lichamelijke uitvoering. De metacognitieve dimensie gaat over het ervaren, begrijpen en sturen van het eigen leren. Zie ook [[Leren leren|leren leren]] en [[Leren leren/Opbrengst|leeropbrengsten en leerdoelen]].
+
+=== Betekenissen ===
+==== Cognitief ====
+* '''Herinneren''': eerder beschikbare kennis uit het geheugen terughalen.
+* '''Begrijpen''': samenhang doorzien en kunnen uitleggen of laten zien.
+* '''Gebruiken''': kennis en vaardigheden inzetten in een concrete situatie.
+* '''Onderzoeken''': vragen, onderdelen, oorzaken en verwachtingen verkennen en toetsen; zie [[Onderzoekend leren|onderzoekend leren]].
+* '''Integreren''': onderzochte inzichten tot een samenhangend geheel verbinden.
+
+==== Affectief ====
+* '''Focussen''': aandacht richten of terugbrengen naar iets relevants.
+* '''Interesseren''': zelf belangstelling ontwikkelen en vanuit die belangstelling willen handelen.
+* '''Waarderen''': ervaren en kenbaar maken waarom iets waardevol is.
+* '''Sympathiseren''': betrokkenheid ontwikkelen bij een ander of diens perspectief. Het precieze onderscheid met inleven moet in een toepassing expliciet zijn.
+* '''Verinnerlijken''': een waarde zo eigen maken dat zij het handelen mede richting geeft.
+
+==== Sociaal ====
+* '''Benaderen''': toenadering zoeken tot een ander.
+* '''Overleggen''': perspectieven en mogelijke afspraken uitwisselen.
+* '''Verbinden''': een wederzijdse relatie opbouwen die verder gaat dan een los contact.
+* '''Participeren''': bijdragen aan gezamenlijke activiteit.
+* '''Versmelten''': als deelnemer opgaan in een team met gedeelde verantwoordelijkheid, met behoud van de mogelijkheid tot eigen instemming.
+
+Overleg betekent niet automatisch dat een afspraak is gemaakt. Een gezamenlijk product bewijst evenmin dat alle deelnemers dezelfde individuele bekwaamheid bezitten.
+
+==== Motorisch ====
+* '''Bewegen''': lichamelijk handelen en een beweging verkennen.
+* '''Modelleren''': een uitvoering leren kennen en zelf uitvoeren aan de hand van een model; zie [[Model leren|model leren]].
+* '''Automatiseren''': een uitvoering zo oefenen dat minder bewuste deelsturing nodig is.
+* '''Demonstreren''': een vaardigheid zichtbaar of ervaarbaar maken als voorbeeld voor anderen.
+* '''Excelleren''': een vaardigheid op een nader omschreven hoog niveau uitvoeren. Een eigen stijl kan daarbij relevant zijn, maar bewijst op zichzelf geen kwaliteit.
+
+De precieze criteria hangen af van het object, de situatie en de mogelijkheden van de lerende. Een langzaam gegeven demonstratie hoeft bijvoorbeeld nog geen geautomatiseerde uitvoering te zijn.
+
+==== Metacognitief ====
+* '''Ervaren''': een gebeurtenis of innerlijk proces meemaken, zonder dat bewuste bijsturing nodig is.
+* '''Beseffen''': bewust worden van wat er in de eigen ervaring of het eigen handelen gebeurt.
+* '''Reflecteren''': terug- en vooruitkijken vanuit een perspectief, met aandacht voor eigen beleving, afwegingen en betekenis.
+* '''Reguleren''': op grond daarvan aandacht, handelen, emoties of aanpak bijstellen; zie [[Zelf leren/Zelfregie|zelfregie]].
+* '''Creëren''': ruimte maken voor een nieuw inzicht of een nieuwe mogelijkheid. Binnen deze metacognitieve interpretatie gaat het mede om het omgaan met innerlijke belemmeringen. Zie ook [[Ontwerpend leren|ontwerpend leren]].
+
+Creëren kan ook het maken van een product betekenen. Welke betekenis binnen een metacognitieve indeling wordt bedoeld, moet daarom expliciet worden vastgesteld. De hoogste plaats ervan is een aanname die niet uit de naam volgt.
+
+=== Niveau en bewijs ===
+Een cumulatief profiel neemt aan dat een hoger niveau voorgaande componenten veronderstelt. Dat is iets anders dan bewijs dat een actor alle lagere niveaus heeft doorlopen of blijvend beheerst. Vooral bij sociale en motorische handelingen zijn tegenvoorbeelden denkbaar. De gekozen afhankelijkheden moeten daarom per toepassing worden gedefinieerd en [[Leertaal/Testen|getoetst]].
+
+Een reflectie kan bijvoorbeeld ervaring, analyse en eigen beleving vereisen. Een beschrijving die een analyseverwijzing mist kan onvolledig zijn. De interpreter mag die analyse niet verzinnen, geen extra gebeurtenissen registreren en geen extra leertijd afleiden uit de benodigde componenten. Vrijwillige zelfrapportage kan informatie leveren, maar is geen automatisch gemeten innerlijke toestand.
+
+=== Samengestelde acties ===
+Een [[Leertaal/Declaratief|declaratie]] kan een eigen actienaam definiëren met relatieve gehele gewichten. Zo kan ''oplossen'' worden beschreven als drie delen Onderzoeken en één deel Gebruiken. De schrijver legt vast welke leerbetekenis wordt bedoeld; de taal ontdekt die betekenis niet zelfstandig uit een wereldhandeling.
+
+De basiswoorden zijn bij voorkeur enkelvoudige, onscheidbare werkwoorden. Passie, motivatie en nieuwsgierigheid zijn drijfveren en worden niet zonder meer extra actietypen. Een profiel is geen verplicht leerritme: [[Vrij leren|vrij leren]] vraagt ruimte om een route, hulp of sociale deelname zelf te kiezen.
+
+{{Opmaak | Voettekst}}

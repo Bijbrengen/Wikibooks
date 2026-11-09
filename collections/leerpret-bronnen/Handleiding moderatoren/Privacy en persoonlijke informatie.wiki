@@ -1,0 +1,14 @@
+{{Index Handleiding moderatoren}}
+De functie van moderator is niet altijd makkelijk. Kreten als ''machtsmisbruik'' en ''censuur'' blijken vrij onschuldig. De moderator voert onpopulaire taken uit, zoals het verwijderen van afbeeldingen en artikelen. Soms zijn dat pagina's waar iemand veel tijd en energie in heeft gestoken of over heeft nagedacht. Het verwijderen kan dan boze reacties tot gevolg hebben.
+
+Het is voorgekomen dat moderatoren bedreigd zijn. Signaleer in dat geval de medemoderatoren en bespreek de situatie. Bedreiging is een serieuze ondermijning van de stabiliteit van een wikigemeenschap en wordt streng aangepakt.
+
+Weeg af of het wel wenselijk is persoonlijke informatie te delen via de wiki. Het advies is dat het voor de gemoedsrust beter lijkt te zijn om zo anoniem mogelijk te blijven, hoewel het risico niet groot is dat er met een moderator wordt ''afgerekend''.
+
+In het geval er op een gebruikerspagina of elders in een ver verleden, nu ongewenst, dergelijke informatie heeft gestaan: verwijder deze informatie uit de geschiedenis. Verwijder de gebruikerspagina en haal alleen die versies terug die vrij zijn van persoonlijke informatie.
+
+{{Wp|Wikipedia:Privacybeleid|Zie ook Privacybeleid op Wikipedia}}
+
+<div style='text-align: center;'>Verder naar '''[[Handleiding moderatoren/Hoe om te gaan met persoonlijke aanvallen|Persoonlijke aanvallen]]'''</div>
+<div style='text-align: center;'>Terug naar '''[[Handleiding moderatoren/Overleggen met elkaar en de gemeenschap|Overleggen]]'''</div>
+{{Sub}}

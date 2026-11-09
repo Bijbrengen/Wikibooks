@@ -1,0 +1,29 @@
+{{Opmaak}}
+Een '''declaratieve leertaal''' beschrijft eigenschappen, relaties en bedoelingen zonder iedere uitvoeringsstap vast te leggen. De [[Leertaal/Inleiding#Architectuur|architectuur]] onderscheidt daarbij de technische verwerking van een beschrijving en de zelfgekozen route van de lerende.
+
+== Leerdeclaratie ==
+Een leerdeclaratie geeft een unieke naam aan een beschrijving. Actoren, acties, objecten, contexten, uitspraken en bundels kunnen zo herbruikbaar worden gemaakt. Een eigen actienaam krijgt betekenis door haar relatie tot de [[Leertaal/Leren#Leeractie|basisacties]], niet alleen doordat zij bekend klinkt.
+
+== Gewogen samenstelling ==
+Een mogelijke notatie gebruikt gehele relatieve gewichten:
+<pre>
+actie oplossen = 3 * Onderzoeken + 1 * Gebruiken
+actor maker = 3 * Verkenner + 1 * Verwerver
+object pers = 2 * Weerstandsobject + 1 * Succesobject
+</pre>
+Deze schrijfwijze illustreert het principe en is geen vastgestelde grammatica. Drie delen tegenover één deel geven een verhouding aan. De schrijver hoeft geen percentages te laten optellen tot honderd. Bij niet-negatieve gewichten met een positieve som kan de verwerking ieder gewicht delen door de som. Het eerste voorbeeld wordt dan driekwart Onderzoeken en een kwart Gebruiken.
+
+Gewichten betekenen niet vanzelf tijdsduur, herhalingsaantal, kans of gemeten bekwaamheid. Ontbrekende informatie is niet automatisch nul.
+
+== Uitsluiting en negatieve gewichten ==
+Een taalvariant kan ook negatieve termen toelaten, bijvoorbeeld om een betekenis expliciet uit te sluiten. Een uitsluiting is echter niet hetzelfde als een negatief mengaandeel. Bij een som nul kan niet door de som worden gedeeld. De betekenis van negatieve termen, conflictregels en normalisatie moet daarom afzonderlijk worden vastgelegd.
+
+== Compositie en verwijzingen ==
+Een combinatie kan naar andere declaraties verwijzen, mits uiteindelijk duidelijk is op welke basisbegrippen zij berust. Naamruimten, versies, cyclische verwijzingen en het overschrijven van betekenissen vragen expliciete regels. Compositie is niet automatisch overerving.
+
+== Beknoptheid en uitvoering ==
+Een declaratieve beschrijving kan beknopt blijven doordat de verwerking terugkerende taken afhandelt. De leesbaarheid hangt af van de gekozen begrippen en uitleg. Het technische ''hoe'' kan door een interpreter worden geregeld; het persoonlijke ''hoe'' van het leren blijft bij de actor.
+
+Declaratief programmeren en objectgeoriënteerd programmeren sluiten elkaar niet uit. Een interpreter kan objectgeoriënteerd zijn opgebouwd en inkapseling, overerving of polymorfisme gebruiken. Ook andere implementaties zijn mogelijk. De keuze van softwarearchitectuur volgt niet noodzakelijk uit de schrijfwijze van de taal.
+
+{{Opmaak | Voettekst}}

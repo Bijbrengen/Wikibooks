@@ -1,0 +1,22 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Opvolgend%20leren",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Opvolgend leren",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "title": "Opvolgend leren",
+      "file": "_module.wiki",
+      "pageid": 40526,
+      "contentmodel": "wikitext",
+      "revid": 349494,
+      "parentid": 0,
+      "timestamp": "2021-03-08T11:38:50Z",
+      "user": "BeeBringer",
+      "comment": "Verwijst door naar [[Model leren]]",
+      "sha1": "0ff170df3dfb0e8fba316f76c9eac4600fdeb9a2",
+      "bytes": 31
+    }
+  ]
+}

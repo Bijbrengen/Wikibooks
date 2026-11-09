@@ -11,4 +11,3 @@
 | Collectie = Leren
 | Onderdeel = Bewust, Kwaliteit, Stijl, Opbrengst, Leerstof, Leerstrategie, Toetsing
 }}
-{{Fase|2}}

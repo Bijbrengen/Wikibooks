@@ -1,0 +1,65 @@
+{{Opmaak}}
+Een type geeft aan wat voor soort beschrijving of element wordt bedoeld. Typen helpen een [[Leertaal/Interpreter|interpreter]] ongeldige combinaties te herkennen. Een actienaam, objectnaam en contextnaam zijn niet onderling uitwisselbaar.
+
+== Kernmodel ==
+De vier elementtypen zijn [[Leertaal/Typen#Leeractor|actor]], [[Leertaal/Leren#Leeractie|actie]], [[Leertaal/Leerbox#Leerobject|object]] en [[Leertaal/Vrijheid#Leercontext|context]]. Daarboven bestaan leeruitspraken, bundels en processen. Binnen ieder elementtype kan een beperkte basiswoordenschat samengestelde beschrijvingen mogelijk maken.
+
+== Leerarchitectuur en onderwijsarchitectuur ==
+Wanneer een lerende het eigen leren beschrijft of ontwerpt, kan van een ''leerarchitectuur'' worden gesproken. Wanneer iemand mogelijkheden voor het leren van anderen ontwerpt, betreft het een [[Onderwijsarchitect|onderwijsarchitectuur]]. De aanwezigheid van een ontwerper maakt een aanbod niet automatisch onvrij; de feitelijke zeggenschap van de lerende blijft bepalend.
+
+== Alternatieve indeling van onderwijsstructuren ==
+Een ander model beschrijft een onderwijsarrangement als een wortelobject met onderliggende takken en bladeren. Het worteltype kan het karakter van de structuur aangeven:
+* '''Actor''': er is een begeleider, ontwerper of andere betrokkene met een rol in het arrangement.
+* '''Portfolio''': uitvoering en onderbouwing worden zichtbaar gemaakt voor een publiek of beoordelaar.
+* '''Action''': handelingen worden expliciet beschreven.
+* '''Unit''': het aanbod is ingedeeld in eenheden, zoals cursussen of perioden.
+* '''Prerequisite''': er worden beginkenmerken of voorkennis verondersteld.
+* '''Resource''': bronnen en hulpmiddelen zijn beschikbaar.
+* '''Method''': een bepaalde werkwijze vormt het organiserende beginsel.
+
+Dit zijn kenmerken van een onderwijsstructuur, geen automatisch bewezen rangorde van vrijheid. Een vrijwillig gekozen methode kan anders functioneren dan een verplichte methode. Een portfolio kan de lerende dienen of juist een externe verantwoordingsplicht opleggen.
+
+== Afhankelijkheden ==
+Binnen zo'n model kan men onderzoeken of een methode voorwaarden veronderstelt, voorwaarden bij een eenheid horen, een eenheid handelingen organiseert en handelingen in een portfolio zichtbaar worden voor een beoordelaar. Die keten is een te toetsen aanname, geen noodzakelijke eigenschap van ieder leerproces. Een bron hoeft bijvoorbeeld niet alleen via een vooraf bepaalde cursus toegankelijk te zijn.
+
+In een eigen leerarchitectuur kan een centraal wortelobject optioneel zijn. De keuze voor een boom, netwerk of reeks hangt af van wat beschreven moet worden. Het vierdelige kernmodel en deze alternatieve onderwijsindeling vragen een expliciete vertaling wanneer ze samen worden gebruikt.
+
+
+== Leeractor ==
+Een '''leeractor''' is degene over wiens leren een uitspraak wordt gedaan. Het beschreven profiel omvat leerkenmerken en een toestand binnen een bepaalde situatie. Het is geen volledige persoonsbeschrijving of diagnose.
+
+=== Profielen ===
+Een mogelijke typering onderscheidt vijf rollen:
+{| class="wikitable"
+! Typering !! Nadruk
+|-
+| Verkenner || Onbekend terrein, variatie en ontdekking.
+|-
+| Volger || Houvast, meebewegen en aansluiting bij een route of groep.
+|-
+| Verwerver || Resultaat, opbrengst en efficiëntie.
+|-
+| Veroveraar || Weerstand, uitdaging en doorbraak.
+|-
+| Verlater || Niet of niet meer deelnemen aan het beschouwde leerproces.
+|}
+
+Een profiel kan meerdere typeringen combineren. De aanname is dat zulke combinaties verschillen in leervoorkeuren beschrijfbaar maken. Of deze indeling voldoende dekkend is, vraagt toetsing. Zij vervangt geen individueel gesprek of onderzoek naar het werkelijke leren.
+
+De vier actieve rollen kunnen worden bekeken vanuit twee contrasten: opbrengst tegenover ervaring en gemak tegenover uitdaging. De Verwerver zoekt dan opbrengst met gemak, de Veroveraar opbrengst via uitdaging, de Volger ervaring met houvast en de Verkenner ervaring via ontdekking. De Verlater vraagt een afzonderlijke interpretatie: niet-deelnemen is niet vanzelf een geringe hoeveelheid van een actieve rol.
+
+=== Situatieafhankelijk ===
+Een actor kan in een wedstrijd graag grenzen verleggen en tijdens een informeel gesprek vooral meebewegen. Een [[Leerstijl|voorkeur]] wordt daarom niet als onveranderlijke eigenschap behandeld. Het profiel verwijst naar de beschreven [[Leertaal/Vrijheid#Leercontext|context]]. Omgeving en rol kunnen elkaar beïnvloeden.
+
+=== Toestand ===
+Naast typering kunnen drie ervaren kenmerken worden beschreven:
+* '''Leernut''': de ervaren of verwachte zin en waarde van het leren.
+* '''Leeruitdaging''': de ervaren of gezochte moeilijkheid en het overwinnen van weerstand.
+* '''Leerplezier''': persoonlijk of sociaal plezier tijdens het leren.
+
+Deze kenmerken sluiten aan bij [[Leerpret|leerpret]]. Een aantrekkelijke omgeving kan ertoe uitnodigen, maar bepaalt de ervaring niet volledig. Voor een meetwaarde zijn een schaal, een waarnemingswijze en een toepassingscontext nodig. Een voorbeeldgetal is geen vastgestelde psychologische maat.
+
+=== Anonimiteit ===
+Een actor kan met een profielnaam worden aangeduid. Echte identiteit en gevoelige gegevens kunnen buiten de taal blijven. Een eventuele koppeling met een [[Leertaal/Portfolio|portfolio]] vraagt afzonderlijke afspraken over regie, toestemming en gebruik van gegevens.
+
+{{Opmaak | Voettekst}}

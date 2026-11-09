@@ -1,0 +1,38 @@
+{{Opmaak}}
+== Profiel ==
+3: James Mason (19 november 1849 - 12 januari 1905) was een in Ierland geboren Brits-Amerikaanse schaker, journalist en schrijver, die in de jaren 1880 een van de beste spelers ter wereld werd en bijna 1 jaar als de nummer 1 speler ter wereld gewaardeerd. Hij is mede de ontwikkelaar van de London system als schaakopening geweest.
+
+== Mason-gambiet ==
+'''1. e4 e5 2. f4 exf4 3. Nc3'''
+
+{{Opmaak
+| Object = Schaak
+| Definitie = Mason-gambiet
+| Beschrijving = Het Mason-gambiet (1. e4 e5 2. f4 exf4 3. Nc3)
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|pd|  |pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |pl|pd|  |  |
+3 |  |  |nl|  |  |  |  |  |
+2 |pl|pl|pl|pl|  |  |pl|pl|
+1 |rl|  |bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+
+Het Mason-gambiet is een ongebruikelijke variant van het [[Schaken door meesters/Staunton#Gambiet|Koningsgambiet]]. In plaats van de meer gangbare 3. Nf3, ontwikkelt wit het paard naar c3. Dit laat de diagonaal open voor de dame om eventueel naar h5 te gaan, maar stelt de zwarte dame ook in staat om een schaak te geven op h4.
+
+=== Belangrijke varianten ===
+* '''3... Qh4+ 4. Ke2''': De meest kritieke lijn. De witte koning moet naar het centrum, maar wit krijgt een enorme ontwikkelingsvoorsprong en een sterk centrum.
+* '''3... d5 4. exd5 Nf6''': Zwart probeert direct het centrum aan te vallen.
+* '''London System (1. d4 d5 2. Bf4)''': Hoewel Mason bekend staat om zijn gambiet, was hij ook een van de pioniers van het uiterst solide London System, dat tegenwoordig op alle niveaus populair is.
+
+== Evaluatie van Combinaties ==
+De speelstijl van Mason was zowel agressief als diep strategisch:
+* '''Koning in het centrum''': Het Mason-gambiet (4. Ke2) toont aan dat een actieve koning in de opening niet altijd fataal hoeft te zijn, mits de rest van de stukken goed gecoördineerd zijn.
+* '''Positionele soliditeit''': In contrast met zijn gambiet, bood het London System een betrouwbare basis voor witspelers die liever op langdurig positioneel voordeel spelen (+0.3).
+* '''Tactische flexibiliteit''': Mason begreep dat openingen niet alleen over zetten gaan, maar over het creëren van stellingen waarin de tegenstander zich ongemakkelijk voelt.
+
+{{Opmaak | Voettekst}}

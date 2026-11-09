@@ -42,7 +42,7 @@ De bedenker van deze puzzel schijnt hiermee zijn buurman, die geen goed schaker 
 }}
 
 === Verliezen ===
-Schaken leer je ook beter door te verliezen. Dan leer van je tegenstander - die meestal wint omdat hij meer ervaring heeft - bepaalde patronen. Vaak is een keer verliezen door een patroon niet op tijd te herkennen niet voldoende. Dus heb geduld, speel met betere tegenstanders die meer patronen kennen en kijk niet naar of en hoe vaak je wint, maar wees blij als je betere tegenstanders het steeds moeilijker tegen jou krijgen.
+Schaken leer je ook beter door te verliezen. Dan leer je van je tegenstander - die meestal wint omdat hij meer ervaring heeft - bepaalde patronen. Vaak is een keer verliezen door een patroon niet op tijd te herkennen niet voldoende. Dus heb geduld, speel met betere tegenstanders die meer patronen kennen en kijk niet naar of en hoe vaak je wint, maar wees blij als je betere tegenstanders het steeds moeilijker tegen jou krijgen.
 
 == Ontwikkelen ==
 === Richtlijnen ===
@@ -53,7 +53,7 @@ Richtlijnen (geen harde regels):
 * Als een tegenstander een rokade heeft gedaan, jijzelf nog niet, beweeg de pionnen aan de kant waar de koning van de tegenstander staat dan naar voren om zijn pionnenstructuur te doorbreken.
 
 === Stukken ===
-We gaan er bij strategisch spelen al van uit dat je regelmatig schaakpartijen heb gespeeld en nu graag een niveau hoger wilt bereiken. De eerste stap is de stukken beter te leren kennen, zoals hun waarde in het spel. Die wordt niet alleen bepaald door de bewegingsvrijheid volgens de spelregels, maar ook door de positie op het schaakbord, zoals we eerder zagen. 
+We gaan er bij strategisch spelen al van uit dat je regelmatig schaakpartijen hebt gespeeld en nu graag een niveau hoger wilt bereiken. De eerste stap is de stukken beter te leren kennen, zoals hun waarde in het spel. Die wordt niet alleen bepaald door de bewegingsvrijheid volgens de spelregels, maar ook door de positie op het schaakbord, zoals we eerder zagen. 
 
 {{Schaak/Bord2
 |left
@@ -68,7 +68,7 @@ We gaan er bij strategisch spelen al van uit dat je regelmatig schaakpartijen he
 2 |  |  |xx|  |xx|  |  |  |
 1 |  |  |  |  |  |  |  |  |
    a  b  c  d  e  f  g  h
-|De waarde van het witte paard is groter omdat die meer velden X bewaakt}}
+|De waarde van het witte paard is groter, omdat die meer velden X bewaakt}}
 
 De schaakstukken vanuit de opening verplaatsen zodat ze meer waarde krijgen, noemen we het ontwikkelen van de stukken. Als de schaakstukken opgeteld meer waarde hebben, zijn ze dus beter inzetbaar voor een aanval of een verdediging.
 
@@ -120,7 +120,7 @@ Zwart verloor een tempo noodgedwongen ({{Wp|Tempo_(schaken)#Tempodwang|tempodwan
 }}
 
 == Oorlogsvoering ==
-{{Wp|De kunst van het oorlogvoeren|De kunst van het oorlogvoeren}} van {{Wp|Sun_Tzu|Tzu}}, generaal en militair strateeg van het Chinese {{Wp|Wu_(staat)|koninkrijk Wu}}, geeft goede tips hoe je vanuit kalmtebals schaakgeneraal een slimme strategie kan uitstippelen
+{{Wp|De kunst van het oorlogvoeren|De kunst van het oorlogvoeren}} van {{Wp|Sun_Tzu|Tzu}}, generaal en militair strateeg van het Chinese {{Wp|Wu_(staat)|koninkrijk Wu}}, geeft goede tips hoe je vanuit kalmte als schaakgeneraal een slimme strategie kan uitstippelen
 * "Er zijn vijf gevaarlijke karaktereigenschappen voor een generaal."
 * "Als hij roekeloos is, kan hij gedood worden."
 * "Als hij laf is, kan hij gevangen worden."

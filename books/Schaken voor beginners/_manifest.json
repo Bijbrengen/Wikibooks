@@ -1,0 +1,113 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Schaken%20voor%20beginners",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Schaken voor beginners",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 8,
+  "pages": [
+    {
+      "title": "Schaken voor beginners",
+      "file": "_module.wiki",
+      "pageid": 40299,
+      "contentmodel": "wikitext",
+      "revid": 425715,
+      "parentid": 425061,
+      "timestamp": "2026-05-14T11:51:55Z",
+      "user": "BeeBringer",
+      "comment": "",
+      "sha1": "664156ace155d0ae51679741ec8b0a8626e974e0",
+      "bytes": 722
+    },
+    {
+      "title": "Schaken voor beginners/Notatie",
+      "file": "Notatie.wiki",
+      "pageid": 40301,
+      "contentmodel": "wikitext",
+      "revid": 424581,
+      "parentid": 423683,
+      "timestamp": "2026-04-26T18:09:25Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "f85dcd877583d9ba1b1b68fa5e4480a0992a15ea",
+      "bytes": 2365
+    },
+    {
+      "title": "Schaken voor beginners/Regels",
+      "file": "Regels.wiki",
+      "pageid": 40387,
+      "contentmodel": "wikitext",
+      "revid": 424582,
+      "parentid": 423684,
+      "timestamp": "2026-04-26T18:09:31Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "11bb58ca8f831d012f1293c428df991eac84efd3",
+      "bytes": 14761
+    },
+    {
+      "title": "Schaken voor beginners/Strategie",
+      "file": "Strategie.wiki",
+      "pageid": 40389,
+      "contentmodel": "wikitext",
+      "revid": 428283,
+      "parentid": 428266,
+      "timestamp": "2026-05-21T09:11:09Z",
+      "user": "Erik Baas",
+      "comment": "",
+      "sha1": "0ec107c168200214cd141b3d9f502dd09d022faf",
+      "bytes": 11260
+    },
+    {
+      "title": "Schaken voor beginners/Stukken",
+      "file": "Stukken.wiki",
+      "pageid": 40454,
+      "contentmodel": "wikitext",
+      "revid": 425713,
+      "parentid": 424584,
+      "timestamp": "2026-05-14T11:27:17Z",
+      "user": "BeeBringer",
+      "comment": "",
+      "sha1": "1843bd9be34185892b86ec149b0f1fffc077ded2",
+      "bytes": 5153
+    },
+    {
+      "title": "Schaken voor beginners/Tactiek",
+      "file": "Tactiek.wiki",
+      "pageid": 40388,
+      "contentmodel": "wikitext",
+      "revid": 424585,
+      "parentid": 423685,
+      "timestamp": "2026-04-26T18:09:50Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "659b9a61b1b54f0e19f35cd7990c8a876a205fc5",
+      "bytes": 18288
+    },
+    {
+      "title": "Schaken voor beginners/Verloop",
+      "file": "Verloop.wiki",
+      "pageid": 40382,
+      "contentmodel": "wikitext",
+      "revid": 424586,
+      "parentid": 423688,
+      "timestamp": "2026-04-26T18:09:57Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "9bcc7b0e6ef4eaab95af03c51b407e3dfa6aa777",
+      "bytes": 5900
+    },
+    {
+      "title": "Schaken voor beginners/Wedstrijd",
+      "file": "Wedstrijd.wiki",
+      "pageid": 41626,
+      "contentmodel": "wikitext",
+      "revid": 424587,
+      "parentid": 423747,
+      "timestamp": "2026-04-26T18:10:03Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "2be78743c2a812719ca0d41c14cec84b94b57ceb",
+      "bytes": 1334
+    }
+  ]
+}

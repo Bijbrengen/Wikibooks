@@ -1,0 +1,13 @@
+{{Opmaak
+| Titel = Onderwijsplatform
+| Object = Reeks
+| Bron = Onderwijsplatform.webp
+| Definitie = {{Wp|Onderwijsplatform|Onderwijsplatform}} is een online systeem of applicatie ontworpen door een [[onderwijstechnoloog]] om het [[leren]] en [[onderwijs]] te ondersteunen en te verbeteren. 
+| Beschrijving = In deze boekenserie boek wordt uitgelegd hoe je een open source onderwijsplatform kunt ontwerpen.
+| Formaat = html
+| Voortgang = 0
+| Collectie = Onderwijs en opleiding
+| Onderdeel = Onderwijs&shy;wiki, E-coach, Leertaal
+| Support = Signaleer
+| Referentie = wikipedia
+}}

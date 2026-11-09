@@ -1,12 +1,12 @@
 {{Kolommen automatisch|inhoud=  <!-- alfabetisch gesorteerd -->
 *[[Beeldend leren]]
-*[[Categorie:Boekenplanken]]
 *[[E-coach]]
 *[[Entreprenasium]]
 *[[Filosofisch onderwijs]]
 *[[Humanature]]
 *[[Learngames]]
 *[[Leerparadijs]]
+*[[Leertaal]]
 *[[Leren leren]]
 *[[Leren]]
 *[[Maatschappijleer]]
@@ -18,7 +18,6 @@
 *[[Onderwijsniveau]]
 *[[Onderwijsplatform]]
 *[[Onderwijsprofessional]]
-*[[Onderwijstaal]]
 *[[Onderwijstechnoloog]]
 *[[Onderwijsvorm]]
 *[[Onderwijswiki]]
@@ -32,4 +31,5 @@
 *[[Zelf leren]]
 }}
 {{Navigatie boekenplanken}}
-[[Categorie:Boekenplanken| ]]
+
+[[Categorie:Boekenplank| ]]

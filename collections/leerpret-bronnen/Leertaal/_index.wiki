@@ -1,0 +1,13 @@
+{{Opmaak
+| Titel = Leertaal
+| Object = Boek
+| Bron = Leertaal.webp
+| Definitie = Een '''leertaal''' is een domeinspecifieke taal waarmee kenmerken van het [[leren]], leeruitspraken en de samenhang van leerprocessen expliciet worden beschreven.
+| Beschrijving = Dit boek behandelt een declaratieve beschrijving van [[Vrij leren|vrij leren]] en [[Zelf leren|zelf leren]]. Het verbindt actoren, acties, objecten en contexten en onderscheidt uitgevoerde handelingen, actuele duurzame bekwaamheid en gewenste ontwikkeling. De beschreven modellen bevatten aannamen die inhoudelijk en praktisch moeten worden getoetst.
+| Formaat = html
+| Voortgang = 100
+| Support = Signaleer
+| Referentie =
+| Collectie = Onderwijsplatform
+| Onderdeel = Inleiding, Vrijheid, Definitie, Typen, Declaratief, Prompting, Interpreter, Testen, Conversie, Toepassing, Voorbeeld, Leren, Logica, Portfolio, Leerbox
+}}

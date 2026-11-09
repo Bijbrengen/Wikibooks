@@ -1,0 +1,75 @@
+{{Opmaak}}
+Hoe veroorzaakt een winnende wit aan zet toch door natuurlijke zetten een remise?
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |rd|  |  |  |  |  |  |
+7 |  |  |  |  |  |rl|  |  |
+6 |  |  |  |kd|  |pd|pd|  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |pl|  |pd|pl|
+3 |  |  |kl|pl|pl|  |pl|  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+| Russian Game: Stafford Gambit IM Erik Rosen }}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |  |  |  |rl|  |
+5 |  |  |  |  |kd|  |  |  |
+4 |  |  |  |  |pl|  |pd|pl|
+3 |  |rd|kl|pl|pl|  |pl|  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Neem de pionnen en je geeft zwart de kans op pat door met zijn toren steeds de koning schaak te zetten}}
+# Rxf6+ Ke5
+# Rxg6  Rb3+
+Zie [https://lichess.org/study/FcqUh0k4/7Ph6UZbz Lichess study '''Russian Game: Stafford Gambit IM Erik Rosen'''].
+}}
+
+== Offer ==
+Hoe wint zwart aan zet?
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |kd|  |  |  |rd|  |
+7 |  |pd|pd|  |  |  |  |  |
+6 |pd|  |pd|  |  |  |  |  |
+5 |  |  |  |  |rl|  |  |pd|
+4 |  |  |  |  |  |  |  |nd|
+3 |  |  |nl|pl|  |rd|  |pl|
+2 |pl|pl|pl|  |  |  |  |kl|
+1 |  |  |  |  |  |  |rl|  |
+   a  b  c  d  e  f  g  h
+| {{Wp|Sawielly_Tartakower|Tartakower}} - Schlechter, Wenen 1908 }}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |kd|  |  |  |  |  |
+7 |  |pd|pd|  |  |  |  |  |
+6 |pd|  |pd|  |  |  |  |  |
+5 |  |  |  |  |rl|  |  |pd|
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |nl|pl|  |nd|  |pl|
+2 |pl|pl|pl|  |  |  |  |  |
+1 |  |  |  |  |  |  |rd|kl|
+   a  b  c  d  e  f  g  h
+|Geforceerd offeren van toren}}
+# ... Rf2+
+# Kh1 Rh2+
+# Kxh2 Nf3+
+# Kh1 Rxg1#
+Zie [https://lichess.org/study/xyNXCQfN/cY3jvXOS Lichess study '''Tartakower - Schlechter, Wenen 1908'''].
+}}
+
+{{Opmaak | Voettekst}}

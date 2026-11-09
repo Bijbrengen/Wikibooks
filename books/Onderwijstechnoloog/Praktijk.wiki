@@ -1,20 +1,18 @@
 {{Opmaak}}
-{{Wiu2}}
-== Werkwijze ==
-=== Begeleiding ===
+== Begeleiding ==
 Bij de inzet van ICT in het onderwijs komen vanuit de gebruikers verzoeken voor een meer onderwijskundige en didactische ondersteuning. Op allerlei fronten wordt hier hard aan gewerkt. Men kan denken aan informatieve websites, onderzoeksprojecten, specifieke groepstrainingen. Het doel van deze begeleiding is de docent te ontwikkelen in zijn of haar vaardigheid het eigen onderwijs te evalueren en te ontwerpen wanneer ICT, als faciliterend middel voor het leerproces, in wordt gezet.
 
 Nadeel van deze ondersteuningsvormen is dat het onderwijs een complex samenspel is van onderwijsdoelen, onderwijsactiviteiten, invloeden uit de omgeving, wensen en behoeften van de docent zelf en zijn studenten. Het “zomaar” overnemen van generieke voorbeelden herbergt het gevaar dat deze binnen de specifieke onderwijssituatie van de docent niet volledig tot zijn recht komen. Om deze transfer zelf te kunnen maken vergt van de docent een flinke expertise op het gebied van onderwijs en de inzet van ICT daarbinnen.
 
 Hierbij is de laatste jaren de opkomst van serious games en MUVEs in het voortgezet onderwijs interessant te noemen. Vooral de actieve betrokkenheid van leerlingen bij hun eigen leerproces en de intensieve interactie met de computer is opvallend net als de grote motivatie van leerlingen. Als het gaat om de docenten dan is er een grote behoefte aan begeleiding en hulp om deze middelen slim in te zetten en de leerlingen te begeleiden bij het gebruik daarvan.
 
-=== Begeleiders ===
+== Begeleiders ==
 
 Deze vaststelling heeft geleid tot de gedachte aan individuele ondersteuning door een adviseur die de expertiseclaim van de docent overneemt. Dit zou een onderwijstechnoloog die eveneens een onderwijsdeskundige is kunnen oppakken. Echter ook het ontwerpen is een vak apart. En de beste hulp is er als de docent middels een ontwerp wordt geholpen aan een effectieve en efficiënte inzet van ICT. Dit is het terrein van een [[Onderwijsarchitect|onderwijsarchitect]] met voldoende specialisatie op het gebied van Digitale Didactiek. (Of die laatste term eigenlijk wel kan daarover zijn de meningen verdeeld.)
 
 Naast de adviseur is het van belang dat ook anderen de docent ondersteunen bij de invoering van ICT in zijn onderwijs. Daarbij kan men denken aan ICT-ers die klaar staan bij technische vragen en aan organisatorische ondersteuning (de manager of coördinator). Ook medewerkers van het project of afdeling dat ICT in het onderwijs invoert zijn nodig voor een goede implementatie.
 
-=== Fasering ===
+== Fasering ==
 
 Het ondersteuningstraject start vaak met een intake. Deze intake kan het gevolg zijn van 
 * een individuele benadering van de Onderwijs&ICT afdeling, 
@@ -24,7 +22,7 @@ Het ondersteuningstraject start vaak met een intake. Deze intake kan het gevolg 
 
 In een intakegesprek wordt achterhaald wat de precieze behoefte van de docent is en wordt door de adviseur mogelijke oplossingsrichtingen voorgesteld. De adviseur schrijft een gespreksverslag dat wordt opgestuurd naar de docent voor afstemming. Het afgestemd verslag dient als uitgangspunt bij een tweede gesprek waarin de oplossingsrichting wordt uitgewerkt in een ontwerp. De adviseur zal hiervoor alle aspecten die van belang zijn achterhalen. Als ook het ontwerp is afgestemd, wordt in overleg met de verantwoordelijk manager een plan opgesteld hoe het ontwerp met ICT-ondersteuning wordt gerealiseerd.
 
-=== Feedback ===
+== Feedback ==
 Hoe zorgt men voor open, warm en begripvol elektronische feedback? Immers dit levert handgrepen om binnen elektronische feedback de genegenheid tot leren te stimuleren. Want bij elektronische feedback bestaat het gevaar dat onbedoeld een negatieve spiraal van defensieve beschuldigingen en aantijgingen kan ontstaan. Dit gebeurt door gebrek aan nuancerende informatie zoals mimiek, houding, toon, snelheid en hardheid van praten. Elektronische feedback heeft als impliciet voordeel dat men uitgenodigd wordt over het formuleren van de feedback na te denken. Immers men is genoodzaakt feedback te schrijven met vaak enige vertraging tussen ontvangst en verzenden. Online communiceren heeft verder beheervoordelen en kan een oplossing bieden voor plaats en tijd problemen. Door juist gebrek aan alternatieve informatie bij synchrone elektronische communicatie (chat) uit houding, mimiek et cetera kan een docent studenten gelijker benaderen.
 
 Zorg bij het geven van feedback op een opdracht, een vraag, binnen een discussie, bij kritiek, bij opmerkingen en suggesties, bij meningsverschillen, bij mededelingen dat minimaal één van de drie Rogeriaanse elementen (bekrachtiging, empathie en openheid) wordt opgenomen. De kwaliteit van feedback en de relatie met de lerende zal er beter worden maar het vergt wel meer tijd.
@@ -44,21 +42,21 @@ Voorbeelden van bekrachtiging zijn: je bent een fijne student, empathie: ik begr
 * '''Docent positief''': ''Ik begrijp dat je door beperking van tijd niet de opdracht naar eigen tevredenheid hebt kunnen maken, maar wel hebt ingeleverd: beter iets dan niets. Soms heb ik te weinig tijd een opdracht van goede feedback te voorzien, doe het dan snel en ben dan eveneens teleurgesteld achteraf. Ik zou graag van je willen vernemen wat je nu verder verwacht. Mijn houding is dat ik, dan maar eventueel achteraf, alsnog de tijd moet investeren om te zorgen dat het product goed komt.'' 
 : De docent toont in de feedback begrip (“ik begrijp”, “eveneens”), verklaart de student geldig door zijn argumenten en mening waardevol te achten, en heeft een open houding door ook zijn sterke maar ook zwakke kanten te laten zien. 
 
-=== Evaluatie ===
+== Evaluatie ==
 
 Een onderwijstechnoloog kan middels een gebruikerstest achterhalen of de ICT technologie de docent op de juiste wijze heeft ondersteund. Een studentevaluatie kan helpen bij het vaststellen of de lerenden echt baat hebben gehad door de inzet van ICT. Een onderwijstechnoloog kan ICT als middel, doel of als onderwerp zien.
 
-=== Middel ===
+== Middel ==
 
 Een elektronische leeromgeving (elo) is een technische voorziening die de interactie faciliteert tussen het proces van het leren, de communicatie die nodig is voor het leren en de organisatie van het leren. Vandaar dat een ELO een gangbaar product is dat een onderwijstechnoloog oplevert, uitbouwt of onderhoudt.
 
 Een besturingssysteem zoals Linux kan voor de school bijvoorbeeld een middel zijn dure licenties te mijden, om illegale software te vermijden of om in te spelen op de markt.
 
-=== Onderwerp ===
+== Onderwerp ==
 
 In plaats van ICT als middel of doel kan de onderwijstechnoloog ook ICT als onderwerp zien. Dus het onderwijzen over aspecten van ICT. ICT als vakgebied zelf in het onderwijs.
 
-=== Gebruikerstest ===
+== Gebruikerstest ==
 
 In een gebruikerstest wordt een docent met betrekking tot  een bepaald vak over het gebruik van ICT gepolst.
 
@@ -78,7 +76,7 @@ Vervolgens kan de test onder andere de volgend vragen beantwoorden
 * Hoe vriendelijk wordt het systeem ontvangen?
 * Ten aanzien van de doelen wat zijn de opbrengsten van het gebruik van de ICT geweest?
 
-=== Studentevaluatie ===
+== Studentevaluatie ==
 
 Een voorbeeld van een vragenlijst voor een evaluatie door studenten is:
 
@@ -151,7 +149,7 @@ Een voorbeeld van een vragenlijst voor een evaluatie door studenten is:
 * Met welk cijfer (0-10) zou je de inzet van ICT beoordelen?
 
 == Toepassing ==
-=== Monkey Labs ===
+== Monkey Labs ==
 Is eigenlijk een game.
 
 Uitgeverij ''Die Keure'' en ''Larian Studios'' ontwikkelden ''Monkey Labs'', een game die het wiskundeonderwijs kan ondersteunen. De game wordt geleverd bij de handboeken ''Van Basis Tot Limiet'' voor de 1ste graad.
@@ -162,9 +160,9 @@ Uitgeverij ''Die Keure'' en ''Larian Studios'' ontwikkelden ''Monkey Labs'', een
 * http://www.educatief.diekeure.be/vbtl
 
 
-=== Geogebra ===
+== Geogebra ==
 
-==== Wat kan je doen met Geogebra? ====
+=== Wat kan je doen met Geogebra? ===
 Geogebra is een wiskundepakket dat meetkunde, algebra en analyse combineert.
 
 Enerzijds is Geogebra een dynamisch meetkundepakket. Je kan constructies uitvoeren met punten, vectoren, lijnstukken, rechten en kegelsneden en je kan deze tekenobjecten daarna dynamisch wijzigen.
@@ -173,15 +171,15 @@ Anderzijds kunnen functies, vergelijkingen en coördinaten rechtstreeks worden i
 
 Deze twee standpunten zijn typisch voor Geogebra: een uitdrukking in het algebravenster correspondeert met een object in het tekenvenster en omgekeerd.
 
-==== Voorbeelden ====
+=== Voorbeelden ===
 Dit zijn enkele educatieve voorbeelden:
 [http://www.geogebra.org/en/examples/ladder_wall/ladder_wall.html]
 [http://www.geogebra.org/en/examples/integral/loweruppersum.html]
 
 Voor meer voorbeelden neem je best een kijkje op de wiki van Geogebra : [http://www.geogebra.org/en/wiki/index.php/Main_Page].
 
-=== Lichamelijke Opvoeding ===
-==== Videoanalyse ====
+== Lichamelijke Opvoeding ==
+=== Videoanalyse ===
 De dag van vandaag wordt er in meer en meer vakken gebruik gemaakt van ICT om de lessen te ondersteunen. Dit geldt ook voor LO waar gespecialiseerde software voor bewegingsanalyse stilaan wordt geïntegreerd.
 
 De beste manier om bewegingsvaardigheden aan te leren is door visuele informatie: demonstratie bij mondelinge informatie. Video kan hierbij een grote rol spelen. Coaches maken nu reeds gebruik van video’s om spelsituaties te verklaren en het spel van tegenstrevers te analyseren.
@@ -209,7 +207,7 @@ Referenties:
 * http://www.fontys.nl/supportal/videoanalyse.in.de.les.lo.140122.htm
 
 
-=== Optojump ===
+== Optojump ==
 Optojump is een uiterst precies optisch meetinstrument waar de vluchttijd, contacttijd, de lengte van de pas/sprong en de verticale en horizontale snelheid kan gemeten worden aan de hand van een infraroodveld
 
 Om het Optojumpmeetinstrument te kunnen gebruiken tijdens de lessen LO, heb je het meetinstrument nodig. Dit bestaat uit twee optische staven die op de grond tegenover elkaar geplaatst worden en die met een laptop of vaste PC worden verbonden. Verder heb je de software Racetime 2 time nodig.
@@ -228,7 +226,7 @@ Referenties:
 * http://www.finishlynx.com/products/measure_n_monitor/optojump/index.htm
 
 
-=== Nike + iPod ===
+== Nike + iPod ==
 De set van nike en iPod is samengesteld uit een zender en een ontvanger. De zender of de sensor maak je vast aan je veters of je stopt hem in de holte van je speciale nike-schoen. De ontvanger klik je vast aan je nano (model van iPod). Het moet dit model zijn anders werkt het niet.
 
 Het geheel ziet eruit als een stappenteller maar dit concept is gebaseerd op een acceleratiemeter. Deze meter meet de tijd dat je voet op de grond staat en de stand van je voeten tijdens het lopen. De som van alle tijdens de gelopen afstand, geeft jou een betrouwbare afstands- en snelheidsweergave weer.
@@ -271,7 +269,7 @@ Referenties:
 * http://www.apple.com/nl/ipod/nike/run.html
 * http://www.ictnieuws.net/recensies_detail.php?ID=37
 
-=== Wii Fit ===
+== Wii Fit ==
 De Wii Fit is een uitvinding van Nintendo. Het is een spel waarbij je verschillende fitnessoefeningen kan doen. Het is ontwikkeld voor de Nintendo Wii en het wordt gespeeld door middel van het Wii Balance Board. Dit Board is een bewegingsgevoelige weegschaal die kan registreren hoe het met je evenwicht gesteld is. Daarnaast kan het ook nog je BMI (Body Mass Index) berekenen. Het leuke aan de Wii Fit is dat je kan controleren hoe het met je conditie gesteld is. Zo kan je door middel van de Body Test (waar je gewicht en balans wordt berekend) je Wii Fit Age berekenen. Dit laat het verschil zien tussen je werkelijke leeftijd en de leeftijd die bij je gemeten testresultaten hoort. Met andere woorden, je kan op die manier controleren of je lichaam goed in conditie is volgens je leeftijd. Voor het verbeteren van je conditie kan je gebruik maken van: Yoga-oefeningen, Spieroefeningen en nog zoveel meer. De vooruitgang die je maakt kan je dan opvolgen door middel van grafieken. Er zijn grafieken voor het gewicht, de BMI en de Wii Fit Age.
 
 Voordelen:
@@ -300,7 +298,7 @@ Referenties:
 * http://nl.wikipedia.org/wiki/Wii_Fit
 
 
-=== Online lesvoorbereiding ===
+== Online lesvoorbereiding ==
 http://www.sports-media.org is een site voor leerkrachten en toekomstige leerkrachten LO. Het bevat naast nuttige informatie en evenementen ook een grote database met lesvoorbereidingen voor zowel kleuter-, lager- als secundair onderwijs. Men kan deze gratis raadplegen als men eerst zelf een lesvoorbereiding toevoegt, wanneer de ingezonden lesvoorbereiding kwalitatief goed bevonden wordt, kan men elke lesvoorbereiding in de database downloaden.
 Dit is een mogelijkheid voor leerkrachten die al lesgeven om nieuwe ideetjes op te doen. Het gevaar schuilt erin dat andere leerkrachten systematisch hiervan lesvoorbereidingen overnemen om klakkeloos in hun eigen lessen toe te passen. Daardoor zullen deze leerkrachten hun eigenheid verliezen en niet op een zelfstandige manier hun lessen voorbereiden.
 
@@ -308,7 +306,7 @@ Referenties:
 * http://www.sports-media.org/
 
 
-=== Playbook Software ===
+== Playbook Software ==
 Er bestaan verschillende softwareprogramma's die bedoeld zijn voor coaches van ploegsporten zoals voetbal, volleybal, basketbal e.d.. Deze programma's kunnen echter ook zeer handig zijn voor leerkrachten LO. Men kan er oefeningen op voorbereiden en het bevat ook meestal een database met standaard-oefeningen. Er bestaan tal van verschillende playbooks met een prijsklasse tussen 30$ en 200$. Op http://www.jes-soft.com/ vindt men playbooks voor basketbal, volleybal, baseball, american football, hockey, en waterpolo. Deze kunnen gratis gedownload worden en gebruikt worden voor een bepaalde periode, daarna moet je bijbetalen voor de extra opties, maar de basisfuncties kan men blijven gebruiken.
 
 Een voorbeeld hiervan vind je op onderstaande link
@@ -335,7 +333,7 @@ Referenties:
 * http://www.playmanager.com/
 
 
-=== Voedingsanamnese ===
+== Voedingsanamnese ==
 Leerlingen die in het Technisch Secundair Onderwijs de opleiding Lichamelijke Opvoeding en Sport volgen, krijgen in de 2<sup>de</sup> graad wekelijks 2 uren Theorie van de Lichamelijke Opvoeding. In de leerplannen wordt onder andere gevraagd om aan volgende zaken te werken:
 
 * De leerplandoelstelling: De leerlingen kunnen inzicht verwerven in de principes van voeding bij fysieke inspanningen, sportbeoefening en topsportprestaties. 
@@ -361,7 +359,7 @@ Referenties:
 * http://www.voedingsmiddelentabel.nl
 * http://www.gemeenschapsonderwijs.be/sites/portaal_nieuw/SO/Lessentabellen/Lessentabellen/sport%20-%20BSO-TSO.pdf
 
-=== Hartslagmeter === 
+== Hartslagmeter == 
 De afgelopen jaren is het bewustzijn van de slechte fysieke conditie van onze jeugd steeds groter geworden. Ondanks talrijke pogingen om de jongeren terug op het goede spoor te zetten om een gezonde en fysiek actieve levensstijl aan te nemen is er nog steeds weinig beterschap merkbaar. Veel jongeren vertonen een sedentaire levensstijl door een gebrek aan mogelijkheden, succes of zelfmotivatie om fysiek actief te zijn. Programma’s die gebruik maken van een hartslagmonitor blijken een goed middel te zijn om dit fenomeen te bestrijden. Cardiovasculaire fitnessprogramma’s met hartslagmeters, aangeboden in de lessen Lichamelijke Opvoeding, promoten namelijk individuele begeleiding en leggen een grotere verantwoordelijkheid bij de leerlingen. Fysieke activiteit wordt onderverdeeld in vier dimensies: frequentie (#sessies/week), intensiteit (energievrijgave gecorrigeerd voor lichaamsgrootte), tijd (minuten) en type (kwalitatieve beschrijving van het soort activiteit). Van deze vier dimensies is het meten van de intensiteit van een activiteit vaak het moeilijkste voor een leerkracht. Leerkrachten meten de intensiteit van hun activiteiten bij leerlingen namelijk meestal door het observeren van hun leerlingen. Deze methode blijkt echter zeer subjectief te zijn. Sommige leerlingen blijken bijvoorbeeld vrij hoge hartslagwaarden te bereiken zonder dit fysiek uit te laten schijnen, wat het inschatten moeilijk maakt. Om een duidelijker beeld te krijgen over de intensiteit waaraan leerlingen sporten, kan het gebruik van een hartslagmeter gedurende de lessen Lichamelijke Opvoeding bijgevolg zeer nuttig zijn! Volgens www.gezondheid.infoblog.be lijdt 1 op 5 kinderen aan Obesitas. Dit komt er op neer in het onderwijs, dat 20% van de leerlingen een overgewicht heeft! 
 
 '''Het bepalen van de hartslagzones'''
@@ -399,7 +397,7 @@ Referenties:
 * Using heart rate monitors for effective teaching and curricular accountability in physical education: a commentary. L. G. Driscoll, B. Conner – Gray; Vahperd Journal, Spring, 2008.
 * Preventing obesity and increasing aerobic fitness with heart rate monitors in PE class: initial findings. L. G. Driscoll, M. T. Stimpson, Y. Miyazaki; Vahperd Journal, Spring 2007.
 
-=== SportsTracker ===
+== SportsTracker ==
 SportsTracker is een tool voor mensen die hun sportactiviteiten willen monitoren op een eenvoudige wijze, die bovendien gratis is! Deze open source software, onder GNU General Public License uitgegeven, is niet-sportspecifiek opgegesteld wat toelaat om verschillende sporten in 1 overzicht te plaatsen.
 Het feit dat SportsTracker gratis is en eenvoudig in gebruik is een grote troef voor toepassing in het onderwijs. Het laat de leerkracht toe om leerlingen op zelfstandige basis te laten kennismaken met trainingsdagboeken, planning en periodisering en het belang van HF-metingen bij training. Tevens kan het leerlingen die kampen met overgewicht helpen om hun gewicht, fysieke activiteit én voedingsgewoonten in kaart te brengen (als notitie) en zo in overleg met de leerkracht LO/ de leerkracht die instaat voor gezondheidsbeleid een levensstijl te ontwikkelen die hun lichamelijk welzijn ten goede komt.
 
@@ -427,7 +425,7 @@ Referenties:
 * http://maps.google.com/maps?oe=UTF-8&gfns=1&q=f&um=1&ie=UTF-8&sa=N&hl=nl&tab=wl
 
 
-=== Geschiedenis === 
+== Geschiedenis == 
 Het is niet altijd eenvoudig het vak geschiedenis te koppelen aan informatica-gebruik. De meeste informatie voor deze leerstof is immers terug te vinden in bronnen die reeds bestonden voor iemand ooit een computer gezien had, laat staan gebruikt. Daarom lijkt het mij nuttig enige ideeën op een rijtje te zetten die het gebruik van ICT tijdens lessen geschiedenis iets meer vanzelfsprekend maken. In eerste instantie wordt een overzicht gegeven van het vinden van informatie via ICT. In een tweede stuk worden enkele ideeën aangeboden voor het concrete toepassen van ICT tijdens de lessen.
 
 Het gebruiken van informatica kan leerlingen helpen informatie terug te vinden, zoals hierboven aangereikt, is dit net de minst evidente toepassing van ICT voor geschiedenis. Gelukkig bestaat er een grote hoeveelheid historische informatie die zowel op het internet als via cd-roms makkelijk raadpleegbaar is. Een voordeel hiervan is dat de gegevens veel makkelijker toegankelijk zijn en er geen zoektocht in bibliotheken, referentiewerken en kaartenbakken voor nodig is. De hoeveelheid van het materiaal kan in vele omstandigheden zelfs een hindernis vormen voor het efficiënt vinden van de benodigde informatie. De leerkracht moet daarom zijn leerlingen bijstaan en begeleiden. Het is in dat opzicht interessant het materiaal te beperken tot die teksten die in het Nederlands zijn opgesteld. Op die manier wordt de grote hoop informatie iets of wat overzichtelijker en kan men er zeker van zijn dat de leerlingen alle teksten begrijpen. Studenten kunnen zo beter structureren en opdrachten efficiënt afhandelen. Een andere mogelijkheid is om de teksten te sorteren op grond van hun publicatiedatum.
@@ -446,7 +444,7 @@ Referenties:
 * http://www.awbruna.nl/catalog/eeuwen.htm
 * http://www.toolfactory.com/news/view?id=66
 
-=== CIRCE-Project ===
+== CIRCE-Project ==
 De klassieke talen, Latijn en Grieks, hebben vaak af te rekenen met een nogal oubollig imago. De term klassiek verwijst immers niet alleen naar de Griekse en Romeinse oudheid, maar staat ook synoniem voor een traditionele benaderingswijze. Toch is het gebruik van ICT lang niet onverenigbaar met het onderwijs van de klassieke talen, zoals onder meer geïllustreerd wordt door het CIRCE-project.
 
 CIRCE is een Engels acroniem dat staat voor "Classics & ICT Resource Course for Europe". Het project werd uitgewerkt door een partnerschap van leerkrachten Latijn en Grieks uit België, Denemarken, Frankrijk, Griekenland, Italië en het Verenigd Koninkrijk. Het initiatief is opgericht vanuit de centrale vraag hoe computertechnologie het onderwijs in de klassieke talen en cultuur in het Europa van vandaag kan verrijken en richt zich op “al wie de kwaliteit van zijn/haar werk wil verhogen door gebruik te maken van moderne technologieën.”[http://www.circe.be/content/view/61/245/lang,nl/]
@@ -454,7 +452,7 @@ CIRCE is een Engels acroniem dat staat voor "Classics & ICT Resource Course for 
 Op de website www.circe.be vindt u onder meer een aantal casestudies over de integratie van ICT in het klassieke talenonderwijs, een uitgebreid fotoarchief, een onderdeel over relevante websites en software, een artikel over het gebruik en het installeren van specifieke lettertypes, maar ook voorbeelden van lesvoorbereidingen. Geïnteresseerden kunnen zich op de website bovendien inschrijven voor een cursus die elk jaar georganiseerd wordt in één van de partnerlanden. 
 CIRCE  is ook terug te vinden op Facebook.
 
-=== Latijn ===
+== Latijn ==
 
 Wie denkt dat Latijn en ICT niet te combineren vallen, heeft het grandioos mis of is gewoon erg ouderwets! Op het internet zijn verscheidene websites te vinden die teksten, vertalingen, cultuur, grammatica en oefeningen aanbieden voor het vak Latijn.[http://www.everyoneweb.com/OneEzelsbruggetjePerChild/]
 
@@ -486,18 +484,18 @@ http://nl.wikipedia.org/wiki/Portaal:Latijn.
 * Voor wie het gevoel wil hebben een echte Latijnse 'gazet' te lezen, is er '''Ephemeris''', die dagelijks wordt bijgewerkt met het laatste nieuws: http://ephemeris.alcuinus.net/index.php.
 * De '''Duitse HipHopgroep Ista''' rapt in het Latijn. De enkele demo's van de liedjes en de lyrics zijn te vinden op volgende website: http://www.ista-latina.de/index.php.
 
-=== Cultuur ===
+== Cultuur ==
 Degenen die geen duur ticket willen betalen om Rome te bezoeken kunnen tegenwoordig terecht op het internet, meerbepaald bij '''Google Earth'''. Sinds kort is het zelfs mogelijk om van heel veel gebouwen uit het '''oude Rome van 320 n.Chr.''' reconstructies in 3D te bewonderen. Het project '''Rome Reborn''', dat al elf jaar bezig is om Rome in 3D te doen herleven, was hiervoor een samenwerking aangegaan met Google. Op volgende website: http://earth.google.nl/intl/nl/rome/ kan je een spectaculair YouTubefilmpje afspelen, dat je warm maakt om deze extra applicatie bij Google Earth te downloaden en te gaan verkennen. Eens je Google Earth, of de updateversie 4.3, geïnstalleerd hebt, dien je het programma te openen en linksboven bij ‘Zoeken’ Rome in te tikken. Linksonder kan je dan bij ‘Lagen’ de optie ‘Galerij’ aanklikken en op ‘Het oude Rome in 3D’ klikken. Vervolgens moet je inzoomen tot je de gele icoontjes van antieke momenten ziet verschijnen, waarop je dient te klikken om een bouwwerk van naderbij te kunnen bekijken of om er informatie over op te vragen. Je moet er wel rekening mee houden dat het programma veel tijd nodig heeft om de afbeeldingen op te halen. Rustig navigeren is hierbij dus aangewezen als je niet wil dat de hele zaak vastloopt.
 
 Voor de liefhebbers van het gamen bestaat er sinds 2009 een '''onlinegame''', '''Grepolis''' genaamd. Het spel kan gratis online gespeeld worden, mits registratie, en kan een meerwaarde bieden aan de vakken Latijn of Grieks, vooral in de eerste graad, omdat het volledig geïnspireerd is op de Klassieke Oudheid wat betreft de gebouwen, schepen, het oorlog voeren en dergelijke. Bovendien scherpt de onlinegame het inzicht in tactiek en het vermogen om samen te werken - in dit geval spelen - van de leerlingen aan. Nieuwsgierigen kunnen dit YouTubefilmpje bekijken: http://www.youtube.com/watch?v=1wemrGq1UC0. Voor wie meteen wil beginnen gamen, kan terecht op volgende site: http://nl.grepolis.com.
 
 Wat eveneens steeds handig is tijdens de lessen Latijn of Grieks, is een '''Klassiek lexicon'''. Deze website vormt dan ook een uitstekende aanvulling op de woordenboeken uit de klas en is bovendien erg praktisch voor de leerlingen omdat ze het ook thuis kunnen raadplegen: http://www.ancientlibrary.com/index.php.
 
-=== iPhone als woordenboek ===
+== iPhone als woordenboek ==
 Wie over een iPhone beschikt kan dankzij de applicatie "Word Lens" tekst omzetten van het Spaans naar het Engels en omgekeerd. Dit kan van pas komen wanneer je de betekenis van een woord in één van deze talen niet zou kennen: even vertalen met je iPhone en je kan weer verder. Concreet moet je de tekst enkel filmen en speciale software herkent de tekst en zet deze om. De vertaling is niet altijd helemaal correct, maar je kunt wel begrijpen wat er staat. De ontwikkelaar van de software wil ook nog andere talen toevoegen aan de toepassing, die net geen vijf dollar kost. Een demonstratie van de toepassing vind je [http://www.youtube.com/watch?v=h2OfQdYrHRs hier].
 {{bron|bronvermelding=http://www.klasse.be/leraren/index.php?id=18516}}
 
-=== Economische wetenschappen ===
+== Economische wetenschappen ==
 
 In het leerplan nummer 2006/042 van de richting '''Economie''' in het ASO van het Vlaamse Gemeenschapsonderwijs wordt zeer expliciet verwezen naar de integratie van ICT om de leerlingen te leren :
 
@@ -511,9 +509,9 @@ In de eerste graad moeten leerlingen onder begeleiding elektronische informatieb
 De resultaten van individuele of groepsopdrachten kunnen gekoppeld worden aan een presentatie met de hulp van een presentatieprogramma. Het inzicht kan verhoogd worden d.m.v. visualisatie, grafische voorstellingen, simulaties, schema's, stilstaande en bewegende beelden...
 Resultaten en informatie kunnen uitgewisseld worden via e-mail, blackboard, chatten, nieuwsgroepen en discussiefora. Op die manier biedt ICT de mogelijkheid om interscolaire projecten op te zetten, maar ook om communicatie tussen leraar en leerling (uitwisselen van cursusmateriaal, planningsdocumenten, toets- en examenvragen...) en leraren onderling (uitwisseling lesmateriaal...) te bevorderen.
 
-=== GPS ===
+== GPS ==
 
-==== Inleiding tot de GPS ====
+=== Inleiding tot de GPS ===
 
 Wandelaars maken steeds meer gebruik van de GPS. Maar hoe werkt dit toestel en wat zijn de toepassingsdomeinen?
 
@@ -532,7 +530,7 @@ Bij het gebruik van de GPS mag men niet vergeten dat slechts de richting van de 
 
 Het GPS systeem heeft zeer veel toepassingsdomeinen zoals transport, tunnelaanleg en fietsen. Maar ook wetenschappelijke toepassingen, denk maar aan bijvoorbeeld cartografie, biologie en geologie.
 
-==== Applicaties binnen het onderwijs ====
+=== Applicaties binnen het onderwijs ===
 
 Als men naar alle toepassingsgebieden kijkt, is het niet verbijsterend dat GPS gebruik binnen het onderwijs geïntegreerd kan worden. Het kan immers helpen bij het vervullen van de '''vakgebonden en vakoverschrijdende eindtermen'''. Dit kan binnen projectweken, schoolklassen maar ook binnen een welbepaald vak.
 
@@ -577,7 +575,7 @@ Toch zijn er ook enkele '''nadelen''':
 
 Er werden speciale GPS programma’s gemaakt voor het onderwijs. De KNBLO-wandelsport organisatie uit Nederland stemde een programma af voor leerlingen van het 5de leerjaar tot het 2de middelbaar onder de naam "GPS Moves". Aan de hand van "GPS Moves" leer je je omgeving op een heel andere manier kennen. Leerlingen leren hoe gebruik te maken van de GPS en trekken nadien in groepjes zelf op pad om de theorie in praktijk om te zetten. 
 
-==== GPS Moves ====
+=== GPS Moves ===
 GPS Moves bestaat origineel uit drie lesuren waarin de leerlingen over de GPS en het gebruik ervan leren. Nadien leren ze zelf hun omgeving op een ludieke manier (ver)kennen. In het eerste lesuur wordt een presentatie gegeven over de GPS, nadien voeren de leerlingen een buitenopdracht uit. Ze dienen daarbij op zoek te gaan naar gemarkeerde punten en een paar vragen te beantwoorden. Tijdens deze eerste les leren de leerlingen meer over begrippen als satellieten, signalen, kompas, waypoiny, route en de werking van het GPS-toestel. Tijdens de tweede les verkennen de leerlingen in kleine groepjes de directe omgeving aan de hand van hun GPS-toestel en een kaart. Onderweg maken ze opnieuw opdrachten. Bij de derde les ten slotte, gaan de leerlingen in de klas aan de slag met hun verkende route op het internet.
 
 Via volgende link kunnen leerkrachten een power-point presentatie vinden dat het Global Positioning System op eenvoudige wijze uitlegt.
@@ -597,7 +595,7 @@ Via volgende link kunnen leerkrachten een power-point presentatie vinden dat het
 == Voorbeelden ==
 Enkele voorbeelden van onderwijstechnologen en voorbeelden van adviezen van een onderwijstechnoloog
 
-=== Neurale blockchain ===
+== Neurale blockchain ==
 [[File:EduBlock.png|thumb|Neural Blockchain]]
 Een onderwijstechnoloog zou een [[w:Blockchain|blockchain]] kunnen inrichten als opslag voor leerprocessen en leerarchitecturen (gedistribueerde opslag lijkt op ons brein). Als de opzet eruit ziet als een neuraal netwerk dan kunnen we spreken van een lerende blockchain. De volgende kenmerken kunnen in een lerende blockchain worden gerealiseerd:
 * '''Gepersonaliseerd''': Het delen van onderwijsontwerpen middels een blockchain is ter inspiratie en  ondersteuning bij het ontwerpen van het eigen leren of onderwijs. Het is ondoenlijk en  onnodig daarvoor alle verzamelde blokken onderwijs (leerobjecten) bij langs te lopen. Een  slimme selectie van best practices uit de grote bulk is nodig. Slim in de zin dat de selectie zo  goed mogelijk aansluit bij de wensen en eigenschapen van de persoon die ontwerpt, uitvoert  en/of die het onderwijs gaat volgen. Vergelijk dit met Google die persoonlijke suggesties doet  over welke links het beste passen bij de zoekopdracht en de persoon die ze intypt.  
@@ -612,7 +610,7 @@ Een onderwijstechnoloog zou een [[w:Blockchain|blockchain]] kunnen inrichten als
 * '''Design Protocol''': Het is belangrijk niet alleen de waardebepaling van inhoud van de leerobjecten als  leeropbrengst te beschouwen, maar ook de beste wijze (het protocol) van het opslaan van  leerobjecten zelf. We kunnen deze toepassing nog duurzamer maken door meteen aan het  begin uit te gaan van hoe je in het algemeen allerlei designs van mensen wilt opslaan  ongeacht of dit nu voor onderwijs is of voor andere gebieden. Dit zou vanuit de BlockChain  filosofie een vervanging kunnen zijn voor instituten waarin je door het deponeren van je  ontwerpen je rechten als auteur veilig stelt. A Design contract die als bewijs dient voor de  rechthebbende.  
 * '''Taxonomie''': Als we kijken naar de key attributes kunnen we deze Blockchain applicatie indelen of  classificeren als hoog scorend op ownership, flexible governance, stateful application (zeg  maar de mate van cookies), het gebruik van private channels en de gerichtheid op amateur gebruik.
 
-=== Onderwijstechnologen ===
+== Onderwijstechnologen ==
 Voorbeelden van bekende onderwijstechnologen zijn:
 {| border="1" cellspacing="0" align="center" cellpadding="2"
 |align="center"|[[Afbeelding:Asb-dec01-armsfolded.jpg|150px|thumb|left|[http://en.wikipedia.org/wiki/Amy_S._Bruckman Amy Bruckman]]]
@@ -627,7 +625,7 @@ Voorbeelden van bekende onderwijstechnologen zijn:
 
 [[en:Educational_technologist]]
 
-=== SLB ===
+== SLB ==
 
 '''Wenselijk'''
 
@@ -645,7 +643,7 @@ Voorbeelden van bekende onderwijstechnologen zijn:
 
 '''Adviezen 6, 8, 10-13.'''
 
-==== Management ====
+=== Management ===
 
 '''Wenselijk'''
 
@@ -665,7 +663,7 @@ Voorbeelden van bekende onderwijstechnologen zijn:
 
 '''Adviezen 2, 5 en 12, 13, 14.'''
 
-==== Student ====
+=== Student ===
 
 '''Wenselijk'''
 
@@ -683,7 +681,7 @@ Voorbeelden van bekende onderwijstechnologen zijn:
 
 '''Adviezen 1, 2, 5, 6, 9 en 14.'''
 
-==== Leeromgeving ====
+=== Leeromgeving ===
 
 '''Wenselijk'''
 
@@ -699,7 +697,7 @@ Voorbeelden van bekende onderwijstechnologen zijn:
 
 '''Adviezen 11 en 14'''
 
-==== Sturing ====
+=== Sturing ===
 
 '''Wenselijk'''
 
@@ -719,7 +717,7 @@ Voorbeelden van bekende onderwijstechnologen zijn:
 
 '''Adviezen 1-2, 5 en 14, 15.'''
 
-==== Activiteiten ====
+=== Activiteiten ===
 
 '''Wenselijk'''
 
@@ -739,7 +737,7 @@ Voorbeelden van bekende onderwijstechnologen zijn:
 
 '''Adviezen 3, 7 en 8.'''
 
-==== Werkvormen ====
+=== Werkvormen ===
 
 '''Wenselijk'''
 
@@ -757,7 +755,7 @@ Voorbeelden van bekende onderwijstechnologen zijn:
 
 '''Adviezen 3, 4, 6, 7, 8 en 14.'''
 
-=== Elektronische leeromgeving Sterrenkunde ===
+== Elektronische leeromgeving Sterrenkunde ==
 
 Dit ontwerp behelst de ontwikkeling van een elektronische leeromgeving voor de afdeling Sterrenkunde aan een faculteit Wiskunde en Natuurwetenschappen. Totdat een beter passende naam is bedacht doop ik deze elektronische leeromgeving tot GALE. Het ontwerp van GALE is een stap in de richting van effectieve en efficiënte computerondersteuning van het Sterrenkundig onderwijs.
 
@@ -771,7 +769,7 @@ In het technisch ontwerp worden technische keuzen voor het realiseren van de did
 
 Omdat een voorbeeld meer doet spreken dan een beschrijving is er een prototype ontworpen en de opzet, de bouw en de werking (functies) van dit prototype beschreven. Het ontwerp van de leeromgeving is de start voor de realisatie daarvan.
 
-==== Situatieschets ====
+=== Situatieschets ===
 
 Het ontwerp van de elektronische leeromgeving Sterrenkunde (ELO) is het resultaat van een pilotproject bedoeld om Sterrenkunde (werk)colleges te migreren naar een krachtige elektronische leeromgeving die via het Web toegankelijk is. Het pilotproject vormt een onderdeel van een faculteitsbreed informatiecommunicatie technologie (ICT) en computerondersteunend onderwijs (COO) project. De ICT/COO pilotprojecten faciliteren één van de geprioriteerde thema’s; integratieve werkvormen, ict en practica, ict en simulaties, begeleiding en instructie van docenten en studiebegeleiding. Uitgangspunten bij de pilotprojecten zijn een sleutelrol door de vakdocent en de mogelijkheid van hergebruik door andere cursussen en opleidingsinstituten. "Interactieve Web-based werkcolleges" is als pilotproject gestationeerd onder integratieve werkvormen. Dit thema omvat het verder ontwikkelen van gecombineerde werkvormen in een activerende leeromgeving. Gecombineerde werkvormen houden in dat meer theoretisch-cognitieve onderwijsactiviteiten, zoals klassieke hoorcolleges, en meer praktisch-toepassingsgerichte onderwijsactiviteiten, zoals werkcolleges, worden samengebracht. In de activerende leeromgeving staat centraal het direct toepassen van de leerstof, het ontwikkelen van probleemoplossende vaardigheden en het oefenen van praktische vaardigheden.
 
@@ -788,7 +786,7 @@ maken van (werk)colleges door bestaande onderwijscomponenten te migreren naar ee
 * een toolbox voor docenten om de ELO te vullen met onderwijsmateriaal 
 * en inbedding van ICT en/of COO in bestaande colleges.
 
-==== Uitgangspunten ====
+=== Uitgangspunten ===
 
 Er was behoefte aan een evenwichtig curriculum. Een doel van de Sterrenkunde opleiding is dat na afronding de studenten doorgroeicompetent zijn. Dat betekent dat studenten bereid en in staat zijn zich voortdurend te ontwikkelen binnen de Sterrenkunde en verwante Natuurwetenschappen. Dit vraagt van de studenten dat ze hebben geleerd zelfstandig en zelfverantwoordelijk te leren en te denken. Kenmerkend voor onderwijs dat hierop gericht is, is een geleidelijke verschuiving in de verantwoordelijkheid en zelfstandigheid van het leren. Er vindt een graduele overgang van externe naar interne sturing plaats. Dit is terug te vinden in de Sterrenkunde opleiding. Aanvankelijk wordt daarin een zichtbare sturing aan de inhoud en vorm van het onderwijs gegeven. De vakken worden in collegevorm gegeven waarbij de leerdoelen en de leermethoden worden bepaald door de docent. Als de opleiding vordert wordt de rol van de docent steeds meer een begeleidende en ondersteunende. Van de studenten wordt verwacht dat ze steeds zelfstandiger worden en steeds meer verantwoording voor hun leren nemen. Daarbij verandert de onderwijsmethode mee met de ontwikkeling van de studenten. Daardoor worden ze steeds weer opnieuw uitgedaagd verder te groeien in hun zelfverantwoordelijk en zelfstandig leren en denken.
 
@@ -806,7 +804,7 @@ De beschikbaarheid kan worden vergroot door asynchrone communicatie. Asynchrone 
 
 In de Sterrenkunde praktijk zien we een combinatie van synchrone en asynchrone communicatie tijdens de cursussen. Daarmee wordt recht gedaan aan de verschillen in voorkeuren communicatiewijzen die er bestaan tussen deelnemers. De groepen zijn klein, er is geen probleem voor studenten bij elkaar te komen, de beschikbaarheid voor en gebruiksvaardigheid door de studenten van geschikte communicatie tools is groot. Het lijkt dus wenselijk het virtuele communiceren te stimuleren als voorbereiding op het face to face contact, maar daar hoeft voorlopig de elektronische leeromgeving geen aparte gereedschappen voor te leveren.
 
-==== Project ====
+=== Project ===
 [[Bestand:Bijbrengen GALE omzetting college.png|thumb|right|Werkwijze omzetting college]]
 Dit schema geeft de werkwijze weer waarop het bestaande college werd omgezet. Het college werd eerst in afzonderlijke onderdelen geknipt die na aanpassing en aanvulling (samengevat in Computer Supported Collaborative Learning)  in een nieuwe structuur werden opgenomen.
 
@@ -820,7 +818,7 @@ Als voorbereiding op het nieuwe studiejaar werd een ander vak grondig geanalysee
 
 De voorstellen waren zo opgezet dat een zo minimaal mogelijke inspanning van de docent gevraagd werd. Dit bleek echter niet voldoende drempelverlagend te zijn. Onderwijs moet nu eenmaal zwaar concurreren met onderzoekstaken. In het onderzoek ligt meestal het hart van de docent en hij wordt daar in het huidig universitair stelsel ook nog steeds het meest voor beloond. Voor het vak betekende dit helaas dat de docent geen heil zag in verdere consultatie of begeleiding. Dit deelproject kon dus helaas als verloren worden beschouwd.
 
-==== Voorbereiding ====
+=== Voorbereiding ===
 
 Het resultaat van het ICT-COO werkcollege werd het trimester daarop al uitgevoerd. “Inleiding in de Sterrenkunde” werd gegeven met behulp van computer ondersteuning. Het accent van de docent lag vooral op het gebruik van de hulpmiddelen leerhiërarchie, discussieforum en carrousselrapportage van een Sterrenkundig dilemma en het flexibel kunnen selecteren en indelen van de collegeonderwerpen op verzoek van de studenten. Dit paste binnen de doelstelling de studenten Sterrenkunde gestructureerd te laten verkennen en ze daarvoor te motiveren.  Voor een meer gedetailleerd verslag van de ondernomen activiteiten verwijzen we naar de notulen.
 
@@ -840,21 +838,21 @@ Er was gekozen voor deze methodiek omdat we procedures en kennis wilden aanleren
 
 De voorlaatste projectactiviteit, voor het ontwerpen van de elo, is een analyse van het vak Statische Methoden. De docent wilde graag projectmatig werken. In het bestaande onderwijs waren de opdrachten kort en gesloten, het smaakte naar taakgestuurd onderwijs. Dit vergde van de docent veel tijd voor de voor- en nabereiding. Dit was voor hem een reden om een komend studiejaar niet meer de onderwijstaak op zich te nemen. De oplossing was zijn wens te realiseren en daadwerkelijk projectonderwijs in te voeren. Toen de docent te horen kreeg wat dit inhield werd hem ook duidelijk dat deze aanpak een beperking van zijn onderwijstaak kon inhouden. Immers hij hoeft nu niet onbekende thema´s of  vraagstukken zelf eerst uit te zoeken, maar kan dit nu gieten in een projectopdracht. Samen met de studenten zetten ze een project op wat zou moeten leiden tot de vervullen van de zelf gestelde opdracht. Uit de evaluatie van het ICT-COO werkcollege bleek al dat deze vorm van projectmatig onderwijs volgen efficiënt en effectief is. De docent kan als deelnemer een model zijn voor de studenten en laten zien hoe hij als professional zelfstandig en zelfverantwoordelijk vraagstukken, vakgebieden en problemen in de sterrenkunde oplost. De vaardigheid die dit vraagt was exact de vaardigheid die de docent graag op zijn studenten wou overbrengen. Het onderwijs werd door deze verandering niet alleen efficiënter (bereidingstijd) maar ook attractiever (betrokkenheid student en docent), toegankelijker (samen een opdracht definiëren) en effectiever (de leeractiviteiten zijn exact gelijk aan de te leren vaardigheid).
 
-==== Techniek ====
+=== Techniek ===
 
 * De uitwisseling van informatie uit de elektronische leeromgeving met de gebruikers vindt plaats via het World Wide Web, kortweg Web genoemd. Dé taal die wordt gebruikt voor het maken van pagina’s voor het Web is HTML. HTML is een markuptaal. Markuptalen zijn talen die bestaan uit woorden (tags) waarmee men elementen uit een document specificeert, indeelt en identificeert. Deze tags hebben een begin en een eind.
 * XML (eXtensible Markup Language) is het universele formaat voor gestructureerde documenten en data op het Web. XML is een metamarkuptaal. De meta duidt aan dat de taal niet bestaat, zoals bij HTML, uit een vaste serie tags die een vast aantal elementen beschrijft. XML is daarentegen een serie regels voor het definiëren van tags. En wordt gebruikt om een syntaxis te specificeren om andere bestaande of nieuwe markuptalen vast te stellen. Met XML als leidraad kan men altijd voor elk element uit een document met een speciale betekenis, een passend woord bedenken. Een verzameling van deze woorden vormt dan een taal. MathML is bijvoorbeeld een op XML gebaseerde taal voor het aanwijzen van de betekenis van onderdelen van een wiskundige formule.
 * Sterrenkunde docenten kunnen via de ELO leermaterialen aanleveren om deze via het Web te publiceren. Deze materialen zijn geschreven in HTML of XHTML. Er is naast HTML gekozen voor XHTML omdat hierdoor de mogelijkheid ontstaat HTML netjes (W3C standaard) met andere XML applicaties te integreren. De integratie zorgt voor een eenvoudige samenvoeging van de bestaande mogelijkheden en materialen in HTML met de nieuwe gewenste mogelijkheden die XML biedt. Gewenste uitbreidingen die XML biedt zijn het gebruik van wiskundige notaties op het Web middels MathML, het ordenen van leereenheden middels EML en het speciferen van een eigen XML syntax genaamd SML.
 * SML maakt het mogelijk om zelf het gebruik van elementen die binnen HTML, MathML of EML omslachtig zijn te generen, mogelijk te maken.  Hierbij wordt gedacht aan het eenvoudig aanroepen van centraal beheerde applets voor weergave van bijvoorbeeld DVI documenten, LaTex of WebTex teksten en interactieve elementen.
 * MathML maakt het mogelijk om de structuur van mathematische expressies te encoderen zodat deze kan worden weergeven, aangepast en gedeeld over het World Wide Web. MathML is krachtig en uitbreidbaar maar te complex voor gewoon gebruik. Daarom is een project gestart bij Sterrenkunde waarin wordt onderzocht hoe het gebruik van MathML door tools kan worden ondersteund.
-* EML is een onderwijstaal om alle onderdelen van een onderwijsproces gestructureerd op te slaan. Los van het uiteindelijk medium en didactische aanpak. Vanuit deze opslag kan de elektronische leeromgeving cursus(onderdel)en afleveren met een bepaalde didactische invulling. Voor de ELO van Sterrenkunde zullen we starten met het adopteren van woorden uit de taal om bestaande bouwstenen ofwel leercomponenten (dictaten, toetsen, leerdoelen, toelatingseisen, taken)  en gebouwen ofwel leereenheden (cursussen, colleges) samengesteld uit deze leercomponenten, te archiveren. Ook zal er een voorstel komen welke leercomponenten en leereenheden in de toekomst zijn gewenst.
+* EML is een leertaal om alle onderdelen van een onderwijsproces gestructureerd op te slaan. Los van het uiteindelijk medium en didactische aanpak. Vanuit deze opslag kan de elektronische leeromgeving cursus(onderdel)en afleveren met een bepaalde didactische invulling. Voor de ELO van Sterrenkunde zullen we starten met het adopteren van woorden uit de taal om bestaande bouwstenen ofwel leercomponenten (dictaten, toetsen, leerdoelen, toelatingseisen, taken)  en gebouwen ofwel leereenheden (cursussen, colleges) samengesteld uit deze leercomponenten, te archiveren. Ook zal er een voorstel komen welke leercomponenten en leereenheden in de toekomst zijn gewenst.
 * Pas na de realisatie van een softwaretool kon de onderwijstechnoloog aangeboden materialen (HTML en XHTML) middels een archiveringsinterface in EML opslaan. En later de opgeslagen informatie presenteren volgens de betekenis zoals gegeven door EML aan de inhoud zoals gespecificeerd door XHTML. Hij maakte bij het kiezen van software talen een onderscheid tussen een taal specifiek geschikt voor webcommunicatie en een taal optimaal voor het uitvoeren van handelingen op gegevens. In het eerste geval viel de keuze op PHP, in het tweede geval voor Python.
 * PHP is een gratis, open-source, compleet, cross-platform, stabiel, snel, duidelijk, eenvoudig te leren en goed te combineren embedded server-side webscripting taal. Met PHP kan men code insluiten (embedden)  in gewone webpagina’s. Deze code wordt pas geïnterpreteerd (scripting) en verwerkt door de leverancier van de webpagina’s (server-side) op het moment dat deze door gebruikers worden opgevraagd. Dat betekent dat de webpagina’s dynamisch worden samengesteld. Geheel aangepast aan de specifieke gebruiker die zelf overigens niets van dit proces merkt. Hij/zij ontvangt steeds een doodgewone HTML pagina.
 * Python (http://www.python.org) is de ondersteunende taal die de Sterrenkundige informatica docenten hebben gekozen om de studenten het programmeren te leren. Python wordt niet alleen in het onderwijs maar ook in het dagelijks werk aan het instituut steeds meer toegepast.  Men heeft gekozen voor Python omdat de taal vrij beschikbaar is, makkelijk te gebruiken is op verschillende computersystemen, de vele toepassingen die de taal biedt, de mogelijkheid de taal naar believen uit te breiden, maar bovenal door zijn eenvoud.
 * Bij het vertalen van aangeboden materialen zal Python de grootste rol spelen. De interface die deze vertaling ondersteunt door bijvoorbeeld van de gebruiker nodige meta-informatie te verzoeken, zal in PHP worden gebouwd. Bij het interpreteren van EML documenten zal een in Python gebouwde vertaler een PHP document produceren. Dit document zal door de webserver worden omgezet in een webpagina (HTML). De uiteindelijke gebruiker zit niets van deze tussenstappen. Samenvattend zorgt de software ervoor dat aangeboden materialen in HTML of XHTML worden omgezet in EML brondocumenten die vervolgens als webpagina (HTML) weer worden aangeboden. Vanzelfsprekend is wat er in gaat duidelijke anders van opmaak en structuur als er uit gaat. Toch blijft de opmaak van de inhoud wel volledig in handen van de producerende docent.
 * Omdat de onderwijstechnoloog in het feite met de ELO een webapplicatie, een computer programma dat gebruikers via het web benaderen, aan het ontwerpen is achtte hij het zinvol te overwegen dit te doen binnen een raamwerk dat daarvoor uitermate geschikt is. Zo dacht hij aan ZOPE als omgeving om de ELO te ontwikkelen. Omdat  Zope open source licentie heeft kon hij dit zonder problemen ophalen (http://www.zope.org/) gebruiken en zelf aanpassen.
 
-==== Functies ====
+=== Functies ===
 
 In de elektronische leeromgeving voor Sterrenkunde moet het volgende probleem worden opgelost; "Hoe zorgen we voor een consistente, uniforme maar bovenal onderwijsondersteunende opzet?" Onder onderwijsondersteuning verstaan we het helpen bij het realiseren van onderwijsactiviteiten en het aanreikenen van leermiddelen. Onderwijsactiviteiten en leermiddelen vervullen functies voor het leren van de studenten. Zo vervult een hoorcollege o.a. de functies "presenteren en toegan­kelijk maken van de leerstof". Opdrachten kunnen de functie "gelegenheid geven om te oefenen" vervullen. Naarmate deze zogenaamde onderwijsfuncties adequater worden vervuld zal het onderwijs effectiever en efficiënter zijn. De elektronische leeromgeving moet deze te ondersteunen met als doel de effectiviteit, efficiëntie, attractiviteit en toegankelijkheid van het onderwijs te bevorderen.
 
@@ -869,7 +867,5 @@ De leeromgeving ondersteunt het curriculum door leerwegen van studenten eenvoudi
 Een curriculum kan worden beschouwd als een leereenheid en is zelf weer opgebouwd uit leereenheden (cursus, colleges, werkcolleges, projecten). Binnen ieder leereenheid leren studenten begrippen, theorieën en (vakspe­cifieke) werkwijzen om problemen aan te pakken. De onderwijsfunctie ori­ënteren houdt in dat deze begrippen, theorieën en werkwijzen aan studenten worden gepresenteerd en toegankelijk worden gemaakt. De elektronische leeromgeving dient een zodanig beheer van deze leereenheden te bieden dat het (her)gebruik zo efficiënt en effectief mogelijk is. Daarnaast dienen de leereenheden attractief te worden gepresenteerd en eenvoudig te kunnen worden benaderd door de studenten. Voor docenten geldt dat nieuwe leereenheden gemakkelijk moeten kunnen worden toegevoegd. Deze flexibele invulling van curriculumonderdelen geeft de docent en student de mogelijkheid doelmatig aan te sluiten op individuele interesses (motiveren) en op eerder verwor­ven kennis (aansluiten).
 
 De mogelijkheid van zelftoetsing vervult belangrijk functies; gelegenheid geven tot oefenen en het controleren en terugkoppelen over de voortgang tijdens de studie. Als de zelftoetsing belonend is in de zin van voorbereiding op de eindtoets of verplicht onderdeel vormt van de eindbeoordeling, dan wordt ook de extrinsieke motivatie van de studenten geprikkeld. De docenten staan welwillend tegenover het ontwikkelen van zelftoetsen voor hun studenten. Belangrijk daarbij is dat daarvoor een handige, snelle maar flexibele tool beschikbaar is. Gezien de ervaring van de docenten zou een tekstcommando georiënteerde oplossing waarin geprogrammeerde toetsing mogelijk is uitkomst bieden.
-
-== Bronnen ==
 
 {{Opmaak | Voettekst}}

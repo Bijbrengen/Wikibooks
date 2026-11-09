@@ -1,19 +1,15 @@
 # Onderwijsarchitect
 
-Lokale mirror van Wikibooks-pagina's met prefix: Onderwijsarchitect
-
-Opgehaald: 2026-04-27T09:00:48.4831393Z
-
-## Pagina's
+Opgehaald: 2026-11-09T18:38:16.483522+00:00
 
 - [Onderwijsarchitect](_module.wiki)
-- [Onderwijsarchitect/Inleiding](Inleiding.wiki)
-- [Onderwijsarchitect/Theorie](Theorie.wiki)
-- [Onderwijsarchitect/Werkwijze](Werkwijze.wiki)
-- [Onderwijsarchitect/Visie](Visie.wiki)
-- [Onderwijsarchitect/Opbrengst](Opbrengst.wiki)
-- [Onderwijsarchitect/Doel](Doel.wiki)
-- [Onderwijsarchitect/Profiel](Profiel.wiki)
-- [Onderwijsarchitect/Opleiding](Opleiding.wiki)
-- [Onderwijsarchitect/Voorbeelden](Voorbeelden.wiki)
 - [Onderwijsarchitect/Anekdotes](Anekdotes.wiki)
+- [Onderwijsarchitect/Doel](Doel.wiki)
+- [Onderwijsarchitect/Inleiding](Inleiding.wiki)
+- [Onderwijsarchitect/Opbrengst](Opbrengst.wiki)
+- [Onderwijsarchitect/Opleiding](Opleiding.wiki)
+- [Onderwijsarchitect/Profiel](Profiel.wiki)
+- [Onderwijsarchitect/Theorie](Theorie.wiki)
+- [Onderwijsarchitect/Visie](Visie.wiki)
+- [Onderwijsarchitect/Voorbeelden](Voorbeelden.wiki)
+- [Onderwijsarchitect/Werkwijze](Werkwijze.wiki)

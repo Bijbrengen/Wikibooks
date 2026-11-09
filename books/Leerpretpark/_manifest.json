@@ -1,0 +1,22 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Leerpretpark",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Leerpretpark",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "title": "Leerpretpark",
+      "file": "_module.wiki",
+      "pageid": 45031,
+      "contentmodel": "wikitext",
+      "revid": 424675,
+      "parentid": 424114,
+      "timestamp": "2026-04-27T13:09:55Z",
+      "user": "BeeBringer",
+      "comment": "",
+      "sha1": "2b7a204d2280eab39f4df140c32b1475b9924bdd",
+      "bytes": 1308
+    }
+  ]
+}

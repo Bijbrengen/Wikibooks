@@ -1,13 +1,9 @@
 # Ondernemend leren
 
-Lokale mirror van Wikibooks-pagina's met prefix: Ondernemend leren
-
-Opgehaald: 2026-04-27T09:00:46.5475722Z
-
-## Pagina's
+Opgehaald: 2026-11-09T18:38:16.483522+00:00
 
 - [Ondernemend leren](_module.wiki)
-- [Ondernemend leren/Productief](Productief.wiki)
 - [Ondernemend leren/Doelgroep](Doelgroep.wiki)
-- [Ondernemend leren/Methode](Methode.wiki)
 - [Ondernemend leren/Implementatie](Implementatie.wiki)
+- [Ondernemend leren/Methode](Methode.wiki)
+- [Ondernemend leren/Productief](Productief.wiki)

@@ -1,0 +1,63 @@
+{{Opmaak}}
+Een '''leertaal''' is een afgesproken manier om leren precies te beschrijven. Zij kan als domeinspecifieke taal leesbaar zijn voor mensen en verwerkbaar voor software. Dit boek onderzoekt een declaratieve benadering vanuit [[Vrij leren|vrij leren]] en [[Zelf leren|zelf leren]]: de beschrijving benoemt wat beschikbaar is, wat iemand kan en wat wordt nagestreefd, terwijl de lerende ruimte houdt voor een eigen aanpak.
+
+== Perspectief van de lerende ==
+Het leren van een persoon valt niet samen met het organiseren van onderwijs. Een gevolgde les of afgeronde opdracht zegt op zichzelf niet wat iemand duurzaam kan. Een leertaal maakt daarom onderscheid tussen uitvoering, bekwaamheid en bedoeling. De [[Leertaal/Toepassing#Leerproces|leerresultaten, leerimpact en leerdoelen]] verbinden deze perspectieven.
+
+De aanname is dat een uitnodigende omgeving passie en motivatie voor leren kan ondersteunen. [[Leerpret|Leerpret]] omvat daarbij meer dan vermaak: ervaren nut, uitdaging, plezier, beloningsmogelijkheden en duurzame ontwikkeling spelen ieder een rol. Een passende verhouding kan per persoon en situatie verschillen.
+
+== Basiszin ==
+Een [[Leertaal/Definitie#Leeruitspraak|leeruitspraak]] kan worden gelezen als:
+: Een leeractor doet een leeractie met een leerobject in een leercontext.
+
+Die vier onderdelen krijgen via [[Leertaal/Declaratief|declaraties]] een naam en een omschreven betekenis. Met een beperkte basiswoordenschat kunnen samengestelde beschrijvingen worden gemaakt. Het [[Leertaal/Inleiding#Architectuur|architectuurhoofdstuk]] werkt de lagen en systeemgrenzen uit.
+
+== Mens en computer ==
+Een formele beschrijving kan verschillen in interpretatie verkleinen. Zij bewijst niet dat een leerclaim waar is. Een [[Leertaal/Interpreter|interpreter]] controleert afgesproken taalregels; inhoudelijke beoordeling en onderzoek leveren andere informatie. Een taalmodel kan ondersteunen bij [[Leertaal/Conversie|conversie]] uit gewone taal, zonder dat statistische AI onderdeel hoeft te zijn van de formele verwerking.
+
+== Leesroute ==
+Begin bij [[Leertaal/Vrijheid|vrijheid]], [[Leertaal/Inleiding#Architectuur|architectuur]] en [[Leertaal/Definitie#Leeruitspraak|de leeruitspraak]]. De hoofdstukken over [[Leertaal/Typen#Leeractor|actor]], [[Leertaal/Leren#Leeractie|actie]], [[Leertaal/Leerbox#Leerobject|object]] en [[Leertaal/Vrijheid#Leercontext|context]] beschrijven een mogelijk begrippenmodel. [[Leertaal/Logica#Grondslagen|Grondslagen]] maakt de aannamen zichtbaar. De technische hoofdstukken behandelen verwerking, conversie en toetsing. De verschillende modellen en schrijfwijzen zijn illustraties; zij vormen samen niet automatisch één vastgestelde of geïmplementeerde standaard.
+
+
+== Architectuur ==
+Een '''leertaal''' beschrijft leerprocessen met een beperkt aantal begrippen en expliciete afspraken over hun samenhang. Een dergelijke beschrijving kan zowel door mensen als door software worden gelezen. Het onderstaande model neemt het perspectief van de lerende als uitgangspunt. Het onderscheidt beschrijven, onderbouwen, uitvoeren en registreren.
+
+=== Bouwstenen ===
+Een mogelijke opbouw bestaat uit vijf lagen:
+# '''Basisbegrippen''': de woorden waarmee leerkenmerken worden benoemd.
+# '''[[Leertaal/Declaratief|Leerdeclaraties]]''': benoemde beschrijvingen van een actor, actie, object of context, eventueel samengesteld uit basisbegrippen.
+# '''[[Leertaal/Definitie#Leeruitspraak|Leeruitspraken]]''': een actor doet een actie met een object in een context.
+# '''[[Leertaal/Toepassing#Leerproces|Bundels]]''': leeruitspraken krijgen de betekenis van leerresultaat, leerimpact of leerdoel.
+# '''Leerprocessen''': beweringen over de samenhang tussen die drie perspectieven.
+
+De beschrijvingen kunnen worden hergebruikt. Een naam verwijst naar een betekenis, niet noodzakelijk naar een werkelijk persoon of een gebeurtenis. De naamruimte en taalversie bepalen welke definitie wordt bedoeld.
+
+=== Uitnodiging ===
+Binnen [[Vrij leren|vrij leren]] wordt aangenomen dat een rijke omgeving het leren kan uitlokken zonder een vaste route af te dwingen. Het ontwerp richt zich daarom op beschikbare objecten, ontmoetingen en keuzemogelijkheden. De lerende kan een uitnodiging aannemen, een andere aanpak kiezen of ervan afzien. Bij [[Zelf leren/Zelfregie|zelfregie]] hoort ook de mogelijkheid om vrijwillig ondersteuning of samenwerking te kiezen.
+
+Een onderwerp wordt concreet in de combinatie van object en context. Een beschrijving van het leren drukken kan bijvoorbeeld verwijzen naar een drukpers, losse letters, bedieningsknoppen en een drukwerkplaats. De taal hoeft daarvoor geen volledige indeling van alle vakgebieden te bevatten.
+
+=== Onderbouwing ===
+Naast de opbouw van de beschrijving bestaat een opbouw van de argumentatie: definities, uitgangspunten, afgeleide uitspraken, uitgewerkte deelonderwerpen en controleerbare regels. Deze [[Leertaal/Logica#Grondslagen|grondslagen]] vormen een netwerk: één regel kan verschillende uitgangspunten verbinden. Het programmeren van een regel bewijst niet dat de achterliggende leerveronderstelling juist is.
+
+=== Scheiding van taken ===
+{| class="wikitable"
+! Onderdeel !! Taak
+|-
+| Leertaal || Beschrijft leerkenmerken, uitspraken en hun samenhang.
+|-
+| [[Leertaal/Interpreter|Interpreter]] || Controleert en verwerkt de beschrijving volgens een vastgelegde taalversie.
+|-
+| [[Onderwijsplatform|Toepassing]] || Realiseert de fysieke of digitale leeromgeving en haar mogelijkheden.
+|-
+| Inhoudelijke regelbibliotheek || Kan beweringen vergelijken met kennis over leren en aanvullende mogelijkheden aanbieden.
+|-
+| Registratie || Bewaart gebeurtenissen, tijdstippen en onderbouwing buiten de taalbeschrijving.
+|}
+
+=== Contract met de omgeving ===
+Een toepassing geeft via vaste afspraken aan welke leerkenmerken zij aanbiedt. Zo kan een spelhandeling worden getypeerd als een combinatie van Gebruiken en Onderzoeken. De technische werking van het spel kan in een andere programmeertaal zijn gebouwd. De leertaal beschrijft de leerbetekenis die eraan wordt toegekend.
+
+Die toekenning blijft een aanname van de beschrijver. Een ingevuld formulier is niet automatisch reflectie. De taal kan een ongeldige verwijzing of tegenstrijdige declaratie herkennen; zij kan niet uit een etiket alleen afleiden wat iemand werkelijk denkt of leert.
+
+{{Opmaak | Voettekst}}

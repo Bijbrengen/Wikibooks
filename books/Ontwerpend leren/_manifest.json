@@ -1,0 +1,87 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Ontwerpend%20leren",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Ontwerpend leren",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 6,
+  "pages": [
+    {
+      "title": "Ontwerpend leren",
+      "file": "_module.wiki",
+      "pageid": 40485,
+      "contentmodel": "wikitext",
+      "revid": 424693,
+      "parentid": 424123,
+      "timestamp": "2026-04-27T13:16:32Z",
+      "user": "BeeBringer",
+      "comment": "",
+      "sha1": "dcf53b05cafe0f28d9d5b3456d1b7f9a2a9b2653",
+      "bytes": 814
+    },
+    {
+      "title": "Ontwerpend leren/Inleiding",
+      "file": "Inleiding.wiki",
+      "pageid": 41628,
+      "contentmodel": "wikitext",
+      "revid": 424551,
+      "parentid": 420063,
+      "timestamp": "2026-04-26T18:06:28Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "00c2d074006adc2c4b7d166619da9c3aa380dac5",
+      "bytes": 1175
+    },
+    {
+      "title": "Ontwerpend leren/Methode",
+      "file": "Methode.wiki",
+      "pageid": 40495,
+      "contentmodel": "wikitext",
+      "revid": 424552,
+      "parentid": 420067,
+      "timestamp": "2026-04-26T18:06:34Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "b908176c5ab101e1c4a155b7cb6c26cf98aede96",
+      "bytes": 1694
+    },
+    {
+      "title": "Ontwerpend leren/Technologie",
+      "file": "Technologie.wiki",
+      "pageid": 40499,
+      "contentmodel": "wikitext",
+      "revid": 424553,
+      "parentid": 420064,
+      "timestamp": "2026-04-26T18:06:40Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "dabffdd057fb03e1c471dea747774b1175420bb1",
+      "bytes": 918
+    },
+    {
+      "title": "Ontwerpend leren/Toepassing",
+      "file": "Toepassing.wiki",
+      "pageid": 40514,
+      "contentmodel": "wikitext",
+      "revid": 424554,
+      "parentid": 420066,
+      "timestamp": "2026-04-26T18:06:46Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "225efd47acf4648f0619dde3b060f10f8c2652a0",
+      "bytes": 1769
+    },
+    {
+      "title": "Ontwerpend leren/Vrijheid",
+      "file": "Vrijheid.wiki",
+      "pageid": 40497,
+      "contentmodel": "wikitext",
+      "revid": 424555,
+      "parentid": 420065,
+      "timestamp": "2026-04-26T18:06:52Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "46e5f5f13130fb8ac97ffce133bfff8f06e09aab",
+      "bytes": 583
+    }
+  ]
+}

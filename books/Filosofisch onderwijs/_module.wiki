@@ -11,4 +11,3 @@
 | Collectie = Onderwijs
 | Onderdeel = Wijsheid, Denken, Leren, Socrates, Lao Zi, Yoga, Vrijeschool
 }}
-{{Fase|1}}

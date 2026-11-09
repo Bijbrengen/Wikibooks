@@ -1,0 +1,107 @@
+{{Opmaak}}
+De '''maze''' is een 3d leergame waarin men door een vragendoolhof beweegt en kan ontsnappen indien men door de gemaakte keuzes voldoende inzicht geeft over welke [[leerstijl]] men beschikt in een bepaalde context. Het doolhof is van boven gezien een vierkant met uitgangen naar verschillende leerwerelden die de doolhof omringen en lijkt op een [[w:Mandala|mandala]]. Het ontsnappen uit het labyrinth laat zien dat [[Humanature/Vrijheid|vrijheid]] niet alleen het gevolg is van het verwijderen van beperkingen, maar ook van het vinden van een duidelijke richting en begeleiding. Het suggereert ook dat vrijheid een constante zoektocht is en dat de mens zich altijd blijft inspannen om vrijer en onafhankelijker te zijn.
+
+== Leeranalyse ==
+[[File:Map of the escaperoom maze game.png|thumb|Doolhof en escaperooms in de Maze game|300px|left]]
+=== Speler ===
+Voor het poppetje dat de speler weergeeft die door het doolhof beweegt, zouden we een passende avatar kunnen kiezen, die meteen al wat verteld over de voorkeuren (sportief of slim, standaard of excentriek). Voor de beleving zal de game echter worden gespeeld vanuit het [[w:First-person shooter|perspectief van de speler]].
+
+=== Adviseurs ===
+De speler wordt bij deze analyse van het leren geholpen door de 2d karakters
+* [[w:Socrates_(filosoof)|Socrates]] (de vragensteller),
+* [[w:Ariadne (mythologie)|Ariadne]] (die door een draad aangeeft hoe ons pad door het doolhof is verlopen en ons terug kan brengen tot een eerdere plek of zelfs het begin van ons pad), 
+* [[w:Archimedes|Archimedes]] (de AI die aangeeft via een 2d kaart waar men zich in de doolhof bevindt) en
+* [[w:Orunmila|Orunmila]] (die aangeeft welke vorm van leren passend is door je een spiegel voor te houden)
+die allen als een soort game-menu steeds in beeld zijn. De game is niet bedoeld om labels te geven aan de lerende, maar om spelenderwijs de speler meer [[Leren leren|bewust]] te maken van dat iedere mens voorkeuren heeft voor leren en dat bij elke voorkeur een bepaalde leervorm het beste past.
+
+=== Socratisch ===
+In het leren kennen we een vraagmethode genaamd de [[w:Socratische_methode|Socratische methode]]. Socrates wilde iemand zichzelf laten leren kennen en deed dat onder meer door het stellen van heel veel vragen. De filosoof Socrates leefde zo'n 2500 jaar geleden en liep destijds pleinen en markten af om mensen te bevragen. Hij wist dat hij niets wist en zag in de dialoog met anderen de kans om te komen tot ware kennis, maar ook om de ander te bevrijden van misvattingen. 
+
+De beweging door het doolhof wordt door de controls gestuurd. Maar of een deur open gaat of dicht wordt bepaald door de antwoorden op vragen van Socrates in de vorm gegoten van een puzzel. We kiezen voor Socrates als menu-avatar om de gebruiker te wijzen op de methode die de AI gebruikt om je te leren kennen. Er is altijd een vraag die als hint dient om te escapen uit de room. De puzzel kan simpelweg zijn een bepaalde deur (lees symbool op de deur) kiezen of bijvoorbeeld bepaalde spullen of aanpak kiezen en daarmee kun je de puzzel oplossen en een deur openen.
+
+=== AI ===
+De game beschikt over een [[w:Kunstmatige_intelligentie|kunstmatige intelligentie (KI of AI)]] die door de keuzes die een speler maakt, kan vaststellen welke voorkeuren iemand heeft wat betreft het leren. Naarmate de AI zekerder wordt over die voorkeuren (leerstijl), zal men dichter bij een van de 4 uitgangen geraken. Dit kan doordat er deuren die rondom de speler zijn die een doolhofgang openen of juist afsluiten. Het uitgangspunt van de AI is dat men twee keer een keuze moet maken die bij een leerstijl hoort ter bevestiging. Dus als een speler tweemaal consistent zich volgens een leerstijl gedraagt, dan pas wordt die leerstijl aan hem of haar toegekend. Dit betekent dat het doolhof moet bestaan uit 9 escaperooms. Een speler zal uit minimaal 2 escaperooms moeten ontsnappen.
+
+=== Escaperooms ===
+==== Mission ====
+De begin escaperoom gaat over het formuleren van een [[Speels leren/Mission|missie]]. Het doel van de spelers is om uit het doolhof te ontsnappen door een missie samen te stellen. Bij binnenkomst in de kamer krijgen de spelers een avatar toegewezen, die ze kunnen aanpassen aan hun eigen wensen. Vervolgens kiezen ze een bestemming die hen aanspreekt, die symbool staat voor hun leerdoelen. Dit kan bijvoorbeeld een pretpark zijn, zoals in de beschrijving, maar het kan ook een ander thema hebben dat beter past bij de spelers.
+
+Om uit het doolhof te ontsnappen, moeten de spelers verschillende activiteiten uitvoeren die hen dichter bij de uitgang brengen. Dit kan bijvoorbeeld het oplossen van puzzels, raadsels en uitdagingen zijn die te maken hebben met het thema vrijheid. De activiteiten zijn verdeeld in tussenstations, die de spelers helpen bij het plannen en ordenen van hun route door het doolhof. Het ontwerpen en kiezen hiervan maakt de missie haalbaar of niet en bepaald of men uit deze escaperoom kan ontsnappen om de missie uit te voeren.
+
+De escaperoom kan worden gedifferentieerd voor verschillende leerstijlen. Zo kunnen er bijvoorbeeld meer productieve of toepassingsgerichte activiteiten worden gekozen voor spelers die hier meer behoefte aan hebben. Na het bepalen van de missie kan er worden gereflecteerd en geleerd over de samenstelling ervan.
+
+Men programmeert de missie met een object-georiënteerde visuele programmeertaal zoals Scratch.
+
+==== Memory ====
+Het is mogelijk om de leergame [[Speels leren/Memory|memory ]] zo te variëren dat het gericht is op het leren van vrijheid en het nemen van verantwoordelijkheid daarvoor. In plaats van het koppelen van afbeeldingen aan elkaar, kunnen de afbeeldingen worden vervangen door situaties waarin vrijheid en verantwoordelijkheid een rol spelen. Bijvoorbeeld: een afbeelding van een persoon die opkomt voor zijn/haar rechten, of een afbeelding van een groep mensen die samenwerkt om een probleem op te lossen. De afbeelding zijn dan niet gelijk, maar wel de manier waarop er in vrijheid verantwoordelijk kan worden omgegaan.
+
+De spelers moeten dan niet alleen de qua vrijheid concept overeenkomende afbeeldingen vinden, maar ook de betekenis en het belang van de situaties begrijpen en in verband brengen met hun eigen leven en ervaringen. Het spel kan verder worden versterkt door toevoeging van uitleg en discussie over de betekenis en het belang van de situaties. Dit kan leiden tot bewustwording en begrip van hoe vrijheid en verantwoordelijkheid werken in de wereld om ons heen, en hoe we ons gedrag en acties kunnen aanpassen om meer verantwoordelijke burgers te worden.
+
+De Memory game kan worden opgebouwd in levels door eerst alleen exact dezelfde aafbeelding te laten matchen, dan afbeeldingen die hetzelfde qua vrijheid symboliseren, dan een tekst of woorden matchen aan een afbeeldingen enzovoort. De memory kaarten zijn schilderijen aan de muur.
+
+==== Mindsport ====
+Eén van de escape rooms kan een variant zijn op het [[Schaken|schaakspel]] dat dient als een uitdaging om bewustwording van verantwoordelijkheid voor vrijheid te bevorderen. Het schaakspel vindt plaats op een bord dat zich in de virtuele wereld bevindt. Het spel is ontworpen om in niveaus te worden gespeeld, waarbij elk niveau een aantal uitdagingen of obstakels bevat die de speler moet overwinnen om verder te komen. In elk niveau van het spel wordt de speler geconfronteerd met verschillende scenario's die te maken hebben met vrijheid en verantwoordelijkheid. De speler moet beslissingen nemen en acties ondernemen die van invloed zijn op het verloop van het spel. Elk scenario of uitdaging bevat meerdere keuzes, waarbij sommige keuzes gemakkelijker zijn dan andere.
+
+Naarmate de speler verder komt in het spel, worden de uitdagingen moeilijker en ingewikkelder en neemt de verantwoordelijkheid van de speler toe. De speler moet nu niet alleen beslissingen nemen die van invloed zijn op zijn of haar eigen voortgang, maar ook op de voortgang van medespelers en tegenspelers in de virtuele wereld. Om te ontsnappen uit de escaperoom, moet de speler alle uitdagingen van het spel overwinnen en een bepaald doel bereiken dat vereist dat de speler verantwoordelijkheid neemt voor zijn of haar acties en keuzes.
+
+De schaakstukken staan voor personen die ons als mens kunnen helpen of juist dwarszitten als het gaat om het nemen van vrijheid op een verantwoordelijke manier. Elk schaakstuk zou dan staan voor een bepaald type persoon of eigenschap die van invloed is op ons vermogen om verantwoordelijkheid te nemen voor onze vrijheid. Bijvoorbeeld als volgt; 
+* '''Pionnen''': De pionnen zouden personen of eigenschappen kunnen vertegenwoordigen die we ons steunen bij elke beslissing die we nemen ("vertrouw dat we het kunnen, blijf trouw als het niet lukt") en ons zo kunnen helpen om verantwoordelijkheid te nemen voor onze vrijheid. Denk aan mentors, familieleden of vrienden die ons ondersteunen en aanmoedigen.
+* '''Ridders''': De ridders zouden personen of eigenschappen kunnen weergeven die ons uitdagen om verantwoordelijkheid te nemen voor onze vrijheid, zoals uitdagers, concurrenten of obstakels die ons dwingen om onze vaardigheden en kennis te verbeteren.
+* '''Lopers''': De lopers zouden personen of eigenschappen kunnen vertegenwoordigen die ons belemmeren om verantwoordelijkheid te nemen voor onze vrijheid, zoals slechte gewoonten, negatieve gedachten of angst die ons ervan weerhouden om ons volledige potentieel te bereiken.
+* '''Torens''': De torens zouden personen of eigenschappen kunnen vertegenwoordigen die ons minder bewegelijk maken, maar tegelijk heel krachtig zijn. Ze kunnen ons zowel in staat stellen om verantwoordelijkheid te nemen voor onze vrijheid, zoals leiders, rolmodellen of inspirerende figuren die ons motiveren om ons doel te bereiken als ook "vast" zetten.
+* '''Koning en koningin''': De koning en koningin zouden personen of eigenschappen kunnen weergeven die ons helpen om verantwoordelijkheid te nemen voor onze vrijheid, zoals zelfvertrouwen, innerlijke kracht, wijsheid en inzicht die ons helpen om onze beslissingen en keuzes te maken. Ze zijn rolmodellen voor het verantwoordelijk nemen van vrijheid.
+
+==== Multiwall ====
+"Je bevindt je in een virtuele wereld waarin je omringd bent door muren die je zijn opgelegd door de maatschappij en de mensen om je heen. Je hebt het gevoel dat je gevangen zit en dat je vrijheid beperkt wordt door deze muren. Om te ontsnappen, moet je verschillende taken uitvoeren die symbool staan voor het afbreken van de muren die je gevangen houden. Deze taken zullen niet gemakkelijk zijn, maar als je ze succesvol voltooit, zul je geleidelijk aan meer vrijheid ervaren. Wees voorzichtig, want sommige muren zijn sterker dan andere en je zult je vaardigheden op het gebied van kritisch denken, creativiteit en samenwerking moeten inzetten om te slagen. Als je erin slaagt om alle taken te voltooien, zul je uiteindelijk de vrijheid vinden waar je al zo lang naar verlangt."
+
+Deze beschrijving van de Multiwall escaperoom benadrukt het idee dat vrijheid soms moeilijk te bereiken is en dat het vaak nodig is om eerst de muren af te breken die je omringen voordat je echt vrij kunt zijn. Het moedigt spelers aan om kritisch na te denken over de muren die hen gevangen houden en om te zoeken naar manieren om ze af te breken, zodat ze de vrijheid kunnen vinden waar ze naar verlangen. Door middel van uitdagende taken en teamwork, krijgen spelers de kans om te ervaren hoe het voelt om stap voor stap meer vrijheid te verkrijgen, en om te ontdekken dat de weg naar vrijheid soms kan beginnen met het afbreken van muren.
+
+==== Merge ====
+De spelers worden in een escaperoom geplaatst die is gevuld met verschillende soorten legoblokjes en moeten samenwerken om een serie puzzels op te lossen die gericht zijn op het visualiseren van hun leerdoelen en het identificeren van de concepten die nodig zijn om deze doelen te bereiken. De eerste puzzel zou kunnen bestaan uit het bouwen van een symbool of object dat hun leerdoel weergeeft. Vervolgens kunnen ze de blokjes van dit object uit elkaar halen en deze gebruiken om concepten te bouwen die nodig zijn om het doel te bereiken, zoals "marketingstrategieën", "productontwerp" of "financiën". Elke puzzel zou gericht zijn op een ander aspect van het bereiken van het doel, zoals het identificeren van de juiste partners, het optimaliseren van bedrijfsprocessen, of het ontwikkelen van vaardigheden. Naarmate de spelers meer puzzels oplossen, zouden ze steeds meer concepten verzamelen die nodig zijn om hun doelen te bereiken, en zouden ze in staat zijn om hun leerdoelen-hiërarchie uit te werken. Aan het einde van het spel zouden de spelers hun blokjes samenvoegen tot een definitief bouwwerk dat hun leerdoel symboliseert. Dit zou hen laten zien dat ze in staat zijn om verantwoordelijkheid te nemen voor hun eigen leerproces en dat ze de concepten hebben geleerd die nodig zijn om hun doelen te bereiken.
+
+Door de focus te leggen op het bouwen en visualiseren van concepten en leerdoelen, zou de escaperoom Merge de spelers in staat stellen om hun eigen leerproces te begrijpen en te verbeteren.
+
+Het idee van een legoblok als een "onverwoestbaar" onderdeel kan worden uitgebreid naar het idee dat elk individu een aantal onverwoestbare kenmerken heeft. Dit zijn kenmerken die essentieel zijn voor wie je bent en die je niet zomaar kunt veranderen. Door deze kenmerken als fundament te zien, kun je bouwen aan je persoonlijke ontwikkeling en groei. Je zou bijvoorbeeld kunnen beginnen met het definiëren van je persoonlijke waarden, overtuigingen, talenten en sterke punten. Dit zijn de onverwoestbare kenmerken die jou uniek maken. Door deze kenmerken te benadrukken en erop voort te bouwen, kun je jezelf verder ontwikkelen en groeien als individu. In de Lego-escape room zou je bijvoorbeeld kunnen werken met legoblokjes in verschillende kleuren om deze onverwoestbare kenmerken te visualiseren en te benadrukken. Door het bouwen en ordenen van deze blokjes kun je een beeld krijgen van wat voor jou belangrijk is en waar je op voort kunt bouwen. Zo kun je tijdens het spel niet alleen ontsnappen uit de escape room, maar ook werken aan je persoonlijke ontwikkeling en groei.
+
+=== Leerwerelden ===
+De praktijk is dat niet alle mensen waarschijnlijk eenduidig in te delen zijn en een mix zal vormen van twee stijlen. In dat geval zal de speler 3 escaperooms nodig hebben om de dominantste van de twee stijlen te bepalen. Wel zijn ter tegenstellingen te herkennen in de leerstijlindeling: betekenisgericht versus toepassingsgericht en reproductief versus productief. Als een speler eenmaal op het pad is van bijvoorbeeld een productieve leerstijl en hij doet iets wat reproductief is, dan laat de game hem terugkeren waar hij vandaan komt. Tis het een of het ander immers. Als een speler echter geen tegenstrijdige antwoorden geeft dan zijn er maximaal 12 uitgangen uit het doolhof. De game zal echter bij iemand met een combinatie uiteindelijk de dominantste als uitgangspunt kiezen en daarop zijn advies baseren. Dus een uitgang leidt een van de vier leerwerelden die hoort bij de dominantste stijl. Naar elke leerwereld leiden dan 3 uitgangen.
+
+== Leerstijl ==
+=== Test ===
+De uitgangen van het doolhof staan symbool voor de 4 leerstijlen waarin men de speler tracht in te delen; de reproductieve, de toepassingsgerichte, de betekenisgerichte en de productieve leerstijl. Deze leerstijlen zijn normaal aan de context gebonden, dat is niet meegenomen in deze beschrijving. Om bij een van die uitgangen te komen moet een speler vanuit een centrale ruimte ontsnappen om dan via doolhofgangen een volgende ruimte te vinden. Na het binnentreden van een volgende ruimte sluit achter hem een deur en moet hij uit die ruimte ontsnappen. De wijze waarop hij ontsnapt bepaald welke van de vier deuren van die ruimte voor hem openen. Deze escaperooms bevatten dus uitdagingen of vragen waarop de AI kan vaststellen hoe iemand met een bepaalde leerstijl zou reageren. Als diegene dat voldoende keren consistent blijft herhalen, dan krijgt de AI voldoende zekerheid over die leerstijl. Het is in feite een interactieve psychologische test. 
+
+=== Inzicht ===
+Met het inzicht over de leerstijl van de speler kan de AI passende suggesties doen over leren. Deze suggesties worden beter naarmate de AI de gebruiker beter kent. Deze suggesties zijn het resultaat van wiskundige berekeningen ([[w:Machinaal leren|"machine learning"]]) op de geleverde keuzes. Om dit te visualiseren zouden we de wiskundige [[w:Archimedes|Archimedes]] kunnen inzetten die erom bekend staat om patronen in het zand te maken om inzicht te krijgen. Dus na een antwoord of een reeks antwoorden, zien we in dat Archimedes opnieuw je positie in het doolhof berekent en Orunumila meer duidelijk geven over de leerstijl van jou als speler.
+
+==== De open kaart ====
+Door middel van vragen stellen, speelt Socrates open kaart met je. Hij probeert zo zorgvuldig mogelijk te weten te komen hoe jij als speler bent en hoe jij in het spel staat. Het is aan jou om deze open kaart invulling te geven.
+
+==== Het beeld ====
+Archimedes geeft vorm aan jouw leerproces. Zo schept hij een helder beeld van jouw eigenschappen, om het bij jou passende pad te bewandelen in de zoektocht. Hoe jij dit pad bewandelt is helemaal aan jou om in te vullen en uit te werken. 
+
+==== De spiegel ====
+De spiegel is het element dat de zelfreflectie in het leerproces vormgeeft. Orunmila is jouw gids in het weerspiegelen van jouw innerlijke zijn. Hij houdt je letterlijk een spiegel voor, om zo verder te kunnen komen na je zoektocht door de maze.
+
+== Leeradvies ==
+=== Orakel ===
+De "advisor" of "adviseur in het spel kan worden gesymboliseerd door de Afrikaanse evenknie van Socrates namelijk [[w:Orunmila|Orunmila]]. Orunmila weet op mythische wijze ([[w:Orakel|orakel]]) - vanuit het perspectief van de gebruiker - zinvolle suggesties te doen over het leren. De uitgangen van de doolhof kunnen symbool staan voor de toegang tot een vorm van leren die bij iemands [[Leren_leren/Stijl#Unificatie|leerstijl]] past; [[passend leren]].
+
+=== Gids ===
+De gids die je helpt om de uitgang via een (lei)draad is de godin [[w:Ariadne (mythologie)|Ariadne]] uit de Griekse mythologie. Het verhaal van Ariadne en het labyrinth kan worden gezien als een allegorie voor het concept vrijheid. In de mythologie was Ariadne de dochter van de koning van Kreta en ze hielp Theseus om het beest, de Minotaurus, in het labyrint te verslaan. Ze gaf hem een rol garen om zich aan vast te houden, zodat hij zijn weg terug naar de uitgang zou kunnen vinden. Dit verhaal kan worden gezien als een beeldspraak voor de zoektocht naar vrijheid. Het labyrint kan worden gezien als een symbool voor de complexiteit en verwarring van het leven, en de Minotaurus als een personificatie van de beperkingen en obstakels die de mens tegenhouden. Ariadne's rol garen kan worden gezien als de leidraad die de mens helpt bij de zoektocht naar vrijheid. 
+
+=== Uitgang ===
+Bij elke uitgang treft men een wereld aan die bij de leerstijl en de ambitie van zo [[Vrij leren|vrij mogelijk leren]] past. Men krijgt dus een [[Passend leren|passend advies over hoe te leren]]:
+* '''Reproductieve leerstijl''': [[Opvolgend leren]] - Fan wereld
+* '''Toepassingsgerichte leerstijl''': [[Ontwerpend leren]] - Design wereld
+* '''Betekenisgerichte leerstijl''': [[Onderzoekend leren]] - Research wereld
+* '''Productieve leerstijl''': [[Ondernemend leren]] - Entrepreneur's wereld
+
+=== Einde ===
+De AI kan ook leren of dit advies juist is geweest door de speler ook de andere werelden te tonen en dan te laten kiezen. Bijvoorbeeld omdat de werelden rondom de maze in elkaar overgaan en je dus links en rechts van je in de verte de werelden zien die het dichtst bij het advies (de uitgang) staan. Als de keuze niet overeenkomt met het advies, dan is er blijkbaar iets te verbeteren aan het bepalen (de vragen of keuzes in het spel) van de leerstijl.
+
+Een vervolg op de maze kan zijn de [[Speels_leren/Leergames#Mission|mission]] als game waarbij de inzichten over de leerstijl de manier van spelen van de mission game bepaald.
+
+{{Opmaak
+ | Voettekst
+ | website ; Maze leergame ; https://github.com/HeDude/maze ; Github HeDude ; Prototype van de Maze leergame ontwikkeld door studenten van het [https://nl.wikipedia.org/wiki/Alfa-college <span style="color:white">Alfa-college</span>]
+}}

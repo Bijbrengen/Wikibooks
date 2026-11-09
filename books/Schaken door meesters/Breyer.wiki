@@ -1,0 +1,49 @@
+{{Opmaak}}
+== Profiel ==
+'''{{Wp|Gyula_Breyer|Gyula Julius Breyer}}''' was in 1912 schaakkampioen van Hongarije. Hij heeft als een van de bekendste van zijn vele schaakopeningen het Breyersysteem bedacht, als variant op de {{Wp|Spaans (schaakopening)|Spaanse opening}}. 
+
+== Breyersysteem ==
+{{Lijst|inhoud=
+1. e4 e5 
+2. Pf3 Pc6 
+3. Lb5 a6 
+4. La4 Pf6 
+5. 0-0 Le7 
+6. Te1 b5 
+7. Lb3 0-0
+8. c3 d6 
+9. h3 Pb8 
+10. d4 ..
+}}
+
+De zet '''9... Nb8''' is het kenmerk van het Breyersysteem. Hoewel het op het eerste gezicht contra-intuïtief lijkt om een ontwikkeld stuk terug te trekken, is het doel uiterst logisch: het paard wordt herplaatst naar d7. Vanuit d7 ondersteunt het paard de centrale pion op e5 en maakt het de weg vrij voor de c-pion om op te rukken (...c5 of ...c6).
+
+=== Belangrijke varianten ===
+* '''10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8''': De hoofdlijn. Zwart heeft een zeer solide stelling en wit moet proberen de zwarte coördinatie te verstoren.
+* '''De aanval op de koningsvleugel''': Wit probeert vaak met de manoeuvre Nf1-Ng3-Nf5 druk uit te oefenen op de zwarte koningsstelling.
+
+== Evaluatie van Combinaties ==
+Het Breyersysteem is een van de meest gerespecteerde verdedigingen op het hoogste niveau:
+* '''Soliditeit''': Zwart heeft geen directe zwaktes en een zeer harmonieuze opstelling.
+* '''Tactische dreigingen''': Zoals te zien in de partij Wesley So - Gata Kamsky (2016), kan wit echter met een spectaculair offer op f5 ('''22. Nhf5!''') de zwarte verdediging openbreken. Zwart moet uiterst waakzaam zijn voor dergelijke offers.
+* '''Eindspelkansen''': Als zwart de witte aanval overleeft, heeft hij vaak uitstekende kansen in het eindspel vanwege de gezonde pionnenstructuur.
+
+== Voorbeeld ==
+{{Opmaak
+| Object = Schaak
+| Definitie = Breyersysteem
+| Beschrijving = Breyersysteem in de schaakopening Spaans of Ruy López
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|  |rd|kd|  |
+7 |  |  |pd|  |bd|pd|pd|pd|
+6 |pd|  |  |pd|  |nd|  |  |
+5 |  |pd|  |  |pd|  |  |  |
+4 |  |  |  |pl|pl|  |  |  |
+3 |  |bl|pl|  |  |nl|  |  |
+2 |pl|pl|  |  |  |pl|pd|pl|
+1 |rl|nl|bl|ql|rl|  |kl|  |
+   a  b  c  d  e  f  g  h
+}}
+
+{{Opmaak | Voettekst}}

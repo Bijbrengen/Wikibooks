@@ -1,0 +1,54 @@
+{{Index Handleiding moderatoren}}
+==Leerdoel==
+Moderatoren bekend maken met de procedure voor de behandeling van media die zowel op een Nederlandstalige wiki van de {{Wp|Wikimedia Foundation| Wikimedia Foundation}} als ook op {{Wp|Wikimedia Commons| Wikimedia Commons}} beschikbaar zijn, als ook de beschikbare hulpmiddelen voor het opsporen van deze media.
+
+==Veronderstelde voorkennis==
+*Bekend met afbeeldingslicenties (zie {{Wp|WP:BGM |WP:BGM}}).
+
+==NuCommons afbeeldingen verwijderen==
+In dit hoofdstuk wordt de Nederlandstalige Wikipedia als voorbeeld genomen. Op andere Nederlandstalige wiki's van de Wikimedia Foundation is de procedure gelijk, hoewel sjablonen en pagina's af kunnen wijken. Raadpleeg lokale beheerders voor precieze afspraken.
+
+Afbeeldingen die zowel op [[:commons:|Wikimedia Commons]] als op de Nederlandstalige Wikipedia zijn toegevoegd, kunnen in het algemeen verwijderd worden.
+
+Indien een gebruiker van Commons vaststelt, dat een afbeelding zowel op nl:wp als op commons aanwezig is, wordt een sjabloon bij de afbeelding geplaatst. Dit sjabloon is {{Tl|NuCommons}}, eventueel aangevuld met de naam van de afbeelding op Commons. In het geval een wapenschild of vlag wordt vervangen door een {{Wp|SVG|SVG}}-variant, plaats dan {{Tl|NuCommonsSVG}} en volg de aanwijzigen op dat sjabloon.
+
+NuCommons-afbeeldingen kunnen opgeruimd worden zonder plaatsting op {{Wp|Wikipedia:Te verwijderen afbeeldingen|Wikipedia:Te verwijderen afbeeldingen}}.
+
+Gebruik daarvoor volgende handleiding:
+*Open {{Wp|Categorie:Wikipedia:NuCommons|NuCommons}}
+*Open een van de afbeeldingen
+*In het sjabloon NuCommons bij de afbeelding, staat waar de afbeelding op Commons te vinden is. Open deze in een aparte tab of apart scherm.
+*Vergelijk de foto's: Zijn ze gelijk?
+*Pas eventueel de informatie op Commons aan, zodat geen informatie verloren gaat.
+*Is de foto origineel van de nl:wp en toegevoegd door iemand anders op commons, dan is daar vaak vermeld waar de oorsprong van de foto is (in dit geval nl:wp).
+*Controleer of de afbeeldingsnaam gelijk is. Instinker: soms wordt .jpg geschreven of .JPG. Als dat het geval is, moet de foto-verwijzing op nl:wp aangepast worden.
+*Pas voor of direct na het verwijderen op nl:wp de referenties aan in artikelen waar de foto wordt gebruikt.
+*Controleer voor verwijdering of een afbeelding expliciet is gecategoriseerd (dus niet door bijvoorbeeld een sjabloon). Is dit het geval, voeg dan met {{Tl|Commonscat}} de naam van de categorie bovenaan de afbeeldingencategorie toe.
+*Controleer na verwijdering of de afbeelding van Commons wordt getoond.
+
+==CommonsClash==
+[[Afbeelding:CommonsClash.png|right|thumb|450px|Screenshot van CommonsClash - klik voor meer detail]]'''[https://tools.wikimedia.de/~daniel/WikiSense/CommonsClash.php?wikilang=nl&wikifam=.wikipedia.org CommonsClash]''' is een hulpmiddel dat rapporteert over afbeeldingen met namen die zowel op nl.Wikipedia als op Commons voorkomen. In het geval afbeeldingen exact hetzelfde zijn, wordt dat aangegeven met ''''duplicate''''. Deze tool maakt het eenvoudiger om grote aantallen afbeeldingen als NowCommons aan te merken en direct te verwijderen. Het kan voorkomen dat een afbeelding wel gebruikt mag worden op nl.Wikipedia, maar niet op Commons, neem dus bovenstaande handleiding in acht.
+
+===Procesbeschrijving CommonsClash===
+Hieronder staat het een richtlijn voor het proces ''handmatige verwijdering van commonsduplicaten met CommonsClash'' beschreven.
+ 
+Bij het gebruik van CommonsClash zijn de volgende scenario's te onderscheiden:
+#Twee afbeeldingen zijn exact gelijk en de licentie op Commons is correct/gelijk: verwijder de afbeelding op deze wiki.
+#*Verwijdering: ''Commons duplicaat''
+#Twee afbeeldingen zijn exact gelijk, maar hebben verschillende afmetingen en de afbeelding op Commons heeft een lagere resolutie: upload de versie van deze wiki over de versie op Commons heen en verwijder de afbeelding op deze wiki.
+#*Verwijdering: ''Commons duplicaat''
+#Twee afbeeldingen zijn exact gelijk, maar hebben verschilende afmetingen en de afbeelding op Commons heeft een hogere resolutie: verwijder de afbeelding op deze wiki en controleer of de afbeelding op de pagina's waar deze wordt gebruikt niet te groot wordt weergegeven. Corrigeer waar nodig de afmetingen.
+#*Verwijdering: ''Commons duplicaat'' of ''Highres commons''
+#Twee afbeeldingen hebben dezelfde naam, verschillen wat betreft inhoud en de licentie op deze wiki maakt plaatsing op Commons mogelijk: controleer eerst of Commons de afbeelding niet al heeft onder een andere naam. PD-oud en PD-kunst zijn vaak al aanwezig. Verplaats de afbeelding als nodig naar Commons onder een andere naam. Verwijder de afbeelding op deze wiki zodat de commonsafbeelding beschikbaar komt en pas de links aan daar waar de afbeelding wordt gebruikt. Gebruik [https://tools.wikimedia.de/~magnus/commonshelper.php CommonsHelper] voor categorisatie van de afbeelding op Commons. Dit hulpmiddel plaatst alle relevante informatie in een Commons-sjabloon en suggereert een categorie, als mogelijk.
+#*Verwijdering: ''Naar Commons als Afbeeldingsnaam''
+#*Aanpassing links: ''Commonsfix''
+#Twee afbeeldingen hebben dezelfde naam, de inhoud verschilt en de afbeelding komt op commons voor onder een andere naam: verwijder de afbeelding op deze wiki en wijzig de links naar de Commonsnaam.
+#*Verwijdering: ''Commons Afbeeldingsnaam''
+#*Aanpassing links: ''Commonsfix''
+#*Verwijdering: ''Naar Commons als Afbeeldingsnaam''
+#*Aanpassing links: ''Commonsfix''
+#Twee afbeeldingen hebben dezelfde naam, verschillen wat betreft inhoud en de licentie op deze wiki maakt plaatsing op Commons niet mogelijk: verplaats de afbeelding op deze wiki naar een andere naam en neem de bestaande gegevens over (licentie, categorie, beschrijving, enzovoort).
+#*Verwijdering: ''Afbeelding verplaatst naar NieuweNaamAfbeelding i.v.m. CommonsClash''
+#*Aanpassing links: ''Naam afbeelding gewijzigd''
+#Twee afbeeldingen hebben dezelfde naam, het beeld op deze wiki is van slechte kwaliteit (in incidentele gevallen èn pov) en er staat een mooi beeld achter op Commons met een juiste licentie: nomineer de afbeelding op {{Wp|WP:VA|WP:VA}} zodat na verwijdering de afbeelding van Commons kan worden gebruikt. Deze methode kan ook gebruikt worden bij licenties die niet overeenkomen met het op deze wiki geldende afbeeldingenbeleid (beperkingen als {{Tl|Beperkt}} en/of {{Tl|Bronvermelding}}).
+{{Sub}}

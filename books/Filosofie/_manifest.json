@@ -1,0 +1,22 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Filosofie",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Filosofie",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "title": "Filosofie",
+      "file": "_module.wiki",
+      "pageid": 40896,
+      "contentmodel": "wikitext",
+      "revid": 424746,
+      "parentid": 400364,
+      "timestamp": "2026-04-27T17:07:55Z",
+      "user": "BeeBringer",
+      "comment": "",
+      "sha1": "a64b50ef333aa3f1f43a31a6d4d25dd9464394f0",
+      "bytes": 585
+    }
+  ]
+}

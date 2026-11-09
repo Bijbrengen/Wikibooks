@@ -1,0 +1,29 @@
+{{Opmaak}}
+
+Een modern systeem moet flexibel zijn.
+In de [[Module:Layout]] wordt deze flexibiliteit geboden door de laag '''Configuration''' (Configuratie).
+
+== Centraal Beheer ==
+De configuratie bepaalt hoe de verschillende onderdelen van de module met elkaar samenwerken.
+In `Configuration.lua` vinden we instellingen zoals:
+* De namen van de sjablonen voor verschillende omgevingen (Productie, Stage, etc.).
+* De zoekvolgorde voor submodules.
+* De beschikbare talen en kleurenthema's.
+
+== De INCLUDE Functie ==
+Een van de meest krachtige onderdelen van de configuratie is de `INCLUDE` functie.
+Deze functie zorgt ervoor dat we altijd de juiste versie van een submodule laden, passend bij de omgeving waarin we werken.
+
+<pre>
+local interface = CFG.INCLUDE( environment, "interface" );
+</pre>
+
+=== Hoe INCLUDE werkt ===
+1. '''Zoekvolgorde''': De functie zoekt eerst in de huidige omgeving (bijv. `Development`).
+2. '''Fallback''': Als de module daar niet wordt gevonden, "valt de functie terug" naar de volgende omgeving (bijv. `Stage` en uiteindelijk `Production`).
+3. '''Caching''': Om de module snel te houden, worden gevonden paden opgeslagen in een cache, zodat MediaWiki niet telkens hoeft te controleren of een pagina bestaat.
+
+Door deze opzet kunnen we een nieuwe functie testen in de `Sandbox` door daar simpelweg een nieuwe versie van een submodule te plaatsen.
+De rest van het systeem blijft de stabiele `Production`-versie gebruiken, behalve voor die ene specifieke test.
+
+{{Opmaak | Voettekst}}

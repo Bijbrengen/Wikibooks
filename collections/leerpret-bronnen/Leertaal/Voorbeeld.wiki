@@ -1,0 +1,50 @@
+{{Opmaak}}
+De onderstaande voorbeelden laten zien hoe een leertaal kan worden gelezen. De notaties zijn illustratief; een volledige grammatica moet onder meer naamgeving, typen, getallen, verwijzingen en conflicten specificeren.
+
+== Drukwerkplaats ==
+Een lerende wil zelfstandig drukfouten leren onderzoeken. De omgeving biedt een pers, materiaal, voorbeelden en vrijwillige hulp. De pers kan uitnodigen tot beginnen, weerstand bieden en een geslaagde afdruk mogelijk maken.
+
+Een [[Leertaal/Definitie#Leeruitspraak|uitspraak]] kan luiden:
+: Een maker onderzoekt een afdruk met de drukpers in de drukwerkplaats.
+
+== Declaraties ==
+<pre>
+actor makerprofiel = 3 * Verkenner + 1 * Verwerver
+actie oplossen = 3 * Onderzoeken + 1 * Gebruiken
+object persblok = 2 * Weerstandsobject + 1 * Succesobject
+uitspraak onderzoek = makerprofiel doet oplossen met persblok in drukcontext
+</pre>
+De gewichten beschrijven verhoudingen, geen minuten of objectief gemeten bekwaamheid. De precieze [[Leertaal/Vrijheid#Leercontext|context]] moet eveneens worden gedeclareerd, bijvoorbeeld met kenmerken van Speeltuin, Stamtafel en Werkplaats.
+
+== Drie betekenissen ==
+{| class="wikitable"
+! Beschrijving !! Betekenis
+|-
+| De maker heeft de oorzaak van een drukfout onderzocht. || Leerresultaat: een uitvoering.
+|-
+| De maker kan zulke oorzaken bij herhaalde toepassing zelfstandig onderzoeken. || Leerimpact: een te onderbouwen duurzame bekwaamheid.
+|-
+| De maker wil ook andere typen drukfouten onderzoeken. || Leerdoel: gewenste bekwaamheid.
+|}
+
+Een tentoonstellingsmogelijkheid is [[Leertaal/Leerbox#Leerobject|leeropbrengst]]. Zij bewijst niet dat de drie bovenstaande claims waar zijn. Een volgende ervaring kan worden aangeboden als verwachte bijdrage aan het doel. De lerende kan die route zelf beoordelen.
+
+== Volgorde ==
+<pre>
+onderzoek_afdruk -> gebruik_instelling -> reflectie_keuze
+</pre>
+De pijlen ordenen de beschrijving. De volgorde is geen automatische oorzaak-gevolgverklaring en geen verplicht voorschrift.
+
+== Alternatieve Engelse schrijfwijze ==
+Een taalvariant kan benoemde onderwijsstructuren gebruiken:
+<pre>
+This expert rule is called Terugvertellen.
+This education architecture is called Leeromgeving.
+The root is a resource called Bronnenverzameling.
+</pre>
+Een wortel kan ook als actor, portfolio, action, unit, prerequisite of method worden getypeerd. Dat zijn mogelijkheden uit een [[Leertaal/Typen|alternatieve structuurindeling]], niet automatisch verplichte onderdelen van een leeruitspraak. De naam van een regel zegt nog niet welke voorwaarden gelden of dat de regel werkzaam is.
+
+== Tegenvoorbeelden ==
+Een ingeleverd formulier bewijst geen reflectie. Een teamprestatie bewijst geen gelijke individuele bekwaamheid. Een badge is geen impactmeting. Een technisch geldige beschrijving maakt een opgelegde keuze niet vrijwillig. Zulke gevallen maken zichtbaar welke controles en inhoudelijke aannamen nodig zijn.
+
+{{Opmaak | Voettekst}}

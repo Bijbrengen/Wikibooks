@@ -1,0 +1,19 @@
+{{Index Handleiding moderatoren}}
+Het moderatorschap in wiki's van de Wikimedia Foundation kent zich door dienstbaarheid aan de gemeenschap. Volgens de meeste reglementen is dit de enige reden waarom de extra mogelijkheden aan de moderator gegeven worden (''het moderatorschap is geen carrierestap''). De gemeenschap verwacht van de moderator dat die bijdraagt aan onderhoudstaken die een normale gebruiker niet kan uitvoeren, of moeilijker uit kan voeren. Uit ervaring blijkt dat er twee grote taken zijn die een groot onderdeel uitmaken van de tijdsbesteding van moderatoren: [[Handleiding moderatoren/Vandalisme en vandalismecontrole|vandalismebestrijding]] en het [[Handleiding moderatoren/Verwijdersessies uitvoeren|verwijderen van ongewenst materiaal]].
+
+==Verwachte voorkennis van kandidaat-moderator==
+Door het lezen van deze handleiding [[leren|leer]] je de verwachte attitude, doe je de nodige kennis op over o.a. syntax van MediaWiki en krijg je een beeld van de veronderstelde taken van een moderator.<br>
+Hiervoor dien je wel ook de boeken of handleidingen door te nemen waarnaar verwezen wordt in deze "handleiding moderatoren".<br><br> 
+
+Daarnaast wordt van een kandidaat moderator verwacht dat je een inzicht hebt verworven in de huidige stand van zaken van het wikiproject van je keuze (Wikibooks, Wikipedia, Wikinews, Wiktionary,...).
+
+Dit houdt in dat je je een beeld vormt van de visie van het wikiproject en wat er dient te gebeuren om deze visie na te streven.
+
+Of je bent op de hoogte van een specifiek tekort aan moderatoren om een bepaalde functie uit te voeren, bv. vandalismebestrijding op Wikipedia, en je wilt en kan je hierop toeleggen.<br>
+Dergelijk inzicht verwerf je slechts door intensief bezig te zijn met de wiki van je keuze en op de hoogte te zijn van wat leeft en streeft binnen je wiki.<br><br>
+
+En tot slot dien je te beschikken over logisch verstand en sta je open voor andere denkbeelden dan die van jezelf. Een basis aan '''sociale en communicatieve vaardigheden''' is nodig.
+
+<div style='text-align: center;'>Verder naar '''[[Handleiding moderatoren/Wat is een moderator en wat niet|Wat is een moderator?]]'''</div>
+<div style='text-align: center;'>Terug naar '''[[Handleiding moderatoren|Colofon]]'''</div>
+{{Sub}}

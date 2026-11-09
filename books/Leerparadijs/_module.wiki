@@ -11,4 +11,3 @@
 | Collectie = Onderwijs
 | Onderdeel = Inleiding, School, Onderwijs, Organisatie
 }}
-{{Fase|3}}

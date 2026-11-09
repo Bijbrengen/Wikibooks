@@ -1,13 +1,9 @@
 # Leerparadijs
 
-Lokale mirror van Wikibooks-pagina's met prefix: Leerparadijs
-
-Opgehaald: 2026-04-27T09:00:42.9866135Z
-
-## Pagina's
+Opgehaald: 2026-11-09T18:38:16.483522+00:00
 
 - [Leerparadijs](_module.wiki)
 - [Leerparadijs/Inleiding](Inleiding.wiki)
+- [Leerparadijs/Onderwijs](Onderwijs.wiki)
 - [Leerparadijs/Organisatie](Organisatie.wiki)
 - [Leerparadijs/School](School.wiki)
-- [Leerparadijs/Onderwijs](Onderwijs.wiki)

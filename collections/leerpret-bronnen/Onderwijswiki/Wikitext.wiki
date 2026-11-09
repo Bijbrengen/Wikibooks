@@ -20,8 +20,8 @@ In vergelijking met Lua;
 
 == Voorbeeld ==
 Als een voorbeeld van basaal gebruik van Wikitext kunnen we kijken naar de manier waarop je tekst opmaakt, links creëert, en sjablonen inzet:
-* '''Tekstopmaak''': Gebruik ''italic'' voor cursieve tekst en '''bold''' voor vetgedrukte tekst.
-* '''Links maken''': Interne links worden gemaakt met [[PaginaNaam|Link tekst]] en externe links met [https://www.voorbeeld.com Link tekst].
-* '''Sjablonen gebruiken''': Om een sjabloon in te voegen, gebruik je {{SjabloonNaam|parameter1=waarde1|parameter2=waarde2}}.
+* '''Tekstopmaak''': Gebruik <code><nowiki>''italic''</nowiki></code> voor cursieve tekst, <code><nowiki>'''bold'''</nowiki></code> voor vetgedrukte tekst.
+* '''Links maken''': Interne links worden gemaakt met <code><nowiki>[[PaginaNaam|Linktekst]]</nowiki></code> en externe links met [https://www.voorbeeld.com Linktekst].
+* '''Sjablonen gebruiken''': Om een sjabloon in te voegen, gebruik je <code><nowiki>{{SjabloonNaam|parameter1=waarde1|parameter2=waarde2}}</nowiki></code>.
 
 {{Opmaak | Voettekst}}

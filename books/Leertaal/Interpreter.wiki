@@ -1,0 +1,27 @@
+{{Opmaak}}
+Een '''interpreter''' verwerkt beschrijvingen volgens de afspraken van een leertaal. Een parser herkent eerst de bouw van de tekst. Daarna kunnen typecontroles, betekenisregels en expliciet vastgelegde voorwaarden worden toegepast.
+
+== Controle ==
+Een verwerking kan onderscheid maken tussen:
+* een vormfout, zoals een ontbrekend onderdeel;
+* een onbekende naam of actie;
+* een verkeerd type, zoals een object waar een context wordt verwacht;
+* een expliciete betekenisstrijdigheid;
+* onvoldoende opgegeven onderbouwing;
+* voldoen aan de afgesproken controles met de beschikbare gegevens.
+
+De laatste uitkomst bewijst niet dat een werkelijk persoon iets duurzaam heeft geleerd. De [[Leertaal/Definitie#Leeruitspraak|uitspraak]] en haar onderbouwing blijven te beoordelen.
+
+== Deterministische verwerking ==
+Bij een deterministische interpreter geeft dezelfde volledige invoer binnen dezelfde taal- en regelversie dezelfde uitvoer. Daarvoor moeten ook gebruikte contextgegevens en bibliotheken vastliggen. Een taalmodel kan buiten deze verwerking helpen tekst aan te leveren, maar hoeft geen onderdeel te zijn van de interpreter zelf.
+
+== Uitleg en verrijking ==
+Een technische foutmelding kan uitleggen waarom een beschrijving onjuist is. Een aanvullende inhoudelijke laag kan passende mogelijkheden voorstellen, bijvoorbeeld op basis van [[Leerpret|leerpret]] of contextafstemming. Zo'n advies is een beargumenteerde verwachting, geen automatisch oordeel over de lerende. Een additieve benadering bouwt voort op aanwezige mogelijkheden.
+
+== Implementatie ==
+De taal kan onafhankelijk van één softwarestack worden beschreven. Een mogelijke implementatie gebruikt C# en een grammatica-raamwerk zoals Irony, bijvoorbeeld bij een toepassing in een game-engine. Andere talen en raamwerken zijn eveneens mogelijk. Een modulaire opbouw kan grammatica, naamresolutie, typecontrole, inhoudelijke regels en uitvoer gescheiden houden.
+
+== Ontwikkeling en toetsen ==
+Voorbeelden, tegenvoorbeelden en verwachte foutmeldingen kunnen als testgevallen dienen. Bij testgestuurde ontwikkeling worden deze verwachtingen vooraf vastgelegd. [[Leertaal/Testen|Testen]] onderzoekt zowel de verwerking als de grenzen van wat uit een beschrijving kan worden afgeleid.
+
+{{Opmaak | Voettekst}}

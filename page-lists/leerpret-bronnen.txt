@@ -187,8 +187,8 @@ Onderwijsprofessional/Onderwijsentrepreneur
 Onderwijsprofessional/Onderwijsmanager
 Onderwijsprofessional/Onderwijzer
 Onderwijsprofessional/Waarde
-Onderwijstaal
-Onderwijstaal/Inleiding
+Leertaal
+Leertaal/Inleiding
 Onderwijstechnologie
 Onderwijstechnologie/ICT en 'doven en slechthorenden'
 Onderwijstechnologie/ICT en leerstoornissen

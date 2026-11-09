@@ -1,0 +1,55 @@
+{{Opmaak}}
+Een '''leerbox''' is een afgebakende fysieke of digitale omgeving waarin mogelijkheden voor leren zijn ingericht. In een leertaal kan zij worden beschreven als een [[Leertaal/Vrijheid#Leercontext|context]] met [[Leertaal/Leerbox#Leerobject|objecten]], ook wel een box met blokken genoemd.
+
+== Kenmerken ==
+Een mogelijke ontwerpbenadering gebruikt drie kenmerken:
+* '''Zelfverklarend''': de mogelijkheden zijn zo ingericht dat de lerende begrijpt wat kan worden geprobeerd.
+* '''Zelfstartend''': beginnen is mogelijk zonder eerst verplichte externe instructie te doorlopen.
+* '''Uitnodigend''': de omgeving maakt handelen, onderzoeken of ontmoeten aantrekkelijk.
+
+Deze kenmerken zijn ontwerpdoelen. Of een omgeving ze voor een bepaalde gebruiker werkelijk heeft, moet worden onderzocht. Een leerbox hoeft bovendien niet voor iedere lerende dezelfde vorm te hebben. Zie [[Leerattractie|leerattracties]], [[Leerpret|leerpret]] en [[Leerbroedplaats|leerbroedplaatsen]].
+
+== Grenzen en ondersteuning ==
+Het verminderen van verstoringen kan helpen ruimte te maken voor het eigen leren. Dat betekent niet dat iedere menselijke invloed buiten de omgeving moet blijven. Een vrijwillig gekozen begeleider of medespeler kan juist een waardevol onderdeel zijn. Een box biedt bescherming en overzicht zonder de eigen route onnodig dicht te zetten.
+
+Een natuurroute, een interactieve museumopstelling of een werkplaats kan als voorbeeld dienen. De plaats op zichzelf bewijst geen vrijheid: ook toegankelijkheid, instemming, middelen en afspraken tellen mee.
+
+== Inhoud en logica ==
+De taal kan beschrijven welke objecten en bronnen beschikbaar zijn, welke leeracties ermee in verband worden gebracht en onder welke voorwaarden een object een beloning biedt. Zij beschrijft ook hoe resultaten, actuele bekwaamheid en doelen worden verbonden. Exacte gebeurtenissen kunnen afzonderlijk worden geregistreerd.
+
+== Technische realisatie ==
+Een [[Onderwijsplatform|platform]] kan tekst, media, metadata en interactieve logica in een uitwisselbaar formaat combineren. De technische invulling is niet identiek aan de pedagogische betekenis van de box. Een contract maakt duidelijk welke leerkenmerken een toepassing beschikbaar stelt, onafhankelijk van de programmeertaal waarmee de omgeving is gebouwd.
+
+
+== Leerobject ==
+Een '''leerobject''' is datgene waarmee of waarop een leeractie betrekking heeft. Het kan een fysiek voorwerp, digitaal middel, bron, vraag of gesprekspartner zijn. In een modulaire beschrijving kan het object ook een ''blok'' worden genoemd. De functie ontstaat binnen de interactie; dezelfde drukpers kan verschillende leerhandelingen ondersteunen.
+
+=== Functies ===
+Een mogelijke typering onderscheidt vier functies:
+{| class="wikitable"
+! Objecttype !! Functie !! Voorbeeld
+|-
+| Zelfstarterobject || Nodigt uit om uit zichzelf te beginnen en maakt mogelijk nut herkenbaar. || Een uitnodigende opstelling die zonder verplichte instructie kan worden geprobeerd.
+|-
+| Weerstandsobject || Biedt een te onderzoeken uitdaging of hindernis. || Een drukfout waarvan de oorzaak kan worden gezocht.
+|-
+| Succesobject || Maakt afronding of een prestatie herkenbaar. || Een passende afdruk of afgerond werkstuk.
+|-
+| Gewoon object || Draagt een handeling zonder aparte start-, weerstand- of succesfunctie. || Materiaal, een formulier of gereedschap.
+|}
+
+Een object kan functies combineren. De kleuren blauw, rood, groen en zwart kunnen respectievelijk als visuele aanduiding worden gebruikt; de betekenis mag niet alleen van kleurherkenning afhangen.
+
+Routes, ingangen, zijpaden, hulpmiddelen en houvast zijn eveneens relevante kenmerken van een [[Leertaal/Leerbox|leerbox]]. Te veel vooraf ervaren weerstand kan tot vermijden of verlaten leiden. Of een herkenbare afronding de leerervaring ondersteunt, is een inhoudelijke aanname die niet tot een verplicht eindritueel hoeft te worden gemaakt. Zie ook [[Leerattractie|leerattracties]] en [[Speels leren|speels leren]].
+
+=== Leeropbrengst ===
+In dit model betekent '''leeropbrengst''' het externe beloningsaanbod dat verbonden is met het gebruik van een object. Dat aanbod kan afhankelijk zijn van actie en context. Een drukpers kan bijvoorbeeld de mogelijkheid bieden een geslaagde afdruk tentoon te stellen. Een spel kan punten of een badge aanbieden.
+
+Een aanbod is nog geen ontvangen beloning. Een ontvangen beloning bewijst evenmin dat een duurzame bekwaamheid is ontstaan. Het onderscheid met [[Leertaal/Toepassing#Leerproces|leerresultaat en leerimpact]] blijft daarom nodig. Buiten dit model kan ''leeropbrengst'' ook persoonlijk ervaren waarde betekenen; zie [[Leren leren/Opbrengst|de bespreking van leeropbrengst]]. De gebruikte betekenis moet steeds herkenbaar zijn.
+
+=== Technisch contract ===
+De concrete werking van een object kan buiten de leertaal worden gebouwd. Via een contract geeft de toepassing aan welke kenmerken, handelingen en beloningsvoorwaarden beschikbaar zijn. De leertaal beschrijft die eigenschappen zonder de hele werking van het apparaat of spel na te bouwen.
+
+Een andere persoon kan vanuit één interactie als leerobject worden beschreven en vanuit diens eigen leren als [[Leertaal/Typen#Leeractor|actor]]. Het perspectief moet duidelijk blijven; de ene rol vervangt de andere niet.
+
+{{Opmaak | Voettekst}}

@@ -1,0 +1,219 @@
+{{Opmaak}}
+''"De tacticus moet weten wat te doen als er wat te doen valt; de strateeg moet weten wat te doen als er niets te doen valt."'' - {{Wp|Sawielly_Tartakower|Sawielly Tartakower}} (Pools schaakgrootmeester).
+
+== Leren ==
+=== Bewust onbewust leren ===
+Voor beginners is het van belang eerst [[Leren leren|bewust schaken te leren]]. De reden hiervoor is dat je het krachtigste leermiddel, namelijk het [[Onbewust leren|onbewust leren]] daarna veel succesvoller kunt inzetten. Een voorbeeld daarvan is de belangrijk techniek van [[visualisatie]]. Als je veel wedstrijden speelt, zonder grondige studie, dan wil je dat het onbewuste de verwerking op zich neemt. Dat kan het beter doen als het een automatisch begrip heeft aangeleerd van hoe een opstelling is te analyseren, maar ook dat die opstelling kan worden opgeslagen, dat wil zeggen dat je hoofd het kan voorstellen. Je traint het opnemen van visuele informatie en hoe die te verwerken, alvorens je heel veel informatie aanbiedt aan het onbewuste die dat vele malen beter en sneller kan verwerken dan het bewuste.
+
+=== Puzzelen ===
+Schaken kun je goed leren door allerlei schaakpuzzeltjes op te lossen. Waarom leer je minder van puzzels zoals hieronder?
+
+{{Schaak/Bord2
+|left
+|
+|
+8 |kl|  |kd|  |  |  |  |  |
+7 |pl|  |pl|pd|  |  |  |  |
+6 |  |pd|  |pl|  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |pd|  |  |  |  |  |  |  |
+3 |pl|  |  |pl|  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Pawn: Chess review, 1922 - T.R. Dawson
+}}
+<br>
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |kl|  |kd|  |  |  |  |  |
+7 |pl|pl|pl|pd|  |  |  |  |
+6 |  |  |  |pl|  |  |  |  |
+5 |  |  |  |pl|  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |qd|  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Alle zetten tot deze mat zijn geforceerd}}
+De bedenker van deze puzzel schijnt hiermee zijn buurman, die geen goed schaker was, toch een trots gevoel te willen geven.
+}}
+
+=== Verliezen ===
+Schaken leer je ook beter door te verliezen. Dan leer je van je tegenstander - die meestal wint omdat hij meer ervaring heeft - bepaalde patronen. Vaak is een keer verliezen door een patroon niet op tijd te herkennen niet voldoende. Dus heb geduld, speel met betere tegenstanders die meer patronen kennen en kijk niet naar of en hoe vaak je wint, maar wees blij als je betere tegenstanders het steeds moeilijker tegen jou krijgen.
+
+== Ontwikkelen ==
+=== Richtlijnen ===
+Richtlijnen (geen harde regels):
+* Sla bij een dubbelpion richting het centrum.
+* Zorg dat er een pion direct voor de koning staat.
+* Een toren staat het best op een vrije (geen pion er tussen) horizontaal of verticale lijn en het liefst beide.
+* Als een tegenstander een rokade heeft gedaan, jijzelf nog niet, beweeg de pionnen aan de kant waar de koning van de tegenstander staat dan naar voren om zijn pionnenstructuur te doorbreken.
+
+=== Stukken ===
+We gaan er bij strategisch spelen al van uit dat je regelmatig schaakpartijen hebt gespeeld en nu graag een niveau hoger wilt bereiken. De eerste stap is de stukken beter te leren kennen, zoals hun waarde in het spel. Die wordt niet alleen bepaald door de bewegingsvrijheid volgens de spelregels, maar ook door de positie op het schaakbord, zoals we eerder zagen. 
+
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |nd|
+7 |  |  |  |  |  |xo|  |  |
+6 |  |  |xx|  |xx|  |xo|  |
+5 |  |xx|  |  |  |xx|  |  |
+4 |  |  |  |nl|  |  |  |  |
+3 |  |xx|  |  |  |xx|  |  |
+2 |  |  |xx|  |xx|  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|De waarde van het witte paard is groter, omdat die meer velden X bewaakt}}
+
+De schaakstukken vanuit de opening verplaatsen zodat ze meer waarde krijgen, noemen we het ontwikkelen van de stukken. Als de schaakstukken opgeteld meer waarde hebben, zijn ze dus beter inzetbaar voor een aanval of een verdediging.
+
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |bl|pl|pl|bl|  |  |
+3 |  |  |nl|  |  |nl|  |  |
+2 |pl|pl|pl|  |ql|pl|pl|pl|
+1 |  |  |  |rl|rl|  |  |  |
+   a  b  c  d  e  f  g  h
+|Een voorbeeld van een goede ontwikkeling van de witte schaakstukken}}
+
+Het ontwikkelen van de schaakstukken gebeurt door schaakzetten te doen die in een zo hoog mogelijk {{Wp|Tempo_(schaken)|tempo}} je stukken op de gewenste posities brengen. Wit heeft hierbij het voordeel dat het mag beginnen. Maar als zwart wit dwingt ({{Wp|Tempo_(schaken)#Tempodwang|tempodwang}}) tot het doen van zetten die niet bijdragen aan de ontwikkeling dan wint zwart een tempo (extra beurt) van wit. Andersom kan ook.
+{{Schaak/Bord2
+|left
+|
+|
+8 |rd|nd|bd|qd|kd|bd|  |rd|
+7 |pd|pd|pd|  |pd|pd|pd|pd|
+6 |  |  |  |  |  |nd|  |  |
+5 |  |  |  |pd|  |  |  |  |
+4 |  |  |pl|pl|  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|  |  |pl|pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+|Wie wint tempo als het spel verder gaat met 3. cxd5 Pxd5 4. e4 Pf6}}
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |rd|nd|bd|qd|kd|bd|  |rd|
+7 |pd|pd|pd|  |pd|pd|pd|pd|
+6 |  |  |  |  |  |nd|  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |pl|pl|  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|  |  |  |pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+|Wit heeft een tempo gewonnen omdat hij twee pionnen nuttig heeft verzet, terwijl zwart alleen zijn paard heeft verzet}}
+Zwart verloor een tempo noodgedwongen ({{Wp|Tempo_(schaken)#Tempodwang|tempodwang}}) omdat het paard moest terugslaan en wit het paard verjoeg naar zijn oude plek.
+}}
+
+== Oorlogsvoering ==
+{{Wp|De kunst van het oorlogvoeren|De kunst van het oorlogvoeren}} van {{Wp|Sun_Tzu|Tzu}}, generaal en militair strateeg van het Chinese {{Wp|Wu_(staat)|koninkrijk Wu}}, geeft goede tips hoe je vanuit kalmte als schaakgeneraal een slimme strategie kan uitstippelen
+* "Er zijn vijf gevaarlijke karaktereigenschappen voor een generaal."
+* "Als hij roekeloos is, kan hij gedood worden."
+* "Als hij laf is, kan hij gevangen worden."
+* "Als hij opvliegend is, kan hij tot dwaasheden worden gedreven."
+* "Als hij zich snel in zijn eer voelt aangetast, kan hij belasterd worden."
+* "Als hij meedogend van aard is, kan hij getergd worden."
+* "Verleid de vijand met een lokaas; lijk wanordelijk en sla vervolgens toe."
+* "Bereid je voor als de vijand samenkomt op één punt; mijd hem waar hij sterk is."
+* "Blijf hem onder druk zetten en put hem uit."
+* "Val aan waar hij onvoorbereid is; val aan waar hij u niet verwacht."
+* "De allerbeste strategie bij oorlogvoering is het aanvallen van de strategie van de vijand."
+* "Hij die weet wanneer hij kan vechten en wanneer niet, zal zegevieren."
+* "Hij wiens soldaten verenigd zijn in hun streven, zal zegevieren."
+* "Hij die zich voorbereidt en wacht op een vijand die dat niet doet, zal zegevieren."
+* "Ken de vijand en ken uzelf, dan zult u in geen honderd gevechten gevaar lopen."
+* "Vanouds maakten vaardige krijgers zich eerst onoverwinnelijk om daarna te wachten tot de vijand zich kwetsbaar opstelde."
+* "Onoverwinnelijkheid is gelegen in de verdediging; de mogelijkheid op een overwinning is gelegen in de aanval."
+* "Strategische opstelling stelt een zegevierend generaal in staat zijn manschappen te laten vechten als ingesloten water dat zich, bij plotse uitbraak, in een bodemloze afgrond stort."
+* "Als een havik zijn prooi op slag doodt, komt dat door het juiste aanvalsmoment."
+* "Als we aanvallen wat de vijand niet verdedigt, zijn we er zeker van dat wij veroveren wat wij aanvallen."
+* "Als we verdedigen wat de vijand niet aanvalt, zijn we er zeker van dat wij behouden wat wij verdedigen."
+* "De vijand mag niet weten waar ik wil toeslaan."
+* "Het hoogst bereikbare bij het opstellen van troepen, is geen waarneembare vorm aannemen."
+* "Manoeuvres kunnen zowel voordeel als gevaar opleveren."
+* "Manoeuvreer als dat voordeel oplevert, en wijzig de situatie door troepen te verspreiden en te concentreren."
+* "Beoordeel de situatie alvorens in actie te komen."
+* "Schrok niet het lokaas van de vijand op."
+* "Daarom moet de wijze generaal bij zijn besluitvorming zowel gunstige als ongunstige factoren in ogenschouw nemen."
+* "Snelheid is de essentie van oorlogvoering."
+* "De essentie van militaire operaties is gelegen in de schijn wekken dat u zich schikt naar de strategie van de vijand."
+
+== Combinaties ==
+=== Schaakmat ===
+Combinaties die direct tot mat leiden zijn de meest spectaculaire en bevredigende acties op het bord. Vaak wordt er een stuk geofferd om de verdediging van de koning open te breken of hem naar een veld te dwingen waar hij geen kant meer op kan.
+
+* '''Stikmat (Smothered Mate)''': Dit is een mat waarbij de koning volledig is ingesloten door zijn eigen stukken en door een paard schaakmat wordt gezet.
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |rd|kd|
+7 |  |  |  |  |  |nl|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|  |  |  |pl|pl|
+1 |  |  |  |  |  |  |kl|  |
+   a  b  c  d  e  f  g  h
+|Wit zet mat met het paard op f7}}
+
+* '''Griekse Gift (Loper-offer op h7)''': Een beroemde combinatie waarbij wit de loper offert op h7 (of zwart op h2) om de koning naar buiten te lokken en vervolgens met dame en paard een vernietigende aanval in te zetten.
+
+=== Verovering ===
+Combinaties voor materiaalwinst zijn bedoeld om een beslissend voordeel in punten te verkrijgen. Een van de krachtigste combinaties is 'de molen'.
+
+* '''De Molen (Windmill)''': Dit is een opeenvolging van schaakjes (meestal door een toren) en aftrekschaakjes (met een loper), waarbij de toren telkens stukken van de tegenstander kan slaan terwijl de koning alleen maar heen en weer kan bewegen.
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |rd|  |kd|
+7 |  |  |pd|rd|nd|pd|rl|pd|
+6 |  |  |  |  |  |bl|  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |qd|  |  |  |  |  |
+1 |  |  |  |  |  |  |kl|  |
+   a  b  c  d  e  f  g  h
+|De witte toren kan hier de hele 7e rij schoonvegen via schaak op g7 en aftrekschaak door de loper}}
+
+* '''Aftrekaanval met offer''': Soms offer je een stuk om een lijn te openen voor een aftrekaanval die veel meer materiaal oplevert.
+
+=== Positioneel ===
+Niet elke combinatie heeft als doel om direct mat te zetten of materiaal te winnen. Soms offer je materiaal om een strategisch voordeel te behalen dat pas veel later in de partij doorslaggevend wordt.
+
+* '''Pionnenstructuur vernietigen''': Een combinatie kan bedoeld zijn om de pionnenmuur voor de vijandelijke koning weg te slaan, zelfs als dat een stuk kost. De koning wordt daardoor kwetsbaar voor latere aanvallen.
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |rd|kd|  |
+7 |  |  |  |  |  |pd|bl|pd|
+6 |  |  |  |  |nd|  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |nl|  |  |
+2 |  |  |ql|  |  |  |  |  |
+1 |  |  |  |  |  |rl|kl|  |
+   a  b  c  d  e  f  g  h
+|Wit heeft de loper op g7 geofferd om de pionnenstructuur open te breken voor een langdurige aanval}}
+
+* '''Blokkade-offer''': Een pion of stuk offeren om een veld vrij te maken voor een ander, sterker stuk (bijvoorbeeld een paard op een 'voorpost').
+
+{{Opmaak | Voettekst}}

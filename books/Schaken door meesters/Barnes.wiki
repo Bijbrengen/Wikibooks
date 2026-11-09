@@ -1,0 +1,121 @@
+{{Opmaak}}
+== Profiel ==
+[[Bestand:Thomas_Wilson_Barnes.jpg|200px|left]]
+=== Karakteristieken ===
+Thomas Wilson Barnes (20 januari 1825 - 25 april 1874) was een bekende Engelse schaakmeester. Hij werd geboren in Bristol, Engeland. In juni 1852 won hij de British Chess Association's eerste toernooi in Londen. Met name in de tijd dat de schaaklegende Paul Morphy Engeland bezocht, scoorde hij relatief gezien het beste tegen hem (8 overwinningen tegen 19 verliezen). Barnes werd beschouwd als een van de vijf grootmeesters van de Victoriaanse periode.
+
+Barnes ging op dieet en verloor 130 pond (ca. 59 kg) in 10 maanden, wat resulteerde in zijn dood. Barnes werd 5 dagen na zijn dood begraven op de Brompton-begraafplaats in Londen. 
+
+Barnes was een van de eerste schakers om de theorie van de Franse Verdediging te ontwikkelen.  Naast zijn bekende variatie op de Spaanse opening die naar hem is vernoemd, heeft hij nog tal van andere variaties bedacht, waaronder de Barnes-verdediging '''1.e4 f6'''. Deze variant speelde hij tegen Anderssen en Morphy en hij versloeg de laatste. Barnes Opening, 1.f3, draagt ook zijn naam. Openen met de f-pion diende zijn voorkeur om bestaande openingskennis te omzeilen.
+
+=== Wedstrijden ===
+Thomas Wilson Barnes heeft aan verschillende wedstrijden deelgenomen, waaronder de volgende: 
+
+* ''1851'': Internationale toernooi van Londen 
+* ''1855'': Internationale toernooi van Köln 
+* ''1856'': Internationale toernooi van Manchester 
+* ''1858'': Internationale toernooi van New York 
+* ''1861'': Internationale toernooi van Birmingham 
+* ''1865'': Internationale toernooi van Baden-Baden 
+* ''1867'': Internationale toernooi van Parijs 
+* ''1872'': Internationale toernooi van Karlsruhe 
+* ''1877'': Internationale toernooi van Nürnberg 
+* ''1883'': Internationale toernooi van Wijk aan Zee
+
+=== Titels ===
+Thomas Wilson Barnes behaalde de titel van International Master in het jaar 1886. Hij was ook de tweede grootmeester van Engeland. Barnes won ook de British Chess Championship in 1894 en bereikte in 1895 en 1896 respectievelijk de tweede en derde plaats.
+
+== Barnes Opening ==
+{{Opmaak
+| Object = Schaak
+| Definitie = Barnes Opening
+| Beschrijving = De eerste zet van de Barnes opening is '''f3'''
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|pd|pd|pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |pl|  |  |
+2 |pl|pl|pl|pl|pl|  |pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+De zet '''1. f3''' staat bekend als een van de minst sterke openingszetten voor wit. De computer-evaluatie is direct in het voordeel van zwart (-0.9). De reden hiervoor is dat f3 het belangrijkste veld voor het koningspaard (f3) blokkeert en de diagonaal e1-h4 verzwakt, wat kan leiden tot een snelle herdersmat-achtige aanval of de "Fool's Mate" (Gekkenmat) als wit niet oppast.
+
+{{Opmaak
+| Object = Schaak
+| Definitie = Gekkenmat (Fool's Mate)
+| Beschrijving = Een snelle nederlaag voor wit na 1. f3 e5 2. g4 Qh4#
+| Orientatie = wit
+|
+8 |rd|nd|bd|  |kd|bd|nd|rd|
+7 |pd|pd|pd|pd|  |pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |pd|  |  |  |
+4 |  |  |  |  |  |  |pl|qd|
+3 |  |  |  |  |  |pl|  |  |
+2 |pl|pl|pl|pl|pl|  |  |pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+
+Toch gebruikte Barnes deze zet om zijn tegenstanders direct uit hun theoretische voorbereiding te halen. Zwart reageert meestal met '''1... e5''' of '''1... d5''', waarna wit vaak probeert over te gaan naar een soort omgekeerde Hollandse verdediging of een Bird-achtige structuur.
+
+== Voorbeelden ==
+=== Barnes – Löwenthal ===
+''1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4+ 7.Nc3 Nxe4 8.O-O Bxc3 9.d5 Bf6 10.dxc6 bxc6 11.Be3 d5 12.Qb3 Qe7 13.Bg5 Qe5 14.Bxf6 gxf6 15.Rad1 h6 16.Qb6 Rb8 17.Qxc6+ Ke7 18.Qb6+ Kd8 19.Rd3 Qe6 20.Rfd1 Kc8 21.Bc4 Qe4 22.Rd5 Qf4 23.Rg5 Ne7 24.Qxb8+ Kxb8 25.Rd8+ Kc7 26.Rg7+ Kb6 27.Bd5+ Kb5 28.Rxf7 Rd8 29.Rff1 Rxd5 30.Rxd5+ Nc6 31.Rf6 Kc5 32.a4 Kb4 33.Rxc6 Kxa4 34.Rf8 a5 35.Rg7 a4 36.Rxh7 Kb3 37.Rxa4 Kc2 38.Rh2+ Kd3 39.Rd2+ Kc3 40.Rc2+ Kb3 41.Rb2+ Kc3 42.Rb6 Kd3 43.Rxg6 Ke4 44.Rh6 Kf3 45.Rf6+ Kg4 46.h3+ Kg3 47.Rf3# 1-0''
+
+De wedstrijd speelde zich af te London in 1858. Het was een partij vol tactiek, waarin Barnes de koning van Löwenthal gevangen nam en daarmee een kwaliteit won.
+
+=== Barnes – Burn ===
+''1. e2-e4 e7-e5 2. f1-c4 g8-f6 3. d2-d3 d7-d6 4. c4-d5 f6-e4 5. d3xe4 b8-c6 6. e4-e5 d6xe5 7. g1-f3 f8-e7 8. c1-g5 a7-a5 9. b2-b4 e5-d4 10. g5xf6 d4-d3 11. f3-d4 e7-e5 12. d4-f3 b7-b6 13. b1-c3 d3-h3 14. f6-e4 e5-c5 15. b4-b5 c6-b4 16. c3xb4 c7-c5 17. b5xc6 h3-g2 18. c6-d7 g2-f1 19. d7-f5 g7-g6 20. f5-d3 f1-e2 21. d3-f5 e2-f3 22. e4-e3 f3-e2 23. e3-f4 e2-g4 24. f4-e3 g4-f3 25. e3-f4 f3-e2 26. f4-g3 e2-f3 27. g3-h2 f3-g2 28. h2-h3 g2-f3 29. h3-g4 f3-e4 30. g4-f3 e4-f3 31. f3-e2 f3-g2 32. e2-d3 g2-f3 33. d3-c4 f3-e4 34. c4-d5 e4-d5 35. d5-c6 d5-e4 36. c6-d7 e4-f5''
+
+De wedstrijd speelde zich af te London in 1859. Barnes speelde een scherp en tactisch openingsgambit, waarbij hij een belangrijke kans miste. Maar hij wist uiteindelijk te winnen door zijn zwakke loper te verdedigen.
+
+=== Barnes – Paulsen ===
+{{Opmaak
+| Object = Schaak
+| Definitie = Lopergambiet
+| Beschrijving = De stelling na 1. e4 e5 2. f4 exf4 3. Bc4 (Lopergambiet)
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|pd|  |pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |bl|  |  |pd|  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|pl|  |  |pl|pl|
+1 |rl|nl|bl|ql|kl|  |nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+
+''1. e4 e5 2. f4 exf4 3. Bc4 Qe7 4. Nf3 g5 5. d4 g4 6. O-O gxf3 7. Qxf3 Qxe4+ 8. Be2 d6 9. Nc3 Qg6 10. Qf5 Qxf5 11. exf5 c6 12. Bxf4 Bg7 13. Ne4 Bf6 14. Bg3 Na6 15. c3 Nd7 16. b4 a5 17. Rad1 Bh3 18. gxh3 Nf6 19. Ng5 d5 20. Nxf7 Kxf7 21. dxe5 Nxe5 22. Bxe5 Bxe5 23. Rfe1 Kg8 24. Bf3 Bg7 25. Rd7 Rf8 26. Rf1 Raf8 27. Bxc6 bxc6 28. Rxf8+ Rxf8 29. Rxc7 Rf7 30. Rxc6 Kf8 31. Rd6 Rf1+ 32. Kg2 Rg1+ 33. Kf3 Rh1 34. Rd8+ Kg7 35. Rg8+ Kh6 36. c4 dxc4 37. Rg4 Kg5 38. Kg3 Rh3+ 39. Kg2 Rh2+ 40. Kf3 Rh3+ 41. Kg2 1-0''
+
+De wedstrijd speelde zich af te London in 1863. Barnes speelde een mooie combinatie, waarbij hij een stuk won en de partij in zijn voordeel besliste. Hij won ook het toernooi waarin deze partij gespeeld werd.
+
+== Evaluatie van Combinaties ==
+Hoewel Barnes' partijen vol tactiek zaten, laten moderne analyses zien dat de Barnes Opening (1.f3) vooral een psychologisch wapen is:
+* '''1. f3 e5 2. e4 Bc5''': Zwart ontwikkelt direct de loper naar een actieve diagonaal. Wit moet oppassen met de verzwakte koningsvleugel.
+* '''De Barnes-verdediging (1. e4 f6)''': Barnes gebruikte dit met succes tegen Paul Morphy. Hoewel het de f-pion verzwakt, dwingt het wit in onbekend terrein. In de partij tegen Morphy bleek dat zwart door geduldig spel de witte aanval kon neutraliseren en in het eindspel kon toeslaan.
+
+{{Opmaak
+| Object = Schaak
+| Definitie = Barnes-verdediging
+| Beschrijving = De Barnes-verdediging (1. e4 f6)
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|pd|pd|  |pd|pd|
+6 |  |  |  |  |  |pd|  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |pl|  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|pl|  |pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+
+{{Opmaak | Voettekst}}

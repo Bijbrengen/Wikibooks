@@ -1,17 +1,13 @@
 # Entreprenasium
 
-Lokale mirror van Wikibooks-pagina's met prefix: Entreprenasium
-
-Opgehaald: 2026-04-27T09:00:38.8504829Z
-
-## Pagina's
+Opgehaald: 2026-11-09T18:38:16.483522+00:00
 
 - [Entreprenasium](_module.wiki)
+- [Entreprenasium/Bovenbouw](Bovenbouw.wiki)
+- [Entreprenasium/Fasen](Fasen.wiki)
 - [Entreprenasium/Inleiding](Inleiding.wiki)
+- [Entreprenasium/Middenbouw](Middenbouw.wiki)
+- [Entreprenasium/Onderbouw](Onderbouw.wiki)
 - [Entreprenasium/Projecten](Projecten.wiki)
 - [Entreprenasium/Rollen](Rollen.wiki)
 - [Entreprenasium/Strategie](Strategie.wiki)
-- [Entreprenasium/Middenbouw](Middenbouw.wiki)
-- [Entreprenasium/Bovenbouw](Bovenbouw.wiki)
-- [Entreprenasium/Onderbouw](Onderbouw.wiki)
-- [Entreprenasium/Fasen](Fasen.wiki)

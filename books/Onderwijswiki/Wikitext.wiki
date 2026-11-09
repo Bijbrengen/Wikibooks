@@ -1,0 +1,27 @@
+{{Opmaak}}
+In vergelijking met Lua, waarbij je een dieper begrip van programmeren nodig hebt om functies te schrijven en complexe logica uit te voeren, biedt Wikitext een eenvoudiger, maar minder krachtig alternatief voor het bewerken en opmaken van pagina's binnen MediaWiki.
+
+== Voordelen ==
+* '''Gebruiksgemak''': Wikitext is ontworpen om gemakkelijk te begrijpen en te gebruiken te zijn voor mensen zonder programmeerervaring. Het maakt het bewerken van pagina's toegankelijk voor een breed publiek.
+* '''Snel bewerken''': Voor het maken van eenvoudige aanpassingen zoals het toevoegen van tekst, links, afbeeldingen, en basisopmaak, is Wikitext vaak sneller dan het schrijven van Lua scripts.
+* '''Direct resultaat''': Wijzigingen in Wikitext zijn direct zichtbaar na het opslaan van de pagina, er is geen extra compilatiestap nodig zoals soms het geval is bij complexere scripts of extensies.
+* '''Integratie met MediaWiki''': Wikitext is diep geïntegreerd in het MediaWiki-platform, waardoor het gebruik van templates, categorieën, en andere ingebouwde functies naadloos verloopt.
+
+== Nadelen ==
+* '''Minder flexibiliteit''': Voor complexe logica, data manipulatie of dynamische inhoudsgeneratie, schiet Wikitext tekort in vergelijking met programmeertalen zoals Lua.
+* '''Herbruikbaarheid''': Terwijl sjablonen gemaakt met Wikitext kunnen helpen om inhoud te hergebruiken, biedt Lua meer geavanceerde mogelijkheden voor modulariteit en hergebruik van code.
+* '''Prestatie''': Bij zeer grote of complexe sjablonen kan Wikitext leiden tot tragere laadtijden van pagina's. Lua-modules kunnen efficiënter zijn doordat ze buiten de hoofdtekst van de pagina worden verwerkt.
+
+== Vergelijking ==
+In vergelijking met Lua; 
+* '''Complexiteit en kracht''': Lua in MediaWiki, gebruikt via de Scribunto-extensie, biedt een krachtigere en flexibelere omgeving voor het ontwikkelen van complexe sjablonen en functionaliteiten dan wat mogelijk is met enkel Wikitext.
+* '''Ontwikkelingsefficiëntie''': Voor geavanceerde functies, zoals complexe berekeningen, gegevensverwerking en integraties met externe bronnen, is Lua beter geschikt dan Wikitext.
+* '''Leercurve''': De overstap naar Lua vereist een begrip van programmeerconcepten, wat een hindernis kan zijn voor gebruikers die alleen vertrouwd zijn met Wikitext.
+
+== Voorbeeld ==
+Als een voorbeeld van basaal gebruik van Wikitext kunnen we kijken naar de manier waarop je tekst opmaakt, links creëert, en sjablonen inzet:
+* '''Tekstopmaak''': Gebruik <code><nowiki>''italic''</nowiki></code> voor cursieve tekst, <code><nowiki>'''bold'''</nowiki></code> voor vetgedrukte tekst.
+* '''Links maken''': Interne links worden gemaakt met <code><nowiki>[[PaginaNaam|Linktekst]]</nowiki></code> en externe links met [https://www.voorbeeld.com Linktekst].
+* '''Sjablonen gebruiken''': Om een sjabloon in te voegen, gebruik je <code><nowiki>{{SjabloonNaam|parameter1=waarde1|parameter2=waarde2}}</nowiki></code>.
+
+{{Opmaak | Voettekst}}

@@ -1,0 +1,13 @@
+{{Opmaak
+| Titel = Ontwerpend leren
+| Object = Boek
+| Bron = Ontwerpend leren.webp
+| Definitie = {{Wp|Ontwerpend leren|Ontwerpend leren}} betekent een vorm van leren waarin de lerende zichzelf ontwikkelt door te ontwerpen.<br>De lerende gaat in zijn leerproces een concept of idee uitwerken naar een omschrijving van iets bestaands of iets nieuws; een product, prototype, model of dienst.
+| Beschrijving = Ontwerpend leren is vooral geschikt voor een lerende met een toepassingsgerichte [[leerstijl]] in een bepaalde context die [[Vrij leren|vrij wil leren]].<br>Het wordt in dat geval ervaren als een [[speels leren|speelse vorm van leren]].
+| Formaat = html
+| Voortgang = 25
+| Support = Signaleer
+| Referentie = wikipedia
+| Collectie = Leren
+| Onderdeel = Inleiding, Toepassing, Methode, Vrijheid, Technologie
+}}

@@ -1,0 +1,13 @@
+{{Opmaak
+| Titel = Onderwijsvorm
+| Object = Boek
+| Bron = 
+| Definitie = {{Wp|Onderwijs|Onderwijs}} is het op iemand overbrengen van kennis, vaardigheden of een houding.<br>Een '''onderwijsvorm''' is de geïmplementeerde methode van onderwijs verzorgen.
+| Beschrijving = In dit boek worden enkele [[vrij leren|vrij makende]] {{Wp|Onderwijsvorm|onderwijsvormen}} besproken bedacht door [[Onderwijsarchitect|onderwijsarchitecten]].
+| Formaat = html
+| Voortgang = 50
+| Support = Signaleer
+| Referentie = wikipedia
+| Collectie = Onderwijs
+| Onderdeel = Fenomeno&shy;logisch&shy; onderwijs, Object&shy;georiënteerd &shy;onderwijs
+}}

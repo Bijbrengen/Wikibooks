@@ -1,16 +1,12 @@
 # Onderwijsprofessional
 
-Lokale mirror van Wikibooks-pagina's met prefix: Onderwijsprofessional
+Opgehaald: 2026-11-09T18:38:16.483522+00:00
 
-Opgehaald: 2026-04-27T09:00:50.5005191Z
-
-## Pagina's
-
-- [Onderwijsprofessional/Onderwijsentrepreneur](Onderwijsentrepreneur.wiki)
 - [Onderwijsprofessional](_module.wiki)
 - [Onderwijsprofessional/Algemeen](Algemeen.wiki)
 - [Onderwijsprofessional/Intrapreneur](Intrapreneur.wiki)
-- [Onderwijsprofessional/Waarde](Waarde.wiki)
-- [Onderwijsprofessional/Onderwijzer](Onderwijzer.wiki)
+- [Onderwijsprofessional/Onderwijsentrepreneur](Onderwijsentrepreneur.wiki)
 - [Onderwijsprofessional/Onderwijsmanager](Onderwijsmanager.wiki)
 - [Onderwijsprofessional/Onderwijsontwikkelaar](Onderwijsontwikkelaar.wiki)
+- [Onderwijsprofessional/Onderwijzer](Onderwijzer.wiki)
+- [Onderwijsprofessional/Waarde](Waarde.wiki)

@@ -1,0 +1,39 @@
+{{Opmaak}}
+== Profiel ==
+Alexander (Aleksander) Wagner (7 augustus 1868 - 1942) was een Poolse correspondentieschaakmeester en schaaktheoreticus.
+
+== Poolse verdediging ==
+De Poolse verdediging heeft als opening '''1. d4 b5'''.
+
+== Wagner-Zwitersch Gambiet ==
+Alexander Wagner is ook de naamgever van het '''Wagner-Zwitersch Gambiet'''. Dit ontstaat na de zetten:
+'''1. f4 f5 2. e4'''
+
+{{Opmaak
+| Object = Schaak
+| Definitie = Wagner-Zwitersch Gambiet
+| Beschrijving = Het Wagner-Zwitersch Gambiet (1. f4 f5 2. e4)
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|pd|pd|  |pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |pd|  |  |
+4 |  |  |  |  |pl|pl|  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|pl|  |  |pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+
+Dit is een uiterst scherp gambiet binnen de Bird-opening. Wit offert een pion om direct het centrum open te breken en de zwarte koningsstelling aan te vallen.
+
+=== Belangrijke varianten ===
+* '''2. ... fxe4 3. d3 exd3 4. Nf3 dxc2 5. Qxc2''': De meest voorkomende lijn. Zwart heeft een pion extra, maar wit heeft een enorme ontwikkelingsvoorsprong en open lijnen voor de aanval.
+* '''2. ... g6?''': Dit is een catastrofale fout voor zwart. Na '''3. exf5 gxf5??''' volgt direct '''4. Qh5#''' (mat). Zwart moet dus zeer voorzichtig zijn met de g-pion in deze stelling.
+* '''2. ... g6 3. exf5 d5''': Een poging van zwart om het centrum tegen te houden, maar wit behoudt het initiatief.
+
+=== Evaluatie ===
+Het Wagner-Zwitersch gambiet is een psychologisch wapen. Hoewel de computer na correct spel van zwart (fxe4) een voordeel voor zwart aangeeft (-0.7), is de stelling in de praktijk voor een onvoorbereide speler zeer lastig te verdedigen.
+
+{{Opmaak | Voettekst}}

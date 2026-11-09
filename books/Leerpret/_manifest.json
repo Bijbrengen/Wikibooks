@@ -1,0 +1,35 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Leerpret",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Leerpret",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 2,
+  "pages": [
+    {
+      "title": "Leerpret",
+      "file": "_module.wiki",
+      "pageid": 45583,
+      "contentmodel": "wikitext",
+      "revid": 424674,
+      "parentid": 424113,
+      "timestamp": "2026-04-27T13:09:39Z",
+      "user": "BeeBringer",
+      "comment": "",
+      "sha1": "9ab73b8fca0801bd8ed1d5ba3da82847efbdb9dd",
+      "bytes": 2121
+    },
+    {
+      "title": "Leerpret/Inleiding",
+      "file": "Inleiding.wiki",
+      "pageid": 46013,
+      "contentmodel": "wikitext",
+      "revid": 424470,
+      "parentid": 416218,
+      "timestamp": "2026-04-26T17:58:42Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "c1ab08b20873353af9518fd8a1ec5a2910900016",
+      "bytes": 3236
+    }
+  ]
+}

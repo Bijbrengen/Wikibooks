@@ -1,0 +1,61 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Onderzoekend%20leren",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Onderzoekend leren",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 4,
+  "pages": [
+    {
+      "title": "Onderzoekend leren",
+      "file": "_module.wiki",
+      "pageid": 40484,
+      "contentmodel": "wikitext",
+      "revid": 424692,
+      "parentid": 424122,
+      "timestamp": "2026-04-27T13:16:16Z",
+      "user": "BeeBringer",
+      "comment": "",
+      "sha1": "e6959f9666702b41f3a1433e64733344216a6530",
+      "bytes": 951
+    },
+    {
+      "title": "Onderzoekend leren/Methode",
+      "file": "Methode.wiki",
+      "pageid": 40486,
+      "contentmodel": "wikitext",
+      "revid": 424548,
+      "parentid": 420072,
+      "timestamp": "2026-04-26T18:06:11Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "84a2ec662dd8d11c58e3ba69274d829bbc52c3b8",
+      "bytes": 4584
+    },
+    {
+      "title": "Onderzoekend leren/Technologie",
+      "file": "Technologie.wiki",
+      "pageid": 40488,
+      "contentmodel": "wikitext",
+      "revid": 424549,
+      "parentid": 420068,
+      "timestamp": "2026-04-26T18:06:17Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "247aac98b73901bb1b29a7782fc9d1dee1c72bf8",
+      "bytes": 1026
+    },
+    {
+      "title": "Onderzoekend leren/Vrijheid",
+      "file": "Vrijheid.wiki",
+      "pageid": 40489,
+      "contentmodel": "wikitext",
+      "revid": 424550,
+      "parentid": 420071,
+      "timestamp": "2026-04-26T18:06:23Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "0b99d8bd1ac956fb00ee4b61ca5790fd1a578c1c",
+      "bytes": 2300
+    }
+  ]
+}

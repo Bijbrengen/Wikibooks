@@ -21,12 +21,18 @@
 
 <!-- KOP -->
 {| class="smaller-on-mobile" width="100%" style="margin-top: 1.3em; background-color: rgb(253, 252, 248); color: black; border: 2px solid rgb(95, 150, 211);padding: 0.3em;-moz-border-radius: 10px;"
-| style="font-size: 105%; padding: 5px 10px;" | Wikibooks is een gemeenschapsproject om lezers kosteloos teksten met [[Wikibooks: Vrije inhoud|vrije inhoud]] ter beschikking te stellen. Bijvoorbeeld '''leerboeken''' en ander lesmateriaal maar ook '''algemene informatieve teksten''' (geen reclame) in '''boekvorm'''. Zie onze [[Wikibooks: Missie, visie en uitgangspunten|missie en visie]].<br>
-Op dit moment zijn er '''{{Aantal hoofdstukken}}''' hoofdstukken aanwezig in '''{{PAGESINCATEGORY:Boek|pages}}''' [[:Categorie:Boek|boeken]] en '''{{Pagina's in naamruimte|104}}''' hoofdstukken in '''{{Aantal Wikijuniorboeken}}''' [[:Categorie:Boeken in Wikijunior|Wikijunior-boeken]] (waaraan soms nog wordt gewerkt). U kunt elk hoofdstuk uitbreiden of aanpassen, en wordt daartoe van harte uitgenodigd. ''Zolang uw wijzigingen constructief zijn, kunt u niets mis doen''.<br>
+| style="font-size: 105%; padding: 5px 10px;" | Wikibooks is een gemeenschapsproject om lezers kosteloos teksten met [[Wikibooks: Vrije inhoud|vrije inhoud]] ter beschikking te stellen. Bijvoorbeeld '''leerboeken''' en ander lesmateriaal maar ook '''algemene informatieve teksten''' (geen reclame) in '''boekvorm'''. {{Niet afdrukken inline|Zie onze [[Wikibooks: Missie, visie en uitgangspunten|missie en visie]].}}<br>
+Op dit moment zijn er '''{{Aantal hoofdstukken}}''' hoofdstukken aanwezig in '''{{Aantal boeken}}''' [[:Categorie:Boek|boeken]] en {{Nowrap|'''{{Pagina's in naamruimte|104}}''' hoofdstukken}} in '''{{Aantal Wikijuniorboeken}}''' [[:Categorie:Boeken in Wikijunior|Wikijunior-boeken]] (waaraan soms nog wordt gewerkt). U kunt elk hoofdstuk uitbreiden of aanpassen, en wordt daartoe van harte uitgenodigd. ''Zolang uw wijzigingen constructief zijn, kunt u niets mis doen''.<br>
 <!-- * [https://pageviews.wmcloud.org/topviews/?project=nl.wikibooks.org&platform=all-access&date=last-month&excludes= Meest geraadpleegde pagina's van Wikibooks in de vorige maand] -->
 |}
 <div style="margin-bottom: 1em; text-align: center; font-weight: bold;">
-[[Wikibooks:Gewenste hoofdstukken en boeken|Gewenste artikelen]] - [[Wikibooks:Waarom meehelpen|Waarom zou ik meehelpen]] - [[Wikibooks:Instructies|Instructies]] - [[Wikibooks:Wiki Standaard Boeknummer|WSBN]] - [[Wikibooks:Zandbak|Oefenen in zandbak]] - [[:Categorie:Help|Helppagina's]] - [[Wikibooks:Lerarenkamer|Vraag om hulp]]
+{{Nowrap|[[Wikibooks:Gewenste hoofdstukken en boeken|Gewenste artikelen]]}} -
+{{Nowrap|[[Wikibooks:Waarom meehelpen|Waarom zou ik meehelpen]]}} -
+[[Wikibooks:Instructies|Instructies]] -
+[[Wikibooks:Wiki Standaard Boeknummer|WSBN]] -
+{{Nowrap|[[Wikibooks:Zandbak|Oefenen in de zandbak]]}} -
+[[:Categorie:Help|Helppagina's]] -
+{{Nowrap|[[Wikibooks:Lerarenkamer|Vraag om hulp]]}}
 </div>
 
 <!-- DAGMENU VOLLE BREEDTE -->

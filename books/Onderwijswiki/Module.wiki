@@ -1,0 +1,37 @@
+{{Opmaak}}
+== Module ==
+Om te beginnen met het maken van een module in Mediawiki, moet je eerst de Scribunto-extensie installeren op je Mediawiki-site. Dat is in Wikibooks gebeurd. Scribunto is een uitbreiding van Mediawiki die Lua-scripts op wikipagina's toestaat, en modules in Mediawiki zijn Lua-scripts die worden gebruikt om bepaalde taken uit te voeren of om bepaalde gegevens te verstrekken.
+
+Nadat je de Scribunto-extensie hebt geïnstalleerd, kun je een nieuwe module maken door een nieuwe wikipagina te maken die begint met "Module:". Bijvoorbeeld, als je een module wilt maken met de naam "Module:HelloWorld", dan moet je een nieuwe wikipagina maken met de naam "Module:HelloWorld".
+
+Op de nieuwe wikipagina kun je dan Lua-code schrijven om de functionaliteit van je module te definiëren. Bijvoorbeeld, als je een module wilt maken die "Hallo, wereld!" op de pagina weergeeft wanneer het wordt aangeroepen, zou je de volgende code kunnen gebruiken:
+<pre>
+function helloWorld()
+    return "Hallo, wereld!";
+end
+</pre>
+
+Nadat je je module hebt geschreven, kun je deze oproepen vanuit andere wikipagina's door de naam van de module en de functie te gebruiken. Bijvoorbeeld, om de helloWorld-functie aan te roepen
+
+== Invoke ==
+De invoke-parserfunctie is een speciale functie die wordt gebruikt om een module aan te roepen vanuit een gewone wikipagina in Mediawiki. De invoke-parserfunctie is beschikbaar via de Scribunto-extensie, een uitbreiding van Mediawiki die Lua-scripts op wikipagina's toestaat.
+
+Om de invoke-parserfunctie te gebruiken, moet je een wikitekstblok maken met de volgende syntaxis:
+<pre>
+{{#Invoke:module_name|function_name|arg1|arg2|arg3|...}}
+</pre>
+
+In deze syntaxis:
+
+* ''"module_name"'' is de naam van de module die je wilt aanroepen.
+* ''"function_name"'' is de naam van de functie in de module die je wilt aanroepen.
+* ''"arg1", "arg2", "arg3''", etc. zijn optionele argumenten die naar de functie worden doorgegeven.
+Bijvoorbeeld, als je een module hebt met de naam "Module:HelloWorld" en een functie met de naam "helloWorld" die "Hallo, wereld!" op de pagina weergeeft, kun je deze functie aanroepen vanuit een gewone wikipagina met de volgende syntaxis:
+
+<pre>
+{{#Invoke:HelloWorld|helloWorld}}
+</pre>
+
+De invoke-parserfunctie zal vervolgens de helloWorld-functie aanroepen in de Module:HelloWorld-module, en het resultaat van de functie zal worden weergegeven op de wikipagina.
+
+{{Opmaak | Voettekst}}

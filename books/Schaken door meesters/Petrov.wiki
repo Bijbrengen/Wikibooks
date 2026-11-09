@@ -1,0 +1,68 @@
+{{Opmaak}}
+'''Aleksandr Dmitrievitsj Petrov''' (Russisch: Александр Дмитриевич Петров) (12 februari 1794 – 22 april 1867) was een Russische schaker, schaakcomponist en schrijver. Hij wordt beschouwd als de eerste grote Russische schaakmeester en was gedurende meer dan vijftig jaar de sterkste speler van Rusland.
+
+== Carrière ==
+Petrov werd geboren in Biserovo (nu een deel van Opoetsjka in de oblast Pskov) in een adellijke familie. Vanaf 1804 woonde hij in Sint-Petersburg. In 1809 versloeg hij Baranov en in 1814 versloeg hij Kopev, de leidende schaakspelers van Sint-Petersburg, en werd op 15-jarige leeftijd de beste Russische speler. Gedurende meer dan een halve eeuw werd Petrov beschouwd als de sterkste speler van Rusland.
+
+Petrov was niet alleen een begaafd speler, maar ook een invloedrijke schaakcomponist en theoreticus. Hij schreef een van de eerste Russische schaakboeken in 1824, waarin hij zich specialiseerde in openingen. Zijn werk had een blijvende invoed op de schaakgemeenschap.
+
+Petrov was de oprichter van de eerste schaakclub in Rusland, de Sint-Petersburg Society of Chess Players, opgericht in maart 1853. De club telde onder zijn leden beroemde schijvers zoals Tolstoj, Toergenjev en Saltykov-Sjedrin. Petrov overleed op 22 april 1867 in Warschau aan een beroerte en werd begraven op de Russische begraafplaats aldaar.
+
+== Petrov's Defense ==
+De Petrov's Defense, ook wel bekend als de Russische verdediging, is een schaakopening die begint met de zetten:
+
+# e4 e5
+# Nf3 Nf6
+
+Deze opening werd gepopulariseerd door Aleksandr Petrov in de 19e eeuw. Het idee achter deze verdediging is niet om de e5-pion te verdedigen, maar om symmetrisch de e4-pion van wit aan te vallen. Het is een solide en strategisch rijke opening die nog steeds wordt gebruikt door topgrootmeesters wereldwijd.
+
+{{Opmaak
+| Object = Schaak
+| Definitie = Petrov's Defense
+| Beschrijving = De Russische verdediging (1. e4 e5 2. Nf3 Nf6)
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|  |rd|
+7 |pd|pd|pd|pd|  |pd|pd|pd|
+6 |  |  |  |  |  |nd|  |  |
+5 |  |  |  |  |pd|  |  |  |
+4 |  |  |  |  |pl|  |  |  |
+3 |  |  |  |  |  |nl|  |  |
+2 |pl|pl|pl|pl|  |pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|  |rl|
+   a  b  c  d  e  f  g  h
+}}
+
+Petrov stond bekend om zijn diepe strategische inzicht en positionele speelstijl. Hij benadrukte het belang van het ontwikkelen van stukken naar actieve velden, het behouden van een solide pionstructuur en het vermijden van onnodige complicaties. Zijn benadering van het schaakspel legde de basis voor latere strategische theorieën en beïnvloedde vele generaties schakers.
+
+De computer-evaluatie van de Petrov-verdediging is zeer gunstig voor zwart (+0.2 voor wit), wat aangeeft dat het een van de meest solide antwoorden op 1. e4 is.
+
+=== Het Stafford Gambiet ===
+Een beruchte en uiterst agressieve variant is het '''Stafford Gambiet''': '''1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nc6'''. Zwart offert een pion om direct de aanval te openen. Hoewel theoretisch onhoudbaar voor zwart (+1.5 voor wit bij correct spel), zit de stelling vol met valstrikken.
+
+{{Opmaak
+| Object = Schaak
+| Definitie = Stafford Gambiet
+| Beschrijving = Het Stafford Gambiet (1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nc6)
+| Orientatie = wit
+|
+8 |rd|  |bd|qd|kd|bd|  |rd|
+7 |pd|pd|pd|pd|  |pd|pd|pd|
+6 |  |  |nd|  |  |nd|  |  |
+5 |  |  |  |  |nl|  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|pl|  |pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|  |rl|
+   a  b  c  d  e  f  g  h
+}}
+
+Zoals te zien in de PGN-studies, kan wit na '''4. Nxc6 dxc6 5. e5 Ne4 6. d3 Bc5!''' in een dodelijke val lopen. Als wit de loper op e4 slaat ('''7. dxe4?'''), volgt de beslissende klap: '''7... Bxf2+ 8. Kxf2 Qxd1''', en wit verliest de dame.
+
+== Evaluatie van Combinaties ==
+De Russische verdediging vereist geduld van de witspeler:
+* '''Symmetrie''': Door de witte aanval op e5 te beantwoorden met een aanval op e4, neutraliseert zwart direct het initiatief.
+* '''Centrumcontrole''': In de hoofdlijn (3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5) ontstaat een uiterst solide stelling waar beide partijen strijden om kleine positionele voordelen.
+* '''Tactische waakzaamheid''': Wit moet uiterst voorzichtig zijn tegenover agressieve varianten zoals het Stafford gambiet. Eén onnauwkeurige zet kan de partij direct doen kantelen.
+
+{{Opmaak | Voettekst}}

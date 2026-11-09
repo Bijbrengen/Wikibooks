@@ -1,0 +1,119 @@
+{{Opmaak}}
+{{Wp|Elias Stein (schaker)|Elias Stein}} (1748-1812), een Elzasser (geboren in {{Wp|Forbach (Frankrijk)|Forbach}}), was een schaker en schaaktheoreticus die zich in Den Haag vestigde om schaakles te geven. Aldaar ontwikkelde hij de {{Wp|Hollands (schaakopening)|Hollandse verdediging}}.
+
+== Profiel ==
+'''Elias Stein''' raadde de Hollandse verdediging aan als het beste antwoord op '''1.d4''' in zijn boek "Nouvel essai sur le Jeu des échecs, avec des réflexions militaires familys à ce jeu." (1789). 
+
+== Hollands ==
+Hollandse verdediging is een populaire opening in het schaken. Het is een reactie op het 1.d4 opening van de tegenstander, maar kan ook heel goed worden ingezet tegen andere openingen. De f4-zet levert zwart een karakteristieke stelling op met een sterk centrum en veel ruimte. 
+
+De Hollandse verdediging wordt vaak als een verdedigingsopening beschouwd die gericht is op een remise. De opening is stabiel, maar dat betekent niet dat wit geen kansen heeft om te winnen. Wit moet wel voorzichtig zijn, want de stelling kan relatief snel in het voordeel van de zwarte speler kantelen.
+
+Een goede manier voor wit om de Hollandse verdediging te gebruiken, is om de stelling te openen. Wit kan proberen om een sterke stelling op het bord te creëren door een koningsaanval te beginnen. Ook kan wit proberen om zijn dame-paard te gebruiken om een aanval op zwart te lanceren.
+
+In de Hollandse verdediging is er ook ruimte voor tactiek. Zwart kan proberen om de stelling te compliceren en wit uit te dagen, terwijl wit kan proberen om de stelling te verdedigen, te controleren en op zoek kan gaan naar een open kans om te winnen.
+
+Al met al is de Hollandse verdediging een sterk en flexibel openingssysteem dat wit veel mogelijkheden biedt om een goede stelling op het bord te creëren en kansen te zoeken om te winnen. Het is daarom een goede optie voor zowel ervaren als beginnende schakers.
+[[Bestand:Chess graph Dutch defense.svg|600px|Schaak grafiek over de Dutch defense]]
+
+
+<span style="font-size: large;">'''1. ... f5'''</span>.
+
+De Hollandse verdediging is het omgekeerde van de [[Schaken_door_meesters/Bird#Hollands|Hollandse aanval of de Bird opening]]. Omdat men direct de zwakste f-pion inzet, leert men als men deze openingen regelmatig kiest als schaker het gevaar te herkennen, erkennen en te pareren van deze pion. Welke reactie ook wit heeft op de Hollandse verdediging, zwart zal in de meeste gevallen zijn paard naar '''Nf6''' brengen.
+
+=== '''1. b3 f5''' ===
+Dit is de Hollandse variant van de [[Schaken_door_meesters/Nimzowitsch#Hollandse_variant|Nimzowitsch-Larsenaanval]].
+
+=== '''1. b4 f5''' ===
+Dit is de Pools-Hollandse verdediging als reactie op de [[Schaken_door_meesters/Sokolsky#Pools|Poolse opening]].
+{{Opmaak
+| Object = Schaak
+| Definitie = Pools-Hollandse Verdediging
+| Beschrijving = De Hollandse verdediging als reactie op de Poolse opening (1. b4 f5)
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|pd|pd|  |pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |pd|  |  |
+4 |  |pl|  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|  |pl|pl|pl|pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+
+Als wit vervolgt met '''2. Nf3''' dan wordt de positie eveneens een variant van de [[Schaken_door_meesters/Zukertort#1._Nf3_f5_2._b4|Zukertort opening]].
+
+=== '''1. d4 f5 2. e4''' ===
+Dit is het '''Stauntongambiet'''. Wit offert direct de e-pion om de f-lijn te openen en de zwarte koningsstelling onder druk te zetten. In de partij HvHd - Bijbrengen (2023) bleek dat wit na '''2... fxe4 3. Nc3 Nf6 4. Bg5 g6 5. Bxf6 exf6 6. Nxe4''' een uitstekende stelling krijgt met een centraal paard en een betere pionnenstructuur. De evaluatie is ongeveer +1.1 voor wit.
+
+=== '''1. d4 f5 2. Bg5''' ===
+Dit is de '''Hopton Attack'''. Wit blokkeert direct de zet ...e6. Een goede reactie voor zwart is '''2... g6'''. Het is riskant om de loper op te jagen met h6 en g5, omdat wit na e4 de h5-diagonaal kan openen voor een snelle aanval.
+
+=== '''1. d4 f5 2. h3''' ===
+De '''Korchnoi Attack'''. Wit bereidt g4 voor. Zwart kan dit het beste beantwoorden met '''2... Nf6 3. g4 d5'''. Hierdoor krijgt zwart grip op het centrum terwijl wit zijn koningsvleugel verzwakt. In de Leningrad-variant (2... Nf6 3. Nf3 g6 4. c4 Bg7 5. g3 O-O) bereikt zwart een zeer solide stelling.
+
+=== '''1. d4 f5 2. g4''' ===
+Het '''Krejcik Gambiet'''. Wit offert de g-pion. Volgens PGN-analyse is het voor zwart vaak beter om het gambiet te weigeren met '''2... d5'''. Als zwart wel slaat (2... fxg4), moet hij oppassen na 3. h3. Een goede zet voor zwart is dan '''3... g3!''' om de lijnen gesloten te houden en de witte ontwikkeling te hinderen.
+
+=== '''1. d4 F5 3. g3''' ===
+Hieronder volgt een stap-voor-stap analyse van een voorbeeld partij die uiteindelijk leidt tot het opgeven van de dame door wit om nog groter verlies te voorkomen.
+**1. d4 {Wit opent met de damepion, een solide en populaire keuze die leidt tot positionele spellen.}
+
+**1... f5 {Zwart kiest voor de Hollandse verdediging, een agressieve opening die gericht is op controle over het e4-veld en actieve koningsvleugelstrategie.}
+
+**2. g3 {Wit ontwikkelt de loper naar g2 om druk uit te oefenen op de lange diagonaal en de koning te beveiligen na rokade.}
+
+**2... d5 {Zwart verstevigt zijn grip op het centrum en bereidt verdere ontwikkeling voor.}
+
+**3. Bg2 {Wit voltooit de fianchetto en stelt de loper op op de lange diagonaal.}
+
+**3... Nf6 {Zwart ontwikkelt het paard naar zijn natuurlijke veld, ondersteunt het centrum en bereidt rokade voor.}
+
+**4. Qd2 {? Een onnauwkeurige zet. Het ontwikkelen van de dame naar d2 blokkeert het paard op b1 en doet weinig voor de ontwikkeling. Beter was 4.Nf3 om stukken te ontwikkelen en voor te bereiden op rokade.}
+
+**4... e6 {Zwart opent lijnen voor de loper en versterkt het centrum.}
+
+**5. a4 {? Deze zet lijkt doelloos en verzwakt de damevleugel. Wit verwaarloost de ontwikkeling van stukken en verspilt tempi. Een betere zet was 5.c4 om het centrum aan te vallen.}
+
+**5... Bd6 {Een sterke zet die de loper actief positioneert, controle over het centrum versterkt en aanvallende mogelijkheden op de koningsvleugel opent.}
+
+**6. Kf {?? Een ernstige fout. In plaats van te rokeren en de koning in veiligheid te brengen, blijft de koning in het centrum en blokkeert de toren op h1. Dit maakt de koning kwetsbaar voor aanvallen.}
+
+**6... O-O {Zwart rokeert correct, brengt de koning in veiligheid en verbindt de torens voor betere samenwerking.}
+
+**7. Qe3 {? Wit blijft met dezelfde stukken spelen en negeert de ontwikkeling van andere stukken zoals de paarden. Dit laat wit achter in ontwikkeling en laat zwaktes in de stelling.}
+
+**7... Ne4 {Een krachtige zet die het paard naar een sterk vooruitgeschoven positie brengt, druk uitoefent op de stelling van wit en tactische mogelijkheden creëert.}
+
+**8. h4 {?? Een slechte zet die geen dreiging vormt en de koningsvleugel verder verzwakt. Wit negeert essentiële ontwikkelingsprincipes en opent lijnen voor zwart om aan te vallen.}
+
+**8... f4 {! Zwart maakt gebruik van de zwaktes in de witte stelling en opent de lijnen naar de koning. Dit dwingt wit tot een reactie.}
+
+**9. gxf4 {Wit neemt de pion, maar dit opent de g-lijn en maakt de koning nog kwetsbaarder.}
+
+**9... Bxf4 {! Zwart offert de loper om de verdediging van wit te breken en een directe aanval op de koning te lanceren.}
+
+**10. Qxf4 {Wit neemt de loper, maar dit leidt tot een beslissende tactische slag van zwart.}
+
+**10... Rxf4 {! Zwart offert de toren voor de dame van wit. Door de dame te nemen, krijgt zwart een aanzienlijk materieel voordeel.}
+
+**11. Bxf4 {Wit neemt de toren terug, maar heeft nu de dame verloren tegen een toren en een loper. De materiaalverhouding is sterk in het voordeel van zwart.}
+
+**Conclusie: Door het negeren van fundamentele ontwikkelingsprincipes en het maken van meerdere onnauwkeurige zetten, komt wit in een positie waarin hij gedwongen is de dame op te geven om erger te voorkomen. Zwart daarentegen volgt solide ontwikkelingsstrategieën, maximaliseert de activiteit van zijn stukken en maakt gebruik van de fouten van wit om een beslissend voordeel te behalen.
+
+
+=== '''1. e4 f5''' ===
+Dit is de [[Schaken_door_meesters/Duras#Fred|Duras Gambiet]].
+
+=== '''1. Nc3 f5 2. e4''' ===
+Dit is de {{Wp|Klüvergambiet|Klüvergambiet}}.
+
+== Evaluatie van Combinaties ==
+De Hollandse verdediging biedt zwart veel strategische diepgang, maar vereist nauwkeurig spel tegen de witte gambieten:
+* '''Staunton Gambiet''': Zwart moet accepteren dat wit een ontwikkelingsvoorsprong krijgt. Het ruilen van de loper op f6 (Bxf6) is een belangrijk thema voor wit om de zwarte structuur te beschadigen.
+* '''De Leningrad-variant (2. g3 Nf6 3. Bg2 d6)''': Dit is een van de meest betrouwbare manieren voor zwart om te spelen. Zwart krijgt een sterke loper op g7 en een flexibele stelling.
+* '''Centrumcontrole''': Zoals te zien in de partij Danielian-Nepomniachtchi (2020), kan zwart door een vroege ...c5 (na 2. e4) het witte centrum ondermijnen en zelfs in het Staunton-gambiet de overhand krijgen.
+
+{{Opmaak | Voettekst}}

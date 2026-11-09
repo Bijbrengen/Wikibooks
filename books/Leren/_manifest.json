@@ -1,0 +1,48 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Leren",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Leren",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 3,
+  "pages": [
+    {
+      "title": "Leren",
+      "file": "_module.wiki",
+      "pageid": 39868,
+      "contentmodel": "wikitext",
+      "revid": 431370,
+      "parentid": 424676,
+      "timestamp": "2026-10-27T12:37:41Z",
+      "user": "Erik Baas",
+      "comment": "verwijderd uit Categorie:Wikijunior-boeken",
+      "sha1": "f515597bee30349e268362825a1d05ae02a059d8",
+      "bytes": 1785
+    },
+    {
+      "title": "Leren/Leren leren",
+      "file": "Leren leren.wiki",
+      "pageid": 39887,
+      "contentmodel": "wikitext",
+      "revid": 346493,
+      "parentid": 346482,
+      "timestamp": "2020-11-20T01:22:27Z",
+      "user": "BeeBringer",
+      "comment": "Verwijst door naar [[Leren leren]]",
+      "sha1": "4e6a06ed1af05f340579fe209303df492e0cfa72",
+      "bytes": 31
+    },
+    {
+      "title": "Leren/Onbewust leren",
+      "file": "Onbewust leren.wiki",
+      "pageid": 40010,
+      "contentmodel": "wikitext",
+      "revid": 346472,
+      "parentid": 346442,
+      "timestamp": "2020-11-19T14:17:35Z",
+      "user": "BeeBringer",
+      "comment": "Verwijst door naar [[Onbewust leren]]",
+      "sha1": "75cf4308d5eea3abdd0521342f53d81391b28c56",
+      "bytes": 34
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+<!--
+*****************************************************
+*                    LEES DIT EERST !!!
+* Via dit vak kunt u de inhoud van de hoofdpagina van Wikibooks NL
+* aanpassen. Misbruik van deze mogelijkheid door het vandaliseren van deze
+* pagina zal tot gevolg hebben dat u DIRECT de toegang tot Wikibooks NL
+* ontnomen zal worden via het blokkeren van uw IP-adres.
+******************************************************
+* JE BOEK OP HET LINKER DEEL VAN DE PAGINA KRIJGEN.
+* Om je boek op het rechter deel van de pagina te krijgen moet
+* je de informatie in de infobox (zie Wikibooks:Infobox) van je 
+* boek aanpassen. Enkel boeken met een voortgang van 75% of 100%
+* komen op het linker deel te staan.
+*
+* Als je infobox aangepast is, dan met de hand het betreffende sjabloon
+* dat onderdeel is van de hoofdpagina aanpassen zodat het boek daar verschijnt. 
+******************************************************
+-->__NOTOC__ __NOEDITSECTION__
+<templatestyles src="style.css" />
+<div class="center" style="font-size: 21px; font-weight: bolder;">[[Wikibooks: Welkom|<span style="color: black;">Welkom op</span> <span style="color: #0b2645;">WIKI</span><span style="color: #0a4e98;">BOOKS</span>!]]</div>
+
+<!-- KOP -->
+{| class="smaller-on-mobile" width="100%" style="margin-top: 1.3em; background-color: rgb(253, 252, 248); color: black; border: 2px solid rgb(95, 150, 211);padding: 0.3em;-moz-border-radius: 10px;"
+| style="font-size: 105%; padding: 5px 10px;" | Wikibooks is een gemeenschapsproject om lezers kosteloos teksten met [[Wikibooks: Vrije inhoud|vrije inhoud]] ter beschikking te stellen. Bijvoorbeeld '''leerboeken''' en ander lesmateriaal maar ook '''algemene informatieve teksten''' (geen reclame) in '''boekvorm'''. {{Niet afdrukken inline|Zie onze [[Wikibooks: Missie, visie en uitgangspunten|missie en visie]].}}<br>
+Op dit moment zijn er '''{{Aantal hoofdstukken}}''' hoofdstukken aanwezig in '''{{Aantal boeken}}''' [[:Categorie:Boek|boeken]] en {{Nowrap|'''{{Pagina's in naamruimte|104}}''' hoofdstukken}} in '''{{Aantal Wikijuniorboeken}}''' [[:Categorie:Boeken in Wikijunior|Wikijunior-boeken]] (waaraan soms nog wordt gewerkt). U kunt elk hoofdstuk uitbreiden of aanpassen, en wordt daartoe van harte uitgenodigd. ''Zolang uw wijzigingen constructief zijn, kunt u niets mis doen''.<br>
+<!-- * [https://pageviews.wmcloud.org/topviews/?project=nl.wikibooks.org&platform=all-access&date=last-month&excludes= Meest geraadpleegde pagina's van Wikibooks in de vorige maand] -->
+|}
+<div style="margin-bottom: 1em; text-align: center; font-weight: bold;">
+{{Nowrap|[[Wikibooks:Gewenste hoofdstukken en boeken|Gewenste artikelen]]}} -
+{{Nowrap|[[Wikibooks:Waarom meehelpen|Waarom zou ik meehelpen]]}} -
+[[Wikibooks:Instructies|Instructies]] -
+[[Wikibooks:Wiki Standaard Boeknummer|WSBN]] -
+{{Nowrap|[[Wikibooks:Zandbak|Oefenen in de zandbak]]}} -
+[[:Categorie:Help|Helppagina's]] -
+{{Nowrap|[[Wikibooks:Lerarenkamer|Vraag om hulp]]}}
+</div>
+
+<!-- DAGMENU VOLLE BREEDTE -->
+<div class="center">[[Bestand:P_Food.png|30px]]<span style="font-size: large; margin-left: 5px;">'''[[Kookboek|Dagmenu uit het kookboek]]'''</span></div>
+
+<br style="clear: both;">
+
+<!-- TWEE KOLOMMEN -->
+<!-- LINKERKOLOM: VOLTOOIDE BOEKEN -->
+{| cellpadding="0" cellspacing="0" style="width: 100%; border: none; padding: 0px;"
+|-
+|style="width: 66%; border: 1px solid #CCF7CC; background: #EEFFEE; color: black; padding: 0.3em; -moz-border-radius: 10px;" valign=top|
+{|width="100%" cellspacing="0" cellpadding="5" style="background: transparent; color: black;"
+|-
+|<div class="center">[[Bestand:P_Psychology2.png|30px]]<span style="font-size: large; margin-left: 5px;">'''[[: Categorie:Boek|Catalogus Wikiboeken]]'''</span></div>
+<!---------------------------------------------->
+|-
+|style="font-size: 95%" |{{Exacte wetenschap}}
+<!---------------------------------------------->
+|-
+|style="font-size: 95%;border-top: 1px dashed #6A5ACD"|
+{{Technologie}}
+<!---------------------------------------------->
+|-
+|style="font-size: 95%;border-top: 1px dashed #6A5ACD"|
+{{Multimediale wetenschappen}} 
+<!---------------------------------------------->
+|-
+|style="font-size: 95%;border-top: 1px dashed #6A5ACD"|
+{{Taal- en letterkunde}}
+<!---------------------------------------------->
+|-
+|style="font-size: 95%;border-top: 1px dashed #6A5ACD"|
+{{Geschiedenis}}
+<!---------------------------------------------->
+|-
+|style="font-size: 95%;border-top: 1px dashed #6A5ACD"|
+{{Samenleving}}
+<!---------------------------------------------->
+|-
+|-
+|style="font-size: 95%;border-top: 1px dashed #6A5ACD"|
+{{Levensbeschouwing}}
+<!---------------------------------------------->
+|-
+|style="font-size: 95%;border-top: 1px dashed #6A5ACD"|
+{{Expressie}}
+<!---------------------------------------------->
+|-
+|style="font-size: 95%;border-top: 1px dashed #6A5ACD"|
+{{Diversen}}
+<!---------------------------------------------->
+|}
+|&nbsp;&nbsp; <!-- ruimte tussen kolommen -->
+<!-- BEGIN RECHTERKOLOM, ONVOLTOOIDE BOEKEN -->
+|style="border: 1px solid #CCF7CC; background: #EEFFEE; color: black; padding: 0.3em; -moz-border-radius: 10px;" valign=top|
+<!-- | width="48%" valign="top" style="border: 1px solid #DDDDF7; background: #F7F7FF; color: black; padding: 0.3em; -moz-border-radius: 10px"|  -->
+{|width="100%" cellspacing="0" cellpadding="5" style="background: transparent; color: black;"
+|-
+|<div class="center">[[Bestand:P_writing.svg|30px]]<span style="font-size: large; margin-left: 5px;">'''[[:Categorie:Wikibooks:Beginnetje|Catalogus Gestarte Wikiboeken]]'''</span></div>
+|-
+|style="font-size: 95%;"|
+{{Werkboek van de maand}}
+<!---------------------------------------------->
+|-
+|style="font-size: 95%; border-top: 1px dashed #6A5ACD"|
+{{Gestarte boeken}}
+<!---------------------------------------------->
+|-
+|style="font-size: 95%;border-top: 1px solid silver"|
+[[Afbeelding:Nuvola apps package toys.png|left|50px]]
+{{Wikibooks:Junior boeken}}
+|} <!-- EINDE RECHTERKOLOM -->
+|} <!-- EINDE INDELING RECHTERKOLOM -->
+
+<!-- ZUSTERPROJECTEN -->
+{{Zusterprojecten}}
+<div style="width: 96%; margin: 1em auto 7px auto; background-color: rgb(253, 252, 248); color: black; border: 2px solid rgb(95, 150, 211); padding: 1em 0.3em; -moz-border-radius: 10px; text-align: center; font-weight: bold;">
+
+<!-- PORTAAL -->
+[[Wikibooks:Portaal]]
+- [[m:Wikibooks/Table/nl|Lijst van alle 77 <!-- dd. 23 januari 2026--> taalversies van Wikibooks internationaal]]<!--
+- [[m:How to start a new Wikibooks portal|Start een Wikibooks-portaal in een andere taal]] -->
+</div>
+
+[[Categorie:Wikibooks]]

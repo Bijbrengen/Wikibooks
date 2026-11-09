@@ -1,0 +1,45 @@
+{{Opmaak}}
+== Schaakstukken ==
+In dit boek zullen we niet de basis van de {{Wp|Schaken/spelregels|schaakregels}} nog eens uitleggen omdat die overal eenvoudig te achterhalen zijn, zoals in het boek "[[Schaken voor beginners]]". Ook gaan we ervan uit dat je de {{Wp|Chess_notation|notatie voor schaakcoördinaten}} beheerst (we hanteren de Engelse benamingen). Sowieso zullen we verwijzen als er goede open bronnen zijn die we zelf niet of nauwelijks beter kunnen invullen. Een van de tools die open zijn en je snel op weg helpen is [https://lichess.org/ LiChess] een open online schaaktool die we in dit boek zullen gebruiken. Je kunt aldaar bijvoorbeeld je in de schaakcoördinaten laten [https://lichess.org/training/coordinate trainen].
+
+=== Opstellingen ===
+De spelregels zorgen ervoor dat niet alle opstellingen vanuit de beginopstelling mogelijk zijn. Anders zou van veld tot veld het aantal mogelijke opstellingen exponentieel toenemen. Immers zonder spelregels maar met 6 verschillende stukken (pion, toren, loper, paard, koningin en koning) met 2 verschillende kleuren en natuurlijk de mogelijkheid dat het veld leeg is, betekent dat er (6x2+1)^64 verschillende opstellingen mogelijk zijn. In werkelijkheid is dat door de spelregels een stuk minder, maar toch nog meer dan het aantal atomen op aarde. Dat betekent dat hoe goede schaker men ook is, of welke schaakcomputer men ook ontwikkelt, men nooit weet of men de beste zet heeft gezet. Darvoor zou men alle mogelijke uitkomsten moeten bestuderen en dat is realistisch gezien niet mogelijk.
+
+{{Schaak/Bord2
+|left
+|
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|pd|pd|pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|pl|pl|pl|pl|pl|
+1 |rl|nl|bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+|Beginopstelling}}
+
+Om van een beginnend niveau naar een gevorderd niveau te komen is het van belang de schaakstukken een voor een beter te leren kennen. Maar we beginnen in dit boek met het belangrijkste stuk te leren kennen in het schaken, namelijk jezelf!
+
+== Spelstrategie ==
+Een goede spelstrategie om snel te leren is door meerdere dingen tegelijk wat betreft schaken op je in te laten werken. Pak een schaakbord met de stelling die je ondertussen online speelt, opneemt en al spelend van commentaar voorziet en bekijk op de achtergrond een bijpassende YouTube instructie en lees de chat box. Bij voorkeur op een schaakclub waar iedereen met elkaar aan het schaken is of met meerdere schakers samen thuis. Deze overdaad aan informatie via allerlei kanalen doet het onbewuste openen; een veel krachtige verwerkingsmachine. Je kunt dit vergelijken met de strategie om zoveel mogelijk schaakstukken (kanalen) zo snel mogelijk te ontwikkelen (simultaan). Het geeft niet als je daardoor niet meer van hoe je schaken leert helemaal bewust bent, teveel focus op het [[leren leren|leren schaken te leren]] kan juist je leerproces verstoren.
+
+[[Bestand:LiChess screenshot about private stduies.png|thumb|300px|right|LiChess voorbeeld van het maken van een eigen studie]]
+
+Je bent misschien verrast omdat je misschien strategieën voor het schaken had verwacht, en niet technieken om beter [[speels leren|speels te leren]]. Is het dan niet zinvol om allerlei openingen, gambits en valkuilen uit je hoofd te leren? Dat gaat het beste via het onbewuste. De gedachtegangen achter een bepaalde schaakstrategie kun je wel bewust onderzoeken, vooral door dit aan een ander weer uit te leggen bijvoorbeeld door er een eigen studie van te maken (kijk bij LiChess onder Learn-Study en dan zelf eentje maken) of hier op Wikibooks verbeteringen of aanvullingen op dit boek te maken. Of je maakt een eigen YouTube filmpje met vooral jouw gedachtegangen.
+
+Het liefst wil je alle bewuste en onbewuste leerstrategieën samen laten komen en dat zou net als je bij voorkeur al je schaakstukken zoveel mogelijk ontwikkelt, ook een normaal streven zijn, ware het niet dat net als in sommige schaakopstelling, je in sommige leeropstellingen dit streven niet altijd hoeft te volgen, als het loslaten ervan leidt tot een hogere opbrengst. Vaak kun je ook door de opstelling (lees leersituatie) niet elk schaakstuk optimaal plaatsen (elke leerstrategie toepassen omdat die door een ander wordt verhinderd). 
+
+Wat in ieder geval belangrijk is bij het uitstippelen van je leerproces is te anticiperen op wat er kan gebeuren ([[Leren leren/Kwaliteit|flexibiliteit]] inbouwen) zoals je ook bij schaken altijd moet kijken wat je tegenstander met een bepaalde zet wil bereiken. Los van de flexibiliteit van je leren kun je ook alvast creatief zijn in de verre toekomst. Bij schaken denk je niet alleen een paar zetten vooruit, maar bouw je aan creatieve (lees verrassend voor de tegenstander) posities, die je misschien nog niet zeker bent of ze gaan ontstaan, maar waarvan je de mogelijkheid ertoe creëert. Naast flexibiliteit zorgt dus ook creativiteit dat je schaken en je leren beiden ook in de toekomst succesvol zijn.
+
+Een andere belangrijke overweging bij het bepalen van een slimme leerstrategie is dat de kwaliteit van het leerproces mede wordt bepaald door hoe deze bepaalde belemmeringen weg weet te nemen. Zo wordt in dit boek gestart met het belang van eerst te [[Schaken_leren/Visualisatie|visualiseren]] alvorens veel partijen te gaan spelen en bestuderen, als dit echter weerstand oproept wat de concentratie doet verminderen, dan is het de vraag of deze leerstrategie wel de beste is. Daar zit het creatieve element bij het ontwerpen van een leerproces in, hoe zorg je dat je het volhoudt? Dat kan bijvoorbeeld door het visualiseren op een creatieve manier veel boeiender te maken voor jezelf.
+
+== Spelers ==
+=== Imitatie  ===
+{{Wp|Aristoteles|Aristoteles}} zag imiteren als een vaardigheid die de mens van het dier onderscheidt. Het is een strategie die je bij zowel baby's als volwassen aantreft omdat het een succesvolle leerstrategie is. Vandaar dat het slim is om schaken te leren door schaakmeesters te imiteren. Speel hun partijen na, zelfs al snap je niet altijd waarom een bepaalde zet wordt gekozen. Door het {{Wp|Enactment_effect|self-performed task effect (SPT effect)}} of leren door te doen zal het onbewuste op de achtergrond toch proberen de zet te doorgronden, ook al ben je dat je [[Onbewust leren|niet bewust]]. Voor het modelleren van schaakmeesters kun je het boek "[[Schaken door meesters]]" raadplegen.
+
+=== Trainers ===
+Doelgericht, doelmatig, flexibel en creatief schaken leren, vraagt hulp bij het leren leren of bewust leren. Dit boek is ene hulpmiddel, maar er zijn online tools beschikbaar zoals bijvoorbeeld [https://www.chessable.com/ Chessable] die je helpen je leren slim in te richten. Via LiChess zijn er verder schaakcoaches beschikbaar die ervoor zorgen dat je leren van een hoge kwaliteit blijft door ervaringen te delen over wat wel en niet werkt. Daarbij wel een kanttekening: wat voor de een goed werkt, hoeft niet altijd een algemene leerregel te zijn. Zoals in het boek over leren kunt lezen, is het van belang rekening te houden met je eigen leervoorkeuren ([[Leren_leren/Kwaliteit#Leerstijl|leerstijl]]) ten aanzien van het schaken.
+
+{{Opmaak | Voettekst}}

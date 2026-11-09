@@ -1,0 +1,17 @@
+{{Index Handleiding moderatoren}}
+==Leerdoelen==
+Na het doornemen van deze modules is een moderator in staat om zelfstandig, binnen de richtlijnen van de betreffende wiki, beslissingen te maken en de taken uit te voeren bij de volgende administratieve taken:
+*[[Handleiding moderatoren/Nuweg|Nuweg]]
+*[[Handleiding moderatoren/Verwijdersessie artikelen|Verwijdersessie artikelen]]
+*[[Handleiding moderatoren/Verwijdersessie categorieën|Verwijdersessie categorieën]]
+*[[Handleiding moderatoren/Verwijdersessie afbeeldingen|Verwijdersessie afbeeldingen]]
+*[[Handleiding moderatoren/Verwijdersessie sjablonen|Verwijdersessie sjablonen]]
+*[[Handleiding moderatoren/Verwijdersessie NuCommons|Verwijdersessie NuCommons]]
+
+==Inleiding==
+Het verwijderen van niet gewenste inhoud is een van de meest omvangrijke taken van een moderator in een wiki. In wiki's met een grote gemeenschap is al snel een paar procent van het toegevoegde materiaal om uiteenlopende redenen niet gewenst. Het is bijvoorbeeld vandalistisch van karakter, behoort niet tot de doelstelling van het project en is volgens het beleid niet toegestaan. De Nederlandstalige Wikipedia kent bijvoorbeeld sjablonen voor verwijdering om reden van ''reclame'' ({{Tl|reclame}}), ''schending auteursrecht'' ({{Tl|auteur}}), ''niet voldoende inhoud'' ({{Tl|wiu}}), ''woordenboekdefinitie'' ({{Tl|wb}}), onvoldoende informatie bij afbeelding ({{Tl|geeninfo}}), ''direct weg wegens onwenselijk materiaal'' ({{Tl|nuweg}}) en nog een aantal anderen.
+
+De grotere wiki's van de Wikimedia Foundation kennen allemaal hun eigen specifieke beleid, dat meestal gebaseerd is het het toevoegen van een verwijdersjabloon op de pagina waarop het verwijderverzoek betrekking heeft. In de meeste gevallen houdt een ''nominatie tot verwijdering'' in dat er naast het toevoegen van een sjabloon aan de pagina ook een melding gemaakt dient te worden op een pagina waarop voor verwijdering genomineerde pagina's worden verzameld (op de Nederlandstalige Wikipedia bijvoorbeeld {{Wp|WP:TVP|WP:TVP}} voor encyclopedische pagina's en {{Wp|WP:VA|WP:VA}} voor afbeeldingen). Onderdeel van de procedure is meestal ook een wachttijd tussen nominatie en mogelijke verwijdering; in veel gevallen één of twee weken. Gedurende deze tijd kan door een willekeurig lid van de gemeenschap actie worden ondernomen om de genomineerd pagina zodanig aan te passen dat de criteria voor verwijdering niet langer van toepassing zijn.
+
+Na afloop van de wachttijd voert een moderator een verwijdersessie uit, wat inhoudt dat deze aan de hand van het geldende beleid beoordeelt of de pagina voldoet aan de criteria voor verwijdering en op basis daarvan besluit of de pagina wordt behouden of wordt verwijderd. Onderdeel van deze taak zijn handelingen als het verwijderen van sjablonen van te behouden pagina's en bijvoorbeeld het verwijderen van ''rode links'' uit pagina's als een afbeelding is verwijderd die nog werd gebruikt.
+{{Sub}}

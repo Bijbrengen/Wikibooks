@@ -1,0 +1,55 @@
+{{Opmaak}}
+Hoe wint zwart aan zet door te kiezen voor een koning-pion eindspel (dus de torens te ruilen)?
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |  |kd|pd|  |pd|
+6 |  |  |  |  |pd|  |  |  |
+5 |  |  |  |  |rd|  |  |  |
+4 |  |  |pl|  |  |  |pd|  |
+3 |kl|  |  |  |  |  |pl|  |
+2 |rl|  |  |  |  |pl|  |pl|
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Filemon Cruz - Yasser Seirawan, 1994}}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |pl|kd|  |pl|  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |kl|  |  |pl|  |  |  |
+2 |  |  |  |  |  |  |pd|  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Zwart koos er voor om de koningen met hun pionnen het uit te laten vechten}}
+# ... Ra5+
+# Kb3 Rxa2
+# Kxa2 Kd6
+# Kb3 Kc5
+# Kc3 e5
+# Kd3 f5
+# Kc3 e4
+# Kb3 h6
+# Kc3 h5
+# Kb3 f4
+# gxf4 e3
+# fxe3 h4
+# f5 Kd6
+# Kb4 Ke5 Wit geeft op
+# c5 Kxf5
+# Kb5 Ke6
+# Kb6 g3
+# c6 h2
+# c7 Kd7
+# Kb7 h1&equals;Q+
+Zie [https://lichess.org/study/jbD3aBh6/R4r6x2UZ Lichess study '''King Pawn Endgame - Filemon Cruz - Yasser Seirawan'''].
+}}
+
+{{Opmaak | Voettekst}}

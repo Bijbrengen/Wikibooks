@@ -1,0 +1,75 @@
+{{Opmaak}}
+Een '''leertaal''' is hier een domeinspecifieke taal om leerprocessen, leerkenmerken en hun samenhang expliciet te beschrijven. Binnen het in dit boek besproken model richt zij zich op [[Vrij leren|vrij leren]]. Het woord ''taal'' betreft afspraken over vorm en betekenis; het gebruik ervan bewijst geen leerwerking.
+
+== Kernbegrippen ==
+{| class="wikitable"
+! Begrip !! Betekenis in het beschreven model
+|-
+| [[Leertaal/Typen#Leeractor|Leeractor]] || Degene over wiens leren een uitspraak wordt gedaan.
+|-
+| [[Leertaal/Leren#Leeractie|Leeractie]] || Een benoemde wijze van handelen of verwerken door de lerende.
+|-
+| [[Leertaal/Leerbox#Leerobject|Leerobject]] || Datgene waarmee of waarop de handeling betrekking heeft.
+|-
+| [[Leertaal/Vrijheid#Leercontext|Leercontext]] || De situatie waarin de handeling betekenis krijgt.
+|-
+| [[Leertaal/Definitie#Leeruitspraak|Leeruitspraak]] || Een beschrijving die de vier onderdelen verbindt.
+|-
+| [[Leertaal/Declaratief|Leerdeclaratie]] || Een benoemde definitie van een beschrijving of combinatie.
+|-
+| [[Leertaal/Toepassing#Leerproces|Leerproces]] || Een bewering over de samenhang tussen resultaat, actuele impact en doel.
+|}
+
+== Vorm en betekenis ==
+De grammatica bepaalt welke constructies kunnen worden geschreven. Typen onderscheiden soorten beschrijvingen. Semantiek legt de betekenis vast. Inhoudelijke voorwaarden beschrijven welke interpretaties binnen het gekozen vrijheidskader passen. Een naam kan bijvoorbeeld naar een actor verwijzen; een typecontrole moet voorkomen dat die naam per ongeluk als context wordt gebruikt.
+
+== Algemene schrijfvariant ==
+Een leertaal kan ook een meer algemene declaratievorm hanteren met Engelstalige trefwoorden. Een illustratief vocabulaire is:
+* '''DEFINE''': een definitie of type-eigenschap beschrijven.
+* '''CREATE''': een entiteit benoemen of initialiseren.
+* '''REFERENCE''': verwijzen naar een bestaande entiteit of extern element.
+* '''AS''': een waarde of kenmerk toekennen.
+* '''FROM''' en '''TO''': oorsprong en bestemming aangeven.
+* '''BY''': betrokken handelingen benoemen.
+* '''WITH''': een middel of object verbinden.
+* '''IN''': taal, formaat of context aangeven, afhankelijk van de gekozen variant.
+* '''ON''': een medium of platform verbinden.
+
+Bijpassende algemene typen kunnen ACTION, ACTOR, RESOURCE, LANGUAGE en MEDIUM heten. Dit is een alternatieve notatie, geen extra verplicht vocabulaire bovenop het vierdelige kernmodel. Een taalversie moet vastleggen hoe deze begrippen op elkaar aansluiten en wat ieder verbindingswoord betekent.
+
+Een vereenvoudigd voorbeeld is:
+<pre>
+REFERENCE pers AS RESOURCE
+REFERENCE maker AS ACTOR
+CREATE onderzoek
+FROM ACTOR maker
+BY ACTION Onderzoeken
+WITH RESOURCE pers
+</pre>
+De exacte grammatica van namen, teksten, lijsten en getallen moet worden gespecificeerd voordat deze notatie uitvoerbaar is. Zie [[Leertaal/Voorbeeld|voorbeelden]] en [[Leertaal/Typen|typen]].
+
+
+== Leeruitspraak ==
+Een '''leeruitspraak''' verbindt vier onderdelen:
+
+: '''Een leeractor doet een leeractie met een leerobject in een leercontext.'''
+
+Bijvoorbeeld:
+: Een maker reflecteert op de werking van een drukpers in een drukwerkplaats.
+
+De [[Leertaal/Typen#Leeractor|leeractor]] is degene vanuit wiens leren de situatie wordt beschreven. [[Leertaal/Leren#Leeractie|Reflecteren]] benoemt de handeling. De [[Leertaal/Leerbox#Leerobject|drukpers]] is het object. De [[Leertaal/Vrijheid#Leercontext|drukwerkplaats]] omvat de omstandigheden, relaties en mogelijkheden die betekenis geven aan de handeling.
+
+=== Uitspraak en gebeurtenis ===
+Een uitspraak is een beschrijving of bewering. Dezelfde inhoudelijke beschrijving kan terugkomen in een [[Leertaal/Toepassing#Leerproces|leerresultaat, leerimpact of leerdoel]]. De toepassing bepaalt of ermee wordt bedoeld dat iets is uitgevoerd, nu duurzaam kan worden uitgevoerd of in de toekomst wordt nagestreefd.
+
+Een losse leeruitspraak hoeft geen echte persoonsnaam of absoluut tijdstip te bevatten. Een externe registratie kan later vastleggen wie een handeling uitvoerde, wanneer die plaatsvond en waarop een beoordeling berust. De taalbeschrijving en de onderbouwing van een werkelijk geval blijven daardoor onderscheiden.
+
+=== Naam en hergebruik ===
+Een uitspraak kan een unieke naam krijgen, zoals <code>reflectie_pers</code>. Andere beschrijvingen verwijzen naar die naam. Het hergebruik van een naam bewijst geen verband tussen uitgevoerd hebben en duurzaam kunnen. Iedere toepassing vraagt haar eigen onderbouwing.
+
+=== Interpretatie ===
+Bij [[Leren leren/Bewust|bewust leren]] kan de lerende zelf beschrijven wat een ervaring betekent. Bij minder zichtbare of [[Onbewust leren|onbewuste]] processen zijn waarnemingen vaak onvolledig. Een ontbrekende toelichting betekent niet automatisch dat er niet is geleerd. Omgekeerd bewijst zichtbare activiteit geen innerlijke verandering.
+
+Een beschrijving maakt de aannamen bespreekbaar: welke handeling wordt als leren geïnterpreteerd, welke context is relevant en welke aanwijzingen zijn beschikbaar?
+
+{{Opmaak | Voettekst}}

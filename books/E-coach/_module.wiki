@@ -1,0 +1,14 @@
+{{Opmaak
+| Titel = E-coach
+| Object = Boek
+| Bron = E-coach.webp
+| Definitie = Een E-Coach (Electronic/Educational Coach) is een digitale tool die kunstmatige en geprogrammeerde intelligentie gebruikt om individuen te begeleiden bij het [[zelf leren]].
+| Beschrijving = Het boek over E-Coach verkent hoe digitale coachingtechnologieën het [[zelf leren]] kunnen faciliteren en versterken. Het behandelt de principes achter E-Coaching, de implementatie ervan in onderwijs- en trainingsprocessen, en hoe het individuen kan helpen hun leerdoelen efficiënter te bereiken door gepersonaliseerde ondersteuning en feedback.
+| Formaat = html
+| Voortgang = 10
+| Support = Signaleer
+| Referentie = 
+| Collectie = Onderwijsplatform
+| Onderdeel = Inleiding
+| In het tijdperk van digitale transformatie wordt leren niet langer gezien als een activiteit die beperkt is tot de jeugd of de klaslokalen. Leren is een levenslang proces geworden, essentieel voor persoonlijke ontwikkeling en professionele groei. Echter, met de overvloed aan informatie en kennis beschikbaar binnen handbereik, kan het vinden van een gepersonaliseerd en effectief leerpad overweldigend zijn. Hier introduceert dit boek de rol van de E-Coach, een revolutionaire benadering om individuen te begeleiden in hun leerreis. Door de kracht van kunstmatige intelligentie te combineren met diepgaande inzichten in educatieve methodologieën, biedt de E-Coach een unieke ondersteuning die afgestemd is op de individuele behoeften, voorkeuren en doelen van elke leerder. Dit boek is bedoeld als een gids voor iedereen die geïnteresseerd is in de toekomst van zelfgestuurd leren en hoe technologie kan worden ingezet om ons potentieel te maximaliseren.
+}}

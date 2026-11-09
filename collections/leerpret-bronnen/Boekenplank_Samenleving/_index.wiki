@@ -6,15 +6,30 @@ __NOTOC__ {{Kolommen automatisch|inhoud=
 * [[Save Our Future Today, a SOFT revolution]]
 
 == Economie en handel ==
-* [[Economie]]
-* [[Kennismanagement]]
+* [[Economie]] {{75%}}
+* [[Kennismanagement]] {{75%}}
+* [[Kostprijsberekening en interne informatievoorziening]] {{50%}}
 
+{{Bij elkaar houden|inhoud=
+== Mens en maatschappij ==
+* [[Criminologie]]
+* [[Gender en diversiteit]] {{25%|Datum=20 juni 2005}}
+* [[Maatschappijleer]]
+* [[Netwerken]] {{25%}}
+* [[Over beroemde personen]]
+* [[Samenleving]] {{25%}}
+* [[Genieten van seks]] {{50%}}
+* [[:Categorie:Sociale geschiedenis|Sociale geschiedenis]]
+}}
+
+{{Bij elkaar houden|inhoud=
 == Onderwijs en opleiding ==
 Zie [[Boekenplank:Onderwijs en opleiding]]
+}}
 
 {{Bij elkaar houden|inhoud=
 == Politiek ==
-* [[Trotski voor beginners]]
+* [[Trotski voor beginners]] {{100%}}
 }}
 
 {{Bij elkaar houden|inhoud=
@@ -30,14 +45,14 @@ Zie [[Boekenplank:Onderwijs en opleiding]]
 
 == Wonen ==
 * [[Erfdelen]] (collectieve woonvorm)
-* [[Huishouden]]
-* [[Kookboek]]
+* [[Portaal:Huisdierengids|Huisdierengids (portaal)]]
+* [[Huishouden]] {{75%}}
+* [[Inbraakpreventie]] {{75%|Datum=10 september 2010}}
+* [[Kookboek]] {{75%}}
+* [[Leer jezelf ecologisch tuinieren]] {{25%|Datum=29 juli 2008}}
 }}
 
-== Zie ook ==
-* [[:Categorie:Mens en maatschappij]]
+{{Navigatie boekenplanken}}
 
-{{Boekenplanken}}
-
-[[Categorie:Boekenplanken| ]]
+[[Categorie:Boekenplank| ]]
 [[Categorie:Samenleving| ]]

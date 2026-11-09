@@ -1,0 +1,74 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Leerattractie",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Leerattractie",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 5,
+  "pages": [
+    {
+      "title": "Leerattractie",
+      "file": "_module.wiki",
+      "pageid": 45036,
+      "contentmodel": "wikitext",
+      "revid": 424671,
+      "parentid": 424112,
+      "timestamp": "2026-04-27T13:08:55Z",
+      "user": "BeeBringer",
+      "comment": "",
+      "sha1": "3dcc99f18f4dca3c1e51bf018e9b7fc1d494e9aa",
+      "bytes": 994
+    },
+    {
+      "title": "Leerattractie/Attractie",
+      "file": "Attractie.wiki",
+      "pageid": 45093,
+      "contentmodel": "wikitext",
+      "revid": 424458,
+      "parentid": 406689,
+      "timestamp": "2026-04-26T17:57:32Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "4bc701bbcf0dc2d27501ea4bd2fe36f99823da3b",
+      "bytes": 3263
+    },
+    {
+      "title": "Leerattractie/Inleiding",
+      "file": "Inleiding.wiki",
+      "pageid": 46156,
+      "contentmodel": "wikitext",
+      "revid": 424459,
+      "parentid": 419876,
+      "timestamp": "2026-04-26T17:57:38Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "6e35fdc5e4ba57121c2753da97ef772cc443b0b2",
+      "bytes": 6414
+    },
+    {
+      "title": "Leerattractie/Leerpret",
+      "file": "Leerpret.wiki",
+      "pageid": 45078,
+      "contentmodel": "wikitext",
+      "revid": 424460,
+      "parentid": 406033,
+      "timestamp": "2026-04-26T17:57:44Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "625a6c373324331f860d6da77ffbab64ac29572b",
+      "bytes": 1948
+    },
+    {
+      "title": "Leerattractie/Scan",
+      "file": "Scan.wiki",
+      "pageid": 45094,
+      "contentmodel": "wikitext",
+      "revid": 424461,
+      "parentid": 420018,
+      "timestamp": "2026-04-26T17:57:49Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "30813793df0b715c42d7a246a64172ba6303789a",
+      "bytes": 3805
+    }
+  ]
+}

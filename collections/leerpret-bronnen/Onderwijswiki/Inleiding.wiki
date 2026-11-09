@@ -1,14 +1,14 @@
 {{Opmaak}}
 Een '''onderwijswiki''' is meer dan alleen een verzameling webpagina's.
 Het is een dynamische, collaboratieve leeromgeving waar kennis niet alleen wordt geconsumeerd, maar ook wordt gecreëerd.
-Voor software zoals [[Wikibooks]], die draait op de [[MediaWiki]] engine, betekent dit dat we krachtige instrumenten nodig hebben om informatie te structureren en presenteren.
+Voor software zoals [[Wikibooks:Info|Wikibooks]], die draait op de [[Portaal:MediaWiki|MediaWiki]] engine, betekent dit dat we krachtige instrumenten nodig hebben om informatie te structureren en presenteren.
 
 == Modules ==
 Het bouwen van een onderwijswiki begint eenvoudig, maar wordt gaandeweg complexer naarmate de behoeften toenemen.
 We kunnen deze ontwikkeling zien als een ladder:
 
 # '''Wikitext''': De basisopmaak van MediaWiki (zoals `[[Link]]` en `'''Vet'''`).
-# '''ParserFunctions''': Logica toevoegen aan sjablonen (zoals `{{#if:}}` of `{{#switch:}}`).
+# '''ParserFunctions''': Logica toevoegen aan sjablonen (zoals `{{#If:}}` of `{{#Switch:}}`).
 # '''Scribunto (Lua)''': Het framework dat Lua-scripts inbedt in MediaWiki voor complexe logica die met eenvoudige sjablonen onbeheersbaar wordt.
 
 == Sjabloon:Opmaak ==

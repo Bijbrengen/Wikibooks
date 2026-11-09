@@ -1,0 +1,22 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Onderwijsplatform",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Onderwijsplatform",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "title": "Onderwijsplatform",
+      "file": "_module.wiki",
+      "pageid": 43375,
+      "contentmodel": "wikitext",
+      "revid": 432207,
+      "parentid": 424686,
+      "timestamp": "2026-11-09T17:53:15Z",
+      "user": "BeeBringer",
+      "comment": "",
+      "sha1": "4a3586843e6bdab2d57a3eead96eb67d2bcaf80c",
+      "bytes": 577
+    }
+  ]
+}

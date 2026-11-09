@@ -1,0 +1,40 @@
+{{Opmaak}}
+Een [[Onderwijsplatform|Onderwijsplatform]] is het geheel van technologische voorzieningen die het leerproces, de communicatie en de organisatie van het leren ondersteunen. In de traditionele onderwijskunde staat dit bekend als de '''Elektronische Leeromgeving (ELO)'''. Waar de ELO zich vaak beperkte tot een afgeschermde omgeving voor content-distributie, fungeert een modern platform als het 'besturingssysteem' voor onderwijs, waarbij de [[Leertaal/Vrijheid|vrijheid]] van de leerder centraal staat.
+
+== Definitie en Functie ==
+Een ELO is een technische voorziening die de interactie faciliteert tussen:
+* '''Het leerproces''': De presentatie van de [[Leertaal/Leerbox|Leerbox]], opdrachten en feedback.
+* '''Communicatie''': Interactie tussen leerders en coaches (synchroon en asynchroon).
+* '''Organisatie''': Het beheer van leerwegen, inschrijvingen en resultaten.
+
+== Architectuur ==
+De onderwijstechnoloog ontwerpt het platform als een gelaagd systeem:
+# '''Infrastructuur''': De serveromgeving (zie ook [[Hosting]]).
+# '''Data-laag''': De opslag van [[Leertaal/Leerbox|leerboxen]] en leerlinggegevens (LRS).
+# '''Logica-laag''': De verwerking van regels, vaak aangedreven door [[Onderwijswiki/Lua|Lua]] scripts binnen [[Onderwijswiki/Scribunto|Scribunto]].
+# '''Presentatie-laag''': De [[Onderwijswiki/View|View]] die de gebruikerservaring bepaalt.
+
+== Functionele Componenten ==
+Een volwaardig platform biedt gereedschappen voor:
+* '''Interactie''': Berichten, chat, fora, wiki's en blogs.
+* '''Administratie''': Leerlingvolgsysteem (LVS), kalenders en jaarplannen.
+* '''Evaluatie''': Toetsen, portfolio's en remediëring.
+
+== Overzicht van Systemen ==
+De technoloog kiest het systeem dat het beste aansluit bij de [[Leertaal|leertaal]]:
+* '''Open Source''': 
+** [[Moodle]]: Zeer krachtig en uitbreidbaar via plugins.
+** MediaWiki: Ideaal voor collaboratieve kennisopbouw en interactieve modules (via Scribunto).
+** Sakai: Geschikt voor grote academische instellingen.
+* '''Commerciële Systemen''':
+** Smartschool: Veelgebruikt in het basis- en secundair onderwijs in Vlaanderen.
+** Blackboard / Canvas: Wereldwijde standaarden in het hoger onderwijs.
+** Fronter / TeleTOP: Klassieke systemen die de basis legden voor moderne ELO's.
+
+== Integratie en Interoperabiliteit ==
+Een modern platform maakt gebruik van standaarden om vendor lock-in te voorkomen:
+* '''LTI (Learning Tools Interoperability)''': Voor naadloze integratie van externe tools.
+* '''xAPI''': Voor het vastleggen van leerervaringen buiten het platform.
+* '''[[Onderwijswiki/Interface|Interface]]''': Een veilige API voor interactie tussen verschillende systemen.
+
+{{Opmaak | Voettekst}}

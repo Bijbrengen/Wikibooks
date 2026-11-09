@@ -1,0 +1,74 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Model%20leren",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Model leren",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 5,
+  "pages": [
+    {
+      "title": "Model leren",
+      "file": "_module.wiki",
+      "pageid": 40516,
+      "contentmodel": "wikitext",
+      "revid": 424680,
+      "parentid": 424116,
+      "timestamp": "2026-04-27T13:11:17Z",
+      "user": "BeeBringer",
+      "comment": "",
+      "sha1": "b45221329f0aaa4d1a64e9a2923f7de4d103fd4a",
+      "bytes": 808
+    },
+    {
+      "title": "Model leren/Inleiding",
+      "file": "Inleiding.wiki",
+      "pageid": 41566,
+      "contentmodel": "wikitext",
+      "revid": 424495,
+      "parentid": 419778,
+      "timestamp": "2026-04-26T18:01:07Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "e90cb689743a0018d23ce2e82bd8a408d7d1b10b",
+      "bytes": 4729
+    },
+    {
+      "title": "Model leren/Methode",
+      "file": "Methode.wiki",
+      "pageid": 40525,
+      "contentmodel": "wikitext",
+      "revid": 424496,
+      "parentid": 407464,
+      "timestamp": "2026-04-26T18:01:13Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "511629d5eb13f3564e552c29090865c5de8e3a57",
+      "bytes": 1175
+    },
+    {
+      "title": "Model leren/Reproductief",
+      "file": "Reproductief.wiki",
+      "pageid": 40523,
+      "contentmodel": "wikitext",
+      "revid": 424497,
+      "parentid": 407476,
+      "timestamp": "2026-04-26T18:01:18Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "d00dfcd8616dba48f7f0511fc6d8ffa00cbc5fa6",
+      "bytes": 2192
+    },
+    {
+      "title": "Model leren/Vrijheid",
+      "file": "Vrijheid.wiki",
+      "pageid": 40522,
+      "contentmodel": "wikitext",
+      "revid": 424498,
+      "parentid": 407466,
+      "timestamp": "2026-04-26T18:01:24Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "5257321e8e39486e7038675f1c1b3e4997fae8d1",
+      "bytes": 750
+    }
+  ]
+}

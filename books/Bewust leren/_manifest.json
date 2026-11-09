@@ -1,0 +1,22 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Bewust%20leren",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Bewust leren",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "title": "Bewust leren",
+      "file": "_module.wiki",
+      "pageid": 40517,
+      "contentmodel": "wikitext",
+      "revid": 349446,
+      "parentid": 0,
+      "timestamp": "2021-03-06T06:33:10Z",
+      "user": "BeeBringer",
+      "comment": "Verwijst door naar [[Leren leren]]",
+      "sha1": "4e6a06ed1af05f340579fe209303df492e0cfa72",
+      "bytes": 31
+    }
+  ]
+}

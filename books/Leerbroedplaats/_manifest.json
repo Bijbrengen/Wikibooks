@@ -1,0 +1,74 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Leerbroedplaats",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Leerbroedplaats",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 5,
+  "pages": [
+    {
+      "title": "Leerbroedplaats",
+      "file": "_module.wiki",
+      "pageid": 45097,
+      "contentmodel": "wikitext",
+      "revid": 424672,
+      "parentid": 424023,
+      "timestamp": "2026-04-27T13:09:09Z",
+      "user": "BeeBringer",
+      "comment": "",
+      "sha1": "a1eee0346ab6018a4254af225ad7ae6b130a2767",
+      "bytes": 623
+    },
+    {
+      "title": "Leerbroedplaats/Functies",
+      "file": "Functies.wiki",
+      "pageid": 45099,
+      "contentmodel": "wikitext",
+      "revid": 424462,
+      "parentid": 420402,
+      "timestamp": "2026-04-26T17:57:55Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "9405e483e9e212965250161bb4edf65cb78ede87",
+      "bytes": 6657
+    },
+    {
+      "title": "Leerbroedplaats/Kenmerken",
+      "file": "Kenmerken.wiki",
+      "pageid": 45100,
+      "contentmodel": "wikitext",
+      "revid": 424463,
+      "parentid": 420403,
+      "timestamp": "2026-04-26T17:58:01Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "98450c03cad8a440289a0b809a9914e05015a48c",
+      "bytes": 4445
+    },
+    {
+      "title": "Leerbroedplaats/Organisatie",
+      "file": "Organisatie.wiki",
+      "pageid": 45101,
+      "contentmodel": "wikitext",
+      "revid": 424464,
+      "parentid": 406677,
+      "timestamp": "2026-04-26T17:58:06Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "056f706195eec3f3a61474c20d841c707afeb067",
+      "bytes": 3086
+    },
+    {
+      "title": "Leerbroedplaats/Pretpark",
+      "file": "Pretpark.wiki",
+      "pageid": 45765,
+      "contentmodel": "wikitext",
+      "revid": 424465,
+      "parentid": 414297,
+      "timestamp": "2026-04-26T17:58:12Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "9dc7109be2a83c26f9241af2d047d37616f39423",
+      "bytes": 4538
+    }
+  ]
+}

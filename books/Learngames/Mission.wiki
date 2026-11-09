@@ -1,0 +1,32 @@
+{{Opmaak}}
+De mission is een 3d leergame waarin de spelers een missie kiezen die door de game wordt vertaald in [[Leren leren/Doel|leerdoelen]] en leeractiviteiten die naar die leerdoelen leiden.
+
+== Keuze ==
+=== Avatar ===
+Als we iets leren ontwikkelen we ons als persoon. Die gewenste ontwikkeling kun je visualiseren als een avatar die je beschrijft als hoe is het nu en waar ga je naar toe. In de mission game kun je daarvoor kiezen uit bestaande avatars (rolmodellen zoals wijzen) die je kunt aanpassen naar eigen wensen. Je maakt als het ware een dubbel zelfportret van hoe je als lerende voor en na de missie er uitziet. Dit maakt inzichtelijk wat je persoonlijk uit de missie zal kunnen halen.
+
+=== Bestemming ===
+In de mission kiezen we een bepaalde plek die we willen bereiken om deze verandering te realiseren. Deze plek symboliseert dus bepaalde leerdoelen. Als we bijvoorbeeld de domeinen, subdomeinen, sub-subdomeinen (enzovoort) van een leerdoel (denk aan natuurkunde - elementaire deeltjes - elektron - lading ) bijvoorbeeld visualiseren als een (fictief) universum, cluster, melkwegstelsel, zonnestelsel, planeet, wereld, land, stad en uiteindelijk een bepaalde pretpark of attractie(de bestemming is altijd leuk immers). Dan zal niemand het lastig, saai of tijdrovend vinden om af te spreken elkaar in Wildlands te ontmoeten. Het gaat vanzelf en heel precies.
+
+== Activiteiten ==
+De avatar doet een rondje mens op een bepaalde plek. Om die plek te bereiken zal hij activiteiten gaan uitvoeren. Hij zal ervaringen opdoen en daarvan leren.
+
+Het opdelen van een missie in activiteiten die van tussenstation naar tussenstation tot eindbestemming leiden, is een ingrediënt die we regelmatig in games aantreffen. Als je dit in teamverband doet dan heeft het de werking van een [[w:Scrum_(softwareontwikkelmethode)|scrum task board]] die in de ICT maar ook in het onderwijs (eduscrum) wordt ingezet om activiteiten te visualiseren, te ordenen en te plannen.
+
+
+== Differentiatie ==
+Hoewel mission games horen bij een speler met een reproductieve leerstijl, is dat natuurlijk niet het geval als je vrij helemaal zelf een eigen missie verzint. Dan is er sprake van een productieve leerstijl, een ondernemend persoon die vooraf zijn eigen missie bepaald. Een toepassingsgerichte leerder zal al doende ontdekken waar hij of zij naar toe gaat en een onderzoekende of ontdekkende leerder zal door reflectie achteraf kunnen vaststellen welke missie het beste past.
+{| class="wikitable"
+|-
+! Leerstijl !! Gametype !! Moment van missie vaststellen || Manier van vaststellen 
+|- 
+| [[Ondernemend leren|Productief]]|| ''Sandbox games''  || '''Vooraf''' || Bedenken van je eigen missie
+|- 
+| [[Speels leren|Reproductief]]|| ''Mission games''  || '''Begin''' || Volgen van een geadviseerde missie
+|- 
+| [[Ontwerpend leren|Toepassingsgericht]]|| ''Simulation games''  || '''Tijdens''' || Door van alles te doen wordt de missie steeds duidelijker
+|-
+| [[Onderzoekend leren|Betekenisgericht]]|| ''Adventure games''  || '''Achteraf''' || Terugblikkend op een verkenning stelt men de missie vast
+|}
+
+{{Opmaak | Voettekst}}

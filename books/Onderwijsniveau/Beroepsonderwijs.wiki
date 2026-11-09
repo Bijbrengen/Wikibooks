@@ -1,0 +1,15 @@
+{{Opmaak}}
+Het beroepsonderwijs in Nederland is een essentieel onderdeel van het onderwijssysteem en speelt een cruciale rol in het voorbereiden van studenten op de arbeidsmarkt. Het systeem is opgebouwd uit verschillende niveaus: het Voorbereidend Middelbaar Beroepsonderwijs (VMBO), het Middelbaar Beroepsonderwijs (MBO) en het Hoger Beroepsonderwijs (HBO), elk ontworpen om studenten de vaardigheden, kennis en competenties te bieden die nodig zijn voor hun toekomstige carrières.
+
+Het beroepsonderwijs in Nederland biedt een breed scala aan mogelijkheden voor studenten om zich te ontwikkelen en te specialiseren in een beroep of vakgebied. Door de verschillende niveaus en richtingen kunnen studenten een opleiding kiezen die aansluit bij hun persoonlijke interesses, vaardigheden en carrièreaspiraties, waarmee een solide basis wordt gelegd voor hun toekomstige professionele leven.
+
+== VMBO ==
+Het Voorbereidend Middelbaar Beroepsonderwijs (VMBO) duurt vier jaar en is gericht op leerlingen van 12 tot 16 jaar. Het VMBO biedt vier leerwegen die variëren in het niveau van theoretische en praktische inhoud: de basisberoepsgerichte leerweg, de kaderberoepsgerichte leerweg, de gemengde leerweg en de theoretische leerweg. Deze leerwegen bereiden studenten voor op verdere opleiding binnen het MBO of, in het geval van de theoretische leerweg, op de HAVO. Het curriculum omvat zowel algemene vakken als beroepsgerichte vakken.
+
+== MBO ==
+Het Middelbaar Beroepsonderwijs (MBO) is ontworpen voor studenten vanaf ongeveer 16 jaar en biedt opleidingen die direct aansluiten op de arbeidsmarkt of als voorbereiding dienen op verder onderwijs in het HBO. MBO-opleidingen zijn beschikbaar op vier verschillende niveaus, van assistent-opleidingen tot middenkader- en specialistenopleidingen, afhankelijk van de vooropleiding van de student. De opleidingen combineren theorie met praktijkervaring, verkregen door stages of leerwerkplekken in het bedrijfsleven.
+
+== HBO ==
+Het Hoger Beroepsonderwijs (HBO) biedt studenten vanaf ongeveer 18 jaar de kans om zich verder te specialiseren in een beroepsgerichte richting. HBO-opleidingen leiden over het algemeen tot een bachelorgraad en duren vier jaar. Ze zijn gericht op het aanleren van zowel theoretische kennis als praktische vaardigheden, met een sterke nadruk op toepassing in de praktijk. HBO-instellingen werken nauw samen met het bedrijfsleven en andere organisaties om ervoor te zorgen dat de opleidingen goed aansluiten op de eisen van de arbeidsmarkt.
+
+{{Opmaak | Voettekst}}

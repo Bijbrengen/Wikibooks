@@ -1,0 +1,24 @@
+{{Opmaak}}
+De [[Leertaal/Leerbox|Leerbox]] is de atomaire eenheid van het [[Onderwijsplatform|Onderwijsplatform]]. Voor de onderwijstechnoloog is de Leerbox een container die content, metadata en logica combineert.
+
+== Structuur ==
+Technisch gezien wordt een Leerbox gedefinieerd door:
+* '''Inhoud''': De eigenlijke tekst of media, gestructureerd in [[Onderwijswiki/Wikitext|Wikitext]] of HTML.
+* '''Metadata''': Gegevens over niveau, vakgebied en leerdoelen, vaak opgeslagen via [[Onderwijswiki/Model|Model]]-submodules.
+* '''Logica''': Interactieve elementen die worden aangestuurd door [[Onderwijswiki/Lua|Lua]] via [[Onderwijswiki/Scribunto|Scribunto]].
+
+== Beheer ==
+De onderwijstechnoloog beheert de levenscyclus van een Leerbox:
+# '''Creatie''': Ontwerpen van templates die de input van onderwijsontwikkelaars omzetten naar het juiste formaat.
+# '''Opslag''': Zorgen voor een schaalbare database-architectuur waarin miljoenen leerboxen efficiënt doorzocht kunnen worden.
+# '''Verspreiding''': Het ontsluiten van leerboxen via de [[Onderwijswiki/Interface|Interface]] naar verschillende [[Onderwijswiki/View|Views]] (browser, app, print).
+
+== Interoperabiliteit ==
+Om de [[Leertaal/Vrijheid|vrijheid]] van de leerder te garanderen, moet de Leerbox uitwisselbaar zijn. De technoloog implementeert standaarden zoals:
+* '''xAPI''': Om de interactie met een Leerbox vast te leggen in een LRS.
+* '''LTI''': Om een Leerbox te kunnen embedden in externe systemen zoals Moodle of Canvas.
+
+== Onderwijstechnoloog ==
+De onderwijstechnoloog bewaakt de technische kwaliteit van de [[Leertaal/Leerbox|Leerbox]]. Dit omvat laadsnelheid (performance), [[Toegankelijkheid|toegankelijkheid]] en de correcte werking van de onderliggende [[Onderwijswiki/Library|libraries]].
+
+{{Opmaak | Voettekst}}

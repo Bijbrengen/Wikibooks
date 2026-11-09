@@ -1,0 +1,52 @@
+{{Index Handleiding moderatoren}}
+==Leerdoel==
+Een moderator is na het doorwerken van deze module in staat om zelfstandig (gedeeltelijk) verwijdersessies van afbeeldingen uit te voeren.
+
+==Vereiste voorkennis==
+*Basiskennis van de [[Handleiding moderatoren/De extra functies van een moderator|extra functies van een moderator]]
+*Goede kennis van het beleid met betrekking tot afbeeldingen ({{Wp|WP:BGM|beleid Nederlandstalige Wikipedia}})
+
+==Afbeeldingen nomineren==
+Iedere gebruiker kan een afbeelding nomineren voor verwijdering. De nominatie voor verwijdering bestaat uit drie stappen:
+#Het plaatsen van een verwijdersjabloon op de pagina van de afbeelding;
+#Het plaatsen van een link naar de afbeelding op de verwijderlijst en een motivatie voor het verwijderverzoek ({{Wp|WP:VA|verwijderlijst Nederlandstalige Wikipedia}});
+#Het waarschuwen van de uploader naar aanleiding van de verwijdernominatie met een link naar de afbeelding en de verwijderlijst.
+
+Ad 1.
+
+De volgende sjablonen zijn te gebruiken voor het nomineren van een afbeelding:
+*{{Tl|geeninfo}}: als informatie t.a.v. bron, auteurs of licentie mist die niet expliciet is af te leiden uit de aanwezige informatie (als de uploader bijvoorbeeld ''eigen werk'' heeft vermeld maar geen licentie, dan is een nominatie niet nodig).
+*{{Tl|afbauteur}}: als de afbeelding een auteursrechtenschending is, bij voorkeur ondersteund door een link of referentie.
+*{{Tl|fairuse}}: een subklasse van {{Tl|afbauteur}}, waar de afbeelding op de Engelstalige Wikipedia wel is toestaan met een beroep op {{Wp|fair use|fair use}}, dat op de Nederlandstalige wiki's niet is toegestaan.
+*{{Tl|afbweg}}: als de afbeelding wordt voorgedragen voor verwijdering om een andere reden dan de bovenstaande (bijvoorbeeld als duplicaat, niet relevant, etc.).
+
+Ad 2.
+
+Alle verwijdersjablonen voor afbeeldingen bevatten een link naar de verwijderlijst voor afbeeldingen. Op de verwijderlijst wordt een link naar de afbeelding geplaatst en wordt een reden voor de nominatie gegeven, afgesloten met een ondertekening. Iedere nominatie hoort op een eigen regel gezet te worden om het overzicht te kunnen behouden. Nominaties worden per 25 stuks gegroepeerd om het overzicht te kunnen behouden. Een nominatie kan er als volgt uitzien:
+<pre>*[[:Naam afbeelding.ext]] - geen info (bron ontbreekt) - ~~~~</pre>
+
+Ad 3.
+
+Op de Nederlandstalige Wikipedia wordt deze taak uitgevoerd door {{Wp|Gebruiker:Erwin85Bot|Erwin85Bot}} op maandag tot en met vrijdag over de dag(en) daarvoor. Nominaties van uploads van eenzelfde gebruiker worden gegroepeerd, zodat een gebruiker maximaal één bericht per nominatiedag ontvangt. Op de andere Nederlandstalige wiki's dient deze actie handmatig plaats te vinden.
+
+Tenzij een pagina van het onzinsoort is dat ook direct verwijderd had mogen worden, dient een pagina, sjabloon, afbeelding of categorie twee weken op de [[wikipedia:verwijderlijst|verwijderlijst]] te staan alvorens deze verwijderd mag worden. Het verwijderen kan alleen door een [[wikipedia:moderator|moderator]] worden gedaan.
+
+==Verwijdersessie afbeeldingen uitvoeren==
+
+==Algemeen==
+Een paar dingen om op te letten:
+* Vergeet bij het verwijderen de overlegpagina's niet! En bekijk de te verwijderen pagina's nog eens goed. Het zou niet de eerste keer zijn dat men er iets van gemaakt heeft in de tussentijd en het niet van de lijst heeft genomen.
+* Sommige mensen vermelden samen met de link naar de te verwijderen pagina ook een link naar de goede pagina! Ook komt het voor dat de te verwijderen pagina een redirect naar een correcte pagina is. Zorg dat u de juiste verwijdert.
+* '''Transwiki:''' Artikelen die verplaatst werden vanaf een ander Wiki-project komen binnen via [[m:Transwiki/nl|transwiki]] in de virtuele transwiki-naamsruimte (''= met prefix "transwiki"''). Deze pagina's worden uiteindelijk redirects die '''niet''' verwijderd mogen worden. 
+* Artikelen die verplaatst dienen te worden naar bv. Wikibooks, Wiktionary, Wikiquote of anderstalige Wiki's, dienen via de transwiki-procedure te passeren en niet zomaar verwijderd te worden. Voor meer info zie [[m:transwiki/nl|transwiki]].
+*Wanneer een artikel verwijderd is omdat het (duidelijk) geen encyclopedisch onderwerp is, haal dan ook de eventuele interne links naar dat artikel weg. Dat voorkomt verdere problemen en onduidelijkheden in de toekomst (waarom een rode link hebben naar een onderwerp wat we niet willen hebben?).
+
+===Afbeeldingen===
+Door de knop "verwijder" bovenaan bij afbeeldingen te gebruiken worden alle versies van de afbeelding verwijderd. Wil je een bepaalde versie laten staan (bijvoorbeeld omdat er een nieuwe afbeelding die wel is toegestaan over de te verwijderen afbeelding is geupload), doe dit dan door op "verw" te klikken naast de lijn van de te verwijderen versie afbeelding, als volgt:
+* (<u>'''verw'''</u>) (huidig) 15 jun 2003 11:38 . . Varro (40421 bytes) (Augustus van Primaporta)
+Het is wenselijk om bij verwijdering van een afbeelding, ook de verwijzingen daarnaar op artikelen te verwijderen. Bij elke afbeelding is zichtbaar op welke pagina's hij gebruikt wordt onder de titel "Afbeeldingsverwijzingen".
+
+Hou er ook rekening mee dat de reden voor verwijdering van een afbeelding al kan verholpen zijn tegen de tijd dat je de afbeelding wil verwijderen. Zo komt het bijvoorbeeld voor dat een afbeelding ter verwijdering op de lijst wordt geplaatst wegens ontbrekende informatie over copyright, en dat de uploader de informatie later toevoegt maar dit niet aanduidt op de lijst.
+
+In het verleden verwijderd: Zie [[Speciaal:Log/delete]].
+{{Sub}}

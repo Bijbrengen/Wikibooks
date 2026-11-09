@@ -1,0 +1,48 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Cognitieve%20zelftherapie",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Cognitieve zelftherapie",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 3,
+  "pages": [
+    {
+      "title": "Cognitieve zelftherapie",
+      "file": "_module.wiki",
+      "pageid": 43421,
+      "contentmodel": "wikitext",
+      "revid": 424109,
+      "parentid": 424016,
+      "timestamp": "2026-04-25T16:38:04Z",
+      "user": "BeeBringer",
+      "comment": "",
+      "sha1": "99443782335e9758ba4e3ac30c50b268043665c0",
+      "bytes": 1609
+    },
+    {
+      "title": "Cognitieve zelftherapie/Inleiding",
+      "file": "Inleiding.wiki",
+      "pageid": 43423,
+      "contentmodel": "wikitext",
+      "revid": 424409,
+      "parentid": 404145,
+      "timestamp": "2026-04-26T17:52:48Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "ede028808ae3997a6d9d6bd39614afc82c56a416",
+      "bytes": 2033
+    },
+    {
+      "title": "Cognitieve zelftherapie/Online",
+      "file": "Online.wiki",
+      "pageid": 43424,
+      "contentmodel": "wikitext",
+      "revid": 424410,
+      "parentid": 419990,
+      "timestamp": "2026-04-26T17:52:53Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "9c84de749055acf139cb891a8c04e2e18ab9a1ed",
+      "bytes": 3496
+    }
+  ]
+}

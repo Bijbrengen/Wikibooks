@@ -1,0 +1,54 @@
+{{Index Handleiding moderatoren}}
+==Leerdoel==
+*Het kunnen onderscheiden van vandalisme en onhandigheid of onbekendheid
+*Het kunnen omgaan met vandalisme
+*Bekend maken welke hulpmiddelen moderatoren hebben om vandalisme te bestrijden
+
+==Voorkennis==
+*Enige maanden ervaring met het wikiproces en de wiki-mores
+*Bekend met de ''recente wijzigingen'' en de ''geschiedenis-tab''. Bekend met het zichtbaar maken van het verschil tussen verschillende versies van het artikel.
+
+== Vandalisme ==
+Vandalisme kan onderverdeeld worden in meerdere vormen, die variëren in de mogelijkheid het als vandalisme te kunnen onderscheiden.
+;Apert vandalisme
+:Het makkelijkst herkenbaar. Hier kan nog verder onderscheid in worden aangebracht:
+:*Zandbakvandalisme
+:*Pubervandalisme
+:*Verwijdervandalisme
+;De hoax
+:Een artikel over een onderwerp dat niet bestaat
+;Sneaky vandalisme
+:Dit bestaat uit kleine wijzigingen in een artikel, met als doel onwaarheden in het artikel te brengen.
+
+== Hulpmiddelen ==
+*Markeren als gecontroleerd
+*Google
+*Anderstalige wikipedia's.
+
+=== Controle anonieme wijzigingen ===
+Er bestaan meerdere varianten op deze methode. Dit is een aanwijzing, maar waarschijnlijk ontwikkel je een eigen methode, die jou beter past.
+*Open {{Wp|Special:Recentchanges|Recente wijzigingen}}. (N.B.: In dit voorbeeld wordt ervanuit gegaan dat je de uitgebreide recente wijzigingen gebruikt (in te stellen in de voorkeuren). Dit maakt echter voor het principe van vandalismebestrijding niet uit).
+*Je krijgt een recente wijzigingen lijst, die doorloopt tot de laatste wijziging. In deze lijst bevinden zich de anonieme wijzigingen.
+ <span style="color:blue;">verberg</span> kleine wijzigingen | <span style="color:blue;">toon</span> bots | <span style="color:blue;">verberg</span> aangemelde gebruikers | <span style="color:blue;">verberg</span> gecontroleerde wijzigingen | <span style='color: blue'>Verberg</span> mijn bijdragen
+*Als je drukt op de knop ''verberg gecontroleerde wijzigingen'' en daarna ''verberg aangemelde gebruikers'', blijven alleen de niet-gecontroleerde anonieme wijzigingen over.
+* Je ziet drie soorten van regels.
+**Eén heeft een blauwe driehoek ervoor, dit houdt in dat er meerdere wijzigingen zijn gedaan aan het zelfde artikel.
+::::<span style="color:blue;">►</span>&nbsp;&nbsp;&nbsp;&nbsp;  <span style="color:red;">!</span> 13:11 <span style="color:blue;">Groningen (stad)</span> (3 <span style="color:blue;">wijzigingen</span>; <span style="color:blue;">Geschiedenis</span>) [<span style="color:blue;">62.100.33.180</span> (3×)]
+Als je op die driehoek met de muis klikt, klapt de wijziging uit en verschijnen de onderlinge wijzigingen in aparte regels.
+::::<span style="color:blue;">▼</span>&nbsp;&nbsp;&nbsp;&nbsp;  <span style="color:red;">!</span> 13:11 <span style="color:blue;">Groningen (stad)</span> (3 <span style="color:blue;">wijzigingen</span>; <span style="color:blue;">Gesch</span>) [<span style="color:blue;">62.100.33.180</span> (3×)]
+::::::<span style="color:red;">!</span> 13:11 (<span style="color:blue;">huidig</span>; <span style="color:blue;">vorige</span>) . . <span style="color:blue;">62.100.33.180</span> (<span style="color:blue;">Overleg</span> | <span style="color:blue;">blokkeer</span>) (→<span style="color:grey;">Geboren in Groningen</span>)
+::::::<span style="color:red;">!</span> 13:09 (<span style="color:blue;">huidig</span>; <span style="color:blue;">vorige</span>) . . <span style="color:blue;">62.100.33.180</span> (<span style="color:blue;">Overleg</span> | <span style="color:blue;">blokkeer</span>) (→<span style="color:grey;">Bezienswaardigheden</span>)
+::::::<span style="color:red;">!</span> 13:07 (<span style="color:blue;">huidig</span>; <span style="color:blue;">vorige</span>) . . <span style="color:blue;">62.100.33.180</span> (<span style="color:blue;">Overleg</span> | <span style="color:blue;">blokkeer</span>) (→<span style="color:grey;">Bezienswaardigheden</span>)
+**Eén met een N (N=nieuw) ervoor, soms gecombineerd met een blauwe driehoek.
+::::&nbsp;&nbsp;'''N'''&nbsp;&nbsp;&nbsp; <span style="color:red;">!</span> 13:15 <span style="color:blue;">Gebroeders Van Limburg</span> (<span style="color:blue;">wijz</span>; gesch) . . <span style="color:blue;">62.234.140.59</span> (<span style="color:blue;">Overleg</span> | <span style="color:blue;">blokkeer</span>)
+**Zonder blauwe driehoek en zonder N ervoor: dat zijn enkele wijzigingen.
+::::&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:red;">!</span> 13:13 <span style="color:blue;">Matras</span> (<span style="color:blue;">wijz</span>; <span style="color:blue;">gesch</span>) . . <span style="color:blue;">80.60.99.191</span> (<span style="color:blue;">Overleg</span> |<span style="color:blue;">blokkeer</span>) (→<span style="color:grey;">Soorten</span>)
+* Je klikt de eerste wijziging aan, door op <span style="color:blue;">wijz</span> te drukken of <span style="color:blue;">vorige</span>. Het beste met Firefox, Mozilla of de nieuwste versie van Internet Explorer met de rechter (of middelste) muisknop, waardoor de wijziging in een aparte tab opent. Bij de blauwe driehoek klik je eerst de gezamenlijke wijziging aan, en daarna de onderlinge wijzigingen (allen in aparte tabs).
+* Als je de wijziging hebt beoordeeld en hij is goed, dan klik je op [<span style="color:blue;">Markeer als gecontroleerd</span>].
+* Heb je echter vandalisme (of een ongewenste wijziging) aangetroffen, dan klik je op [<span style="color:blue;">Markeer als gecontroleerd</span>] met de rechter muisknop waardoor deze actie in een separate tab plaatsvindt. In het vandalisme scherm druk je op <span style="color:blue;">gesch</span>. In de geschiedenis klik je op de datum, waar het vandalisme nog niet was opgetreden. De oude versie wordt geladen. Druk op <span style="color:blue;">bewerk</span> en druk daarna meteen op de knop '''''Pagina opslaan'''''. Vul in de samenvatting in "revert" of iets dergelijks.
+:*De moderatoren gebruiken natuurlijk de ''terugdraai''-knop, waarbij de vandalististische bewerkingen automatisch als gecontroleerd worden gemarkeerd.
+::<span style="font-size: small;">(Een alternatief is om wijzigen in een nieuwe tab te openen. En pas na het wijzigen [<span style="color:blue;">Markeer als gecontroleerd</span>] te drukken)</span>
+* Tip 1: Staat er nog een knop <span style="color:blue;">Volgende wijziging</span>, dan is de pagina in de tussentijd al weer veranderd.  Het kan zijn dat inmiddels een bot is voorbijgekomen en het vandalisme nog aanwezig is. Dus altijd nog eens door de knop <span style="color:blue;">Volgende wijziging</span> drukken, controleren of het vandalisme inderdaad is opgelost. Terugdraaien kan dan niet meer met de mod-knop.
+* Tip 2: Open gelijk vijf tot twintig wijzigingen in de verschillende tabs, zo gaat het nog een beetje sneller.
+* Tip 3: Er bestaan vandalismetools die het controleren van vandalisme nog veel makkelijker maken, zie [[Handleiding moderatoren/Vandalismetools]]
+{{Sub}}

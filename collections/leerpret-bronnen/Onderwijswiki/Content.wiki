@@ -1,14 +1,13 @@
 {{Opmaak}}
 
-De laag **Content** (Inhoud) vormt de logische kern van de module.
-Hier wordt bepaald *wat* er precies moet gebeuren voor een specifiek type object.
+De laag '''Content''' (Inhoud) vormt de logische kern van de module.
+Hier wordt bepaald '''wat''' er precies moet gebeuren voor een specifiek type object.
 In de MVC-architectuur fungeert dit vaak als de '''Controller'''.
 
-== De Rol van Content ==
 Wanneer het [[Onderwijswiki/Model|Model]] de gegevens heeft verzameld, geeft de [[Onderwijswiki/Interface|Interface]] de controle over aan de Content-laag.
 Deze laag verwerkt de gegevens en bereidt ze voor op de weergave.
 
-== De Submodules van Content ==
+== Submodules ==
 In de [[Module:Layout]] is de Content-laag opgedeeld in gespecialiseerde submodules.
 Elke submodule weet alles over een specifiek type pagina of onderdeel:
 
@@ -22,7 +21,7 @@ Elke submodule weet alles over een specifiek type pagina of onderdeel:
 * '''Age''': Een kleine utiliteit om leeftijden te berekenen op basis van data.
 * '''Bookshelf''': Logica voor het organiseren van boekenplanken.
 
-== Hoe het werkt ==
+== Voorbeeld ==
 De `Interface` bepaalt op basis van de parameters welke submodule geladen moet worden.
 Bijvoorbeeld:
 

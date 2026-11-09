@@ -1,0 +1,48 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Onderwijsvorm",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Onderwijsvorm",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 3,
+  "pages": [
+    {
+      "title": "Onderwijsvorm",
+      "file": "_module.wiki",
+      "pageid": 40314,
+      "contentmodel": "wikitext",
+      "revid": 424690,
+      "parentid": 424121,
+      "timestamp": "2026-04-27T13:15:36Z",
+      "user": "BeeBringer",
+      "comment": "",
+      "sha1": "a17c7e5d5caead2f3ba9743899f2ebce1a60973b",
+      "bytes": 628
+    },
+    {
+      "title": "Onderwijsvorm/Fenomenologisch onderwijs",
+      "file": "Fenomenologisch onderwijs.wiki",
+      "pageid": 40297,
+      "contentmodel": "wikitext",
+      "revid": 424539,
+      "parentid": 424337,
+      "timestamp": "2026-04-26T18:05:19Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "c182b8a9fe73a7d76962fb229bbf82c569a20361",
+      "bytes": 7413
+    },
+    {
+      "title": "Onderwijsvorm/Objectgeoriënteerd onderwijs",
+      "file": "Objectgeoriënteerd onderwijs.wiki",
+      "pageid": 40295,
+      "contentmodel": "wikitext",
+      "revid": 429015,
+      "parentid": 424540,
+      "timestamp": "2026-06-18T07:15:22Z",
+      "user": "Kuddekop",
+      "comment": "",
+      "sha1": "f7dfaf35364154bba655abd34eaee2269c3e04be",
+      "bytes": 28842
+    }
+  ]
+}

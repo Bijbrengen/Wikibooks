@@ -1,0 +1,48 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Visualisatie",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Visualisatie",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 3,
+  "pages": [
+    {
+      "title": "Visualisatie",
+      "file": "_module.wiki",
+      "pageid": 40425,
+      "contentmodel": "wikitext",
+      "revid": 424697,
+      "parentid": 424125,
+      "timestamp": "2026-04-27T13:17:31Z",
+      "user": "BeeBringer",
+      "comment": "",
+      "sha1": "7b53a5821c5c92dc5a71f7caade7702005c2a718",
+      "bytes": 818
+    },
+    {
+      "title": "Visualisatie/Concept",
+      "file": "Concept.wiki",
+      "pageid": 40430,
+      "contentmodel": "wikitext",
+      "revid": 424608,
+      "parentid": 423681,
+      "timestamp": "2026-04-26T18:12:09Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "4a4ef85864577a510847b9c024e0856b0194d152",
+      "bytes": 6096
+    },
+    {
+      "title": "Visualisatie/Methode",
+      "file": "Methode.wiki",
+      "pageid": 40431,
+      "contentmodel": "wikitext",
+      "revid": 424609,
+      "parentid": 423682,
+      "timestamp": "2026-04-26T18:12:15Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "5e80619d3f5dcfbf0b3078be76831901458d9940",
+      "bytes": 3120
+    }
+  ]
+}

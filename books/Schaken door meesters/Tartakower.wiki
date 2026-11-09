@@ -1,0 +1,62 @@
+{{Opmaak}}
+== Profiel ==
+{{Wp|Sawielly Tartakower|Sawielly Tartakower}} was als Pools schaakmeester een specialist in het eindspel en bedenker van tal van varianten op openingen zoals de naar hem vernoemde '''Tartakowervariant'''.
+
+== Stauntongambietvariant ==
+'''1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.g4'''
+
+De Tartakowervariant is een variatie op de [[Schaken door meesters/Staunton|Stauntongambiet]].
+
+10: {{Opmaak
+| Object = Schaak
+| Definitie = Tartakowervariant
+| Beschrijving = De Tartakowervariant van het Stauntongambiet (1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. g4)
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|  |rd|
+7 |pd|pd|pd|pd|pd|  |pd|pd|
+6 |  |  |  |  |  |nd|  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |pl|pd|  |pl|  |
+3 |  |  |nl|  |  |  |  |  |
+2 |pl|pl|pl|  |  |pl|  |pl|
+1 |rl|  |bl|ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+
+In de Stauntongambiet-variant met '''4. g4''' probeert wit de zwarte koningsvleugel direct onder druk te zetten door de opmars van de g-pion. Het doel is om het paard op f6 te verjagen en de zwarte stelling te openen. Volgens PGN-analyses leidt dit tot zeer scherpe stellingen waarbij wit vaak een positioneel voordeel behoudt (+0.8).
+
+== Tartakower-gambiet (Poolse opening) ==
+Een andere beroemde variant die de naam van Tartakower draagt, is te vinden in de [[Schaken door meesters/Sokolsky|Poolse opening]]29: '''1. b4 e5 2. Bb2 f6 3. e4 Bxb4'''
+{{Opmaak
+| Object = Schaak
+| Definitie = Tartakower-gambiet
+| Beschrijving = Het Tartakower-gambiet in de Poolse opening (1. b4 e5 2. Bb2 f6 3. e4 Bxb4)
+| Orientatie = wit
+|
+8 |rd|nd|bd|qd|kd|bd|nd|rd|
+7 |pd|pd|pd|pd|  |  |pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |pd|  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|bl|pl|pl|  |pl|pl|pl|
+1 |rl|  |  |ql|kl|bl|nl|rl|
+   a  b  c  d  e  f  g  h
+}}
+
+In dit gambiet offert wit zijn b4-pion om een krachtige aanval op de zwarte koning op te bouwen via de diagonaal a2-g8 en de vroege uitval van de dame (Qh5+).
+
+=== Fischer vs Gloger (1964) ===
+Robert James Fischer gebruikte dit gambiet in een simultaanpartij om zijn tegenstander in slechts 17 zetten te verslaan:
+* '''4. Bc4 Ne7 5. Qh5+ Ng6 6. f4 exf4 7. Nf3''': Wit bouwt een enorme druk op.
+* '''13. Bxf6!''': Een beslissend offer dat de zwarte verdediging uiteenslaat.
+* '''17. g7''': Zwart gaf op wegens het onvermijdelijke promotie- of matbeeld.
+
+== Evaluatie van Combinaties ==
+De Tartakower-varianten kenmerken zich door hun provocerende karakter:
+* '''Initiatief boven materiaal''': In beide varianten is Tartakower (en later Fischer) bereid materiaal op te offeren voor een actieve stukkenstelling en een directe aanval op de koning.
+* '''Psychologische druk''': De ongebruikelijke zetten dwingen de tegenstander tot zelfstandig denken in een zeer vroege fase van de partij.
+* '''Tactische rijkdom''': Hoewel de computer-evaluatie vaak dicht bij gelijkheid ligt (0.0 tot +0.5), zijn de stellingen in de praktijk uiterst lastig te verdedigen voor zwart.
+
+{{Opmaak | Voettekst}}

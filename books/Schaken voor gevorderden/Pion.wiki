@@ -1,0 +1,596 @@
+{{Opmaak}}
+== Promotie ==
+Hoe wint wit aan zet?
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |  |kd|  |  |  |
+5 |  |  |pd|  |  |  |pd|  |
+4 |  |  |  |  |kl|  |  |  |
+3 |  |  |pl|  |  |  |pl|  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Jan Knoppel, Scandinavisch kampioenschap 1967}}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |ql|  |  |
+4 |  |  |  |kl|  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |kd|pd|  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Voorkom pat!}}
+# c4 Kf6
+# Kd5 Kf5
+# Kxc5 Kg4
+# Kd4 Kxg3
+# c5 g4
+# c6 Kf2
+# c7 g3
+# c8&equals;Q g2
+# Qf5+ *
+Zie [https://lichess.org/study/FcqUh0k4/7Ph6UZbz Lichess study '''Jan Knoppel, Scandinavisch kampioenschap 1967'''].
+}}
+
+Hoe wint wit aan zet?
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |  |  |  |  |pd|
+6 |  |  |  |  |  |  |  |pl|
+5 |  |  |  |pd|  |  |  |pd|
+4 |  |  |  |  |pl|  |  |pl|
+3 |  |  |  |  |  |  |  |  |
+2 |pd|  |  |  |pl|pl|pd|  |
+1 |rl|  |  |  |kl|  |  |kd|
+   a  b  c  d  e  f  g  h
+|The Problemist, 2007 - Van Gady Costeff}}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |ql|  |  |
+7 |  |  |  |  |  |  |  |pd|
+6 |  |  |  |  |  |kd|  |pl|
+5 |  |  |  |  |  |  |  |pd|
+4 |  |  |  |  |  |  |  |pl|
+3 |  |  |  |  |  |  |  |  |
+2 |pd|kl|  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Combineer rokade, en passant slaan en promotie}}
+# O-O-O+ g1&equals;Q
+# Rxg1+ Kxg1
+# Kb2 dxe4
+# f4 exf3
+# exf3 Kg2
+# f4 Kg3
+# f5 Kg4
+# f6 Kf5
+# f7 Kf6
+# f8&equals;Q+ 
+Zie [https://lichess.org/study/FcqUh0k4/64iuUARl Lichess study '''The Problemist, 2007 - Van Gady Costeff'''].
+}}
+
+Hoe wint wit aan zet van de cavelerie?
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |pl|  |  |  |pl|  |  |  |
+4 |  |nd|  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |pl|  |  |  |  |
+1 |kl|  |nd|  |  |  |kd|  |
+   a  b  c  d  e  f  g  h
+|De paarden kunnen elkaar verdedigen zoals in deze opstelling door Pd3}}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |ql|  |  |  |  |  |  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |nd|  |  |  |  |  |  |
+3 |  |  |  |nd|  |  |  |  |
+2 |  |  |  |pl|  |  |  |  |
+1 |kl|  |  |  |  |  |kd|  |
+   a  b  c  d  e  f  g  h
+|De zwarte koning lijkt vastgezet door de cavalerie, zodat de witte dame niet de witte koning mat kan zetten.}}
+# e6 Nc6
+# a6 Nd3 
+# e7 Nxe7
+# a7 Nd5
+# a8&equals;Q N5b4
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |nd|  |  |  |  |  |  |
+3 |  |  |  |nd|  |  |ql|  |
+2 |  |  |  |pl|  |  |  |  |
+1 |kl|  |  |  |  |  |  |kd|
+   a  b  c  d  e  f  g  h
+|Maar door de bewegingsmogelijkheid van de zwarte koning weg te nemen wordt de cavalerie doorbroken en kan de witte koning toch meedoen!}}
+# Qf3 Kh2
+# Qg4 Kh1
+# Qg3 *
+Zie [https://lichess.org/study/FcqUh0k4/5oXKBKaO Lichess study '''Shakhmaty v SSSR, 1955 - Vitold Yakimchik'''].
+}}
+
+
+Hoe doorbreekt wit (met een koning te ver af voor steun) toch de zwarte defensie om te promoveren?
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |pd|pd|pd|  |  |  |  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |pl|pl|pl|  |  |  |  |  |
+4 |  |  |  |  |  |  |kd|  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |kl|  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Standaard pion doorbraak zonder steun van andere stukken}}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |pd|pd|pd|  |  |  |  |  |
+6 |  |pl|  |  |  |  |  |  |
+5 |pl|  |pl|  |  |  |  |  |
+4 |  |  |  |  |  |  |kd|  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |kl|  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|De oplossing ligt in het midden en niet aan de zijkanten!}}
+# b6 cxb6
+#: ... axb6 (leidt tot hetzelfde idee)
+# a6! bxa6
+# c6
+en de pion is er langs
+}}
+<br>
+<br>
+Soms is het onverstandig om een pion naar een koningin te promoveren.
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |kl|pl|  |  |  |  |  |
+5 |  |  |  |rd|  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |kd|  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Glasgow Weekly Citizen, 1895, Van Saveedra}}
+Wit is aan zet en kan winnen. Hoe doet wit dat?
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |rl|  |  |  |  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |rd|  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |kl|  |  |  |  |  |
+1 |kd|  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Door tot een toren te promoveren, voorkomt wit dat zwart pat kan afdwingen door Rc4&#43;}}
+# c7 Rd6&#43;
+# Kb5! Rd5&#43;
+# Kb4 Rd4&#43;
+# Kb3 Rd3&#43;
+# Kc2! Rd4!
+# c8R!! Ra4
+# Kb3!
+}}
+
+== Positie ==
+Hoe verovert wit met een pion een waardevoller stuk?
+# e4 e6
+# d4 d5
+# Nc3 Bb4
+# Ne2 dxe4
+# a3 Be7
+# Nxe4 Nc6
+# g3 Nf6
+# Bg2 e5
+# Nxf6+ Bxf6
+# d5 Ne7
+# Nc3 Bf5?
+
+{{Schaak/Bord2
+|left
+|
+|
+8 |rd|  |  |qd|kd|  |  |rd|
+7 |pd|pd|pd|  |nd|pd|pd|pd|
+6 |  |  |  |  |  |bd|  |  |
+5 |  |  |  |pl|pd|bd|  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |pl|  |nl|  |  |  |pl|  |
+2 |  |pl|pl|  |  |pl|bl|pl|
+1 |rl|  |bl|ql|kl|  |  |rl|
+    a  b  c  d  e  f  g  h
+|Andersson - Velimirovic, Bar 1997}}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |rd|  |  |qd|kd|  |  |rd|
+7 |pd|pd|pd|  |nd|pd|pd|pd|
+6 |  |  |  |  |  |bd|bd|  |
+5 |  |  |  |pl|pd|  |pl|  |
+4 |  |  |  |  |  |  |  |  |
+3 |pl|  |nl|  |  |  |  |  |
+2 |  |pl|pl|  |  |pl|bl|pl|
+1 |rl|  |bl|ql|kl|  |  |rl|
+   a  b  c  d  e  f  g  h
+|Zwart verliest zijn loper die wit insluit}}
+# g4 Bg6
+# g5 *
+Zie [https://lichess.org/study/FcqUh0k4/iAKv2arq Lichess study '''Andersson - Velimirovic, Bar 1997'''].
+}}
+
+Hoe kan wit die begint zwart schaakmat zetten in drie zetten?
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |nl|  |  |  |
+7 |  |  |  |bl|pd|pd|  |ql|
+6 |  |  |  |  |  |  |nl|  |
+5 |  |  |  |  |pl|  |kd|  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |kl|  |  |bd|  |pd|
+2 |  |  |  |  |  |pl|pl|pl|
+1 |  |  |  |  |  |  |  |  |
+    a  b  c  d  e  f  g  h
+|Parallele 50, 1948 - Van Walter Jörgensen}}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |nl|  |  |  |
+7 |  |  |  |  |pd|pd|  |ql|
+6 |  |  |  |  |bl|  |nl|  |
+5 |  |  |  |  |pl|  |kd|  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |kl|  |  |bd|  |pd|
+2 |  |  |  |  |  |pl|pl|pl|
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|'''Be6'''; de zwarte pion die al zijn mogelijkheden benut (Pickaninny-thema) wordt door een witte pion die dat ook doet (Albino) gepareerd!}}
+* ... fxe6
+*# gxf3 Kf5
+*# Qh5&num;
+* ... fxg6
+*# g3 Bh5
+*# f4&num;
+* ... f6
+*# g4 Bxg4
+*# f4&num;
+* ... f5
+*# gxh3 f4
+*# h4&num;
+Zie [https://lichess.org/study/FcqUh0k4/MrqIRBVH Lichess study '''Parallele 50, 1948 - Van Walter Jörgensen'''].
+}}
+<br>
+Door een fort van pionnen te bouwen, kun je een onvermijdelijk verlies (vrije doorgang zwarte pion) omzetten in een pat.
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |kd|  |  |  |  |  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |pd|  |  |  |  |  |pd|  |
+5 |  |  |  |  |  |  |pd|  |
+4 |  |  |  |  |  |  |pl|  |
+3 |  |  |  |  |  |pl|  |pl|
+2 |  |  |  |  |  |  |pl|kl|
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Theorie und Praxis der Endspiele - 1890 - J. Berger}}
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |kd|  |  |  |  |  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |  |  |  |pd|  |
+5 |  |  |  |  |  |  |pl|  |
+4 |  |  |  |  |  |  |pl|kl|
+3 |  |  |  |  |  |  |pl|pl|
+2 |pd|  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Door tot een toren te promoveren voorkomt wit dat zwart pat kan afdwingen door Rc4&#43;}}
+# f4 Kc7
+#: wit wint bij 1... a5 2. f5 gxf5 3. h4 a4 4. hxg5 a3 5. g6 a2 6. g7 a1&#61;Q 7. g8&#61;Q&#43; Kc7 8. gxf5 Qf6 9. Qc4&#43;
+#: net als bij 1... gxf4 2. h4 a5 3. h5 a4 4. hxg6 a3 5. g7 a2 6. g8&#61;Q&#43; Kc7 7. Qxa2
+# fxg5 a5 
+# Kg3 a4 
+# Kh4 a3 
+# g3 a2
+Zie [https://lichess.org/study/FcqUh0k4/PyQSpmhZ Lichess study '''Theorie und Praxis der Endspiele - 1890 - J. Berger'''].
+}}
+<br>
+Soms is een pion sterker door zijn positie dan een dame.
+{{Schaak/Bord/Omgekeerd|=
+|left
+|
+|=
+1 |rl|  |bl|kl|  |  |nl|rl|=
+2 |pl|pl|pl|  |  |pl|  |pl|=
+3 |  |bl|nl|  |  |  |  |  |=
+4 |  |  |  |pl|  |  |pd|  |=
+5 |  |  |  |pl|ql|  |  |qd|=
+6 |  |nd|  |  |  |nd|  |  |=
+7 |pd|pd|pd|  |pd|  |pd|pd|=
+8 |rd|  |bd|kd|  |bd|  |rd|=
+   h  g  f  e  d  c  b  a
+|Zwart zet b3+}}
+De beste zet als reactie op b3+ is (hoewel dat niet op eerste gezicht zo lijkt) Nb-d2. Waarom verliest wit als hij Qxa5 zet?
+{{Schaak/Oplossing|{{Schaak/Bord/Omgekeerd|=
+|left
+|
+|=
+1 |rl|  |bl|kl|  |  |nl|rl|=
+2 |pl|pl|pl|  |  |pl|pd|pl|=
+3 |  |bl|nl|  |  |  |  |  |=
+4 |  |  |  |pl|  |  |nd|  |=
+5 |  |  |  |pl|  |  |  |  |=
+6 |  |nd|  |  |  |  |  |  |=
+7 |pd|pd|pd|  |pd|  |pd|pd|=
+8 |rd|  |bd|kd|  |bd|  |rd|=
+   h  g  f  e  d  c  b  a
+|Zwart zet b2}}
+# Qxa5 b2!
+# Qc3 Bb4
+# Qxb4 Nxb4
+Zie [https://lichess.org/study/FcqUh0k4/FDGceqzH Lichess study '''Nagy-Bologh, Boedapest 1948'''].
+}}
+<br>
+Een randpion is de grootste vijand van een paard.
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |kl|  |nd|  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |pd|  |  |  |pl|
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |kd|pl|
+2 |pl|  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Birnov 2008 - Y. Afek}}
+Hoe wint wit toch de partij?
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |pl|  |  |  |  |  |  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |  |kl|  |  |kd|  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |nd|  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Wit moet opletten dan zwart geen remise afdwingt à la Grigoriev – slimme gecalculeerde paardbewegingen die leiden tot pat door drie keer dezelfde stelling of verlies van de pion.}}
+# h7 Nf6+
+#: wat niet werkt is (1. Kd7 Nxh6 2. Kxd6 Nf7+ 3. Kc5 Nd8 4. Kb6 Nf7 5. Kc6 Ne5+ 6. Kb5 Nf3 7. Kc5 Nd2 8. Kb4 Nf3 9. Kb5 Kh4 10. Kc5 Nd2 11. Kb4 Nf3 12. Kc5 Nd2 13. Kb4 Nf3 $10)
+#: wat ook niet werkt is (1. a4 d5 2. a5 d4 3. a6 d3 4. h7 Nf6+ 5. Ke7 Nxh7 6. a7 d2 7. a8&equals;Q d1&equals;Q 8. Qg8+ Kxh3 9. Qxh7+ $10)
+# Ke7 Nxh7 
+# Kxd6 Ng5 
+# h4 Kxh4
+#: nu al a4 werkt niet (4. a4 Nf3 5. Kd5 Nh4 6. a5 Nf5 7. Kc6 Nd4+ 8. Kb6 Nf5 9. Kc7 Nd4 10. Kb6 Nf5 11. a6 Nd6 12. Kc6 Nc8 13. Kb7 Nd6+ 14. Kc7 Nb5+ 15. Kc6 Na7+ 16. Kb7 Nb5 17. Kc6 Na7+ 18. Kb7 Nb5 19. Kb6 Nd6 20. Kc6 Nc8 21. h4 Kxh4 22. Kb7 Nd6+ 23. Kc7 Nb5+)
+# a4 Ne4+ 
+# Kc6 Nf2 
+# a5 Nd3
+# Kb5 Kg5
+# a6 Kf6
+# a7 Ke5
+# a8&equals;Q *
+Zie [https://lichess.org/study/FcqUh0k4/WePhOUqt Lichess study '''Birnov 2008 - Y. Afek'''].
+}}
+<br>
+Hoe komt men tot deze opstelling met zwart aan zet?
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |kl|  |  |  |  |
+6 |  |  |  |  |pl|kd|  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |bl|  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Skakbladet, 1916 - Van Niels Hoeg}}
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |kl|pd|  |  |  |
+6 |  |  |  |  |  |kd|  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |pl|  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |bl|  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|De oplossing ligt in het en-passant slaan}}
+# d4-d5+ e7-e5
+# d5xe6 e.p.+
+
+Zie [https://lichess.org/study/FcqUh0k4/HaxNZpZA Lichess study '''Skakbladet, 1916 - Van Niels Hoeg'''].
+}}
+
+== Offer ==
+Hoe kan wit de lijnen openen aan de damevleugel?
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |kd|  |  |  |  |
+7 |  |rd|  |  |  |  |pd|  |
+6 |  |pd|  |  |  |pd|  |  |
+5 |pd|  |pd|pl|rd|pl|  |pd|
+4 |pl|  |pl|  |pl|kl|  |  |
+3 |  |  |  |  |  |  |  |pl|
+2 |  |  |  |  |rl|  |  |  |
+1 |  |rl|  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Gligoric - Sanchez, Stockholm 1952}}
+<br>
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |kd|  |  |  |  |pd|  |
+6 |  |  |  |  |  |pd|  |  |
+5 |rl|  |pd|  |rd|pl|  |pd|
+4 |pl|  |pl|  |pl|kl|  |  |
+3 |  |  |  |  |  |  |  |pl|
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Door de vrijpion te offeren kan de zwarte koning niet mee verdedigen}}
+# d6 Kd7 
+# Reb2 Kxd6 
+# Rxb6+ Rxb6 
+# Rxb6+ Kc7
+# Ra6 Kb7
+# Rxa5 *
+Zie [https://lichess.org/study/FcqUh0k4/JbXN2CP3 Lichess study '''Gligoric - Sanchez, Stockholm 1952'''].
+}}
+
+Hoe weet wit met slimme pionoffers toch de winst te pakken?
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |kd|  |  |bd|  |  |  |
+7 |  |  |  |  |pd|  |rd|pl|
+6 |  |pl|  |pd|kl|  |  |  |
+5 |  |pl|pd|  |  |pl|  |  |
+4 |rl|pd|  |  |pl|  |  |  |
+3 |pd|  |  |pl|  |  |  |  |
+2 |  |  |pl|  |  |  |  |  |
+1 |bd|  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Niet te gretig zijn met damepromotie!}}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |kd|  |  |bd|  |  |  |
+7 |  |  |  |  |pd|  |rd|pl|
+6 |  |pl|  |pd|kl|  |  |  |
+5 |  |pl|pd|  |  |pl|  |  |
+4 |rl|pd|  |  |pl|  |  |  |
+3 |pd|  |  |pl|  |  |  |  |
+2 |  |  |pl|  |  |  |  |  |
+1 |bd|  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Door de witte toren te offeren en daarna pas de pionnen tussen de schaak te zetten, krijgt wit de tijd en de ruimte om te winnen.}}
+# Ra8+ Kb7
+#: Zwart kan door schaak te zetten met zijn toren uiteindelijk de dame terugkrijgen (1. h8&equals;Q Rxg6+ 2. fxg6 (2. f6 Rxf6+ 3. Kxe7) 2... Bxh8 3. Kxe7 Bxg6)
+# Rb8+ Kxb8 
+# h8&equals;Q Rxg6+
+# f6 Rxf6+
+# Kd5 Rf5+
+# e5 Rxe5+
+# Kc4 Re4+
+# d4 Rxd4+
+# Kb3 Rd3+ 
+# c3 Rxc3+
+# Ka4 *
+Zie [https://lichess.org/study/FcqUh0k4/Gp0IzF6u Lichess study '''Molodost Gruzzi, 1970 - David Goergenidze'''].
+}}
+<br>
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |rl|bl|bl|
+7 |  |  |  |  |  |  |pl|  |
+6 |  |  |qd|  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |kd|  |  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |kl|  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Pion laat batterij los}}
+Zwart dreigt met h8 een snelle mat. En de loper kan verlies niet door Bd6 voorkomen via Qh6+. Hoe wint wit aan zet toch?
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |bl|bl|
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |  |qd|  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |kd|  |  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |kl|  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Offer de toren en loper en promoveer tot een loper om mat te voorkomen}}
+# Rc8 Qxc8
+# e6 Qxe6
+# g8&equals;B+
+#: niet g8@equals;Q+ Kd3 4. Qxe6 mat
+Zie [https://lichess.org/study/FcqUh0k4/piePamnv Lichess study '''Combat, 1954 - Van Vitaly Halberstadt'''].
+}}
+
+===Zie ook===
+* [https://lichess.org/study/FcqUh0k4 Lichess Study "Pawn"]
+
+{{Opmaak | Voettekst}}

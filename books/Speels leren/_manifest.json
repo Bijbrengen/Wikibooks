@@ -1,0 +1,100 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Speels%20leren",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Speels leren",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 7,
+  "pages": [
+    {
+      "title": "Speels leren",
+      "file": "_module.wiki",
+      "pageid": 40221,
+      "contentmodel": "wikitext",
+      "revid": 424695,
+      "parentid": 424058,
+      "timestamp": "2026-04-27T13:17:01Z",
+      "user": "BeeBringer",
+      "comment": "",
+      "sha1": "948520cfe62be2658326e989bf654ac6dd4bfbf2",
+      "bytes": 1312
+    },
+    {
+      "title": "Speels leren/Edupreneurial",
+      "file": "Edupreneurial.wiki",
+      "pageid": 41761,
+      "contentmodel": "wikitext",
+      "revid": 424602,
+      "parentid": 407452,
+      "timestamp": "2026-04-26T18:11:34Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "eb9fdb15c8d847e7339a35e0552e1f3afaccea16",
+      "bytes": 17962
+    },
+    {
+      "title": "Speels leren/Gebruik",
+      "file": "Gebruik.wiki",
+      "pageid": 40240,
+      "contentmodel": "wikitext",
+      "revid": 424603,
+      "parentid": 387133,
+      "timestamp": "2026-04-26T18:11:40Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "8bea7900cc3e99cd966b28546a851bb74e08aeaf",
+      "bytes": 14136
+    },
+    {
+      "title": "Speels leren/Gebruiker",
+      "file": "Gebruiker.wiki",
+      "pageid": 40241,
+      "contentmodel": "wikitext",
+      "revid": 424604,
+      "parentid": 387134,
+      "timestamp": "2026-04-26T18:11:46Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "8447ff0ddbb3e3ebedd7fbf5ab01b25aa67c50e5",
+      "bytes": 9411
+    },
+    {
+      "title": "Speels leren/Inleiding",
+      "file": "Inleiding.wiki",
+      "pageid": 41755,
+      "contentmodel": "wikitext",
+      "revid": 424605,
+      "parentid": 407448,
+      "timestamp": "2026-04-26T18:11:51Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "181d357852b7f12bfcd2c3cfafec93a49058626f",
+      "bytes": 4063
+    },
+    {
+      "title": "Speels leren/Leergames",
+      "file": "Leergames.wiki",
+      "pageid": 40242,
+      "contentmodel": "wikitext",
+      "revid": 432254,
+      "parentid": 428265,
+      "timestamp": "2026-11-09T18:37:28Z",
+      "user": "BeeBringer",
+      "comment": "Verwijzingen en benaming bijgewerkt naar Leertaal",
+      "sha1": "13f0765c564193605d8bf6effa2bd7b28ae87ecf",
+      "bytes": 26764
+    },
+    {
+      "title": "Speels leren/Wetten",
+      "file": "Wetten.wiki",
+      "pageid": 41760,
+      "contentmodel": "wikitext",
+      "revid": 424607,
+      "parentid": 419643,
+      "timestamp": "2026-04-26T18:12:03Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "f3539265fd289f47abe85fa900a34b3bf15acde9",
+      "bytes": 11563
+    }
+  ]
+}

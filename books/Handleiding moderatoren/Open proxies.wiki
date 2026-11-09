@@ -1,0 +1,183 @@
+{{Index Handleiding moderatoren}}
+
+==Leerdoel==
+Moderatoren bekend maken hoe open proxies werken, wat ze kunnen aanrichten en hoe ermee om te gaan.
+
+==Inleiding==
+Een {{Wp|Open_proxy#Open_proxy.27s|open proxyserver}} is een proxyserver die verbindingen toestaat van clients van willekeurige IP-adressen, met willekeurige internetresources elders. Hierdoor is de gebruiker van de open proxyserver erg moeilijk op te sporen. Hoewel er valide redenen aangevoerd kunnen worden om van een of andere vorm van open proxies gebruik te maken, is dat voor het bewerken van Wikibooks in alle gevallen onnodig. In deze module worden de achtergronden van open proxies behandeld en wordt uitgelegd wat er op de Nederlandstalige Wikibooks wordt gedaan om de dreiging uit deze hoek te minimaliseren.
+
+==Terminologie==
+In de volgende uitleg wordt de volgende terminologie gebruikt:
+
+;http header
+:Iedere keer als er iets via het internet van punt A naar punt B, bestaat het bericht uit twee delen, de z.g. http header en de payload. De http header bevat tenminste informatie die bij normale post op de envelop gezet zou worden, zoals bestemming en afzender. De payload is de feitelijke inhoud van het bericht, zoals het verzoek om een pagina op te sturen of de inhoud van die pagina zelf.
+:Om open proxies op te sporen en te detecteren, is de informatie die in de http header zit essentieel. Deze informatie is voor een normale gebruiker van het internet onzichtbaar, tenzij speciale software wordt toegepast.
+
+;cliënt
+:De machine die iets initieert heet de cliënt. De machine die door ontvangst van een bericht geactiveerd wordt om iets te doen, heet de server.
+
+;proxy
+:Hoewel de fysieke verbinding tussen cliënt en server fysiek over vele schijven kan en zal lopen (via z.g. routers en switches), is het logischerwijs een directe verbinding. Het kan echter zijn dat er een andere machine (computer) als intermediair tussenzit. Dat is dan vaak een z.g. proxy(server). In de keten cliënt - proxy - server, ziet de server de proxy als afzender van het bericht. Het antwoord gaat daar ook naar terug.
+:Proxies worden veelvuldig gebruikt om interne netwerken met het openbare internet te verbinden.
+
+;open proxy
+:Een normale proxy is alleen door cliënten die op het interne netwerk zijn aangesloten te gebruiken. Er zijn allerlei uitzonderingen hierop.
+:Als de proxy echter ook te gebruiken is door een cliënt op het openbare internet, spreekt men van een open proxy.
+:Open proxies ontstaan om uiteenlopende redenen:
+:*Bewust zo ingesteld
+:*Foutieve configuratie van een normale proxy
+:*Als gevolg van een virus in enigerlei vorm. Dit heten ook wel zombie computers.
+
+;sniffer
+:Een systeem (hardware en/of software) dat van een bepaalde computer het in en uitgaande internet verkeer monitort.
+
+==Soorten Open Proxies==
+===Gewone Open Proxies===
+;Transparant
+:Een transparante open proxy is de eenvoudigste vorm en biedt de minste privacy bescherming. Zo een proxy geeft het IP-adres van de cliënt mee in de z.g. http header. Dat kan op meerdere manieren.
+;Anoniem
+:Bij een anonieme open proxy wordt het IP-adres van de cliënt niet meegestuurd. Alleen een "sniffer" die bijvoorbeeld het ingaande en uitgaande IP verkeer van zo een proxy monitort  is in staat achter het IP-adres van de cliënt te komen. 
+;Elite
+:Bij dit soort open proxies, ook wel "high anonymous" genoemd, wordt een andere proxy als intermediair gebruikt om de verbinding met de server te leggen. Voor een sniffer wordt het daarmee een stuk moeilijker het IP verkeer te monitoren.
+:Elite proxies kunnen altijd van dezelfde (al dan niet open) proxy als intermediair gebruik maken, of van steeds wisselende. In het laatste geval ontstaat een soort netwerk met min of meer dezelfde eigenschappen als het TOR netwerk (zie hierna).
+
+===Exit Servers===
+Zoals hierboven aangegeven kan een Elite proxy gebruik maken van een andere proxy om contact te maken met de server. Dit kan een enkele extra proxy zijn of meerdere, waarmee een keten van proxies ontstaat. Als deze keten ook nog eens varieert ontstaat een zeer hoge graad van anonimiteit van de cliënt.<br>
+Overigens dient bedacht te worden dat deze anonimiteit nog steeds betrekkelijk is. M.u.v. het TOR netwerk, waarvan bekend is dat die dat niet doen, is het voor elke andere proxy in de keten nog steeds mogelijk een database bij te houden van IP nummers.
+
+Voor Wikibooks is van belang te weten wat het IP-adres van de exit server is. Immers de Wikibooks servers zien alleen dat.
+
+;{{Wp|Tor (netwerk)|TOR}}
+:Dit is het meest bekende netwerk met de bedoeling anoniem op het internet te kunnen surfen. Om het te kunnen gebruiken is de installatie van een stukje software nodig. De verbinding tussen cliënt en server wordt opgebouwd via een willekeurige reeks van z.g. onion nodes (in feite dus semi-open proxies) om uiteindelijk via een z.g. exit node de laatste stap naar de server te maken.
+:De gebruiker van het netwerk kan zelf kiezen of hij/zij al dan niet een onion node en/of een exit node kan zijn. 
+:In de praktijk blijken er op enig moment van de dag rond de duizend IP-adressen een van deze of beide rollen te vervullen. Hiervan fungeert ongeveer de helft ook als exit server. De lijst is voortdurend aan verandering onderhevig.
+
+:Voor de bescherming van Wikibooks zijn alleen de IP-adressen van de exit nodes van belang.
+
+;Soortgelijke netwerken
+:Naast TOR, zijn er soortgelijke netwerken, waarvan de meest bekende {{Wp|en:Codeen|CoDeeN}} is. CoDeeN is een Content Distribution Network (CDN) gebouwd door Princeton University. CoDeeN biedt naast veel andere ook een soortgelijke functionaliteit als in het geval van TOR. 
+
+;Voor Elite open proxies
+:Zoals hierboven aangegeven kunnen z.g. Elite proxies ook gebruik maken van een stabiel of ad-hoc netwerk om daarmee een keten te bouwen van cliënt naar server.
+
+===Provider Proxies===
+;Normaal
+:Er zijn internet providers die hun klanten de mogelijkheid bieden gebruik te maken van een proxy. Hiermee zou aan snelheid gewonnen (kunnen) worden.
+:Als zo een proxy juist geconfigureerd is, kunnen alleen klanten van die provider daar gebruik van maken.
+
+:Een provider kan een of meerdere proxies voor dit doel hebben. Het kan zijn dat de cliënt het IP-adres van een van die proxies moet instellen in bijvoorbeeld de browser, het kan ook zijn dat de provider een mechanisme biedt waarbij van een pool van proxies gebruik gemaakt kan worden. AOL bijvoorbeeld heeft voor dit doel een 55.000 proxies in gebruik.
+
+:Het gebruik van een proxy van de provider is in het algemeen niet verplicht.
+
+;Safe surfen
+:Er zijn aanbieders die beogen het surfen op het internet veilig te maken. Daartoe moet de browser zodanig ingesteld worden dat die altijd de proxy van die aanbieder gebruikt. Bepaalde url's met bijvoorbeeld pornografie worden dan gefilterd.
+
+:Er zijn ook landen waarbij de providers verplicht worden om gebruik te maken van dit soort filters. Saoedi-Arabië is daar een voorbeeld van. Omdat in deze landen ook open proxies voorkomen die vanaf het hele internet benaderbaar zijn, promoveren de IP-adressen van dit soort gateways zich automatisch tot exit server.
+
+;Gehackt
+:Hierboven staat in het kort beschreven hoe provider proxies zouden moeten werken. Het is echter niet uitgesloten dat dit soort proxies gehackt zijn.
+
+===Gewone Proxies===
+Voor de volledigheid ook een korte uitleg over gewone proxies.
+
+;Bedrijven / scholen e.d.
+:Bedrijven, scholen, universiteiten, e.d. maken veelvuldig gebruik van proxies. Het voordeel is dat maar 1 publiek IP-adres benodigd is en het interne netwerk voorzien kan worden van een van de IP-adressen die voor dit soort doeleinden gereserveerd zijn. Een IP-adres als 192.168.0.xxx bijvoorbeeld komt waarschijnlijk op miljoenen machines voor.
+
+:Als de proxy juist geconfigureerd is, kan die alleen vanuit het interne netwerk gebruikt worden. In de praktijk blijkt dit echter niet altijd het geval. In een recent geval bijvoorbeeld ontstond een mailwisseling met de ICT beheerder van een school, die nadat vastgesteld was dat het een open proxy was, geblokkeerd was. Na enige mails heen en weer, bleek er inderdaad een foutje te zitten in een configuratie tabel in het systeem van de school.
+
+;Gehackt
+:Behalve dat configuratiefouten tot gevolg kan hebben dat een normale proxy ongewild open wordt, is ook gebleken dat dit soort proxies gehackt kunnen worden. 
+
+===Draadloos===
+;Open {{Wp|WLAN|WLAN}}'s
+:Van een aantal regio's in Europa is bekend dat daar privé initiatieven in ontwikkeling zijn om een ieder binnen het bereik van het netwerk draadloos toegang te bieden tot internet. Afgezien van de legitimiteit van dit soort projecten, is het netto effect hiervan voor Wikibooks te vergelijken met een open proxy.
+Dit soort netwerken gebruikt in het algemeen ook meerdere vaste internet verbindingen en dus publieke IP-adressen.
+
+;WLAN access points ({{Wp|Hotspot (wifi)|hot spots}})
+:<volgt>
+
+;{{Wp|UMTS|UMTS}}/{{Wp|GPRS|GPRS}} proxies
+:Wanneer gebruik gemaakt van mobiele apparatuur om te surfen, wordt dynamisch een IP-adres uit een blok toegewezen. Een aantal van dit soort blokken zijn inmiddels in kaart gebracht.
+
+===Anonymizers===
+Een anonymizer is een website die het mogelijk maakt via proxies (een of meerdere) van die website te surfen. Deze proxies zijn gelijk te stellen aan de exit servers van open netwerken (zie hierboven).
+
+==Detectie en verificatie==
+Het vinden van open proxies is een probleem dat gelijk staat met het zoeken naar een speld in een hooiberg. Er zijn ongeveer 3 miljard publieke {{Wp|IP-adres|IP-adres}}sen uitgegeven en er worden ook nog eens vele honderden {{Wp|Poort (computer)|poort}}en gebruikt om zo een open proxy aan te kunnen spreken.
+
+Op het internet zijn talloze scanners actief, die alle mogelijke combinaties van IP-adressen en poorten testen op dit fenomeen. De resultaten worden op uiteenlopende sites gepubliceerd.<br>
+Een flink aantal daarvan worden via een automatisch proces dagelijks gescand en de resultaten worden in een database opgeslagen. Bij zo een scan worden dagelijks tussen de 500 en 1000 nieuwe IP-poort combinaties aan de database toegevoegd. Het aantal gescande combinaties is echter enkele ordegroottes groter. Er zitten dus veel duplicaten en "oude" open proxies tussen.
+
+Een ander proces, dat hele dagen (en nachten) doorloopt heeft als doel de open proxy eigenschap van zo een IP-adres te verifiëren. Dat kan in een bevestiging resulteren, maar ook tot de conclusie leiden dat het nummer langere tijd geen open proxy meer is. Dat laatste kan meerdere oorzaken hebben (herstel foute configuratie, verwijdering virus, etc.). In feite is het onmogelijk met 100% vast te stellen dat een bepaald IP-adres absoluut geen open proxy is of dat nooit geweest is. Maar na bijvoorbeeld 100 keer op willekeurige momenten niet in staat blijken om zelfs maar een connectie tot stand te brengen, rechtvaardigt toch wel de conclusie dat hier geen sprake (meer) is van een open proxy.
+
+Een ander type scan verzamelt IP-adressen van anoniemen die ooit een bewerking op Wikibooks hebben gedaan. Ook die IP-adressen worden periodiek gescand op de eigenschap "open proxy" of niet. De "opbrengst" van dit soort scans is relatief niet zo groot, maar levert in een maand toch ruim 20 extra IP-poort combinaties die niet op een van de vele lijsten op internet voorkwamen.
+
+Bij het verifiëren van de open proxy eigenschap van een IP-adres wordt tevens gekeken of daar weer andere open proxies in cascade achter zitten. Dat levert de lijst van exit servers (niet te verwarren met TOR).
+
+Eveneens periodiek worden beide hoofdstromen IP-adressen (mogelijke open proxies enerzijds en IP-adressen die een bewerking op Wikibooks hebben gedaan anderzijds) via een aantal database queries tegen elkaar aangelegd. Dat is dan input voor het nader bekijken van de bijdragen van dat IP-adres en zonodig het blokkeren.
+
+<span style="font-size: small;">Dit is slechts een zeer beknopte beschrijving van het proces "achter de schermen". Om evidente redenen is het bewust zo beknopt gehouden.</span>
+
+==Blokkeringsbeleid==
+Blokkering van een open proxy van enigerlei type, kan preventief of reactief gebeuren.<br>
+Bij preventieve blokkering geschiedt deze ongeacht of het IP-adres wel of geen bewerking heeft gedaan. Dit betreft de voor Wikibooks meest "gevaarlijke" proxies, die in de praktijk ook het lastigst te bestrijden blijken.<br>
+Bij reactieve blokkeringen wordt vooralsnog handmatig beoordeeld of blokkering noodzakelijk is en zo ja wat voor soort blokkering.
+
+Preventieve blokkeringen worden automatisch uitgevoerd. Er wordt geen sjabloon op de GP of OP van de gebruiker gezet, maar de uitgevoerde blokkeringen worden in een raadpleegbare lijst gezet. Dit betreft voornamelijk exit servers, waarvan publicatie van de IP-adressen voor potentiële trollen op andere wiki's geen waarde heeft.
+
+Blokkering van een IP-adres kan op meerdere manieren plaatsvinden. Mimimaal worden anonieme bewerkingen vanaf het betreffende IP-adres geblokkeerd. Daarnaast kunnen vanaf dit IP-adres bewerkingen door geregistreerde gebruikers wel of niet toegelaten worden. Tevens kan het aanmaken van nieuwe accounts vanaf zo een IP-adres wel of niet toegelaten worden. De volgende tabel geeft hiervan een overzicht.
+
+{|class=wikitable align=center
+!Type proxy!!Blokkering!!Geregistreerd<br>bewerken<br>toegestaan!!Aanmaken<br>accounts<br>toegestaan!!Opmerkingen
+|-
+|colspan=5 align=center|'''Gewone Open Proxies'''
+|-
+|Open Transparant||align=center|reactief||align=center|neen||align=center|neen||&nbsp;
+|-
+|Open Anoniem||align=center|reactief||align=center|neen||align=center|neen||&nbsp;
+|-
+|Open Elite||align=center|reactief||align=center|neen||align=center|neen||Voor de gebruikte exit node(s), zie hieronder
+|-
+|colspan=5 align=center|'''Exit Servers'''
+|-
+|TOR exit node||align=center|preventief||align=center|neen||align=center|neen||{{Wp|Wikipedia:Lijst van geblokkeerde TOR exit servers|Lijst van geblokkeerde TOR exit servers}}
+|-
+|Exit node ander netwerk||align=center|preventief||align=center|neen||align=center|neen||{{Wp|Wikipedia:Lijst van geblokkeerde CoDeeN servers|Lijst van geblokkeerde CoDeeN servers}}
+|-
+|Exit node voor Elite||align=center|preventief||align=center|neen||align=center|neen||{{Wp|Wikipedia:Lijst van geblokkeerde exit servers|Lijst van geblokkeerde exit servers}}
+|-
+|colspan=5 align=center|'''Provider Proxies'''
+|-
+|Provider proxy – normaal||align=center|reactief||align=center|ja||align=center|neen||Alleen bij gebleken vandalisme
+|-
+|Provider proxy – safe surfen||align=center|preventief||align=center|ja||align=center|neen||&nbsp;
+|-
+|Provider – gehackt||align=center|preventief||align=center|neen||align=center|neen||&nbsp;
+|-
+|colspan=5 align=center|'''Gewone Proxies'''
+|-
+|Bedrijven/scholen e.d.||align=center|reactief||align=center|ja||align=center|neen||Bij veelvuldig vandalisme (scholen e.d.)
+|-
+|Gewone proxies – gehackt||align=center|reactief||align=center|neen||align=center|neen||De beheerder meldt zich zonodig wel
+|-
+|colspan=5 align=center|'''Draadloos'''
+|-
+|Open WLAN||align=center|preventief||align=center|neen||align=center|neen||&nbsp;
+|-
+|WLAN access point||align=center|preventief||align=center|ja||align=center|neen||Gebruikers kunnen via een andere internet aansluiting een account aanmaken
+|-
+|UMTS/GPRS||align=center|preventief||align=center|ja||align=center|neen||idem<br>{{Wp|Wikipedia:Lijst van geblokkeerde IP-adressen voor mobiel|Lijst van geblokkeerde IP-adressen voor mobiel}}
+|-
+|colspan=5 align=center|'''Anders'''
+|-
+|Anonymizer||align=center|preventief||align=center|neen||align=center|neen||{{Wp|Wikipedia:Lijst van geblokkeerde anonymizers|Lijst van geblokkeerde anonymizers}}
+|-
+|Speciale gevallen||align=center|preventief||align=center|variabel||align=center|neen||Voor speciale gevallen (meestal ranges), zie<br>{{Wp|Wikipedia:Open proxies - Speciale gevallen|Open proxies - Speciale gevallen}}
+|}
+
+==Slotopmerkingen==
+*De database van open proxies bevat ook IP-adressen die niet door de {{Wp|IANA|IANA}} zijn vrijgegeven. Dit kan alleen maar doordat DNS servers op een of andere manier zijn gehackt.
+*Het kan natuurlijk zijn dat gebruikers die altijd geregistreerd werken maar dit via een van de hierboven vermelde proxy typen doen, door een blokkering op IP niveau getroffen worden. Omdat zulke gebruikers de mogelijkheid hebben om ook zonder tussenkomst van deze proxy verbinding met de Wikibooks servers verbinding te maken, zijn zij niet blijvend uitgesloten. Als ze hun PC zodanig hebben ingesteld dat ze standaard via een open proxy werken, weten ze ook hoe dit ongedaan is te maken.
+
+Zie ook: {{Wp|Categorie:Wikipedia:Open proxies|Categorie:Wikipedia:Open proxies}} op Wikipedia.
+{{Sub}}

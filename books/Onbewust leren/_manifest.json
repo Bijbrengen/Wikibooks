@@ -1,0 +1,61 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Onbewust%20leren",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Onbewust leren",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 4,
+  "pages": [
+    {
+      "title": "Onbewust leren",
+      "file": "_module.wiki",
+      "pageid": 40228,
+      "contentmodel": "wikitext",
+      "revid": 424681,
+      "parentid": 424032,
+      "timestamp": "2026-04-27T13:11:32Z",
+      "user": "BeeBringer",
+      "comment": "",
+      "sha1": "1b7b5c6b14f80d397d81182beafc9a63d8407d97",
+      "bytes": 882
+    },
+    {
+      "title": "Onbewust leren/Onbewust",
+      "file": "Onbewust.wiki",
+      "pageid": 40229,
+      "contentmodel": "wikitext",
+      "revid": 424499,
+      "parentid": 424335,
+      "timestamp": "2026-04-26T18:01:30Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "b0f63a4dd153c327469cc48a6e4d7f55d88ace0f",
+      "bytes": 11141
+    },
+    {
+      "title": "Onbewust leren/Welbewust",
+      "file": "Welbewust.wiki",
+      "pageid": 40231,
+      "contentmodel": "wikitext",
+      "revid": 431550,
+      "parentid": 424500,
+      "timestamp": "2026-10-29T21:00:55Z",
+      "user": "T.vanschaik",
+      "comment": "/* 2-dimensionale invloed */ typo",
+      "sha1": "9da2db5166884dd18a4d5e668ad96d08cf00f094",
+      "bytes": 13798
+    },
+    {
+      "title": "Onbewust leren/Zelfbewust",
+      "file": "Zelfbewust.wiki",
+      "pageid": 40230,
+      "contentmodel": "wikitext",
+      "revid": 424501,
+      "parentid": 424339,
+      "timestamp": "2026-04-26T18:01:42Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "a8eb6ac713152598a40e2d8284fc3ac2b6bfca8b",
+      "bytes": 8690
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{{Opmaak}}
+Een '''onderwijswiki''' is meer dan alleen een verzameling webpagina's.
+Het is een dynamische, collaboratieve leeromgeving waar kennis niet alleen wordt geconsumeerd, maar ook wordt gecreëerd.
+Voor software zoals [[Wikibooks:Info|Wikibooks]], die draait op de [[Portaal:MediaWiki|MediaWiki]] engine, betekent dit dat we krachtige instrumenten nodig hebben om informatie te structureren en presenteren.
+
+== Modules ==
+Het bouwen van een onderwijswiki begint eenvoudig, maar wordt gaandeweg complexer naarmate de behoeften toenemen.
+We kunnen deze ontwikkeling zien als een ladder:
+
+# '''Wikitext''': De basisopmaak van MediaWiki (zoals `[[Link]]` en `'''Vet'''`).
+# '''ParserFunctions''': Logica toevoegen aan sjablonen (zoals `{{#If:}}` of `{{#Switch:}}`).
+# '''Scribunto (Lua)''': Het framework dat Lua-scripts inbedt in MediaWiki voor complexe logica die met eenvoudige sjablonen onbeheersbaar wordt.
+
+== Sjabloon:Opmaak ==
+Het [[Sjabloon:Opmaak]] is het perfecte voorbeeld van waar deze werelden samenkomen.
+Aan de buitenkant ziet het eruit als een eenvoudig sjabloon, maar intern gebruikt het parserfunctions om de invoer te controleren en roept het vervolgens de Scribunto-extensie aan om de zware berekeningen en lay-out door een Lua-module te laten uitvoeren.
+
+In dit boek nemen we de [[Module:Layout]] als leidraad.
+Je leert niet alleen de programmeertaal Lua, maar ook hoe je een robuust systeem bouwt dat verder gaat dan de standaard MVC-architectuur.
+
+== Inhoudsopgave ==
+De volgende hoofdstukken nemen je mee op deze reis:
+* [[Onderwijswiki/Wikitext|Wikitext]] - De basis van elke wikipagina.
+* [[Onderwijswiki/ParserFunctions|ParserFunctions]] - De eerste stap naar dynamiek.
+* [[Onderwijswiki/Scribunto|Scribunto]] - De brug naar Lua.
+* [[Onderwijswiki/Lua|Lua]] - De kracht van programmeren.
+* [[Onderwijswiki/Model|Model]] - Gegevensstructuren en opslag.
+* [[Onderwijswiki/Content|Content]] - De logica en verwerking.
+* [[Onderwijswiki/View|View]] - De presentatielaag.
+* [[Onderwijswiki/Configuration|Configuration]] - Flexibiliteit door instellingen.
+* [[Onderwijswiki/Interface|Interface]] - De veilige toegangspoort.
+* [[Onderwijswiki/Library|Library]] - Herbruikbare bouwstenen.
+* [[Onderwijswiki/Architectuur|Architectuur]] - Het totale systeem als voordeel.
+
+{{Opmaak | Voettekst}}

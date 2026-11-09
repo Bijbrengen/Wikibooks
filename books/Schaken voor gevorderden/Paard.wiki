@@ -1,0 +1,271 @@
+{{Opmaak}}
+== Promotie ==
+Hoe wint wit aan zet?
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |kd|  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |kl|pl|  |pl|  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |nl|  |
+2 |  |pd|  |  |  |  |  |pd|
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Ivan Cheparinov - Kiril Georgiev, 2012}}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |rl|  |kd|  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |kl|  |  |pl|  |
+5 |  |  |  |  |  |nl|  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |  |pd|
+1 |  |qd|  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Hou controle met het paard over het vluchtveld '''g7'''}}
+# Nf5 b1&equals;Q
+# e7+ Kg8
+# e8&equals;R#
+Zie [https://lichess.org/study/OepBvt7L/hPPyUmjF Lichess study '''Ivan Cheparinov - Kiril Georgiev, 2012'''].
+}}
+
+Hoe voorkomt wit aan zet promotie?
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |  |nl|  |kd|  |  |  |  |
+4 |  |pd|  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |  |kl|
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|N. Grigoriev, 1938}}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |nl|kd|  |  |  |  |  |
+2 |  |  |  |  |  |  |  |kl|
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Positioneer je zo dat je de pion kunt wisselen en de zwarte koning omzeilt}}
+# Nc7+ Kc4
+# Ne8 Kd3
+# Nd6 Kc3
+# Ne4+ Kd3
+# Nc5+ Kd4
+# Nb3+ Kc3
+# Na5 b3
+# Nxb3 *
+Zie [https://lichess.org/study/a7BtTngR/eOrjcbpR Lichess study '''N. Grigoriev, 1938'''].
+}}
+
+== Offer ==
+Hoe zet wit aan zet zwart in twee zetten schaakmat?
+
+[[Bestand:Puzzle offering knight.png|400px|Wit aan zet en schaak in twee zetten]]
+
+Hoe wint zwart aan zet?
+{{Schaak/Bord2
+|left
+|
+|
+8 |rd|  |qd|  |  |rd|kd|  |
+7 |  |pd|  |  |  |pd|pd|pd|
+6 |  |  |pd|pd|bd|  |nd|  |
+5 |pd|  |  |  |  |  |  |  |
+4 |  |  |  |ql|pl|nd|  |  |
+3 |  |bl|pl|  |bl|  |  |pl|
+2 |pl|pl|  |  |  |pl|pl|  |
+1 |rl|  |  |  |rl|nl|kl|  |
+   a  b  c  d  e  f  g  h
+|Wesley So - Magnus Carlsen, Opera Euro Rapid 2021}}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |rd|  |qd|  |  |rd|kd|  |
+7 |  |pd|  |  |  |pd|pd|pd|
+6 |  |  |pd|pd|  |  |  |  |
+5 |pd|  |  |  |  |  |  |  |
+4 |  |  |  |ql|pl|  |  |nd|
+3 |  |  |pl|  |bl|  |  |  |
+2 |pl|pl|  |  |  |pl|bd|kl|
+1 |rl|  |  |bl|rl|nl|  |  |
+   a  b  c  d  e  f  g  h
+|Carlsen had zijn paard moeten offeren in plaats van in de partij '''Nxb3'''}}
+# ... Nxg2
+# Kxg2Bxh3+
+# Kh2 Nh4
+# Bd1 Bg2 (de opstelling zoals in beeld, wit moet de dame offeren om niet direct te verliezen)
+# Qxg7+ Kxg7
+# Bd4+ f6
+# Re3 ...
+Zie [https://lichess.org/study/OepBvt7L/M2VmCc9v Lichess study '''Wesley So - Magnus Carlsen, Opera Euro Rapid 2021'''].
+}}
+
+Hoe wint wit aan zet?
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |bd|qd|  |  |  |
+7 |pd|  |nd|  |  |rd|kd|  |
+6 |  |pd|pd|  |pd|  |pd|  |
+5 |  |  |  |pd|pl|nd|pl|pd|
+4 |  |pl|  |pl|  |nl|  |pl|
+3 |  |  |pl|nl|  |  |  |kl|
+2 |pl|  |  |bl|ql|rl|  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Bluhm - Jakobs, Germany - 1927}}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |bd|qd|  |  |  |
+7 |pd|  |nd|  |  |rd|  |  |
+6 |  |pd|pd|  |pd|  |kd|  |
+5 |  |  |  |pd|pl|nd|pl|ql|
+4 |  |pl|  |pl|  |  |  |pl|
+3 |  |  |pl|nl|  |  |  |kl|
+2 |pl|  |  |bl|  |rl|  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Door het ene paard op te offeren kan het andere paard dreigen met mat als de zwarte koning op h5 beland}}
+# Nxg6 Kxg6
+# Qxh5+ Kg7 (met Kxg6 geeft het andere paard mat)
+# g6 Dg8
+# Txf5 exf5
+# Dh6
+Zie [https://lichess.org/study/OepBvt7L/hcZvtjB5 Lichess study '''Bluhm - Jakobs, Germany - 1927'''].
+}}
+
+Hoe wint wit aan zet?
+{{Schaak/Bord2
+|left
+|
+|
+8 |qd|  |  |  |rd|nd|  |kd|
+7 |  |  |ql|rl|  |  |  |  |
+6 |pd|pd|  |  |pd|pd|  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |pl|  |pl|  |  |  |  |  |
+3 |  |pl|  |  |  |  |nl|  |
+2 |  |  |  |  |  |  |nd|  |
+1 |  |  |  |  |  |  |kl|  |
+   a  b  c  d  e  f  g  h
+|Anatoly Karpov - Istvan Csom}}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |qd|  |  |  |rd|nd|  |kd|
+7 |  |  |ql|rl|  |  |  |  |
+6 |pd|pd|  |  |pd|pd|  |  |
+5 |  |  |  |  |  |nl|  |  |
+4 |pl|  |pl|  |  |  |  |  |
+3 |  |pl|  |  |  |  |  |  |
+2 |  |  |  |  |  |  |nd|  |
+1 |  |  |  |  |  |  |kl|  |
+   a  b  c  d  e  f  g  h
+| De angel zit erin dat door de paard sprong en '''g7''' dubbel wordt verdedigt en de dame vrij spel heeft naar '''g''' en '''h''' lijn}}
+Zie [https://lichess.org/study/OepBvt7L/wakITUJF Lichess study '''Anatoly Karpov - Istvan Csom'''].
+}}
+
+Wat is de beste zet voor wit?
+{{Schaak/Bord2
+|left
+|
+|
+8 |rd|  |rd|  |  |  |kd|  |
+7 |  |  |  |  |qd|  |pd|  |
+6 |nd|pd|  |  |pd|  |  |pd|
+5 |  |  |  |pd|nl|pd|  |  |
+4 |  |  |  |pl|nd|  |  |  |
+3 |  |  |nl|  |  |  |  |  |
+2 |pl|pl|ql|  |  |pl|pl|pl|
+1 |rl|  |rl|  |  |  |kl|  |
+
+   a  b  c  d  e  f  g  h
+|Volkevich - Lyskov, Russia 1958}}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |  |nl|  |pd|kd|
+6 |nd|pd|  |  |  |  |  |pd|
+5 |  |  |  |pd|  |pd|  |  |
+4 |  |  |  |pl|nd|  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|  |  |  |pl|pl|pl|
+1 |rl|  |  |  |  |  |kl|  |
+   a  b  c  d  e  f  g  h
+|Zwart had beter niet het offer kunnen nemen}}
+# Nxd5 exd5
+# Qxc8+ Rxc8
+# Rxc8+ Kh7
+# Rh8+ Kxh8
+# Ng6+ Kh7
+# Nxe7 *
+Zie [https://lichess.org/study/OepBvt7L/DIWAmLK5 Lichess study '''Volkevich - Lyskov, Russia 1958'''].
+}}
+
+== Positie ==
+Welke twee zetten maakt Kasparov om zijn eigen paard oersterk te maken en die van zwart zwak?
+{{Schaak/Bord2
+|left
+|
+|
+8 |rd|  |  |qd|kd|  |  |rd|
+7 |  |bd|  |  |  |pd|pd|pd|
+6 |pd|  |  |pd|  |bd|  |  |
+5 |  |  |nd|nl|pd|  |  |  |
+4 |  |rl|  |  |pl|  |  |  |
+3 |  |  |pl|  |  |  |  |  |
+2 |  |pl|nl|  |  |pl|pl|pl|
+1 |  |  |  |ql|kl|bl|  |rl|
+   a  b  c  d  e  f  g  h
+|Garry Kasparov - Alexey Shirov 1994}}
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |rd|  |  |qd|kd|  |  |rd|
+7 |  |nd|  |  |  |pd|pd|pd|
+6 |pd|  |  |pd|  |bd|  |  |
+5 |  |  |  |nl|pd|  |  |  |
+4 |  |pl|  |  |pl|  |  |  |
+3 |  |  |pl|  |  |  |  |  |
+2 |  |  |nl|  |  |pl|pl|pl|
+1 |  |  |  |ql|kl|bl|  |rl|
+   a  b  c  d  e  f  g  h
+|Hoewel het niet zo lijkt maakt de ruil het witte paard volgens Kasparov sterker dan een toren.}}
+Door '''Rxb7 Nxb7''' en ''''b4''' is het zwarte paard is waardeloos geworden terwijl het witte paard onaantastbaar en gevaarlijk is
+Zie [https://lichess.org/study/OepBvt7L/2wYEEu1F Lichess study '''Garry Kasparov - Alexey Shirov 1994'''] voor hoe Kasparov uiteindelijk wint.
+}}
+
+{{Opmaak | Voettekst}}

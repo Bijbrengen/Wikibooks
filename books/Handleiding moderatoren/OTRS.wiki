@@ -1,0 +1,29 @@
+{{Index Handleiding moderatoren}}
+==Leerdoel==
+De lezer weet na het doorlopen van deze module wat OTRS is en welke rol het binnen de Wikimedia Foundation speelt en is in staat zelfstandig dit instrument te gebruiken, wetende welke verantwoordelijkheden dit met zich meebrengt.
+
+==Vereiste voorkennis==
+*Basiskennis in het gebruiken van webapplicaties;
+*Ervaring met het antwoorden aan externe contacten.
+
+'''OTRS''' staat voor '''Open source Ticket Request System''' en is een softwaresysteem dat wordt gebruikt om vragen van klanten af te handelen binnen de Wikimedia Foundation. Hiervandaan wordt de helpdesk verzorgd, komen de vragen en klachten binnen, en worden hierop antwoorden gegeven. Voor meer informatie over OTRS in het algemeen, zie [[m:OTRS/translation-nl|meta]]. Het ticketsysteem is [https://secure.wikimedia.org/otrs/index.pl hier] te vinden.
+
+==Toegang==
+Hoe OTRS-er worden?
+
+==Queues==
+Beschrijving van de functie van queues met verwijzing naar meta voor precieze inhoud (?).
+
+==Omgaan met de software==
+Beschrijving van de verschillende basisfuncties
+===Functie1===
+
+===Functie2===
+etc.
+
+==Valkuilen en standaardantwoorden==
+Hoe om te gaan met specifieke groepen vragen/opmerkingen, welke standaardantwoorden zijn er en hoe die te gebruiken. Zie ook [[Handleiding moderatoren/Hoe om te gaan met persoonlijke aanvallen]]
+
+==Licenties teksten en afbeeldingen==
+Hoe omgaan met juiste licenties voor tekst en afbeeldingen (link plaatsen, antwoorden, archiveren, etc.). Zie ook [[Handleiding moderatoren/Licenties]].
+{{Sub}}

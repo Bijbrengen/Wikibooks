@@ -1,0 +1,22 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Onderwijsondernemer",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Onderwijsondernemer",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "title": "Onderwijsondernemer",
+      "file": "_module.wiki",
+      "pageid": 39849,
+      "contentmodel": "wikitext",
+      "revid": 367436,
+      "parentid": 342649,
+      "timestamp": "2022-12-18T07:37:44Z",
+      "user": "BeeBringer",
+      "comment": "Doorverwijzingsdoel gewijzigd van [[Onderwijsentrepreneur]] naar [[Onderwijsprofessional/Onderwijsentrepreneur]]",
+      "sha1": "3630c564b88998b4b3f9437f5d159f320a069715",
+      "bytes": 57
+    }
+  ]
+}

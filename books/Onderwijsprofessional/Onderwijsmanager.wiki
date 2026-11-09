@@ -33,7 +33,6 @@ Op onderwijsmanagers in het basisonderwijs; de schoolleiders, is de {{Wp|wet BIO
 De '''onderwijsdirecteur''' is iemand die aan het hoofd staat van een (afdeling van een) school of het onderwijs leidt op een afdeling van de faculteit van een universiteit. Hij is daarmee de hoogste [[onderwijsmanager]] binnen (een afdeling van) een onderwijsorganisatie.  Volgens de {{Wp|Wet op het voortgezet onderwijs|wet op het voortgezet onderwijs}} staat een {{Wp|rector|rector}} aan het hoofd van een school voor {{Wp|voorbereidend wetenschappelijk onderwijs|voorbereidend wetenschappelijk onderwijs}}, bij andere scholen voor voortgezet onderwijs leidt een onderwijsdirecteur<ref name="WET">{{Citeer boek | Achternaam = Wet op het voortgezet onderwijs | URL = https://wetten.overheid.nl/cgi-bin/deeplink/law1/title=Wet%20op%20het%20voortgezet%20onderwijs | Titel = '''artikel 32'''}}</ref>. Vanwege zijn bevoegdheid neemt een onderwijsdirecteur van een school zitting in het schoolbestuur en vertegenwoordigt deze binnen zijn school bijvoorbeeld in de medezeggenschapsraad. De onderwijsdirecteur binnen een faculteit neemt meestal geen zitting in het faculteitsbestuur.
 
 === Onderwijscoördinator ===
-{{Onderwijsprofessional/Artikel|Titel=Onderwijscoördinator}}
 
 Een '''onderwijscoördinator''' is iemand die onderwijsmensen, -voorzieningen en -activiteiten organiseert en met elkaar in overeenstemming brengt om bepaalde onderwijsdoelen te bereiken. Bij een [[onderwijsmanager]] is het leiding geven aan een groep of afdeling zelf het onderwijsdoel. 
 
@@ -97,7 +96,6 @@ Scholen voor voortgezet onderwijs zijn sinds 1 augustus 1998 wettelijk verplicht
 Sinds 1 augustus 1998 moet elke school in het primair en voortgezet onderwijs over een klachtenregeling voor ouders en personeel beschikken. Bovendien geldt dit in het voortgezet onderwijs ook voor leerlingen en in het (voortgezet) speciaal onderwijs voor leerlingen vanaf 13 jaar. Via de klachtenregeling moeten klachten over het bevoegd gezag en alle anderen die in de school werkzaam zijn, zo veel mogelijk op de school zelf worden opgelost. Het gaat om een laagdrempelige voorziening voor klachten over het bevoegd gezag en allen die in de school werkzaam zijn. Het schoolbestuur moet een klachtencommissie instellen, waar de klachten kunnen worden ingediend. De regeling moet ervoor zorgen dat klachten zo veel mogelijk op school tot een oplossing worden gebracht. Het kan hierbij overigens ook gaan om klachten over het gedrag of beslissingen ten opzichte van andere ouders of leerlingen. Een klachtencommissie (minimaal drie leden, waaronder een onafhankelijke voorzitter) behandelt de klachten. 
 
 === Onderwijstijd ===
-{{Onderwijsprofessional/Artikel|Titel=Onderwijstijd}}
 
 '''Onderwijstijd''' is de tijd voor activiteiten uit het {{Wp|Curriculum|onderwijsprogramma}} die de {{Wp|overheid|overheid}} als zodanig meetelt. 
 {{Infobox wetsartikel

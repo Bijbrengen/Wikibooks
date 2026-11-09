@@ -1,0 +1,44 @@
+{{Index Handleiding moderatoren}}
+Een (toekomstig) moderator wordt verondersteld de basisprincipes voor het gebruik van Wiki-programmatuur te begrijpen.
+
+Zonder in te gaan op het eigenlijke programmeren, is kennis van de software onontbeerlijk om grondig te begrijpen hoe een Wiki werkt en opgebouwd is. Wiki-projecten maken gebruik van de software ''MediaWiki''. 
+
+Leer daarom de principes in het [[Inleiding MediaWiki|inleidend boek over MediaWiki]].
+
+De belangrijkste begrippen uit MediaWiki om verder te kunnen gaan met deze handleiding zijn:
+
+{| cellpadding="2" cellspacing="0" width=160px style="float:left; margin-left:0.5em; border:3px solid; font-size:smaller; line-height:normal; border-color:#EFEFEF; text-size: small; color: black; background-color:#FFFFFF"
+| style="border-bottom:3px solid; color: black; background-color:lightblue;"|<div style=";text-align:center;">'''[[Inleiding MediaWiki|Inleiding MediaWiki]]'''</div>
+|-
+| style="color: black; background-color:#efefef;" | <div style=";text-align:center;">'''Inleidend'''</div>
+|-
+| [[Inleiding MediaWiki/Wat betekent wiki?|Wat betekent wiki?]]
+:[[Inleiding MediaWiki/Wat betekent wiki?/Namen|Namen]]
+|-
+| [[Inleiding MediaWiki/Wikiquette|Wikiquette]]
+|-
+| [[Inleiding MediaWiki/Auteursrecht|Auteursrecht]]
+|-
+| [[Inleiding MediaWiki/Aanmelden|Aanmelden]]
+|-
+| [[Inleiding MediaWiki/Wat zie ik op een wiki-pagina|Wat zie ik op een wiki-pagina]]
+|-
+| style="color: black; background-color:#efefef;" | <div style=";text-align:center;">'''Pagina's bewerken'''</div>
+|-
+| [[Inleiding MediaWiki/Bewerken|Bewerken]]
+: [[Inleiding MediaWiki/Bewerken/Links|Links]]
+: [[Inleiding MediaWiki/Bewerken/Schuingedrukt en vetgedrukt|Schuin/vetgedrukt]]
+: [[Inleiding MediaWiki/Bewerken/Tussenkopjes|Tussenkopjes]]
+: [[Inleiding MediaWiki/Bewerken/Lijsten|Lijsten]]
+|-
+| [[Inleiding MediaWiki/Uploaden|Uploaden]]
+|-
+| [[Inleiding MediaWiki/Afbeeldingen|Afbeeldingen]]
+|-
+| [[Inleiding MediaWiki/Tabellen|Tabellen]]
+|-
+| [[Inleiding MediaWiki/Categorieën|Categorieën]]
+|-
+| [[Inleiding MediaWiki/Naamruimten|Naamruimten]]
+|}
+{{Sub}}

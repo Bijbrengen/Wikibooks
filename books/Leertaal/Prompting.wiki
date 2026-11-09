@@ -1,0 +1,18 @@
+{{Opmaak}}
+Een leertaal kan een schrijfwijze gebruiken die op korte instructies of prompts lijkt. Het doel is een beschrijving die mensen kunnen lezen en software volgens vaste afspraken kan verwerken. Een promptachtige vorm is geen garantie dat een taalmodel de inhoud correct begrijpt.
+
+== Leesbaarheid ==
+Een beknopte formulering kan de aandacht richten op de betekenis. [[Leertaal/Definitie#Leeruitspraak|Leeruitspraken]] bieden bijvoorbeeld de herkenbare structuur actor, actie, object en context. Bij [[Leertaal/Declaratief|declaraties]] maken namen en verhoudingen hergebruik mogelijk. Een hulpmiddel kan vragen stellen om ontbrekende onderdelen te verduidelijken.
+
+== Precizie ==
+Gewone woorden kunnen verschillende interpretaties oproepen. Een formele taal beperkt dat door definities, typen en betekenisregels. Een toegankelijke uitleg en een formele schrijfwijze kunnen naast elkaar bestaan. Een heldere uitkomst kunnen lezen is iets anders dan zelfstandig correcte code kunnen schrijven.
+
+== Dialoog ==
+Een toepassing kan beginnen met vragen als: wat wil de lerende kunnen, wat is al onderbouwd, welke handelingen en contexten zijn relevant? De gebruiker kan een interpretatie corrigeren. Een terugmelding van de [[Leertaal/Interpreter|interpreter]] kan helpen bij een ongeldige verwijzing of een onvolledige beschrijving.
+
+== Taalmodellen ==
+Een taalmodel kan ondersteunen bij [[Leertaal/Conversie|omzetting]] tussen gewone taal en formele beschrijvingen. De formele verwerking kan daarvan onafhankelijk blijven. Een interface mag bovendien een antwoord van het model niet presenteren als bewezen uitspraak over het leren.
+
+Bij blijvende verbetering van een model, bijvoorbeeld door verdere training of transferleren, zijn beoordeelde voorbeelden en afzonderlijke validatie nodig. Correcties in een dialoog zijn niet automatisch blijvende training. Zie [[Leertaal/Leren|leren met taalmodellen]].
+
+{{Opmaak | Voettekst}}

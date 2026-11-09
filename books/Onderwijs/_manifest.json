@@ -1,0 +1,22 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Onderwijs",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Onderwijs",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 1,
+  "pages": [
+    {
+      "title": "Onderwijs",
+      "file": "_module.wiki",
+      "pageid": 39866,
+      "contentmodel": "wikitext",
+      "revid": 425304,
+      "parentid": 424683,
+      "timestamp": "2026-05-13T08:11:11Z",
+      "user": "Erik Baas",
+      "comment": "lf",
+      "sha1": "e66b6ffbd8259788245b611c4516df65576d2bd0",
+      "bytes": 1702
+    }
+  ]
+}

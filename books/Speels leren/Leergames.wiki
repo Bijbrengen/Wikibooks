@@ -1,0 +1,156 @@
+{{Opmaak}}
+Een leergame is een (computer)spel dat de gebruiker ondersteunt in het leren. Het verschil met een educatieve game is dat een leergame het leren zelf als [[Leren leren/Doel|leerdoel]] heeft en niet een bepaald onderwerp of vak. Een leergame maakt gebruik van leertechnologie en leert daarmee de gebruiker om beter te leren. Een leergame heeft als bedoeling de lerende te leren om op een succesvolle manier meer regie te geven over zijn eigen leren en kan daarom zelf redelijk sturend zijn (in het begin) als het gaat om het versterken van metacognitie.
+
+== Voorwaarden ==
+Games hebben de mogelijkheid een effectief en efficiënt instrument te leveren voor [[leren]]<ref>De Schutter, Bob, and Vanden Abeele, Vero. Digitale Spellen Als Bron Van Leren. Groep T; Leuven, 2008. Web.</ref>, [[Leren/Onbewust_leren|onbewust leren]] en voor het [[Leren/Leren_leren|leren leren]]. Games geven bijvoorbeeld direct feedback en besteden veel aandacht aan hoogwaardige instructie. Als men effectief wil leren, is het verstandig een game te zoeken die men al kent en in die game aan te sluiten bij wat men al weet. Spellen die naast vermaak ook een ander doel nastreven, zoals in dit geval leren, noemt men vaak "games that matter", "games with a purpose" of nog vaker [[w:Serious_game|"serious games"]]. Voor het leren is het van belang dat games zoveel mogelijk play zijn, of anders gezegd dat ze veel vrijheid hebben om zelf de game met eigen regels te vormen of naar eigen inzicht te spelen. De krachtigste leergames stimuleren het zelf denken en creativiteit. Lego is dus prima, als je handleidingen weglaat! Als de game al iets doceert dan is het over het leren zelf en niet over een onderwerp.
+
+Games kennen veel eigenschappen die we als analogie kunnen gebruiken voor concepten uit het leren. Omdat we deze eigenschappen al kennen, zullen we de verwante leerconcepten sneller en diepgaander eigen kunnen maken. Bijvoorbeeld het concept vrijheid. Leren bezorgt je vrijheid, dit kan worden symboliseert in speels leren door meer vrijheidsgraden (unlocken van levels). Meer voorbeelden van analogieën zijn:
+* Net als '''resource'''s nodig zijn om om te zetten in dingen of energie (door te smelten, te verbinden, te katalyseren of te voeden), heb je leermiddelen of leerobjecten nodig om je leren te synthetiseren. Deze resources kun je vinden op bepaalde plekken.
+* Net als '''items''', artifacts, building blocks enzovoort bouw je met kleine leereenheden steeds grotere leereenheden op.
+* Net als bij '''onderzoeken''' in games ontvang je in het onderzoekend leren ook steeds meer tools waarmee je toegang krijgt tot nieuwe leerobjecten.
+* Net als bij het '''ontwerpen''' van je eigen leeromgeving kun je in games vaak je eigen huis, stad, rijk of wereld creëren.
+* Net als bij de '''missie''' in een game kun je leerdoelen samenstellen door het (leer)gebied ('''area''') te kiezen van je uitdaging, het '''level''' waarop je de missie uitvoert, de opbrengst of '''goal''' van de missie en wat je als gereedschapskist of '''toolbox''' nodig hebt.
+* Net als bij '''multiplayer''' leer je effectiever (sociaal constructivisme) als je dat samen met anderen doet. Ervaren en ambitieuze gamers doen veel moeite om een ideaal team samen te stellen om een '''campaign''' succesvol af te ronden.
+* Net als de '''status''' in een game door ervaring en waardering kan groeien, kun je ook in het leren een andere rol toe-eigenen (buddy, ervaringsdeskundige, expert). 
+* Net als '''likes''' krijg je in het leren een waardering door cijfers. 
+* Net als '''badges''' in games krijg je in het leren certificaten of overgangsrapporten, wat weer speciale toegang geeft tot andere games of game-onderdelen.
+* Net als in een '''end-game''' heb je ook een hopelijk vermakelijk feest bij je eindexamen, diplomering of promotie.
+
+== Types ==
+De volgende type leergames kunnen we onderscheiden op grond van de mate van vrijheid (fixed versus free) wat betreft de inhoud en het spel. De voorkeur voor een bepaald type spel is te koppelen aan de (meest waarschijnlijke) [[leerstijl]] van de speler in een bepaalde context. Daarop kan men afleiden welke vorm van leren het beste bij de speler zal aansluiten. Hieronder zijn als voorbeelden vormen van [[vrij leren]] opgenomen.
+{| class="wikitable"
+|-
+! Types!! ''Fixed''<br>Content!! ''Free''<br>Content
+|- 
+| '''''Fixed'''''<br>Play|| '''Mission games'''<br>Reproductieve leerstijl<br>[[Model leren]]  || '''Simulation'''<br>Toepassingsgerichte leerstijl<br>[[Ontwerpend leren]]
+|-
+| '''''Free'''''<br>Play|| '''Adventure game'''<br>Betekenisgerichte leerstijl<br>[[Onderzoekend leren]] || '''Sandbox'''<br>Productieve leerstijl<br>[[Ondernemend leren]]
+|}
+Als iemand natuurlijk zelf een game voor zijn leren ontwerpt, dan is er sprake van de hoogst mogelijke vrijheid en daarmee de ultieme leergame. Veel moderne games hebben overigens de verschillende types geïntegreerd. Zo kun je bijvoorbeeld in het als sandboxgame gekwalificeerde [[w:en:Astroneer|Astroneer]] ook missies volgen, bouwen of ontdekken.
+
+Men kan de deskundigheid waarmee men de vrijheid om het eigen leren in te richten ook op een competitieve manier vaststellen, zoals met de [[w:/Fédération_Internationale_des_Échecs|FIDE]]-rating bij het [[schaken]] gebeurt. Afhankelijk van hoe je game ten opzichte van anderen speelt (hoe goed is je onderwijsarchitectuur in vergelijking met anderen die dezelfde leerdoelen nastreven) bepaalt je ranking.
+
+== Ideeën ==
+=== Multiverse ===
+De Multiverse Game is een interactieve ervaring die zich concentreert op het inzichtelijk maken van vaardigheden die we gaan of hebben geleerd door ze te koppelen aan een rol. Het unieke aan deze game is dat het idee van het multiversum als fundament dient. In dit concept leeft elk personage, dat een avatar of een vertegenwoordiging van een mens is, in zijn eigen unieke universum. Dit sluit aan bij de natuurkundige theorie van het multiversum, waarin wordt gesteld dat er mogelijk meerdere universums naast elkaar kunnen bestaan. Elk van deze universums biedt een unieke set van omstandigheden en mogelijkheden, wat bijdraagt aan de complexiteit, diepgang als wel de ordening van de vaardigheden die we leren of hebben geleerd.
+
+In de game kunnen spelers een personage kiezen door een universum te selecteren. Dit personage heeft bepaalde vaardigheden. Deze vaardigheden zijn niet zomaar willekeurige eigenschappen; ze zijn integraal verbonden met het personage en zijn of haar universum. Eenmaal gekozen, kunnen spelers verder specificeren in welke galaxy, wereld, of zelfs welk land hun personage zal opereren. Dit stelt hen in staat om de vaardigheden waar de game om draait verder te specificeren en te ontwikkelen. De speler zal door [[Model leren|modelleren]] de vaardigheden die bij het character horen zich eigen maken.
+
+=== Magistrate ===
+Magistrate is een leergame dat is bedoeld om het traditionele educatieve portfolio om te zetten in een interactieve ervaring. In dit spel neemt de student de rol aan van een advocaat die moet bewijzen dat hij of zij een bepaalde vaardigheid onder de knie heeft. De student verzamelt bewijzen in de vorm van 'collectibles' uit andere leergames of kan zelf bewijzen inbrengen. Vervolgens verdedigt de student zijn of haar stelling op basis van geldende 'laws' (wetten) in zijn of haar onderwijs en eigen logica of redenering.
+
+Wat het spel uniek maakt, is de rol van de Magistraat, een AI-entiteit die de taak heeft om de ingebrachte bewijzen en de bewijsvoering van de student te beoordelen. Na het wegen van de bewijzen en de bewijsvoering, geeft de Magistraat advies over de sterkte ervan. Als het bewijs en de bewijsvoering niet overtuigend genoeg zijn, zal de AI suggesties doen voor verbetering.
+
+Een van de voordelen van Magistrate is dat het kiezen van 'collectibles' en 'laws' een snelle samenstelling van het portfolio mogelijk maakt. Daarnaast biedt de game de mogelijkheid om een persoonlijk tintje te geven aan het portfolio. Dit maakt het proces van het samenstellen van een portfolio veel aantrekkelijker en kan leiden tot een certificaat voor de betreffende vaardigheid.
+
+=== Multiwall ===
+Iedereen bouwt tijdens zijn leven op grond van goedbedoelde adviezen een muur om zich heen. Deze wand is samengesteld uit meerdere lagen door verschillende actoren uit de omgeving; ouders, familie, vrienden, leraren, geestelijken enzovoort. In deze game wordt deze muur steun voor steen en laag voor laag verlaagd, zodat de speler steeds meer zicht krijgt op wat voor de speler zelf van belang is. Aangeboren gewoontes die zorgen voor een gelukkig leven voor de speler zelf in plaats van voor anderen. Dit spel draait zodoende niet om leren, maar om afleren. Het afbreken van de meerwandige muren die anderen om ons heen hebben gemetseld en ons beperken in het leren. Als stootram kan men versterkende overtuigingen inzetten die onderdelen van de muur slopen.
+
+=== [[Speels leren/Memory|Memory]] ===
+''Leertaal''
+
+Een spel dat ieder mens wel eens heeft gespeeld, is memory. Een manier om snel nieuwe concepten te leren is door aan te sluiten bij concepten die veel overeenkomsten hebben. Bijvoorbeeld woorden uit twee talen die hetzelfde klinken en dan de kleine verschillen in schrijfwijze uit te vergroten. Of een plaatje dat men herkent te koppelen aan een woord uit een andere taal (een mens is van nature visueel ingesteld). Door dit stapsgewijs op te bouwen (bijvoorbeeld als volgt):
+# plaatjes met woorden erin uit bekende taal matchen
+# plaatjes met woorden erin uit nieuwe taal matchen
+# plaatjes en losse woorden uit nieuwe taal matchen
+# woorden uit bekende taal met woorden uit nieuwe taal matchen
+kan men door aan te sluiten de nieuwe taal bewust verbinden in het hoofd met een nieuwe taal. 
+
+Of bij het überhaupt leren van (de eerste) taal, dus lezen en schrijven, denk aan het [[w:Leesplankje van Hoogeveen|Leesplankje van Hoogeveen]] met de plaatjes Aap, Noot, Mies ... enzovoort als afbeeldingen van de memorykaarten. In dat geval zien de stappen er als volgt uit
+# duo-kaarten van alle plaatjes uit het leesplankje met het woord erin geschreven. 
+# één kaart van het duo heeft het plaatje uit het leesplankje met het bijpassende woord eronder en de andere kaart heeft alleen het woord als tekst.
+# duo-kaarten van alle woorden uit het leesplankje
+# één kaart van het duo heeft het woord uit het leesplankje met een audiofragment waarin het woord wordt uitgesproken; de andere kaart heeft alleen het woord.
+# één kaart heeft alleen een audiofragment waarin het woord wordt uitgesproken, de andere kaart heeft alleen het woord.
+
+Het [[bewust leren]] kan door de game worden ondersteund als deze bijvoorbeeld eerst de gebruiker zijn eigen manier laat doen om een reeks woorden uit een vreemde taal te leren. Dan kan die voorkeursstrategie worden vergeleken met de snelheid van en de hoeveelheid woorden die men kan onthouden door het spelen van de game. Men kan de memory game zelfs wetenschappelijk valideren door bij een grotere groep mensen dit toe te passen en te variëren binnen dezelfde persoon. Omdat de eigen strategie heel verschillend kan zijn van persoon tot persoon, dienen in de wetenschappelijke analyse bepaalde vaste deelstrategieën te worden vergeleken door ze wel of niet toe te passen; bepaalde stappen uit de opbouw aan of uit te zetten.
+
+Lees meer hierover in het hoofdstuk "[[Speels leren/Memory|Memory]]".
+
+=== [[Speels_leren/Maze|Maze]] ===
+''Ken uzelf''
+
+De [[Speels_leren/Maze|maze]] is een game waarin we ervaren dat leren is als een doolhof. Elke keer denk je dichter bij de uitgang te komen, maar dan blijkt er ineens een hek tussen te staan. Steeds meer games en andere softwareprogramma's zoals zoekmachines, hebben een [[w:Kunstmatige_intelligentie|kunstmatige intelligentie (KI of AI)]] die jou al doende beter leert kennen. Op die manier krijg je naarmate je het programma meer gebruikt, passender suggesties qua passies en talenten. 
+
+Echter, je hebt zelf nauwelijks inzicht in hoe die AI dat doet en hoe goed de AI je al kent. Ook voor de AI ben je aanvankelijk een doolhof. Afhankelijk van de consistentie (eerlijkheid) waarmee jij keuzes in het programma maakt en hoe complex je als persoon in elkaar steekt, zal de AI steeds meer duidelijkheid en zekerheid krijgen over de te volgen weg. Dit lijkt op het steeds minder verstrikt raken in een doolhof of maze. 
+
+Als we dit proces in een doolhof weergeven; de positie van de AI geeft aan in hoeverre hij je kent en de beweging die je mag maken laat zien welke keuze de AI verrast (verder in het doolhof verstrikt raakt) of bevestigt (naar de uitgang brengt), dan kun je wat de AI over jou leert visualiseren. En dat geeft weer inzicht in jezelf. Je zou dit ook met credits of coins die je verzamelt kunnen symboliseren.
+
+Wat een AI doet is in feite vragen over jou beantwoord zien te krijgen. Wat is je favoriete hobby, met wie heb je het liefste contact, welke spullen vind je het leukst enzovoort. Deze vragen worden ons echter niet rechtstreeks gesteld, maar afgeleid uit onze klikkeuzes en zoekopdrachten als het gaat om bijvoorbeeld de Google AI. Dat is een gemiste kans om iets over onszelf te leren. 
+
+Voor het speels leren, zullen de vragen gericht zijn op iemands voorkeuren voor het leren. Zo kan de AI leervoorkeuren vaststellen en die terugkoppelen. Op die wijze kan een bekend spel, de maze of doolhof, worden ingezet om inzicht te krijgen in je eigen leerstijl.
+
+Lees meer hierover in het hoofdstuk [[Speels_leren/Maze|Maze]].
+
+=== Mission ===
+Stel we maken een afspraak. Dan is het belangrijk dat ik plaats en tijd noem. Immers, anders als we niet beide precies benoemen, dan gaan we elkaar niet ontmoeten. Dit lijkt vanzelfsprekend, maar is dat ook in het onderwijs wel zo? Als je een docent vraagt; "wat dienen de leerlingen te leren", dan krijg je nogal eens als antwoord paragraaf 14, hoofdstuk 3. Als je dan vervolgens vraagt; "wat leren ze dan?", dan wordt het lastig. De tijd wil vaak nog wel, maar de plaats? 
+
+Leerdoelen specificeren is een lastige, tijdrovende en saaie activiteit. Maar als ik het niet goed genoeg doe, dan krijgen we problemen met onze afspraak. Als ik "Nieuw" vergeet, als ik in Nieuw Amsterdam wil afspreken, dan kan er wel eens 200 km tussen ons komen te zitten. En als ik het niet beperk, dan wel een hele oceaan (New York). Leerdoelen dienen daarom SMART te zijn geformuleerd (specifiek, meetbaar, acceptabel, realistisch en tijdgebonden). Hoe kan een game dit leuk maken, makkelijker en sneller?
+
+In feite doen we dit al in games of navigatiesystemen. Als we een missie kiezen in een game, dan kies je een plaats, een gewenste aankomsttijd. een passend voertuig, wat je meeneemt voor de reis (rugzak) en wat je denkt te halen uit de missie. Eem missie is in feite het vooraf verzinnen van een verhaal (dit kan leiden tot leeractiviteiten die leiden tot bepaalde leerdoelen) of het achteraf vertellen wat er is gebeurd (een portfolio om eerder verworven competenties aan te tonen). Verhalen vertellen is tegelijkertijd ook een sterke leermethode, niet alleen om dingen te onthouden, maar ook om beter te begrijpen en beter te plannen. 
+
+Lees meer hierover in het hoofdstuk [[Speels leren/Mission|Mission]].
+
+=== Merge ===
+We hebben allemaal weleens gespeeld met Lego. Door allerlei blokjes met verschillende vormen, kleuren en aantallen noppen, aan elkaar te verbinden, kunnen we van alles bouwen. Dat kan braaf de manual opvolgend, maar ook geheel vrij al spelend. We kunnen het vrije leerproces gebruiken om te leren leren. Dat begint met het verzoek om met het legobouwwerk iets uit te beelden dat de eigen wensen of doelen als uitkomst van een leerproces visualiseert. Stel men wil een grote IT-entrepreneur worden alla Steve Jobs, dan kan men zijn gezicht nabootsen, maar ook een Apple computer of het logo bouwen. Wat men kiest zegt al iets over welke aspecten met van het doel interessant vindt: de persoonlijkheid, het mooie product of het bekend zijn. Met andere woorden, het bouwen zet je aan het denken en concretiseren van wat je wenst te bereiken.
+
+We kunnen dit concretiseren van je eigen wensen nog verder uitdiepen. Hoe is het gezicht opgebouwd, ogen, mond, oren enzovoort? En een oog zal weer opgebouwd zijn uit meerdere legoblokjes. Als we deze blokjes beschouwen als elementaire eenheden die een deelconcept weerspiegelen van het hoofdconcept Steve Jobs, dan krijg je inzicht welke concepten er nodig zijn om een bepaalde wens te realiseren. Het voordeel van deze benaderwijze (een hoofdconcept ontleden in samenstellende deelconcepten) is dat zowel de context als het nut is gewaarborgd. Immers, het plaatsen van een los legoblokje (lees concept) op de juiste plek, maakt de context visueel meteen duidelijk. Omdat de bouwer vrij zijn bouwsel bepaald afhankelijk van de eigen voorkeuren, is ook het nut van de concept meteen duidelijk voor de lerende (zie [[Leren/Leren_leren#Leernut|leernut]]).
+
+Een overzicht van de concepten die leiden tot een groter concept dat men nastreeft, helpt bij het maken van een leerdoel-hiërarchie; een ordening van leerdoelen die uiteindelijk leiden tot een overkoepelend leerdoel. Het helpt subleerdoelen specifiek maken en realistisch, twee aspecten van een SMART (specifiek, meetbaar, acceptabel, realistisch en tijdgebonden) leerdoel. En SMART leerdoelen zijn cruciaal om effectief dus doelgericht te kunnen zijn. En aangezien de kwaliteit van leren een integraal over de tijd is van het product van effectiviteit en efficiency, dus ook cruciaal voor een hoge [[Leren/Leren_leren#Kwaliteit|leerkwaliteit]].
+
+=== Minding ===
+[[File:Minding.webp|thumb|300px|Minding]]
+In deze game verken je je eigen brein door middel van archeologische technieken. Een archeoloog voert een opgraving uit op het brein, waarbij hij met een schep, kwast en vergrootglas neurale verbindingen onderzoekt en verborgen patronen onthult. Archeologie biedt een inspirerende metafoor voor het verkennen van je eigen brein en onbewustheid. Hier zijn enkele archeologische technieken en hoe ze kunnen worden toegepast op het leren kennen van jezelf:
+
+# '''Opgraving''': Graaf in je verleden en herinneringen om patronen en ervaringen te ontdekken die je huidige gedrag en gedachten beïnvloeden. Dit kan door middel van zelfreflectie, journaling of therapie.
+# '''Artefacten''': Onderzoek je gedrag, gewoonten en reacties als 'artefacten' van je psyche. Analyseer waarom je bepaalde keuzes maakt en welke onderliggende overtuigingen of gevoelens hieraan ten grondslag liggen.
+# '''Stratigrafie''': Beschouw de lagen van je ervaringen. Hoe hebben verschillende levensfasen en gebeurtenissen je gevormd? Herken de gelaagdheid in je persoonlijkheid en hoe eerdere ervaringen je huidige zelf beïnvloeden.
+# '''Typologie''': Categoriseer je gedachten, emoties en gedragingen. Welke patronen zie je? Wat zijn de herkomst en ontwikkeling van bepaalde gedachten en gewoonten in je leven?
+# '''Context''': Bestudeer je gedachten en gedragingen in de context van je omgeving en sociale relaties. Hoe beïnvloeden je omgeving en de mensen om je heen je zelfbeeld en gedrag?
+# '''Interpretatie''': Interpreteer je inzichten om een coherent verhaal over jezelf te vormen. Dit helpt bij het begrijpen van je identiteit en de weg die je hebt afgelegd.
+Door deze technieken toe te passen op je eigen bewustzijn, kun je een dieper inzicht krijgen in wie je bent, waarom je bent zoals je bent, en hoe je kunt groeien en veranderen. Net als archeologen bouw je langzaam een completer en genuanceerder beeld van jezelf op, wat essentieel is voor persoonlijke groei en zelfbegrip.
+
+=== Mindmapper ===
+[[File:Mindmapper.webp|thumb|300px|Game to build learning paths]]
+In de game stippelt de leerling bewust een weg uit om bepaalde leerdoelen te bereiken. Hierbij moeten ze verbindingen aanleggen, verbreden, versmallen of zelfs verwijderen tussen verschillende neuronen. Leerlingen ontdekken hoe leren werkt door het simuleren van hersenactiviteit. Ze moeten nieuwe paden creëren en bestaande paden aanpassen om specifieke leerdoelen te bereiken.
+
+* '''Nieuwe verbindingen aanleggen''': Net zoals de bouw van nieuwe wegen tussen neuronen in het brein, moeten leerlingen nieuwe paden creëren door obstakels te verwijderen en nieuwe routes te bouwen.
+* '''Bestaande verbindingen verbreden''': Net zoals in het plaatje waar een kind een bestaande tweebaansweg naar een vierbaansweg verbreedt, moeten leerlingen bestaande verbindingen versterken om efficiënter te leren.
+* '''Verbindingen versmallen of verwijderen''': Soms moeten leerlingen onnodige of verkeerde verbindingen verwijderen of versmallen om ruimte te maken voor betere leerpaden.
+
+Het spel stelt leerlingen in staat om verschillende leerpaden uit te stippelen, waarbij ze neuronen verbinden op een manier die hun leerdoelen ondersteunt. Ze leren strategieën om hun leerproces te optimaliseren door het juiste pad te kiezen. De interactieve aspecten van bouwen en aanpassen houden de interesse vast en bevorderen het begrip van complexe hersenprocessen. Deze game helpt leerlingen bewust te worden van hoe ze leren en geeft hen inzicht in de wetenschap achter het vormen en aanpassen van neurale verbindingen in hun hersenen.
+
+=== Mindsport ===
+Op het moment dat de [[Leren/Leren_leren#Leercontext|leercontext]] een sociale component heeft, spelen anderen een rol in iemands leren; de leeractoren. Het kan voor het leren leren handig zijn de invloeden, spelregels en de bewegingsruimte van deze leeractoren heel inzichtelijk te maken voor de lerende. Denk aan schaken waarin allerlei schaakstukken bepaalde invloeden op elkaar uitoefenen (aanvallen of verdedigen) en op bepaalde vakken (32 witte en 32 zwarte velden) van het schaakbord mogen bewegen (de pion, de koning, de dame, de loper, de toren en het paard hebben elk een andere vrijheid om zich te verplaatsen).
+
+In een game zou men een eigen soort schaakspel kunnen ontwerpen;  welke stukken (spelers) zijn er, welke ruimte mogen deze op de lappendeken (bordspel) innemen (spelregels) en wanneer is er sprake van winst (spelbegin en speleinde). Vanuit deze game opzet kan de lerende ook verkennen welke leerstrategieën tot de meeste winst leiden (hoogste leerkwaliteit) (strategy game).
+
+=== Minecraft ===
+Leerobjecten kunnen we opvatten als onderwijsblokken. De blokachtige benadering die we  kennen van Minecraft, kan dit modelleren. Deze blokken, ook wel voxels genoemd, kunnen net als leerobjecten worden geassembleerd tot een groter blok of worden afgeleid van een bestaand blok. Het spelen van Minecraft is populair en wordt door velen als heel lerend  beschouwd. Minecraft kan men uitbreiden met zogenaamde mods geschreven in Java. Daarnaast kan men een eigen server draaien waaraan gebruikers online kunnen participeren. Deze  functionaliteit maken het mogen om met een relatief kleine inspanning een Education Design-server in te richten. Via deze server bouwen gebruikers hun onderwijs. De server zorgt ervoor  dat de bouwwerken worden vertaal naar Learning Objects die bijvoorbeeld in een blockchain  kunnen worden gedeeld. Er zijn ook open source alternatieven voor Minecraft (Eduvoxel bijvoorbeeld) die men naar eigen inzicht kan aanpassen. Om een eigen Minecraft-server te realiseren, dienen de volgende zaken gebouwd te worden:
+* Eigen texture pack  
+* Eigen wereld  
+* Eigen mods  
+Voor het laatste is het nodig om Bukkit te gebruiken als gemodificeerde versie van de  Minecraft-software. 
+
+Met plug-ins is het al mogelijk om een handelssysteem in leerarchitecturen te introduceren, zoals het kopen van een eigen perceel waar men zijn eigen ontwerp kan bouwen. Of koop items van andere spelers die hun eigen winkel runnen. Er zijn verder tal van voorbeelden van het gebruik van Minecraft als een volledig rollenspel (RPG). Men kan in Minecraft een eigen thema, skin en avatar kiezen of zelfs ontwikkelen. Spelers kunnen communiceren via tekst in de console, en de meesten van hen spreken via Voice over IP (VoIP) door bijvoorbeeld Skype of Google Chat. In MineCraft kun je machines bouwen die automatische taken kunnen uitvoeren. 
+
+De gedachte om met blokken de onderwijsarchitectuur te visualiseren is geïnspireerd op de LEGO SERIOUS PLAY methode. De leerlingen bedenken eerst een idee en proberen dit (eventueel middels een metafoor) dit te  bouwen in MineCraft. Hun bouwwerk delen ze met andere spelers in de hoop te komen tot  verbindingen om zo een gezamenlijke wereld te bouwen. De leerlingen blikken terug op het  proces en proberen zo de belangrijkste leerdoelen te achterhalen en hoe ze dit kunnen  bewijzen in hun portfolio.
+
+In de game hebben de bouwers de beschikking over een inventory met daarin de  mogelijkheden om  
+* processen (redstone en command blokken)  
+* blokken  
+* tools  
+* potion  
+* spawners  
+in te zetten.  
+Hiermee kunnen de bouwers hun 
+* uiteindelijk doel van hun ondernemend project uitbeelden; het WAT, 
+* kiezen welke players deelnemen; het WIE en
+* de uitdaging om  dat te bereiken modelleren in een Quest; het HOE.  
+
+In Minecraft kun je met een speciaal blok (Craft blok) spullen maken door verschillende  onderdelen samen te smelten. Met een zogenaamde Texture pack kan qua uiterlijk het blok  worden omgezet in eentje waarin je de verschillende onderwijsfuncties in een leerobject  (leerblok) kunt samensmelten. Een bepaald leerblok kan dan uit een of meerdere  onderwijsfuncties zijn samengesteld. Een blok of groep van blokken wordt een volwaardig  leerobject als alle onderwijsfuncties samen aanwezig zijn. In Minecraft kun je dieren, mensen, wezens en planten spawnen en kun je acties laten  uitvoeren en zelfs daarbij laten veranderen. Dit kan analogie zijn voor hoe je met anderen  zaken kunt laten groeien en veranderen. Op een Minecraft-server kun je bankieren als plug-in installeren. Je komt dan bijvoorbeeld binnen met een banksaldo van 20.000 euro. Dan kun je daar werk zoeken of een winkel op te zetten om meer geld te verdienen om een plot (stuk land) te kopen of een lening af te betalen. Deze  online role-playing kun je zien als serious gaming als voorbereiding op de echte wereld. Deze  rollen kunnen echte spelers zijn of virtuele spelers (computer). Op de server kunnen de spelers  ook onderhandelen om plots van elkaar te kopen. Op een plot kun je bouwen met een bouwteam (goede bouwers) en hier moet je een bouwvergunning aanvragen en een bedrijfsvergunning  (inschrijving KvK) als je een shop start. Politie en CIA als rolplating is ook aanwezig om te  zorgen voor eerlijk handelen.
+
+{{Opmaak
+ | Voettekst
+ | website ; Maze leergame ; https://github.com/HeDude/Lega/tree/main/Maze ; Github HeDude ; Prototype van de Maze leergame ontwikkeld door studenten van het [https://nl.wikipedia.org/wiki/Alfa-college <span style="color:white">Alfa-college</span>]
+}}

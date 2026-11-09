@@ -3,13 +3,13 @@
 Nu we alle onderdelen van de [[Module:Layout]] hebben verkend, kunnen we de balans opmaken.
 Waarom is dit systeem zo opgezet en wat zijn de voordelen?
 
-== Waarom simpele MVC niet genoeg is ==
+== Waarom? ==
 De standaard '''Model-View-Controller''' (MVC) architectuur is een geweldig begin, maar in een complexe omgeving als een wiki lopen we tegen grenzen aan:
 * **Veiligheid**: Hoe voorkomen we dat een gebruiker het hele systeem laat crashen met een verkeerde parameter?
 * **Onderhoud**: Hoe kunnen we nieuwe functies ontwikkelen zonder de huidige gebruikers te storen?
 * **Herbruikbaarheid**: Hoe voorkomen we dat we dezelfde code voor kleuren of tekst telkens opnieuw schrijven?
 
-== Het "Totaal-Systeem" ==
+== Totaal-Systeem ==
 De Layout-module lost dit op door MVC uit te breiden met extra lagen:
 
 * '''Interface + Security''': Zorgen voor een veilige buffer tussen de gebruiker en de logica.

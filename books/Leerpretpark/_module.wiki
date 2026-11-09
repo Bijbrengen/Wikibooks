@@ -1,0 +1,11 @@
+{{Opmaak
+| Object = Reeks
+| Bron = Overzicht wandelpad door het park - Emmen - 20530146 - RCE.jpg
+| Definitie = Een Leerpretpark is een leeromgeving die de invulling van speels- en zelf leren mogelijk maakt. De omgeving biedt een thuis aan verschillende leerattracties, die zich continue ontwikkelen en aanpassen op basis van de voorkeuren en wensen van de bezoeker. | Beschrijving = In een Leerpretpark worden innovatieve en effectieve best practices van leren toegankelijk én aantrekkelijk voor iedereen. In een Leerpretpark worden deze best practices aangeboden als [[Leerattractie|leerpretattracties]] in een uitnodigende en speelse leeromgeving. Zo krijgen bezoekers – jong en oud – de kans om inspirerende leerervaringen zelf te beleven, te ontdekken wat hen motiveert en daadwerkelijk te ervaren hoe goed onderwijs voelt. De leerpretattracties worden  door deelnemende organisaties zelf ontwikkeld en onderhouden, waarbij ze vaak door een [[Onderwijsarchitect|onderwijs- of leerarchitect]] worden ondersteund. De methodiek is [[speels leren]] wat mede [[zelf leren]] of [[vrij leren]] impliceert.
+| Formaat = html
+| Voortgang = 5
+| Support = Signaleer
+| Referentie = 
+| Collectie = Onderwijs en opleiding
+| Onderdeel = Speels leren, Leerpret, Leerbroedplaats, Leerattractie, Onderwijsarchitect
+}}

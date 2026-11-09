@@ -1,0 +1,74 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Vrij%20leren",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Vrij leren",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 5,
+  "pages": [
+    {
+      "title": "Vrij leren",
+      "file": "_module.wiki",
+      "pageid": 39930,
+      "contentmodel": "wikitext",
+      "revid": 424698,
+      "parentid": 424062,
+      "timestamp": "2026-04-27T13:17:44Z",
+      "user": "BeeBringer",
+      "comment": "",
+      "sha1": "88d4d4fcd661ba7f4c9e569e91112391db73cd27",
+      "bytes": 1058
+    },
+    {
+      "title": "Vrij leren/Inleiding",
+      "file": "Inleiding.wiki",
+      "pageid": 40330,
+      "contentmodel": "wikitext",
+      "revid": 424610,
+      "parentid": 407465,
+      "timestamp": "2026-04-26T18:12:21Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "fc2184fbbba9365c51bfc05573f16cad9dfb4da8",
+      "bytes": 16764
+    },
+    {
+      "title": "Vrij leren/Vrijbuiter",
+      "file": "Vrijbuiter.wiki",
+      "pageid": 39932,
+      "contentmodel": "wikitext",
+      "revid": 424611,
+      "parentid": 407470,
+      "timestamp": "2026-04-26T18:12:27Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "0f9c684516da64eca062e434029a00fd0898f0f1",
+      "bytes": 4295
+    },
+    {
+      "title": "Vrij leren/Vrijheid",
+      "file": "Vrijheid.wiki",
+      "pageid": 39931,
+      "contentmodel": "wikitext",
+      "revid": 424612,
+      "parentid": 419810,
+      "timestamp": "2026-04-26T18:12:32Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "7aecb75b18cb2f150cd157a93c6db643a783684a",
+      "bytes": 5758
+    },
+    {
+      "title": "Vrij leren/Vrijkomen",
+      "file": "Vrijkomen.wiki",
+      "pageid": 39933,
+      "contentmodel": "wikitext",
+      "revid": 424613,
+      "parentid": 419811,
+      "timestamp": "2026-04-26T18:12:38Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "a8973dc94f9ed3fb94d4e912bf61adbd1f433b16",
+      "bytes": 6628
+    }
+  ]
+}

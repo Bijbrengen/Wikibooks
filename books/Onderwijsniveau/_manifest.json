@@ -1,0 +1,74 @@
+{
+  "source": "https://nl.wikibooks.org/wiki/Onderwijsniveau",
+  "api": "https://nl.wikibooks.org/w/api.php",
+  "title": "Onderwijsniveau",
+  "fetched_at_utc": "2026-11-09T18:38:16.483522+00:00",
+  "page_count": 5,
+  "pages": [
+    {
+      "title": "Onderwijsniveau",
+      "file": "_module.wiki",
+      "pageid": 40316,
+      "contentmodel": "wikitext",
+      "revid": 424685,
+      "parentid": 424118,
+      "timestamp": "2026-04-27T13:12:34Z",
+      "user": "BeeBringer",
+      "comment": "",
+      "sha1": "57901b265771b5fcc0a08445fd95c35fab9bd82a",
+      "bytes": 905
+    },
+    {
+      "title": "Onderwijsniveau/Basisonderwijs",
+      "file": "Basisonderwijs.wiki",
+      "pageid": 43371,
+      "contentmodel": "wikitext",
+      "revid": 424518,
+      "parentid": 421651,
+      "timestamp": "2026-04-26T18:03:16Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "b95583bfe4e65d647cdd6e3cbd20652be7d1bb28",
+      "bytes": 6077
+    },
+    {
+      "title": "Onderwijsniveau/Beroepsonderwijs",
+      "file": "Beroepsonderwijs.wiki",
+      "pageid": 43373,
+      "contentmodel": "wikitext",
+      "revid": 424519,
+      "parentid": 421652,
+      "timestamp": "2026-04-26T18:03:22Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "08d6fd4ef184ce1ec4e8bc334180e070cef2d957",
+      "bytes": 2533
+    },
+    {
+      "title": "Onderwijsniveau/Universitair onderwijs",
+      "file": "Universitair onderwijs.wiki",
+      "pageid": 43374,
+      "contentmodel": "wikitext",
+      "revid": 424520,
+      "parentid": 421653,
+      "timestamp": "2026-04-26T18:03:27Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "32df04863f973fb5f89c6835e685c3368ff256bb",
+      "bytes": 2046
+    },
+    {
+      "title": "Onderwijsniveau/Voortgezet onderwijs",
+      "file": "Voortgezet onderwijs.wiki",
+      "pageid": 43372,
+      "contentmodel": "wikitext",
+      "revid": 424521,
+      "parentid": 421654,
+      "timestamp": "2026-04-26T18:03:33Z",
+      "user": "BeeBringer",
+      "comment": "Bot: Modernisering van voettekst en opschoning (Opmaak | Voettekst)",
+      "sha1": "918211adb5e3a56f642dd90e811729e442dbeb5e",
+      "bytes": 3847
+    }
+  ]
+}

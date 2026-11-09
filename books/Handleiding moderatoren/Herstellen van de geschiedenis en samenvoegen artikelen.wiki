@@ -1,0 +1,42 @@
+{{Index Handleiding moderatoren}}
+'''Vermeld samen te voegen artikelen op [[Project:Samenvoegen]]'''
+
+'''Samenvoegen van artikelen''' kan gedaan worden wanneer twee bestaande artikelen elkaar in inhoud overlappen. Het is een handmatig (niet geautomatiseerd) proces waarbij twee bestaande overeenkomstige artikelen worden samengevoegd tot één artikel.
+
+===Samenvoegen voorgeschiedenis===
+Het is mogelijk de voorgeschiedenis samen te voegen van pagina's. Bijvoorbeeld: de tekst van Artikel A is verplaatst naar Artikel Apennootje, zonder de titel te veranderen. Dat is wat veel onervaren gebruikers doen bij het maken van een redirect. Van Artikel A wordt dan handmatig een redirect gemaakt. Hierdoor blijft een deel van de voorgeschiedenis van Artikel Apennootje staan bij de redirect. Als er vervolgens nog is gewerkt aan Artikel Apennootje (en dat dus niet zonder meer verwijderd kan worden t.b.v. titelwijziging), dan kunnen de voorgeschiedenissen van beide artikelen toch nog als volgt worden samengevoegd:
+#Verwijder Artikel Apennootje
+#Hernoem Artikel A (wijzig titel)
+#Plaats alle eerdere versies van Artikel Apennootje terug (dus geen enkel vakje aanvinken)
+#(Kijk eventueel welke de laatste versie was en sla die op)
+
+===Duplicaten opmerken===
+Zie je een artikel dat zou moeten worden samengevoegd met een ander artikel, dan kun je de wikipediagemeenschap op de volgende manier daarop wijzen: 
+
+Als eerste: Plaats op beide artikelen een sjabloon dat aangeeft dat de artikelen moeten worden samengevoegd. Door plaatsing van het sjabloon wordt het artikel automatisch in de categorie Wikipedia:Samenvoegen geplaatst. Als je een mening hebt over welk artikel de juiste titel heeft, kan je deze sjablonen gebruiken:
+* in het artikel met de verkeerde titel: <nowiki>{{</nowiki>svvan|''naam van het andere artikel''<nowiki>}}</nowiki>.
+* in het artikel met de juiste titel: <nowiki>{{</nowiki>svnaar|''naam van het andere artikel''<nowiki>}}</nowiki>.
+
+Als je niet kunt kiezen, of de keuze aan een ander wilt overlaten, kan je in beide artikelen dit sjabloon gebruiken:
+* <nowiki>{{</nowiki>sv|''naam van het andere artikel''<nowiki>}}</nowiki>.
+
+Vermeld de beide artikelen ook even op [[Wikipedia:Samenvoegen]], voor het overzicht hoe lang het verzoek er al staat, en om eventueel je opmerkingen toe te voegen. Ook wanneer je twijfelt of pagina's wel of niet moeten worden samengevoegd, kan dat daar besproken worden. 
+
+===Zelf samenvoegen===
+Zélf twee artikelen samenvoegen verdient echter de voorkeur, dus heb je de tijd en de kennis in huis, ga dan vooral je gang. Het samenvoegen doe je als volgt: 
+* Knip de tekst handmatig uit een van beide artikelen naar het andere artikel waarvan de titel het onderwerp het beste dekt. Vermeld in de samenvatting duidelijk waar de nieuwe tekst vandaan komt, om geen [[auteursrechten]] van eerdere schrijvers te schenden
+* Integreer beide teksten zodat een logisch en lopend verhaal ontstaat
+* Maak een [[help:Redirect|redirect]]pagina van het eerste, nu lege artikel, zodat deze voortaan doorverwijst naar het tweede artikel waarin alle tekst terecht is gekomen. Wie op de titel van de nu lege pagina terechtkomt, wordt dan automatisch doorgestuurd naar de nieuwe plek waar het artikel staat. 
+* Controleer met "links naar deze pagina" of er geen [[Help:Dubbele redirects|dubbele redirects]] zijn ontstaan
+
+
+*Het is ook mogelijk dat de voor samenvoeging voorgedragen artikelen over verschillende zaken gaan, wat niet voor iedereen duidelijk is. In dat geval dienen de artikelen zodanig te worden herschreven dat de kans op verwarring kleiner wordt.
+
+===Samenvoegen van categorieën===
+Als je twee [[Help:Gebruik van categorieën|categorieën]] tegenkomt die over hetzelfde gaan, kan je dit meestal het beste via de [[WP:VC|categorieverwijderlijst]] regelen.
+
+==Betrokken sjablonen==
+*{{Tl|sv}}
+*{{Tl|svvan}}
+*{{Tl|svnaar}}
+{{Sub}}

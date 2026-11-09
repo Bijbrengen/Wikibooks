@@ -2,13 +2,12 @@
 | Titel = Onderwijstechnoloog
 | Object = Boek
 | Bron = Educationtechnology.png
-| Definitie = Een [[w:nl:Onderwijstechnoloog|onderwijstechnoloog]] is een onderwijsexpert met als specialisatie de inzet van technologische leermiddelen en ICT.
-| Beschrijving = '''Onderwijstechnologie''' is een discipline die de mogelijkheid van de inzet technologie in het ondersteunen van het [[leren]] onderzoekt.<br>Een onderwijstechnoloog beheerst naast deze onderzoeksvaardigheden ook de technieken die voor het realiseren noodzakelijk zijn.<br>Een onderwijstechnoloog is in ieder geval een onderwijs(des)kundige, maar bij voorkeur ook een [[onderwijsarchitect]].<br>Als zij of hij daarnaast ook nog onderwijstechnologische producten succesvol op de markt weet te brengen, dan is de onderwijstechnoloog ook een [[Onderwijsprofessional/Onderwijsentrepreneur|onderwijsentrepreneur]].
+| Definitie = Een [[w:nl:Onderwijstechnoloog|onderwijstechnoloog]] is de architect en beheerder van een [[Onderwijsplatform|onderwijsplatform]], gespecialiseerd in de technische implementatie van een [[Leertaal|leertaal]].
+| Beschrijving = Dit boek behandelt de rol van de onderwijstechnoloog bij het ontwerpen, bouwen en beheren van digitale leeromgevingen. De focus ligt op het creëren van een robuuste infrastructuur voor [[Leertaal/Vrijheid|vrij leren]], waarbij gebruik wordt gemaakt van de [[Leertaal/Leerbox|leerbox]] als centraal formaat. Een onderwijstechnoloog slaat de brug tussen pedagogische behoeften (het 'wat') en technologische realisatie (het 'hoe').
 | Formaat = html
-| Voortgang = 75
+| Voortgang = 100
 | Support = Signaleer
 | Referentie = wikipedia
-| Collectie = Onderwijs
-| Onderdeel = Inleiding, Profiel, Theorie, Omgeving, Praktijk, Hosting, Onderwijs, Ontwerp, Opleiding, Ontwikkelaar, Auteursrecht, Toegankelijkheid, Toetsing, Leermiddelen
+| Collectie = Onderwijsplatform
+| Onderdeel = Inleiding, Profiel, Ontwikkelaar, Opleiding, Platform, Onderwijs, Leertaal, Leerbox, Leermiddelen, Toegankelijkheid, Hosting, Ontwerp, Theorie, Praktijk, Toetsing, Auteursrecht
 }}
-{{Fase|3}}

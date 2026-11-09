@@ -1,0 +1,24 @@
+{{Opmaak}}
+Een leertaal kan worden gebruikt om bestaande beschrijvingen van leren explicieter te maken. Conversie houdt in dat een tekst, ontwerp of gegevensstructuur wordt omgezet naar een afgesproken taalvorm. Het doel is behoud van betekenis, niet alleen een technisch geldige uitkomst.
+
+== Van beschrijving naar leeruitspraken ==
+Een mogelijke werkwijze is:
+# Verzamel de concrete handelingen, objecten en omstandigheden.
+# Beschrijf de betrokken [[Leertaal/Typen#Leeractor|actorprofielen]].
+# Verbind handelingen met [[Leertaal/Leren#Leeractie|leeracties]], eventueel als gewogen combinatie.
+# Formuleer de [[Leertaal/Definitie#Leeruitspraak|leeruitspraken]].
+# Onderscheid [[Leertaal/Toepassing#Leerproces|uitvoering, actuele bekwaamheid en doel]].
+# Noteer de aannamen en ontbrekende onderbouwing.
+
+== Ondersteuning door een taalmodel ==
+Een taalmodel kan een eerste omzetting maken. Een [[Leertaal/Interpreter|interpreter]] kan vervolgens ongeldige taalvormen, namen of expliciete tegenstrijdigheden terugmelden. De omzetting kan iteratief worden verbeterd. Een geldige uitkomst bewijst niet dat het taalmodel de bron correct heeft geïnterpreteerd; menselijke controle blijft een afzonderlijke stap.
+
+Een feedbacklus tijdens een gesprek is bovendien niet automatisch training van het model. Voor blijvende aanpassing zijn een afzonderlijke leerprocedure en beoordeelde gegevens nodig. Zie [[Leertaal/Leren|taalmodellen en leren]].
+
+== Naar andere formaten ==
+Een toepassing kan beschrijvingen omzetten naar bouwstenen voor [[Learngames|leergames]], een cursusomgeving, een API-antwoord of registratie in xAPI, cmi5 en SCORM. De mogelijkheden hangen af van het doelplatform. De leertaal beschrijft het leren; de toepassing moet de daadwerkelijke werking realiseren.
+
+== Behoud van vrijheid ==
+Bij conversie moet zichtbaar blijven of iets een mogelijkheid, verwachting of verplichting is. Een vrijwillige route mag niet ongemerkt een verplichte reeks schermen worden. Een gewenste bekwaamheid mag niet als reeds aangetoond resultaat worden opgeslagen. Conversie vraagt daarom [[Leertaal/Testen|betekeniscontroles]] naast formaatcontroles.
+
+{{Opmaak | Voettekst}}

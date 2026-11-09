@@ -1,0 +1,10 @@
+{{Opmaak | Boek
+| Bron = Schaken.svg
+| Definitie = (Westers) {{Wp|Schaken|schaken}} is een strategisch spel voor twee spelers dat wordt gespeeld op een tevoren gemarkeerd oppervlak.
+| Beschrijving = In dit boek worden interessante schaakmeesters en hun vernieuwende strategieën uitgediept.<br>In plaats van zelf alles uit te zoeken, laat je door hun fouten en ervaringen leiden!<br>'''Verplaats je in een meester en [[leren|leer]] door te {{Wp|Modelleren|modelleren}}.'''
+| Collectie = Schaken
+| Voortgang = 100
+| Onderdeel = Barnes, Basman, Bird, Breyer, Duras, From, Fuller, Grau, Grob, Lisitsyn, Mason, McDonnell, Myers, Nimzowitsch, Petrov, Schlechter, Sokolsky, Staunton, Stein, Tartakower, Wagner, Zukertort
+}}
+
+[[Categorie:Schaken]]

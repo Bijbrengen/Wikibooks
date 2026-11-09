@@ -1,0 +1,578 @@
+{{Opmaak}}
+== Positie ==
+=== Ruil ===
+Een ruil betekent dat wanneer je een stuk slaat, je zelf het slaande stuk verliest. Dat kan gunstig zijn als het geruilde stuk meer waarde heeft of je eigen positie door de ruil verbeterd. Je kunt met een ruil bijvoorbeeld een remise afdwingen terwijl je op verlies staat. Of je kunt een aanval van een tegenstander met een ruil afslaan of je eigen aanval kracht bij zetten door een verdedigende stuk van de tegenstander weg te nemen. Andere positionele voordelen die een ruil opleveren zijn meer ruimte om te bewegen of het versterken van de eigen pionnenstructuur of het juist verzwakken van die van de tegenstander. 
+
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |kd|  |  |  |  |
+6 |  |  |  |  |bd|  |  |  |
+5 |  |  |  |  |  |  |  |pd|
+4 |  |  |  |  |  |  |pd|  |
+3 |  |  |  |kl|  |  |  |pl|
+2 |  |  |rl|  |  |  |pl|  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Zwart aan zet }}
+Hoe kan zwart een ruil afdwingen die hem een stuk met meer waarde oplevert?
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |kd|  |  |  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |bd|  |pd|
+4 |  |  |  |  |  |  |pd|  |
+3 |  |  |  |kl|  |  |  |pl|
+2 |  |  |rl|  |  |  |pl|  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Door de schaak moet de koning aan de kant en kan de toren worden geruild voor de loper}}
+}}
+<br><br>
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |kd|  |  |  |  |
+6 |  |  |  |bd|rd|  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |kl|rl|  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Wit aan zet}}
+Hoe kan wit op achterstand toch een remise afdwingen ?
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |bd|kd|  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |kl|  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Ruil de torens!}}
+# Re3xe6 Kd7xe6
+Door de ruil van de torens heeft zwart geen mogelijkheid meer met alleen de loper over om de witte koning schaakmat te zetten.
+}}
+
+=== Offer ===
+Bij een {{Wp|Offer_(schaken)|offer}} ruil je niet een stuk in voor een ander stuk, maar voor een ander voordeel. Een voorbeeld hiervan is de verderop besproken [[Schaken_voor_beginners/Opzet#Gambiet|gambiet]].
+
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |kd|  |  |
+7 |pd|pd|pd|  |  |pd|pd|pd|
+6 |  |qd|  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |nd|
+2 |pl|pl|pl|  |  |  |pl|pl|
+1 |rl|  |  |  |  |rl|  |kl|
+   a  b  c  d  e  f  g  h
+|Zwart aan zet}}
+Hoe kan zwart door een offer de partij winnen?
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |kd|  |  |
+7 |pd|pd|pd|  |  |pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |nd|
+2 |pl|pl|pl|  |  |  |pl|pl|
+1 |rl|  |  |  |  |rl|qd|kl|
+   a  b  c  d  e  f  g  h
+|Zwart offert de dame}}
+# ... Qg1+ (wit heeft geen keuze)
+# Rxg1 Nf2#
+De toren beperkt de bewegingsruimte van de witte koning en zo krijg je een {{Wp|Stikmat|stikmat}} door het zwarte paard.
+}}
+
+=== Batterij ===
+Als meerdere stukken van dezelfde speler elkaar versterken in het beheersen van een lijn, rij of diagonaal dan vormen ze een {{Wp|Batterij_(schaken)|batterij}}.
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |rd|  |  |  |kd|  |  |
+7 |pd|  |rd|qd|nd|  |pd|  |
+6 |pl|pd|nd|  |pd|  |  |pd|
+5 |  |bl|  |pd|pl|pd|  |  |
+4 |  |pl|  |pl|  |pl|  |  |
+3 |  |  |rl|  |ql|nl|  |  |
+2 |  |  |rl|  |  |  |pl|pl|
+1 |  |  |  |  |  |  |kl|  |
+   a  b  c  d  e  f  g  h
+|Alekhine vs. Nimzowitsch, 1930}}
+Hoe kan wit in de volgende zet een ultieme batterij creëren?
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |rd|  |  |  |kd|  |  |
+7 |pd|  |rd|qd|nd|  |pd|  |
+6 |pl|pd|nd|  |pd|  |  |pd|
+5 |  |bl|  |pd|pl|pd|  |  |
+4 |  |pl|  |pl|  |pl|  |  |
+3 |  |  |rl|  |  |nl|  |  |
+2 |  |  |rl|  |  |  |pl|pl|
+1 |  |  |ql|  |  |  |kl|  |
+   a  b  c  d  e  f  g  h
+|Deze stelling staat bekend als {{Wp|en:Alekhine%27s_gun|Alekhine's gun}}}}
+}}
+
+=== Zwischenzug ===
+Een {{Wp|en:Zwischenzug|zwischenzug}} is een tussendoor zet of tussenzet die je logischerwijs niet verwacht, maar meer voordeel oplevert dan direct de meest logische zet te doen.
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |kd|  |
+7 |  |qd|  |  |  |pd|pd|  |
+6 |  |  |  |  |  |  |pd|  |
+5 |pd|  |  |  |  |  |  |  |
+4 |  |  |  |ql|  |  |  |rd|
+3 |  |  |  |  |  |  |rd|pl|
+2 |  |  |  |  |  |  |pl|  |
+1 |  |  |  |  |  |bl|kl|  |
+    a  b  c  d  e  f  g  h  
+|Wit aan zet}}
+Wat is de logische zet te doen? En wat is als tussenzet beter om eerst te doen?
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |ql|  |  |kd|  |
+7 |  |qd|  |  |  |pd|pd|  |
+6 |  |  |  |  |  |  |pd|  |
+5 |pd|  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |rd|
+3 |  |  |  |  |  |  |rd|pl|
+2 |  |  |  |  |  |  |pl|  |
+1 |  |  |  |  |  |bl|kl|  |
+   a  b  c  d  e  f  g  h  
+|Tussenschaak}}
+De eerste neiging zou zijn om met de dame de toren op h4 te pakken, maar de volgende combinatie (het geven van een tussenschaak) levert een toren extra op
+# Qd8+! Kh7
+# Qxh4+ Kg8
+# Qxg3
+}}
+
+=== Gambiet ===
+Een {{Wp|Gambiet|gambiet}} of gambit is iets waar beginners extra waakzaam op dienen te zijn, omdat ze vaak verblind door het offer de tegenstander in staat stellen een ontwikkelingsvoorsprong te nemen.
+
+{{Schaak/Bord/Omgekeerd|=
+|left
+|
+|=
+1 |rl|  |bl|kl|ql|bl|nl|rl|=
+2 |pl|pl|pl|pl|  |pl|pl|pl|=
+3 |  |  |nl|  |  |  |  |  |=
+4 |  |  |  |  |  |  |  |  |=
+5 |  |  |  |  |  |bd|  |  |=
+6 |  |  |  |  |pl|  |  |  |=
+7 |pd|pd|pd|nd|  |pd|pd|pd|=
+8 |rd|  |  |kd|qd|bd|nd|rd|=
+   h  g  f  e  d  c  b  a
+|Felbecker Gambit Trap}}
+Deze opstelling ontstond na de volgende zetten:
+# d4 e5
+# dxe5 Bc5
+# Nf3 d6
+# exd6 Ne7
+Is het tweede offer een foutje van zwart?
+{{Schaak/Oplossing|{{Schaak/Bord/Omgekeerd|=
+|left
+|
+|=
+1 |rl|  |bl|  |qd|bl|nl|rl|=
+2 |pl|pl|kl|pl|  |pl|pl|pl|=
+3 |  |  |nl|  |  |  |  |  |=
+4 |  |  |  |  |  |  |  |  |=
+5 |  |  |  |  |  |  |  |  |=
+6 |  |  |  |  |  |  |  |  |=
+7 |pd|pd|pd|pl|  |pd|pd|pd|=
+8 |rd|  |  |kd|  |bd|nd|rd|=
+   h  g  f  e  d  c  b  a
+|Als wit het offer neemt verliest ze haar koningin}}
+# dxe7 Bf2!
+# Kxf2 Dxd1
+}}
+
+=== Pionnenstructuur ===
+Een belangrijke tactische overweging bij het schaken is de positie van de pionnen. Men kan de volgende zaken in ogenschouw nemen daarbij:
+* '''{{Wp|Centrum (schaken)|Open centrum}}''': Dit is het geval als er geen centrale pionnen (op de d- en e-lijn) zijn. Als het centrum open is, dus er meer ruimte in het centrum is, dan is er over het algemeen meer bewegingsvrijheid van de schaakstukken. Wat is het voordeel van een open spel?
+{{Schaak/Oplossing|'''Een open centrum heeft een positioneel voordeel is als de bewegingsvrijheid vooral je eigen schaakstukken betreft en/of je meer thuis voelt bij een actief spel.'''}}
+* '''{{Wp|Centrum (schaken)|Gesloten centrum}}''': Het omgekeerde van het open centrum, het centrum is door pionnen bezet. Wat is het voordeel van een gesloten centrum?
+{{Schaak/Oplossing|'''Een gesloten centrum heeft een positioneel voordeel als hierdoor vooral de bewegingsvrijheid van je tegenstander wordt beperkt en/of je meer thuis voelt bij een positioneel en verdedigend spel.'''}}
+* '''{{Wp|Open_lijn|Open lijn}}''': Dit is het geval als er op een lijn geen enkele pionnen staan. Wat is het voordeel van een open lijn?
+{{Schaak/Oplossing|'''Een open lijn heeft een positioneel voordeel voor met name torens die zich daar langs onbeperkt kunnen bewegen als sterk stuk.'''}}
+* '''{{Wp|Fianchetto|Open diagonaal}}''': Dit is het geval als er op een diagonaal geen enkele pionnen staan. Wat is het voordeel van een open diagonaal?
+{{Schaak/Oplossing|'''Een open diagonaal heeft een positioneel voordeel voor met name lopers die zich daar langs onbeperkt kunnen bewegen.'''}}
+* '''{{Wp|Outpost_(chess)|Voorpost}}''': Een veld van de tegenstander die niet kan worden aangevallen (meer) door diens pionnen (dus achter diens pionnen ligt). Welk stuk kan een voorpost eenvoudig benutten?
+{{Schaak/Oplossing|'''Een paard kan ongehinderd over de pionnen van de tegenstander heen springen om erachter te komen en zo een voorpost bereiken.'''}}
+* '''{{Wp|Pionnenketen|Pionnenketen}}''': Een pionnenketen is een reeks pionnen die zo zijn verbonden dat een pion uit die keten wordt beschermd door een pion erachter, uitgezonderd de achterste. Een pionnenstructuur wordt gezien als een sterke positie voor een pion mits deze niet de achterste is. Wanneer kan een pion niet meer onderdeel zijn van een keten?
+{{Schaak/Oplossing|'''Een geïsoleerde pion is een pion die geen pionnen van zijn eigen kleur op aangrenzende lijnen heeft.'''}}
+
+== Aanval ==
+=== Pin ===
+We spreken van een pin (penning in het Nederlands) als een stuk niet kan bewegen zonder een belangrijker stuk bloot te stellen aan een aanval. Als dit belangrijker stuk de koning is spreken we van een absolute pin, omdat het stuk niet mag bewegen (je mag geen schaak op je eigen koning creëren).
+
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |kd|  |  |  |bd|  |  |
+7 |  |  |  |  |  |  |  |  |
+6 |pd|  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |rl|  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |kl|  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Absolute pin}}
+Hoe kan zwart de toren winnen?
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |kd|  |  |  |  |  |  |
+7 |  |  |  |  |  |  |bd|  |
+6 |pd|  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |rl|  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |kl|  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|De toren kan niet bewegen en zelfs niet worden gedekt}}
+}}
+
+=== Aftrekaanval ===
+Een {{Wp|Aftrekaanval|aftrekaanval}} of '''discovered attack''' kan een winnende positie alsnog keren.
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |kl|  |  |  |  |
+7 |  |  |  |  |  |bl|kd|  |
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |rl|  |  |  |  |  |
+3 |pd|  |  |  |  |  |  |  |
+2 |  |pd|  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Springaren - S. Belokon - 1965 - Wit wint}}
+
+Hoe keert wit de partij?
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |kl|  |  |kd|  |
+7 |  |  |  |  |  |  |  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |pd|  |  |  |  |  |  |  |
+2 |rl|  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Wit hoeft alleen een aftrekaanval op te zetten en zwart verliest uiteindelijk}}
+# Rc7 b1&equals;Q
+# Ba2+ Kf8 
+# Rf7+ Kg8
+# Rf2+ Qxa2
+# Rxa2
+}}
+
+=== Vork ===
+Een {{Wp|Vork|vork}} is een aanval van één eigen stuk op meerdere stukken van de tegenstander tegelijk. Indien deze stukken niet beide gedekt zijn of van grotere waarde dan het aanvallende stuk, dan kan de vork leiden tot een voordeel. 
+
+{{Schaak/Bord2
+|left
+|
+|
+8 |rd|  |bd|qd|kd|bd|  |rd|
+7 |pd|pd|pd|pd|  |  |pd|  |
+6 |  |  |nd|  |  |nd|  |pd|
+5 |  |  |  |  |pd|  |nl|  |
+4 |  |  |bl|  |pl|  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|pl|  |pl|pl|pl|
+1 |rl|bl|nl|ql|kl|  |  |rl|
+   a  b  c  d  e  f  g  h
+|Hoe kan wit aan zet een voordeel halen?}}
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |rd|  |bd|qd|kd|bd|  |rd|
+7 |pd|pd|pd|pd|  |nl|pd|  |
+6 |  |  |nd|  |  |nd|  |pd|
+5 |  |  |  |  |pd|  |  |  |
+4 |  |  |bl|  |pl|  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|pl|  |pl|pl|pl|
+1 |rl|bl|nl|ql|kl|  |  |rl|
+   a  b  c  d  e  f  g  h
+| Wit ruilt minimaal een toren voor een paard door deze paardvork.}}
+}}
+{{Schaak/Bord2
+|left
+|
+|
+8 |rd|nd|bd|qd|rd|  |  |kd|
+7 |pd|pd|pd|pd|  |  |pd|pd|
+6 |  |  |  |  |  |nd|  |  |
+5 |  |  |bd|  |pd|  |nl|  |
+4 |  |  |  |  |pl|  |  |  |
+3 |  |  |nl|  |  |  |pl|  |
+2 |pl|pl|pl|pl|  |pl|bl|pl|
+1 |rl|  |bl|ql|kl|  |  |rl|
+   a  b  c  d  e  f  g  h
+|Hoe kan wit aan zet een voordeel halen?}}
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |rd|nd|bd|qd|rd|  |  |kd|
+7 |pd|pd|pd|pd|  |nl|pd|pd|
+6 |  |  |  |  |  |nd|  |  |
+5 |  |  |bd|  |pd|  |  |  |
+4 |  |  |  |  |pl|  |  |  |
+3 |  |  |nl|  |  |  |pl|  |
+2 |pl|pl|pl|pl|  |pl|bl|pl|
+1 |rl|  |bl|ql|kl|  |  |rl|
+   a  b  c  d  e  f  g  h
+| Deze vork noemt men een {{Wp|Familieschaak|familieschaak}} en verovert de zwarte koningin}}
+}}
+
+=== Mat achter de paaltjes ===
+{{Wp|Mat_achter_de_paaltjes|Mat achter de paaltjes}} of de '''back-rank checkmate''' is een valkuil waar beginners vaak intrappen. Let op, dit principe van een schaakmat kan ook verticaal ontstaan.
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |  |  |  |qd|  |
+6 |  |  |  |  |  |  |pd|kd|
+5 |  |  |  |  |  |  |pd|  |
+4 |  |  |  |rl|  |  |  |  |
+3 |  |  |bl|  |  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |kl|  |
+   a  b  c  d  e  f  g  h
+|Schakend Nederland - I. Krekheli - 1986 - Wit wint}}
+
+Hoe wint wit de Koningin of zet zwart schaakmat?
+ 
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |  |  |  |
+7 |  |  |  |  |  |  |qd|  |
+6 |  |  |  |  |  |  |pd|kd|
+5 |  |  |  |  |  |  |pd|  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |rl|
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |kl|  |
+   a  b  c  d  e  f  g  h
+|Door de batterij van loper en toren dwingen ze door een aanval op de Koningin deze uiteindelijk de loper op g7 te pakken of de Koningin gaat zelf verloren}}
+# Rd3 (we vallen en de Koningin aan en we dreigen op h3 met schaakmat
+#: ... Qa7+
+# Bd4 (we houden de dubbele dreiging aan)
+#: ... Qd7 (probeert het h3 veld te beschermen en de loper aan te vallen
+# Bg7+ (beste is voor zwart Kxg7 maar dan verliest ie wel de Koningin)
+#: ... Qx97
+# Rxd7+
+}}
+
+=== Röntgenaanval ===
+Het omgekeerde van een {{Wp|Penning|pin}} is de röntgenaanval. Terwijl bij een pin het stuk dat het aangevallen stuk afschermt belangrijker is, is dat in dit geval andersom. 
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |qd|  |  |  |  |
+7 |pd|pd|pd|kd|  |pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|  |  |pl|pl|pl|
+1 |rl|  |  |  |  |rl|kl|  |
+   a  b  c  d  e  f  g  h  
+|Röntgenaanval}}
+Hoe kan wit aan zet een groot voordeel behalen?
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |kd|qd|  |  |  |  |
+7 |pd|pd|pd|  |  |pd|pd|pd|
+6 |  |  |  |  |  |  |  |  |
+5 |  |  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |pl|pl|pl|  |  |pl|pl|pl|
+1 |  |  |  |rl|  |rl|kl|  |
+   h  g  f  e  d  c  b  a
+|De koning moet na de schaak opzij}}
+# Rh1e1 Kf8
+En toren kan met de koningin ruilen.
+}}
+<br>
+<br>
+{{Schaak/Bord2
+|left
+|
+|
+8 |rd|  |bd|  |  |rd|kd|  |
+7 |  |  |  |  |  |pd|pd|pd|
+6 |pd|  |pd|  |pd|  |  |  |
+5 |  |  |pd|qd|  |  |nl|  |
+4 |  |  |  |pl|pd|  |  |  |
+3 |ql|  |pl|  |pl|  |pl|  |
+2 |pl|pl|  |  |  |pl|pl|  |
+1 |rl|  |  |  |kl|  |  |rl|
+   a  b  c  d  e  f  g  h  
+|IMRosen - ruilopezgotdeported}}
+Het röntgen idee kan ook als verdediging worden gebruikt. Hoe doet wit dat in dit geval?
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |rd|  |bd|  |  |rd|kd|  |
+7 |  |  |  |  |  |pd|pd|pd|
+6 |pd|  |pd|  |pd|  |  |  |
+5 |  |  |ql|qd|  |  |nl|  |
+4 |  |  |  |pl|pd|  |  |  |
+3 |  |  |pl|  |pl|  |pl|  |
+2 |pl|pl|  |  |  |pl|pl|  |
+1 |rl|  |  |  |kl|  |  |rl|
+   a  b  c  d  e  f  g  h  
+|Röntgenverdediging}}
+De witte koningin beschermt het witte paard door de zwarte koningin heen (röntgen).
+}}
+
+=== Aftrekaanval ===
+Met een {{Wp|Aftrekaanval|aftrekaanval}} wordt de tactiek bedoeld om door een eigen stuk te verplaatsen, een stuk van de tegenstander ineens wordt aangevallen. Als dit stuk van de tegenstander een koning is dan spreekt men van aftrekschaak.
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |kd|  |nd|  |  |  |rd|
+7 |pd|pd|  |rd|  |  |pd|pd|
+6 |  |  |  |nl|pd|  |  |  |
+5 |  |  |  |bd|  |pd|  |  |
+4 |  |  |  |pl|  |bl|  |  |
+3 |  |  |  |  |  |  |pl|  |
+2 |pl|pl|  |  |  |pl|  |pl|
+1 |rl|  |  |  |  |rl|kl|  |
+   a  b  c  d  e  f  g  h  
+|Wit aan zet}}
+Hoe gebruikt wit schaak om de tegenstander een stuk te ontfutselen? 
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |kd|  |nd|  |  |  |rd|
+7 |pd|pd|  |rd|  |nl|pd|pd|
+6 |  |  |  |  |pd|  |  |  |
+5 |  |  |  |bd|  |pd|  |  |
+4 |  |  |  |pl|  |bl|  |  |
+3 |  |  |  |  |  |  |pl|  |
+2 |pl|pl|  |  |  |pl|  |pl|
+1 |rl|  |  |  |  |rl|kl|  |
+   a  b  c  d  e  f  g  h  
+|Aftrekschaak}}
+Als het paard beweegt, geeft de loper schaak. Dat moet eerst door zwart worden opgeheven, waardoor wit de tijd heeft de toren op h8 te veroveren.
+}}
+
+== Verdediging ==
+=== Patstelling ===
+Een manier als je zwak staat er toch nog een remise uit te halen is te zorgen dat je {{Wp|Patstelling|pat}} komt te staan bijvoorbeeld door je resterende stukken op te offeren.
+
+{{Schaak/Bord2
+|left
+|
+|
+8 |  |  |  |  |  |rl|bl|rl|
+7 |kd|  |  |  |  |pl|  |  |
+6 |  |  |pl|  |pl|  |  |  |
+5 |kl|  |  |  |  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |qd|  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Y. Afek - 2006 - Wit wint}}
+
+Hoe kan wit voorkomen dat zwart een pat afdwingt door zijn dame op te offeren? Hint: niet altijd hoeft een pion tot een dame te promoveren!
+
+{{Schaak/Oplossing|{{Schaak/Bord2
+|left
+|
+|
+8 |  |kd|  |  |  |  |  |  |
+7 |  |  |  |  |nl|  |  |  |
+6 |  |  |  |  |  |  |  |  |
+5 |kl|  |  |bl|  |  |  |  |
+4 |  |  |  |  |  |  |  |  |
+3 |  |  |  |  |  |  |  |  |
+2 |  |  |  |  |  |  |  |  |
+1 |  |  |  |  |  |  |  |  |
+   a  b  c  d  e  f  g  h
+|Wit moet oppassen niet de zwarte dame te grijpen als dat pat betekent}}
+# Rd8 (dit leidt tot pat hoe logisch ook)
+#: ... Qh5+ (als zwart de dame sluit is het meteen pat)
+# Kb4 Qb5+ (wederom biedt zwart de dame aan)
+# Kc3 Qc6+
+# Kd2 Qg2+
+# Kd3 Qf3+
+# Kd4 Qf4+
+# Kd5 Qg5+
+# Kc6 Qxd8 (remise)
+De goede oplossing is
+# Ra8+ Kxa8 (offer de toren om de zwarte koning uit de pat mogelijkheid te halen
+# f8&equals;Q+ Qxf8
+# e7 Qxe7
+# Bd5+ Ka7
+# Ra8+ Kxa8
+# c7+ Ka7
+# c8&equals;N+ (dus niet als dame promoveren om de andere dame te slaan)
+}}
+
+=== {{Wp|Dolle_toren|Dolle toren}} ===
+Als je er slecht voor staat kun je een remise afdwingen doordat een toren voortdurend schaak kan geven terwijl als hij wordt gesnapt het {{Wp|Patstelling|pat}} zou zijn.
+
+{{Opmaak | Voettekst}}

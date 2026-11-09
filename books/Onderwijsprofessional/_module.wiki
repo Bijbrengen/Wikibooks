@@ -11,4 +11,3 @@
 | Collectie = Onderwijs
 | Onderdeel = Algemeen, Waarde, Onderwijzer, Onderwijsmanager, Onderwijs&shy;entrepreneur, Intrapreneur, Onderwijs&shy;ontwikkelaar
 }}
-{{Fase|2}}
