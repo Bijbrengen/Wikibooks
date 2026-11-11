@@ -33,7 +33,7 @@ Een mogelijke opbouw bestaat uit vijf lagen:
 De beschrijvingen kunnen worden hergebruikt. Een naam verwijst naar een betekenis, niet noodzakelijk naar een werkelijk persoon of een gebeurtenis. De naamruimte en taalversie bepalen welke definitie wordt bedoeld.
 
 === Uitnodiging ===
-Binnen [[Vrij leren|vrij leren]] wordt aangenomen dat een rijke omgeving het leren kan uitlokken zonder een vaste route af te dwingen. Het ontwerp richt zich daarom op beschikbare objecten, ontmoetingen en keuzemogelijkheden. De lerende kan een uitnodiging aannemen, een andere aanpak kiezen of ervan afzien. Bij [[Zelf leren/Zelfregie|zelfregie]] hoort ook de mogelijkheid om vrijwillig ondersteuning of samenwerking te kiezen.
+Voor [[Vrij leren|vrij leren]] is een context nodig die de passie voor leren activeert en ruimte biedt voor vrij te kiezen, flexibele leerroutes. Het ontwerp richt zich daarom op beschikbare objecten, ontmoetingen en keuzemogelijkheden. De lerende kan een uitnodiging aannemen, een andere aanpak kiezen of ervan afzien. Bij [[Zelf leren/Zelfregie|zelfregie]] hoort ook de mogelijkheid om vrijwillig ondersteuning of samenwerking te kiezen.
 
 Een onderwerp wordt concreet in de combinatie van object en context. Een beschrijving van het leren drukken kan bijvoorbeeld verwijzen naar een drukpers, losse letters, bedieningsknoppen en een drukwerkplaats. De taal hoeft daarvoor geen volledige indeling van alle vakgebieden te bevatten.
 
